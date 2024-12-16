@@ -5,11 +5,11 @@ layout: home
 hero:
   name: 'EliteGamers Romania
   Hard Roleplay'
-  text:  'Official wikipedia'
+  text:  'Official wiki'
   tagline: Bine ai venit pe Wiki-ul official al server-ului EliteGamers RolePlay!
   actions:
     - theme: brand
-      text: 🖱 Explorează Wikipedia
+      text: 🖱 Explorează wiki
       link: zona-info/informatii
     - theme: alt
       text: ⚙️ FAQ
