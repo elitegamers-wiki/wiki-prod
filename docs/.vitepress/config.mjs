@@ -112,9 +112,10 @@ export default defineConfig({
           { text: 'Smurd', link: '/factiuni/smurd' },
         ],
       },
+
       {
-        text: '0.7.0',
-        items: [{ text: 'Updates', link: '/zona-info/updates' }],
+        text: 'Updates',
+        items: [{ text: 'Lista cu update-uri', link: '/zona-info/updates' }],
       },
     ],
 
@@ -147,23 +148,30 @@ export default defineConfig({
       {
         text: 'Job-uri',
         activeMatch: '^/joburi/',
-        collapsed: true,
         items: [
           { text: 'De unde poti incepe munca', link: '/joburi/joburi' },
-          { text: 'Pescar', link: '/joburi/pescar' },
-          { text: 'Tirist', link: '/joburi/tirist' },
-          { text: 'Ciupercar', link: '/joburi/ciupercar' },
-          { text: 'Taximetrist', link: '/joburi/taximetrist' },
-          { text: 'Sofer de autobuz', link: '/joburi/sofer-de-autobuz' },
-          { text: 'Miner', link: '/joburi/miner' },
-          { text: 'Livrator Pizza', link: '/joburi/pizza' },
-          { text: 'Mecanic', link: '/joburi/mecanic' },
+          {
+            text: 'List job-uri',
+            collapsed: false,
+            items: [
+              { text: 'Pescar', link: '/joburi/pescar' },
+              { text: 'Tirist', link: '/joburi/tirist' },
+              { text: 'Ciupercar', link: '/joburi/ciupercar' },
+              { text: 'Taximetrist', link: '/joburi/taximetrist' },
+              { text: 'Sofer de autobuz', link: '/joburi/sofer-de-autobuz' },
+              { text: 'Miner', link: '/joburi/miner' },
+              { text: 'Livrator Pizza', link: '/joburi/pizza' },
+              { text: 'Mecanic', link: '/joburi/mecanic' },
+            ],
+          },
         ],
       },
       {
         text: 'Economia Server-ului',
         activeMatch: '^/economia-serverului/',
-        items: [{ text: 'Business-uri', link: '/economia-serverului/business' }],
+        items: [
+          { text: 'Business-uri', link: '/economia-serverului/business' },
+        ],
       },
       {
         text: 'Proprietati',
