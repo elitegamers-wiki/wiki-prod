@@ -1,0 +1,46 @@
+name: Update production website
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+jobs:
+  update-wiki:
+    runs-on: ubuntu-latest
+    name: "Update wiki"
+    steps:
+      - name: Clone public pages
+        uses: actions/checkout@v3
+        with:
+          path: "pages"
+          clean: true
+          token: ${{ secrets.CI }}
+
+      - name: Clone wiki repository
+        uses: actions/checkout@v3
+        with:
+          repository: "elitegamers-wiki/wiki-prod"
+          ref: "main"
+          path: "prod"
+          clean: true
+          token: ${{ secrets.CI }}
+
+      - name: Update production pages
+        run: |
+          git config --global user.email "github@elitegamers.ro"
+          git config --global user.name "elitegamers-wiki"
+
+          for file in prod/docs/**/*.md; do
+            if [ "$(basename "$file")" != "index.md" ] && [ ! -f "pages/${file#prod/docs/}" ]; then
+              rm "$file"
+            fi
+          done
+
+          rsync -av --exclude=index.md pages/ prod/docs/
+
+          cd prod
+
+          git status
+          git add .
+          git commit -m "ci: ${{ github.event.head_commit.message }}"
+          git push || true
