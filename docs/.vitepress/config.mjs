@@ -151,7 +151,7 @@ export default defineConfig({
         items: [
           { text: 'De unde poti incepe munca', link: '/joburi/joburi' },
           {
-            text: 'List job-uri',
+            text: 'Lista job-uri',
             collapsed: false,
             items: [
               { text: 'Pescar', link: '/joburi/pescar' },
