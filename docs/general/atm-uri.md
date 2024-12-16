@@ -5,5 +5,4 @@ outline: deep
 
 
 # Utilizarea ATM-urilor
-Folosește ATM-urile pentru a retrage, depune sau verifica banii din contul bancar. ATM-urile sunt amplasate în locații accesibile în oraș, dar fii atent când retragi sume mari, deoarece riscul de a fi jefuit este mare! Gestionarea banilor tăi e crucială pentru a-ți finanța afacerile sau pentru a cumpăra proprietăți.
-
+Folosește ATM-urile pentru a retrage, depune sau verifica banii din contul bancar. ATM-urile sunt amplasate în locații accesibile în oraș, dar fii atent când retragi sume mari, deoarece riscul de a fi jefuit este mare!
