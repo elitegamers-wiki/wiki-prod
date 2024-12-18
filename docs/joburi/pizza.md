@@ -28,4 +28,3 @@ Livrator Pizza Avansat (Skill 2): Deblochezi acest nivel la atingerea de 25 de o
 - Ai voie să folosești doar vehiculele specifice jobului.
 - Plata se face pe fiecare cutie livrată.
 
-TEST 12 123 123131
