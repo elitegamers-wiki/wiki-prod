@@ -8,15 +8,15 @@ outline: deep
 
 ## CUPRINS COD PENAL
 
-CAP. 1 Legislația rutieră
-CAP. 2 Infracțiuni în trafic
-CAP. 3 Infracţiuni contra persoanelor
-CAP. 4 Infracţiuni contra proprietăţilor
-CAP. 5 Infracţiuni contra ordinii și liniştii publice
-CAP. 6 Infracţiuni contra sănătăţii şi siguranţei publice
-CAP. 7 Infracţiuni contra bunelor moravuri
-CAP. 8 Infracţiuni contra justiţiei
-CAP. 9 Regimul armelor și al munițiilor
+- CAP. 1 Legislația rutieră
+- CAP. 2 Infracțiuni în trafic
+- CAP. 3 Infracţiuni contra persoanelor
+- CAP. 4 Infracţiuni contra proprietăţilor
+- CAP. 5 Infracţiuni contra ordinii și liniştii publice
+- CAP. 6 Infracţiuni contra sănătăţii şi siguranţei publice
+- CAP. 7 Infracţiuni contra bunelor moravuri
+- CAP. 8 Infracţiuni contra justiţiei
+- CAP. 9 Regimul armelor și al munițiilor
 
 ## CAP. 1 Legislația rutieră
 
