@@ -21,6 +21,10 @@ Pentru a începe, trebuie să deții un permis de conducere, pe care îl poți o
 ![](https://i.imgur.com/wRBhKuV.png){.framed-photo}
 :::
 
+:::info
+- **Echipa noastră administrativă este alcătuită din oameni bine pregătiți pentru orice întrebare sau problemă puteți să aveți.**
+:::
+
 ## Informatii suplimentare:
  - Acest job se poate practica incepend de la 0 ore, special pentru jucatorii noi care doresc sa inceapa un job spre cladirea unei cariere in orasul Los Santos,
  - Vehiculul pe care il vei conduce este un: "BRUTE Bus", foarte bun cand vine vorba despre transportul cetatenilor oferind comfort si siguranta,
