@@ -338,7 +338,7 @@ Amendă (250 € – 2500 €) + Închisoare (10 min)
 ## Art. 8.5 Darea de mită
 
 - **(1) Promisiunea, oferirea de bani sau alte foloase în schimbul modificării ori influențării deciziei unui agent de poliție, procuror sau judecător.**
-Amendă (2500 € – 25 000 €) + Închisoare (120 min)
+Amendă (2500 € – 25 000 €) + Închisoare (60 min)
 
 ## Art. 8.6 Luarea de mită
 
