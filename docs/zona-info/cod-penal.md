@@ -201,7 +201,7 @@ Amendă (200 € – 2000 €) + Închisoare (15 min)
 ## Art. 4.2 Jaful
 
 - **(1) Act de prădare sau deposedare prin violență a unei persoane ori colectivități de bunurile ce îi aparțin.**
-Amendă (400 € – 4000 €) + Închisoare (45 min)
+Amendă (400 € – 4000 €) + Închisoare (30 min)
 
 ## Art. 4.3 Jaf Bancă / Magazin de bijuterii
 
