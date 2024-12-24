@@ -21,9 +21,17 @@ Pentru a începe, trebuie să deții un permis de conducere, pe care îl poți o
 ![](https://i.imgur.com/wRBhKuV.png){.framed-photo}
 :::
 
-:::info
-- **Echipa noastră administrativă este alcătuită din oameni bine pregătiți pentru orice întrebare sau problemă puteți să aveți.**
-:::
+# Prezentare job - Youtube
+
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/VIDEO_ID" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
 ## Informatii suplimentare:
  - Acest job se poate practica incepend de la 0 ore, special pentru jucatorii noi care doresc sa inceapa un job spre cladirea unei cariere in orasul Los Santos,
