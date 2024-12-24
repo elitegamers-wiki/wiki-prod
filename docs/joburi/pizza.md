@@ -18,6 +18,19 @@ Pentru a începe tura, vă trebui să mergi la NPC-ul din pizzerie([/gps - Jobs 
 ![](https://i.imgur.com/8yXVCHe.png){.framed-photo}
 :::
 
+## Prezentare job - Youtube
+
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/l9hLwMOz438"
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen
+  style="display: block; margin: 0px auto; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
+</iframe>
+
 ## Informații suplimentare:
 Skill-uri disponibile:
 
