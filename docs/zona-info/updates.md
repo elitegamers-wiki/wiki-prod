@@ -273,3 +273,69 @@ Facut de: sNok3 & xSLOW
 - Rezolvat un bug la inventar care nu permitea datul de iteme
 - Rezolvat un mesaj in meniul liderului de factiune/jucator promovat/retrogradat
 ```
+
+## Update 1.0 (Stable release) - Marea deschidere
+Facut de: **sNok3 & xSLOW**
+
+**Features**
+```js
+- Adaugata optiunea in MDT de a copia CNP-ul unui jucator
+- Schimbat mapping-ul inchisorii, usile/portile inchise, adaugate uniformele de prizonieri, etc
+- Inlocuit sistemul de sirene pentru masinile de politie (mult mai optimizat)
+- Adaugata optiunea de a factura un jucator pe o suma predefinita/aleasa de tine
+- Adaugate butoane in K pentru livrat ilegale
+- Finalizata armuraria politiei
+- Creat un sistem de cufere/depozite
+- Modificat sistemul de vreme dinamica sa corespunda cu vremea actuala (zapada, frig, ceata)
+- Adaugata camera de evidente la politie / o limita de inchisoare indiferent de sentinta
+- Inlocuite imaginile de la primarie cu unele mai calitative
+- Adaugate multiple crafting-uri (unele speciale, cu scene animate) pentru ilegale
+- Adaugate diverse locatii secrete pentru joburile ilegale
+- Optimizate diverse scripturi
+- Finalizate hainele/uniformele
+- Adaugate kituri de reparat masina pentru civili
+- Modificat designul chatului putin
+- Creat un sistem de job boost configurabil
+- Actualizate toate preturile
+- Modificate multiple iteme (nume, descriere, imagine)
+- Modificat markerul de deasupra capului atunci cand vorbesti cu un punct foarte mic si finut
+- Modificata interfata de keybinds sa fie pornita by default pentru jucatorii noi
+```
+
+**Bug fixes**
+```js
+- Reparat un bug la MDT care nu permitea cautarea jucatorilor
+- Rezolvat un bug la craftingurile care aveau mai multe retete pentru acelasi item
+- Rezolvat un bug la dealership care nu stergea markerele
+- Rezolvat un bug la traseul DMV
+- Rezolvat un bug la taximetrist care nu facea sa inceapa tura
+- Rezolvat un bug la garaje care facea ca unele masini sa nu apara acolo
+- Rezolvat un bug la "leaga firele" care aparea si cand ieseai din masina
+- Multiple buguri/greseli minore rezolvate
+```
+
+## Update 1.0.1 - Quick patch
+Mesterit de: **xSLOW**
+Am zis ca ma culc dar m-am intors la PC sa postez modificarile de astazi.. enjoy!
+
+**Features**
+```js
+- Acum se pot incuia si motocicletele (pentru a preveni furtul itemelor)
+- Bulgarii de zapada dau acum 0 damage (puteti face bulgarii pe tasta O daca nu stiati)
+- Marit timpul de stat afk
+- Adaugat in keybinds tasta L pentru a incuia masina (pentru incepatori)
+- Scos pistolul din gunshop deoarece se abuza de el
+- Oprit ESP-ul temporar pana se rezolva
+- Modificate sloturile din HUD
+- Marita raza la magazinele de ghiozdane
+- Optimizate diverse resurse
+- Adaugata comanda de anunt pentru admini
+- Adaugata comanda /ore pentru toata lumea
+- Actualizate preturile la avioane/elicoptere
+```
+
+**Bug fixes**
+```js
+- Acum puteti da /carry oamenilor morti
+- Fixat un bug la inchiriat masini care nu te lasa sa spawnezi fixter
+```
