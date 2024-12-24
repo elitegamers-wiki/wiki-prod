@@ -132,12 +132,12 @@ Amendă (350 € – 3500 €) + Închisoare (30 min)
 ## Art. 2.2 Fuga de la locul accidentului
 
 - **(1) Părăsirea locului accidentului soldat cu victime umane fără încuviințarea poliției este interzisă și constituie infracțiune.**
-Amendă (1000 € – 10000 €) + Anulare permis + Închisoare (120 min)
+Amendă (1000 € – 10000 €) + Anulare permis + Închisoare (30 min)
 
 ## Art. 2.3 Fuga de poliție cu un autovehicul
 
 - **(1) Conducătorul auto care nu se conformează ordinelor/somațiilor de oprire a unui polițist și încearcă să fugă/evadeze folosind un autovehicul săvârșește o infracțiune.**
-Amendă (500 € – 5000 €) + Anulare permis + Închisoare (45 min)
+Amendă (500 € – 5000 €) + Anulare permis + Închisoare (30 min)
 
 ## Art. 2.4 Scoaterea plăcuțelor de înmatriculare
 
