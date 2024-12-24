@@ -186,7 +186,7 @@ Amendă (400 € – 4000 €) + Închisoare (45 min)
 - **(1) Reprezintă uciderea unei persoane fără intenție cu prezența/fără prezența unei altercații anterioare.**
 Amendă (450 € – 4500 €) + Închisoare (50 min)
 
-Art 3.9 Crima
+## Art. 3.9 Crima
 
 - **(1) Uciderea unei persoane cu intenție/premeditare.**
 Amendă (2000 € – 20 000 € - ) + Închisoare (120 min)
@@ -266,12 +266,12 @@ Amendă (50 € – 500 €)
 
 >5g Amendă (200 € – 2000 €) + Închisoare (15 min)
 
-Art 6.2 Producerea, deținerea și traficul țigărilor de contrabandă
+## Art 6.2 Producerea, deținerea și traficul țigărilor de contrabandă
 
 - **(1) Este strict interzisă producerea, deținerea și traficul țigărilor de contrabandă, precum si a componentelor necesare pentru producția acestora.**
 Amendă (500 € – 5000 €) + Închisoare (60 min)
 
-Art 6.3 Producerea și traficul de substanțe ilegale, psihoactive sau droguri
+## Art 6.3 Producerea și traficul de substanțe ilegale, psihoactive sau droguri
 
 - **(1) Producerea, transportul și traficul de substanțe ilegale (ciuperci halucinogene), psihoactive (LSD, Metamfetamină, Marijuana) sau droguri (Cocaina) sunt strict interzise.**
 Amendă (1000 € – 10 000 €) + Închisoare (60 min)
@@ -286,7 +286,7 @@ Amendă (5000 € 50 000 €) + Închisoare (120 min)
 - **(1) Urmărirea ori supravegherea altei persoane, în mod repetat, fără drept sau fără un interes legitim.**
 Amendă (100 € – 1000 €) + Închisoare (10 min)
 
-Art 6.6 Purtarea măștii în zone publice
+## Art 6.6 Purtarea măștii în zone publice
 
 - **(1) Acoperirea feței cu măști, bandane, în zonele publice este interzisă (cu excepția motocicliștilor).**
 Amendă (50 – 500 €)
@@ -298,12 +298,12 @@ Amendă (50 – 500 €)
 - **(1) Manifestarea în mod public a actelor sau a gesturilor cu caracter obscen.**
 Amendă (100 € – 1000 €)
 
-Art 7.2 Prostituția
+## Art 7.2 Prostituția
 
 - **(1) Fapta persoanei care își procură mijloacele de existență practicând în acest scop raporturi sexuale cu diferite persoane.**
 Amendă (250 € – 2500 €)
 
-Art 7.3 Proxenetismul
+## Art 7.3 Proxenetismul
 
 - **(1) Determinarea sau înlesnirea practicării prostituției în scopul obținerii de avantaje materiale**
 Amendă(750 € – 7500 €) + Închisoare (30 min)
@@ -325,7 +325,7 @@ Amendă (100 € – 1000 €)
 - **(1) Orice cetățean este obligat să dețină și să poarte actul de identitate.**
 Amendă (100 € – 1000 €)
 
-Art 8.3 Fals în declarații
+## Art 8.3 Fals în declarații
 
 - **(1) Declararea necorespunzătoare a adevărului, verbal sau în scris, în fața organelor de ordine publică.**
 Amendă (300 € – 3000 €) + Închisoare (15 min)
@@ -350,7 +350,7 @@ Amendă (5000 € – 50 000 €) + Închisoare (120 min) + Demitere din funcți
 - **(1) Refuzul conștient de a plăti amenda.**
 Închisoare (30 min)
 
-Art 8.8 Obstrucționarea unui agent de poliție
+## Art 8.8 Obstrucționarea unui agent de poliție
 
 - **(1) Tentativa de a împiedica fără drept un agent de poliție să își ducă la îndeplinire atribuțiile de serviciu.**
 Amendă (200 € – 2000 €) + Închisoare (20 min)
@@ -370,17 +370,17 @@ Amenda (200 € – 2000 €)
 - **(1) Evadarea din starea legală de reținere (custodie) sau de deținere (închisoare).**
 Mandat de arestare - Închisoare (dublarea sentinței precedentă)
 
-Art 8.11 Apelarea abuzivă a numerelor de urgență
+## Art 8.11 Apelarea abuzivă a numerelor de urgență
 
 - **(1) Folosirea liniilor telefonice de urgență în mod abuziv cu scopul de a face farse sau pentru motive nejustificate.**
 Amendă (100 € – 1000 €) + Închisoare (15 min)
 
-Art 8.12 Munca la negru
+## Art 8.12 Munca la negru
 
 - **(1) Activitatea prestată de un salariat pentru un angajator, persoană fizică sau juridică, fără forme legale.**
 Amendă (1000 € – 10 000 €)
 
-Art 8.13 Licențe / Atestate
+## Art 8.13 Licențe / Atestate
 
 - **(1) Practicarea joburilor fără atestatele sau licențele care atestă dreptul legal de a exercita acea activitate.**
 Amendă (5000 € – 50 000 €) + Închisoare (30 min)
