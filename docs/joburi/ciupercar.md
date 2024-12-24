@@ -33,6 +33,7 @@ Pentru a putea începe acest job trebuie să ai 10 ore jucate și să mergi la P
   style="display: block; margin: 0px auto; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
 
 </iframe>
+
 ## Informații suplimentare:
 Skill-uri disponibile:
 
