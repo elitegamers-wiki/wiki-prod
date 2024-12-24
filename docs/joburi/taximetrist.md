@@ -22,7 +22,7 @@ După ce te-ai angajat de la Primărie, trebuie să mergi la locul de muncă de 
 :::details Unde gasesti job-ul?
 ![](https://i.imgur.com/UisdSqH.png){.framed-photo}
 :::
-Dupa ce ai selectat masina dorita de la [Objectul Albastru] trebuie sa tastezi comanda [/duty] pentru a fi la datorie. P.S: Pentru a deschide meniul cu toate comenzile apasa tasta [/F7]. 
+Dupa ce ai selectat masina dorita de la [Objectul Albastru] trebuie sa intri in vehiculul job-ului pentru a fi la datorie. P.S: Pentru a deschide meniul cu toate comenzile apasa tasta [/F7]. 
 
 
 
