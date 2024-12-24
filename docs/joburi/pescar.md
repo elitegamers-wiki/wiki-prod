@@ -22,6 +22,20 @@ Pentru a începe acest job, trebuie să mergi la Primărie ([/gps - Primărie]) 
 ![](https://i.imgur.com/ihPIqMZ.png){.framed-photo}
 :::
 
+## Prezentare job - Youtube
+
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/qPIeIlkk10Y"
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen
+  style="display: block; margin: 0px auto; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
+</iframe>
+
+
 Dupa ce ai finalizat primul pas trebuie cumperi si echipamentul corespunzator. Vizitează magazinul de unelte de pescuit pentru a cumpăra o undiță și momeală de bază. Dacă preferi să economisești bani, poți colecta rame din [/gps - Loc rame].
 (De scris despre zonele de pescuit)
 
@@ -38,19 +52,6 @@ Este cea mai simplă și rapidă variantă. Dacă nu vrei să pierzi timp, poți
 :::details Rame Premium
 ![](https://i.imgur.com/YLxC2IF.png){.framed-photo}
 :::
-
-## Prezentare job - Youtube
-
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://www.youtube.com/embed/qPIeIlkk10Y"
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen
-  style="display: block; margin: 0px auto; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
-</iframe>
 
 2. Ramele culese manual:
 Pentru cei care vor să economisească bani, pot alege să culeagă rame din locația speciala marcata pe hartă care se regaseste si in [/gps]. Este o variantă mai ieftină, dar care necesită timp și un pic de efort.
