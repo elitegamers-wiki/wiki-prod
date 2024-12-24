@@ -21,16 +21,17 @@ Pentru a începe, trebuie să deții un permis de conducere, pe care îl poți o
 ![](https://i.imgur.com/wRBhKuV.png){.framed-photo}
 :::
 
-# Prezentare job - Youtube
+## Prezentare job - Youtube
 
 <iframe 
   width="560" 
   height="315" 
-  src="https://www.youtube.com/embed/VIDEO_ID" 
+  src="https://www.youtube.com/embed/U1SpKQ-B0T4"
   title="YouTube video player" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
+  allowfullscreen
+  style="display: block; margin: 0px auto; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
 </iframe>
 
 ## Informatii suplimentare:
