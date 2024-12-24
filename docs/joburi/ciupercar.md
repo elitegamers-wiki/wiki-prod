@@ -19,6 +19,20 @@ Pentru a putea începe acest job trebuie să ai 10 ore jucate și să mergi la P
 :::details NPC
 ![](https://i.imgur.com/fCMafsW.png){.framed-photo}
 :::
+
+## Prezentare job - Youtube
+
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://www.youtube.com/embed/pERu399WS0M"
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen
+  style="display: block; margin: 0px auto; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
+
+</iframe>
 ## Informații suplimentare:
 Skill-uri disponibile:
 
