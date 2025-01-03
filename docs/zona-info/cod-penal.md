@@ -17,7 +17,6 @@ outline: deep
 - CAP. 7 Infracţiuni contra bunelor moravuri
 - CAP. 8 Infracţiuni contra justiţieiMentiuni
 
-Mentiuni
 
 Faptele codului penal sunt de 2 tipuri, CONTRAVENTII si INFRACTIUNI. Fiecare dintre acestea au pedepse principale si pedepse secundare, dupa cum urmeaza:
 ---
