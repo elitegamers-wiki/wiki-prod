@@ -21,7 +21,7 @@ Mentiuni
 
 Faptele codului penal sunt de 2 tipuri, CONTRAVENTII si INFRACTIUNI. Fiecare dintre acestea au pedepse principale si pedepse secundare, dupa cum urmeaza:
 
-Cap.1 LEGISLAȚIE RUTIERĂ
+# Cap.1 LEGISLAȚIE RUTIERĂ
 
 ## Art. 1.1 Limite de viteza si sanctiuni:
 
