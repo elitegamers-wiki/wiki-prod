@@ -20,9 +20,9 @@ outline: deep
 Mentiuni
 
 Faptele codului penal sunt de 2 tipuri, CONTRAVENTII si INFRACTIUNI. Fiecare dintre acestea au pedepse principale si pedepse secundare, dupa cum urmeaza:
-
-# Cap.1 LEGISLAȚIE RUTIERĂ
-
+---
+Cap.1 LEGISLAȚIE RUTIERĂ
+---
 ## Art. 1.1 Limite de viteza si sanctiuni:
 
 - **(1)  Viteza legală maxim admisă pe drumurile publice cu un autoturism este de:**
@@ -115,9 +115,9 @@ Amendă (200 € – 2000 €) + 5 Puncte de penalizare
 
 - **(1) Purtarea de măști/bandane/cagule de către șoferi îngreunează identificarea facială și este strict interzisă.**
 Amendă (300 € – 3000 €) + 3 Puncte de penalizare
-
+---
 # CAP. 2 INFRACȚIUNI ÎN TRAFIC
-
+---
 ## Art. 2.1 Condusul fără permis
 
 - **(1) Conducerea unui autovehicul fără un permis de conducere valid este interzisă.**
@@ -143,9 +143,9 @@ Amendă (500 € – 5000 €) + Anulare permis + Închisoare (30 min)
 
 - **(1) Scoaterea intenționată a plăcuțelor de înmatriculare de pe autovehicul constituie infracțiune.**
 Amendă (120 € – 1200 €) + Ridicarea mașinii
-
+---
 # CAP. 3 INFRACȚIUNI CONTRA PERSOANELOR
-
+---
 ## Art. 3.1 Insulta
 
 - **(1) Atingerea adusă onoarei ori reputației unei persoane prin cuvinte, gesturi, expunerea la batjocură sau alte mijloace.**
@@ -190,9 +190,9 @@ Amendă (450 € – 4500 €) + Închisoare (50 min)
 
 - **(1) Uciderea unei persoane cu intenție/premeditare.**
 Amendă (2000 € – 20 000 € - ) + Închisoare (120 min)
-
+---
 # CAP. 4 INFRACȚIUNI CONTRA PROPRIETĂȚILOR
-
+---
 ## Art. 4.1 Furtul
 
 - **(1) Sustragerea unui bun mobil din posesia altuia, fără consimțământul acestuia, în scopul de a și-l însuși pe nedrept.**
@@ -222,9 +222,9 @@ Amendă (500 € – 5000 €) + Închisoare (60 min)
 
 - **(1) Degradarea, deteriorarea sau aducerea în stare de nefolosire a unui bun aparținând altuia.**
 Amendă (300 € – 3000 €) + Închisoare (15 min)
-
+---
 # CAP. 5 INFRACȚIUNI CONTRA ORDINII ȘI LINIȘTII PUBLICE
-
+---
 ## Art. 5.1 Deranjarea liniștii publice
 
 - **(1) Tulburarea fără drept a liniștii locuitorilor prin producerea de zgomote puternice (claxoane, muzică).**
@@ -254,8 +254,9 @@ Art 5.6 Limbajul vulgar
 
 - **(1) Folosirea cuvintelor sau a expresiilor indecente, vulgare, în scopul jignirii, a intimidării sau a amenințării altor persoane.**
 Amendă (50 € – 500 €)
-
+---
 # CAP. 6 INFRACȚIUNI CONTRA SĂNĂTĂȚII ȘI SIGURANȚEI PUBLICE
+---
 
 ## Art. 6.1 Posesia de substanțe ilegale, psihoactive sau droguri
 
@@ -290,9 +291,9 @@ Amendă (100 € – 1000 €) + Închisoare (10 min)
 
 - **(1) Acoperirea feței cu măști, bandane, în zonele publice este interzisă (cu excepția motocicliștilor).**
 Amendă (50 – 500 €)
-
+---
 # CAP. 7 INFRACȚIUNI CONTRA BUNELOR MORAVURI
-
+---
 ## Art. 7.1 Expunere indecentă
 
 - **(1) Manifestarea în mod public a actelor sau a gesturilor cu caracter obscen.**
@@ -312,9 +313,9 @@ Amendă(750 € – 7500 €) + Închisoare (30 min)
 
 - **(1) Desfășurarea sau practicarea jocurilor de noroc în zonele publice, cu excepția cazinourilor sau a spațiilor dedicate pentru aceste activități.**
 Amendă (500 € – 5000 €)
-
+---
 # CAP. 8 INFRACȚIUNI CONTRA JUSTIȚIEI
-
+---
 ## Art. 8.1 Refuzul legitimării
 
 - **(1) Refuzul unei persoane de a furniza date sau documente necesare stabilirii identității, la cererea organelor de ordine publică.**
@@ -384,9 +385,9 @@ Amendă (1000 € – 10 000 €)
 
 - **(1) Practicarea joburilor fără atestatele sau licențele care atestă dreptul legal de a exercita acea activitate.**
 Amendă (5000 € – 50 000 €) + Închisoare (30 min)
-
+---
 # CAP. 9 REGIMUL ARMELOR ȘI AL MUNIȚIILOR
-
+---
 ## Art. 9.1 Posesia armelor albe
 
 - **(1) Deținerea de obiecte destinate și adaptate pentru vătămarea sau omorârea altor persoane prin contact nemijlocit cu tăiere (box, stilet, briceag, baionetă)**
