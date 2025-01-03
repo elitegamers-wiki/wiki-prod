@@ -113,6 +113,8 @@ Amendă (200 € – 2000 €) + 5 Puncte de penalizare
 
 ## Art. 1.10 Purtarea măștii la volan
 
+- **(1) Purtarea de măști/bandane/cagule de către șoferi îngreunează identificarea facială și este strict interzisă.**
+
 ## Art. 1.11 Anvelope de iarnă
 - **(1) În perioada sezonului rece, în condiții de drum acoperit de zăpadă, gheață sau polei, șoferii sunt obligați să își echipeze mașinile sau motocicletele cu anvelope de iarnă.
 Amendă (300 € - 3000 €) + 5 Puncte de penalizare**
