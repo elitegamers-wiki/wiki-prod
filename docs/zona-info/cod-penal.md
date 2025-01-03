@@ -266,11 +266,9 @@ Amendă (50 € – 500 €)
 
 ## Art. 6.1 Posesia de substanțe ilegale, psihoactive sau droguri
 
-- (1) Este strict interzisă deținerea ori folosirea substanțelor ilegale (ciuperci halucinogene), psihoactive (LSD, Metamfetamină, Marijuana) sau droguri (cocaina).**
-1g Amendă (50 € – 500 €)
-
+(1) Este strict interzisă deținerea ori folosirea substanțelor ilegale (ciuperci halucinogene), psihoactive (LSD, Metamfetamină, Marijuana) sau droguri (cocaina).
+- 1g Amendă (50 € – 500 €)
 - 2g – 5g Amendă (100 € – 1000 €)
-
 - >5g Amendă (200 € – 2000 €) + Închisoare (15 min)
 
 ## Art 6.2 Producerea, deținerea și traficul țigărilor de contrabandă
