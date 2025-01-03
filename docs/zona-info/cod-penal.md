@@ -86,7 +86,7 @@ Amendă (150 € – 1500 €) + 5 Puncte de penalizare + Ridicare mașină
 Amendă (200 € – 2000 €) + 5 Puncte de penalizare
 
 - **(2) Accident rutier mediu (soldat cu vătămări corporale)**
-Amendă (300 € – 3000 €) + 10 Puncte de penalizare + Suspendare permis (30 min) ????
+Amendă (300 € – 3000 €) + 10 Puncte de penalizare + Suspendare permis (30 min)
 
 - **(3) Accident rutier grav (soldat cu victime)**
 Amendă (500 € – 5000 €) + Anularea permisului + Închisoare (60 min)
