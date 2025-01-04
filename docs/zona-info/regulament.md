@@ -401,20 +401,20 @@ efectua streaming pe serverul Elitegamers.
 # 3. REGULAMENT JOBURI/ACTIVITĂȚI ILEGALE
 
 ## 3.1 JAF ASUPRA PERSOANELOR
--Jaful asupra persoanelor este permis doar după acumularea unui număr de 50 de ore IC.
--Jafurile sunt permise doar în intervalul orar 20.00 – 08.00 în Los Santos.
--Pe insula Cayo Perico jafurile pot avea loc în intervalul orar 18.00 – 09.00.
--Nu aveți voie să jefuiți persoanele aflate în timpul desfășurării unui job legal, polițiști
+- Jaful asupra persoanelor este permis doar după acumularea unui număr de 50 de ore IC.
+- Jafurile sunt permise doar în intervalul orar 20.00 – 08.00 în Los Santos.
+- Pe insula Cayo Perico jafurile pot avea loc în intervalul orar 18.00 – 09.00.
+- Nu aveți voie să jefuiți persoanele aflate în timpul desfășurării unui job legal, polițiști
 sau cadre medicale aflate on-duty.
--În timpul unui jaf puteți deposeda o persoană de toate bunurile aflate în inventar,
+- În timpul unui jaf puteți deposeda o persoană de toate bunurile aflate în inventar,
 precum și din mașina pe care o conduce.
--Nu aveți voie să obligați o persoană să scoată bani din bancă pentru a o jefui.
--Nu aveți voie să obligați o persoană să scoată altă mașină din garaj pentru a o jefui.
--Nu aveți voie să jefuiți aceeași persoană de două ori în decursul a 3 ore, excepție făcând
+- Nu aveți voie să obligați o persoană să scoată bani din bancă pentru a o jefui.
+- Nu aveți voie să obligați o persoană să scoată altă mașină din garaj pentru a o jefui.
+- Nu aveți voie să jefuiți aceeași persoană de două ori în decursul a 3 ore, excepție făcând
 insula Cayo Perico.
--Nu aveți voie să jefuiți persoane în zonele publice centrale (Primărie, Bănci,
+- Nu aveți voie să jefuiți persoane în zonele publice centrale (Primărie, Bănci,
 Bancomate, Benzinării), zone considerate spații sigure.
--Membrii mafiei pot jefui alte persoane, indiferent de oră, la locațiile activităților ilegale,
+- Membrii mafiei pot jefui alte persoane, indiferent de oră, la locațiile activităților ilegale,
 doar în cazul în care victima refuză să plătească taxa de protecție.
 :::danger SANCTIUNE
 Warn/Jail/Ban termporar
