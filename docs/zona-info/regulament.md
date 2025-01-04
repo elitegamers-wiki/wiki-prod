@@ -21,8 +21,10 @@ roleplay-ul care vă definește caracterul și evoluția pe server.
 
 ## 1.4 META GAMING [MG]
 - Meta Gaming reprezintă folosirea informațiilor aflate OOC într-o situație IC.
-Exemplu: George se uita pe live la un youtuber si vede unde se află pe hartă, apoi se duce
+:::info EXEMPLU
+George se uita pe live la un youtuber si vede unde se află pe hartă, apoi se duce
 direct la acea locație sa interactioneze cu el roleplay, fără alte informații IC.
+:::
 ::: danger SANCTIUNE
 - Jail la prima abatere (cont nou)
 - Warn
