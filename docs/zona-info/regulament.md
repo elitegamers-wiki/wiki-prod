@@ -382,19 +382,19 @@ auto și alte adunări publice, este considerată un eveniment organizat.
 obținerii unui acord scris din partea unui Server Manager+.
 
 ## 2.13 STREAMING ȘI CREAREA DE CONȚINUT VIDEO
-- Streamerii și creatorii de conținut care transmit live pe diferite platforme de socialmedia trebuie să își asume responsabilitatea respectării prezentului regulament.
-- În scopul promovării unei imagini corecte și reale a comunității Elitegamers și,
+-Streamerii și creatorii de conținut care transmit live pe diferite platforme de socialmedia trebuie să își asume responsabilitatea respectării prezentului regulament.
+-În scopul promovării unei imagini corecte și reale a comunității Elitegamers și,
 implicit, a serverului de joc, echipa de administrare încurajează și sprijină crearea de
 conținut video și live pe serverul de joc sau pe alte plaforme care aparțin comunității,
 cu condiția păstrării unui climat virtual realist și armonios, fără denaturări și toxicitate.
-- Se interzice cu desăvârșire defăimarea, discreditarea comunitații Elitegamers sau a
+-Se interzice cu desăvârșire defăimarea, discreditarea comunitații Elitegamers sau a
 membrilor săi, indiferent de problemele întâmpinate în timpul sesiunilor de joc. În
 cazul apariției situațiilor contradictorii, a disputelor sau a altor probleme, acestea se
 rezolvă off-stream cu ajutorul echipei de suport, nu în mod public, pe live.
-- În timpul discuțiilor OOC sau a sesiunilor de suport cu echipa administrativă pe server
+-În timpul discuțiilor OOC sau a sesiunilor de suport cu echipa administrativă pe server
 sau pe discord, streamerii au obligația de a dezactiva sunetul pentru public, astfel încât
 aceste discuții să rămână confidențiale.
-- În cazul în care un creator de conținut nu respectă condițiile prezentului regulament, ne
+-În cazul în care un creator de conținut nu respectă condițiile prezentului regulament, ne
 rezervăm dreptul de a revoca permisiunea acestuia de a crea conținut video sau de a
 efectua streaming pe serverul Elitegamers.
 
@@ -455,9 +455,9 @@ Warn/Jail
 :::
 
 ## 3.5 INTERVENTII IN TRANSPORTUL DETINUTILOR
-- Atacarea unui transport de deținuți poate fi organizat doar de către membrii
+-Atacarea unui transport de deținuți poate fi organizat doar de către membrii
 organizației din care face parte deținutul transportat.
-- Acțiunea de salvare a deținutului/deținuților este permisă doar în cazul în care
+-Acțiunea de salvare a deținutului/deținuților este permisă doar în cazul în care
 transportul implică liderul organizației sau un minim de 2 membri ai organizației.
 :::danger SANCTIUNE
 Warn/Jail/Ban temporar
@@ -472,15 +472,15 @@ Warn/Jail/Ban temporar
 :::
 
 # 5. PRECIZĂRI SUPLIMENTARE
-- 5.1 Interpretarea în mod arbitrar a prezentului regulament este strict interzisă. Jucătorii nu
+## 5.1 Interpretarea în mod arbitrar a prezentului regulament este strict interzisă. Jucătorii nu
 au dreptul de a ajusta sau interpreta regulile în favoarea proprie, din dorința de a justifica
 sau minimiza consecințele unei încălcări a regulamentului.
-- 5.2 În cazul situațiilor neclare sau a neînțelegerii prezentului regulament, singura
+## 5.2 În cazul situațiilor neclare sau a neînțelegerii prezentului regulament, singura
 autoritate competentă să stabilească sensul exact și aplicabilitatea fiecărei reguli, precum
 și sancțiunile corespunzătoare este echipa administrativă.
-- 5.3 La analiza fiecărei situații care presupune aplicarea unei sancțiuni se vor lua în calcul,
+## 5.3 La analiza fiecărei situații care presupune aplicarea unei sancțiuni se vor lua în calcul,
 în mod obligatoriu, orele (IC) ale jucătorului, precum și vechimea sa pe server.
-- 5.4 Atunci când un jucător acumulează mai multe sancțiuni în urma încălcărilor multiple
+## 5.4 Atunci când un jucător acumulează mai multe sancțiuni în urma încălcărilor multiple
 ale regulamentului într-o singură scenă roleplay, adminul care va penaliza jucătorul va
 acorda sancțiunea cea mai severă.
 
