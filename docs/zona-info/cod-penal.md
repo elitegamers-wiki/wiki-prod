@@ -1,3 +1,9 @@
+---
+outline: deep
+---
+
+<img src="https://www.hamangiu.ro/images/thumbs/000/0007369_codul-penal-codul-de-procedura-penala-legile-de-executare-actualizat-1-septembrie-2024-spiralat_450.png" alt="pozaPolitie" width="300" height="600" style="display: block; margin: 0px auto;">
+
 # <center>👮‍♂️***Introducerea codului penal***👮‍♂️</center>
 
 ## CUPRINS COD PENAL
@@ -14,7 +20,7 @@
 
 Faptele codului penal sunt de 2 tipuri, CONTRAVENTII si INFRACTIUNI. Fiecare dintre acestea au pedepse principale si pedepse secundare, dupa cum urmeaza:
 ---
- <span style="color:red;"><Cap.1 LEGISLAȚIE RUTIERĂ</strong></span>
+**<span style="color:red; font-family: 'Comic Sans MS', cursive, sans-serif;">Cap.1 LEGISLAȚIE RUTIERĂ</span>**
 ---
 ## Art. 1.1 Limite de viteza si sanctiuni:
 
