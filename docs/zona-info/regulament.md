@@ -382,19 +382,19 @@ auto și alte adunări publice, este considerată un eveniment organizat.
 obținerii unui acord scris din partea unui Server Manager+.
 
 ## 2.13 STREAMING ȘI CREAREA DE CONȚINUT VIDEO
--Streamerii și creatorii de conținut care transmit live pe diferite platforme de socialmedia trebuie să își asume responsabilitatea respectării prezentului regulament.
--În scopul promovării unei imagini corecte și reale a comunității Elitegamers și,
+- Streamerii și creatorii de conținut care transmit live pe diferite platforme de socialmedia trebuie să își asume responsabilitatea respectării prezentului regulament.
+- În scopul promovării unei imagini corecte și reale a comunității Elitegamers și,
 implicit, a serverului de joc, echipa de administrare încurajează și sprijină crearea de
 conținut video și live pe serverul de joc sau pe alte plaforme care aparțin comunității,
 cu condiția păstrării unui climat virtual realist și armonios, fără denaturări și toxicitate.
--Se interzice cu desăvârșire defăimarea, discreditarea comunitații Elitegamers sau a
+- Se interzice cu desăvârșire defăimarea, discreditarea comunitații Elitegamers sau a
 membrilor săi, indiferent de problemele întâmpinate în timpul sesiunilor de joc. În
 cazul apariției situațiilor contradictorii, a disputelor sau a altor probleme, acestea se
 rezolvă off-stream cu ajutorul echipei de suport, nu în mod public, pe live.
--În timpul discuțiilor OOC sau a sesiunilor de suport cu echipa administrativă pe server
+- În timpul discuțiilor OOC sau a sesiunilor de suport cu echipa administrativă pe server
 sau pe discord, streamerii au obligația de a dezactiva sunetul pentru public, astfel încât
 aceste discuții să rămână confidențiale.
--În cazul în care un creator de conținut nu respectă condițiile prezentului regulament, ne
+- În cazul în care un creator de conținut nu respectă condițiile prezentului regulament, ne
 rezervăm dreptul de a revoca permisiunea acestuia de a crea conținut video sau de a
 efectua streaming pe serverul Elitegamers.
 
@@ -421,50 +421,50 @@ Warn/Jail/Ban termporar
 :::
 
 ## 3.2 JAF/FURT AUTO
--Jaful/furtul asupra autovehiculelor este permis doar după acumularea unui număr de 50
+- Jaful/furtul asupra autovehiculelor este permis doar după acumularea unui număr de 50
 de ore IC.
--Jafurile/furturile asupra autovehiculelor sunt permise doar dacă în proximitatea
+- Jafurile/furturile asupra autovehiculelor sunt permise doar dacă în proximitatea
 mașinilor vizate nu se află și alte persoane.
--La un jaf asupra autovehiculelor pot participa cel mult 2 persoane.
--Este strict interzis ca jucătorii să ia ostatici în cadrul jafurilor asupra autovehiculelor.
+- La un jaf asupra autovehiculelor pot participa cel mult 2 persoane.
+- Este strict interzis ca jucătorii să ia ostatici în cadrul jafurilor asupra autovehiculelor.
 :::danger SANCTIUNE
 Warn/Jail
 :::
  
 ## 3.2 JAF BANCOMATE/MAGAZINE
--Jaful asupra bancomatelor și a magazinelor sunt permise doar după acumularea a 50 de
+- Jaful asupra bancomatelor și a magazinelor sunt permise doar după acumularea a 50 de
 ore IC.
--Nu aveți voie să jefuiți un bancomat sau un magazin atât timp cât la bancomat sau în
+- Nu aveți voie să jefuiți un bancomat sau un magazin atât timp cât la bancomat sau în
 magazin se află alte persoane.
--Este strict interzis ca jucătorii să ia ostatici în cadrul jafurilor asupra bancomatelor sau
+- Este strict interzis ca jucătorii să ia ostatici în cadrul jafurilor asupra bancomatelor sau
 a magazinelor.
 :::danger SANCTIUNE
 Warn/Jail
 :::
 
 ## 3.3 RĂPIRI/OSTATICI
--Nu aveți voie să răpiți jucătorii din zonele publice.
--Nu aveți voie să răpiți persoanele care practică un job legal, polițiști sau cadre
+- Nu aveți voie să răpiți jucătorii din zonele publice.
+- Nu aveți voie să răpiți persoanele care practică un job legal, polițiști sau cadre
 medicale aflate on-duty.
--Nu aveți voie să răpiți o persoană în scopul obținerii de recompense financiare
+- Nu aveți voie să răpiți o persoană în scopul obținerii de recompense financiare
 ulterioare sau de altă natură de la poliție sau alte structuri guvernamentale.
--Puteți sechestra o persoană doar cu acordul unui Administrator+ și doar dacă
+- Puteți sechestra o persoană doar cu acordul unui Administrator+ și doar dacă
 prezentați un scenariu roleplay bine întemeiat care să justifice sechestrarea.
 :::danger SANCTIUNE
 Warn/Jail
 :::
 
 ## 3.5 INTERVENTII IN TRANSPORTUL DETINUTILOR
--Atacarea unui transport de deținuți poate fi organizat doar de către membrii
+- Atacarea unui transport de deținuți poate fi organizat doar de către membrii
 organizației din care face parte deținutul transportat.
--Acțiunea de salvare a deținutului/deținuților este permisă doar în cazul în care
+- Acțiunea de salvare a deținutului/deținuților este permisă doar în cazul în care
 transportul implică liderul organizației sau un minim de 2 membri ai organizației.
 :::danger SANCTIUNE
 Warn/Jail/Ban temporar
 :::
 
 ## 3.6 ROLEPLAY-URI EXTRA/ACȚIUNI TERORISTE
--În cazul ideilor speciale de roleplay care presupun actiuni teroriste sau interacțiuni
+- În cazul ideilor speciale de roleplay care presupun actiuni teroriste sau interacțiuni
 deosebite aveți obligația să luați legătura cu un Super-Administrator+ care vă va
 aproba sau nu scenariul.
 :::danger SANCTIUNE
