@@ -482,4 +482,4 @@ autoritate competentă să stabilească sensul exact și aplicabilitatea fiecăr
 ale regulamentului într-o singură scenă roleplay, adminul care va penaliza jucătorul va
 acorda sancțiunea cea mai severă.
 
-...More soon
+...More soon...
