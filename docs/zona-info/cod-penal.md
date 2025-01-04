@@ -1,9 +1,3 @@
----
-outline: deep
----
-
-<img src="https://www.hamangiu.ro/images/thumbs/000/0007369_codul-penal-codul-de-procedura-penala-legile-de-executare-actualizat-1-septembrie-2024-spiralat_450.png" alt="pozaPolitie" width="300" height="600" style="display: block; margin: 0px auto;">
-
 # <center>👮‍♂️***Introducerea codului penal***👮‍♂️</center>
 
 ## CUPRINS COD PENAL
