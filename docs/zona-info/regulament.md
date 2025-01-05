@@ -489,7 +489,7 @@ regulamentului într-o singură scenă roleplay, adminul care va penaliza jucăt
 acorda sancțiunea cea mai severă.
 
 # <center><span style="font-family: Conthrax; background: -webkit-linear-gradient(red, darkred); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Reguli Aditionale</span></center>
----
+
 # CAP.1 REGULI OOC
 ## 1.1 REVIVE
  - NU se da revive daca ati murit din missclick ( ati apasat F, v-ati aruncat de la inaltime, etc.)
