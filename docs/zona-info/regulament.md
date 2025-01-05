@@ -473,14 +473,14 @@ Warn/Jail/Ban temporar
 :::
 
 # 5 PRECIZĂRI SUPLIMENTARE
-## 5.1 Interpretarea în mod arbitrar a prezentului regulament este strict interzisă. Jucătorii nu
-- Au dreptul de a ajusta sau interpreta regulile în favoarea proprie, din dorința de a justifica
+- 5.1 Interpretarea în mod arbitrar a prezentului regulament este strict interzisă. Jucătorii nu 
+au dreptul de a ajusta sau interpreta regulile în favoarea proprie, din dorința de a justifica
 sau minimiza consecințele unei încălcări a regulamentului.
-## 5.2 În cazul situațiilor neclare sau a neînțelegerii prezentului regulament, singura
-- Autoritate competentă să stabilească sensul exact și aplicabilitatea fiecărei reguli, precum
+- 5.2 În cazul situațiilor neclare sau a neînțelegerii prezentului regulament, singura
+autoritate competentă să stabilească sensul exact și aplicabilitatea fiecărei reguli, precum
 și sancțiunile corespunzătoare este echipa administrativă.
-## 5.3 La analiza fiecărei situații care presupune aplicarea unei sancțiuni se vor lua în calcul,
-- In mod obligatoriu, orele (IC) ale jucătorului, precum și vechimea sa pe server.
-##  5.4 Atunci când un jucător acumulează mai multe sancțiuni în urma încălcărilor multiple
-- Ale regulamentului într-o singură scenă roleplay, adminul care va penaliza jucătorul va
+- 5.3 La analiza fiecărei situații care presupune aplicarea unei sancțiuni se vor lua în calcul,
+in mod obligatoriu, orele (IC) ale jucătorului, precum și vechimea sa pe server.
+- 5.4 Atunci când un jucător acumulează mai multe sancțiuni în urma încălcărilor multiple ale
+regulamentului într-o singură scenă roleplay, adminul care va penaliza jucătorul va
 acorda sancțiunea cea mai severă.
