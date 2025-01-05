@@ -574,4 +574,5 @@ acorda sancțiunea cea mai severă.
 - Este INTERZIS sa jefuiti la depozitul de pe insula Cayo Perico!(Explicatie: Persoanele care interactioneaza cu depozitul nu au nici o sansa sa se apere cat timp sunt cu ochii in depozit. Ca atare, nu aveti voie sa ii jefuiti.)
 
 ## 2.14 POLITIE
-- Este PERMIS ca politia sa perchezitioneze orice persoana atat timp cat pare suspecta.- In cazul actiunilor politie – mafie, politistii pot da revive colegilor cazuti la datorie daca nu sunt medici on-duty. 
+- Este PERMIS ca politia sa perchezitioneze orice persoana atat timp cat pare suspecta.
+- In cazul actiunilor politie – mafie, politistii pot da revive colegilor cazuti la datorie daca nu sunt medici on-duty. 
