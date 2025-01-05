@@ -269,9 +269,6 @@ practică, în concordanță cu normele și regulile specifice domeniului.
 Warn/Jail/Ban temporar
 :::
 
-## 1.29 PIT-STOP
-- Acțiunea de oprire a unui vehicul prin coliziune laterală sau prin impactul în partea din spate a vehiculului țintă cu scopul de a reduce viteza sau de a opri complet vehiculul respectiv.
-
 # 2. REGULAMENT (OOC)
 
 ## 2.1 TIPURI DE SANCȚIUNI
