@@ -352,7 +352,8 @@ sancționării lor se pedepsesc drastic.
 raportarea periodică a acestora se consideră PostHunt.
 - Orice reclamație trebuie să fie formulată în maxim 24 de ore de la ora producerii
 incidentului, altfel nu vor mai fi luate în considerare.
-2.10 CHAT OOC
+
+## 2.10 CHAT OOC
 - Chat-ul global este destinat strict mesajelor ooc (probleme, întrebări, anunțuri).
 - Este interzis să faceți SPAM pe chat.
 :::danger SANCTIUNE
@@ -431,7 +432,7 @@ mașinilor vizate nu se află și alte persoane.
 Warn/Jail
 :::
  
-## 3.2 JAF BANCOMATE/MAGAZINE
+## 3.3 JAF BANCOMATE/MAGAZINE
 - Jaful asupra bancomatelor și a magazinelor sunt permise doar după acumularea a 50 de
 ore IC.
 - Nu aveți voie să jefuiți un bancomat sau un magazin atât timp cât la bancomat sau în
@@ -442,7 +443,7 @@ a magazinelor.
 Warn/Jail
 :::
 
-## 3.3 RĂPIRI/OSTATICI
+## 3.4 RĂPIRI/OSTATICI
 - Nu aveți voie să răpiți jucătorii din zonele publice.
 - Nu aveți voie să răpiți persoanele care practică un job legal, polițiști sau cadre
 medicale aflate on-duty.
@@ -471,15 +472,15 @@ aproba sau nu scenariul.
 Warn/Jail/Ban temporar
 :::
 
-## 5. PRECIZĂRI SUPLIMENTARE
-- 5.1 Interpretarea în mod arbitrar a prezentului regulament este strict interzisă. Jucătorii nu
+# 5 PRECIZĂRI SUPLIMENTARE
+## 5.1 Interpretarea în mod arbitrar a prezentului regulament este strict interzisă. Jucătorii nu
 au dreptul de a ajusta sau interpreta regulile în favoarea proprie, din dorința de a justifica
 sau minimiza consecințele unei încălcări a regulamentului.
-- 5.2 În cazul situațiilor neclare sau a neînțelegerii prezentului regulament, singura
+## 5.2 În cazul situațiilor neclare sau a neînțelegerii prezentului regulament, singura
 autoritate competentă să stabilească sensul exact și aplicabilitatea fiecărei reguli, precum
 și sancțiunile corespunzătoare este echipa administrativă.
-- 5.3 La analiza fiecărei situații care presupune aplicarea unei sancțiuni se vor lua în calcul,
+## 5.3 La analiza fiecărei situații care presupune aplicarea unei sancțiuni se vor lua în calcul,
 în mod obligatoriu, orele (IC) ale jucătorului, precum și vechimea sa pe server.
--  5.4 Atunci când un jucător acumulează mai multe sancțiuni în urma încălcărilor multiple
+##  5.4 Atunci când un jucător acumulează mai multe sancțiuni în urma încălcărilor multiple
 ale regulamentului într-o singură scenă roleplay, adminul care va penaliza jucătorul va
 acorda sancțiunea cea mai severă.
