@@ -155,25 +155,32 @@ export default defineConfig({
         ],
       },
       {
-        text: 'Job-uri',
-        activeMatch: '^/joburi/',
+        text: 'Activități legale/ilegale',
+        activeMatch: `^/joburi/`,
         items: [
-          { text: 'De unde poti incepe munca', link: '/joburi/joburi' },
+          { text: 'Despre Job-uri', link: '/joburi/joburi' },
           {
-            text: 'Lista job-uri',
+            text: "Joburi legale",
             collapsed: true,
-            items: [
+            items: [ 
+              { text: 'Mecanic', link: '/joburi/mecanic' },
+              { text: 'Taximetrist', link: '/joburi/taximetrist' },
+              { text: 'Sofer de autobuz', link: '/joburi/sofer-de-autobuz' },
               { text: 'Pescar', link: '/joburi/pescar' },
               { text: 'Tirist', link: '/joburi/tirist' },
               { text: 'Ciupercar', link: '/joburi/ciupercar' },
-              { text: 'Taximetrist', link: '/joburi/taximetrist' },
-              { text: 'Sofer de autobuz', link: '/joburi/sofer-de-autobuz' },
               { text: 'Miner', link: '/joburi/miner' },
               { text: 'Livrator Pizza', link: '/joburi/pizza' },
-              { text: 'Mecanic', link: '/joburi/mecanic' },
-            ],
+            ]
           },
-        ],
+          {
+            text: "Joburi ilegale",
+            collapsed: true,
+            items: [
+              {text: 'Metamfetamina', link: '/joburi/meta'},
+            ]
+          }
+        ]
       },
       {
         text: 'Economia Server-ului',
@@ -186,19 +193,6 @@ export default defineConfig({
         text: 'Proprietati',
         activeMatch: '^/proprietati/',
         items: [{ text: 'Case', link: '/proprietati/despre-case' }],
-      },
-      {
-        text: 'Activitati Ilegale',
-        activeMatch: '^/activitati-ilegale/',
-        items: [
-          { text: 'Droguri', link: '/activitati-ilegale/droguri' },
-          { text: 'Arme', link: '/activitati-ilegale/arme' },
-          {
-            text: 'Zone rau famate',
-            link: '/activitati-ilegale/zone-rau-famate',
-          },
-          { text: 'Cayo Perico', link: '/activitati-ilegale/cayo-perico' },
-        ],
       },
       {
         text: 'Factiuni',
