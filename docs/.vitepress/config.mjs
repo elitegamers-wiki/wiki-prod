@@ -125,7 +125,16 @@ export default defineConfig({
         activeMatch: '^/zona-info/',
         items: [
           { text: 'Informatii Importante', link: '/zona-info/informatii' },
-          { text: 'Regulament General', link: '/zona-info/regulament' },
+            {
+              text: 'Regulamente',
+              activeMatch: '^/zona-info/regulamente/',
+              collapsed: true,
+              items: [
+                { text: 'Regulament General', link: '/zona-info/regulament' },
+                { text: 'Regulament Aditional', link: '/zona-info/regulament-aditional' },
+                { text: 'Regulament Mafii', link: '/zona-info/regulament-mafii' },
+              ],
+            },
           {
             text: 'Cum intru pe server?',
             link: '/zona-info/cum-intru-pe-server',
@@ -152,7 +161,7 @@ export default defineConfig({
           { text: 'De unde poti incepe munca', link: '/joburi/joburi' },
           {
             text: 'Lista job-uri',
-            collapsed: false,
+            collapsed: true,
             items: [
               { text: 'Pescar', link: '/joburi/pescar' },
               { text: 'Tirist', link: '/joburi/tirist' },
