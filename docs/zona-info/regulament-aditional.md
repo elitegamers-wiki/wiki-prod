@@ -18,7 +18,8 @@
  - Pentru probleme precum: "M-a aruncat din masina", "Nu mi s-a deschis parasuta", "Mi-a spawnat masina stricata/fara benzina", "Am intrat pe server si m-a dat mort", "Am murit dintr-un bug", etc. este necesara prezentarea unei dovezi.
 
  ## 1.4 MISSCLICK
-- Cand apasati neintentionat o tasta/buton cu gandul de a face alta actiune- ORICE missclick se roleaza, indiferent de cauza acestuia ( ati dat un pumn, ati apasat F din greseala, etc)
+- Cand apasati neintentionat o tasta/buton cu gandul de a face alta actiune
+- ORICE missclick se roleaza, indiferent de cauza acestuia ( ati dat un pumn, ati apasat F din greseala, etc)
 
 # CAP.2 REGULI IC
 
