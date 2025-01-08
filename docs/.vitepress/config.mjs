@@ -132,6 +132,7 @@ export default defineConfig({
               items: [
                 { text: 'Regulament General', link: '/zona-info/regulament' },
                 { text: 'Regulament Aditional', link: '/zona-info/regulament-aditional' },
+                { text: 'Regulament Politie', link: '/zona-info/regulament-politie' },
                 { text: 'Regulament Mafii', link: '/zona-info/regulament-mafii' },
               ],
             },
