@@ -51,7 +51,8 @@
 ## 2.5 SPITAL
 - Este <span style="color: red;">INTERZIS</span> sa apasati SPACE odata ce ati trecut de usile spitalelor
 - Este <span style="color: red;">INTERZIS</span> sa va internati direct, atat timp cat exista medici la ghiseul spitalului central ( Pillbox ). Sunteti OBLIGATI sa faceti Roleplay cu acestia
-- Este <span style="color: red;">INTERZIS</span> sa omorati un player fara un motiv intemeiat si dupa sa-l duceti la spital ca sa-l jefuiti. Aceasta regula nu se aplica pe insula CAYO- Este INTERZIS sa duceți un om pe care l-ați găsit random lesinat la spitalul de mafioți și să îl jefuiți.
+- Este <span style="color: red;">INTERZIS</span> sa omorati un player fara un motiv intemeiat si dupa sa-l duceti la spital ca sa-l jefuiti. Aceasta regula nu se aplica pe insula CAYO
+- Este INTERZIS sa duceți un om pe care l-ați găsit random lesinat la spitalul de mafioți și să îl jefuiți.
 
 ## 2.6 INTERVENȚIA MAFIOT PENTRU CIVIL
 - Este <span style="color: red;">INTERZIS</span> sa interveniti mafiot pentru civil în actiunile cu politia daca nu ati fost de fata la inceputul scenariului roleplay
