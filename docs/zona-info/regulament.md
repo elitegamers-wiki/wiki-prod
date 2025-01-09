@@ -407,7 +407,7 @@ efectua streaming pe serverul Elitegamers.
 - Jaful asupra persoanelor este permis doar după acumularea unui număr de 50 de ore IC.
 - Jafurile sunt permise doar în intervalul orar 20.00 – 08.00 în Los Santos.
 - Pe insula Cayo Perico jafurile pot avea loc în intervalul orar 18.00 – 09.00.
--Nu aveți voie să jefuiți persoanele aflate în timpul desfășurării unui job legal, polițiști
+- Nu aveți voie să jefuiți persoanele aflate în timpul desfășurării unui job legal, polițiști
 sau cadre medicale aflate on-duty.
 - În timpul unui jaf puteți deposeda o persoană de toate bunurile aflate în inventar,
 precum și din mașina pe care o conduce.
