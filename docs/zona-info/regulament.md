@@ -22,7 +22,7 @@ decizii până la emoții și sentimente, prin intermediul Roleplay-ului.
 ## 1.3 OUT OF CHARACTER [OOC]
 - Reprezintă tot ceea ce faceți în realitate, fără nicio legătură cu personajul creat sau
 roleplay-ul care vă definește caracterul și evoluția pe server.
-- Este strict  <span style="color: red;">PERMIS</span>ă folosirea informațiilor OOC în IC.
+- Este strict interzisă folosirea informațiilor OOC în IC.
 - Este permis doar în timpul unui ticket în desfășurare, cu acordul unui membru staff.
 
 ## 1.4 META GAMING [MG]
@@ -93,9 +93,9 @@ ciuda faptului că are arma ațintită asupra ta.
 - Cop Fear reprezintă incapacitatea de a simula frica/teama față de un polițist. Trebuie sa
 aveți un comportament civilizat si respectuos fata de Polițiști/Medici indiferent daca
 faceți parte dintr-o Organizație sau nu.
-- Este  <span style="color: red;">PERMIS</span> sa luati la misto un organ al politiei fara a avea un roleplay avansat
+- Este  <span style="color: red;">INTERZIS</span> sa luati la misto un organ al politiei fara a avea un roleplay avansat
 inainte.
-- Este STRICT  <span style="color: red;">PERMIS</span> sa vă luați la împuscat / bătut cu S.I.A.T.-ul deoarece, în mod
+- Este STRICT  <span style="color: red;">INTERZIS</span> sa vă luați la împuscat / bătut cu S.I.A.T.-ul deoarece, în mod
 normal, ar trebui sa rolați frica cand îi vedeți și să fugiți fără să vă mai uitați în spate sau
 să vă predați. Această regulă nu se aplică în zonele retrase sau la locațiile ilegale.
 :::danger SANCTIUNE
@@ -143,7 +143,7 @@ sau a acumulat un număr de 7 caziere.
 - Incidente fatale neprevăzute (lovit de tren, căderea de pe o cladire înaltă)
 
 ## 1.16 OLYMPIC SWIM [OS]
-- Este  <span style="color: red;">PERMIS</span>ă fuga prin apă, înotând la nesfarsit. Acest lucru este considerat olympic
+- Este  <span style="color: red;">INTERZISA</span> fuga prin apă, înotând la nesfarsit. Acest lucru este considerat olympic
 swim pentru că nu poți înota la nesfârșit, în mod normal obosești. Printr-o astfel de
 practică, polițiștilor le este imposibil să vă rețină în apă, neputând trage cu armele din
 dotare.
@@ -165,7 +165,7 @@ dreptul de a îndepărta definitiv jucătorii a căror unică plăcere este să 
 participanți la roleplay.
 - Acțiunile IC care depășesc granița roleplay-ului și implică limbaj vulgar,
 denigrare/discriminare de rasă, naționalitate, etnie, religie sau sex duse la extrem sunt
- <span style="color: red;">PERMIS</span>e cu desăvârșire și sancționate drastic.
+ <span style="color: red;">INTERZISE</span> cu desăvârșire și sancționate drastic.
 - Se interzice cu desăvârșire comportamentul IC inadecvat, jignitor, amenințător sau
 vulgar afișat față de persoanele de sex feminin, atât timp cât nu există o relație de
 apropiere anterioară sau persoana feminină vizată nu și-a dat acordul pentru acest gen de
@@ -176,7 +176,7 @@ Warn/Jail/Ban temporar/Ban permanent
 ## 1.19 SCAM [ESCROCHERIE]
 - Reprezintă o formă de fraudă care exploatează încrederea și vulnerabilitățile oamenilor
 pentru a obține beneficii necuvenite.
-- Este strict  <span style="color: red;">PERMIS</span> să angajați (verbal sau scris) pe cineva să presteze anumite servicii și
+- Este strict  <span style="color: red;">INTERZIS</span> să angajați (verbal sau scris) pe cineva să presteze anumite servicii și
 să nu îi plătiți munca, conform întelegerii pe care ați avut-o.
 - Se consideră Scam orice înșelăciune mai mare de 5000 euro.
 - Nu se consideră Scam dacă împrumutați de bună voie pe cineva cu bani sau bunuri și nu
@@ -186,14 +186,14 @@ Warn/Jail/Ban temporar
 :::
 
 ## 1.20 DROP & KILL [D&K]
-- Este  <span style="color: red;">PERMIS</span> sa forțezi o persoană să arunce bunuri din inventar, iar după aceea să îl
+- Este  <span style="color: red;">INTERZIS</span> sa forțezi o persoană să arunce bunuri din inventar, iar după aceea să îl
 omori. Dacă l-ați forțat sa arunce lucrurile trebuie sa îl lăsați în viață.
 :::danger SANCTIUNE
 Warn/Jail/Ban temporar
 :::
 
 ## 1.21 ROB & KILL 🔄 [R&K]
-- Este  <span style="color: red;">PERMIS</span> sa jefuiești o persoana iar după aceea să o omori.
+- Este  <span style="color: red;">INTERZIS</span> sa jefuiești o persoana iar după aceea să o omori.
 :::danger SANCTIUNE
 Warn/Jail/Ban temporar
 :::
@@ -251,7 +251,7 @@ pentru care nu există animații sau când vreți să accentuați o trăire sau 
 roleplay.
 
 ## 1.27 ID CHECKING
-- Este  <span style="color: red;">PERMIS</span> să vă uitați la id-urile altor jucători fără un motiv bine întemeiat.
+- Este  <span style="color: red;">INTERZIS</span> să vă uitați la id-urile altor jucători fără un motiv bine întemeiat.
 
 ## 1.28 JOBURI LEGALE
 - În situația în care există o uniformă dedicată pentru jobul pe care îl practicați, sunteți obligat
@@ -284,7 +284,7 @@ repetate și doar de către adminii cu grad de la Super-Mod+.
 
 ## 2.2 BAN EVADING
 - Reprezintă încercarea de a intra pe server cu alt cont în condițiile în care ai ban
-temporar/ban permanent pe contul tau principal. Este  <span style="color: red;">PERMIS</span> cu desăvârșire și se
+temporar/ban permanent pe contul tau principal. Este  <span style="color: red;">INTERZIS</span> cu desăvârșire și se
 pedepsește cu ban permanent fără drept de plată.
 :::danger SANCTIUNE
 Ban permanent
@@ -296,7 +296,7 @@ development a comunității, în consecință, încurajăm toți jucătorii să 
 apariția acestor bug-uri, fie direct pe server, prin chat-ul OOC, fie pe discord. Jucătorii
 care sunt prinși că folosesc bugurile descoperite în avantajul propriu sunt banați
 permanent.
-- Folosirea codurilor/cheaturilor de orice tip este strict  <span style="color: red;">PERMIS</span>ă și pedepsită cu ban
+- Folosirea codurilor/cheaturilor de orice tip este strict  <span style="color: red;">INTERZIS</span> și pedepsită cu ban
 permanent.
 :::danger SANCTIUNE
 Ban permanent
@@ -305,20 +305,20 @@ Ban permanent
 ## 2.4 TOXICITATE
 - Orice tip de comportament toxic (jigniri/înjurături/plâns isteric/ limbaj vulgar,
 denigrare/discriminare de rasă, naționalitate, etnie, religie sau sex) afișate pe canalele
-OOC ale comunității sunt  <span style="color: red;">PERMIS</span>e cu desăvârșire și sancționate cu ban permanent.
+OOC ale comunității sunt  <span style="color: red;">INTERZISE</span> cu desăvârșire și sancționate cu ban permanent.
 - Încercările de instigare/intimidare/amenințare/răzbunare împotriva membrilor
 comunității sau a adminilor pe diferite canale OOC interne și externe
-(discord/steam/rețele de socializare/live-uri ) sunt strict  <span style="color: red;">PERMIS</span>e și se pedepsesc cu ban
+(discord/steam/rețele de socializare/live-uri ) sunt strict  <span style="color: red;">INTERZISE</span> și se pedepsesc cu ban
 permanent.
 - Tentativele de abuz sau influențare pe baza posibilelor relații privilegiate create în
-comunitate sau staff sunt strict  <span style="color: red;">PERMIS</span>e și vor fi sancționate corespunzător.
+comunitate sau staff sunt strict  <span style="color: red;">INTERZISE</span> și vor fi sancționate corespunzător.
 :::danger SANCTIUNE
 Warn/Jail/Ban temporar/Ban permanent
 :::
 
 ## 2.5 RECLAMĂ
 - Reclama la alte comunități, indiferent de natura lor și de metoda prin care se face
-reclamă (mascată, prin nume, în mod direct), este strict  <span style="color: red;">PERMIS</span>ă și se pedepsește cu ban
+reclamă (mascată, prin nume, în mod direct), este strict  <span style="color: red;">INTERZISA</span> și se pedepsește cu ban
 permanent.
 :::danger SANCTIUNE
 Ban permanent
@@ -358,7 +358,7 @@ raportarea periodică a acestora se consideră PostHunt.
 incidentului, altfel nu vor mai fi luate în considerare.
 2.10 CHAT OOC
 - Chat-ul global este destinat strict mesajelor ooc (probleme, întrebări, anunțuri).
-- Este  <span style="color: red;">PERMIS</span> să faceți SPAM pe chat.
+- Este  <span style="color: red;">INTERZIS</span> să faceți SPAM pe chat.
 :::danger SANCTIUNE
 Warn/Ban temporar
 :::
@@ -366,7 +366,7 @@ Warn/Ban temporar
 ## 2.11 AFK/DISCONNECT ÎN RP
 - Nu aveți voie să vă dați disconnect în RP (în timpul unei acțiuni organizate sau a
 bătăilor, în timpul interacțiunilor RP sau în timpul unui ticket).
-- Este  <span style="color: red;">PERMIS</span> să stați AFK mai mult de 5 minute în timp ce sunteți ON DUTY ca
+- Este  interzis să stați AFK mai mult de 5 minute în timp ce sunteți ON DUTY ca
 Polițist/Medic/Mecanic.
 - Dacă un jucător este AFK nu aveți voie să interacționați cu el deloc, dacă jucătorul a fost
 AFK înainte de a interacționa cu el.
@@ -382,8 +382,7 @@ Warn/Ban temporar
 - Orice activitate publică sau interacțiune organizată și programată în prealabil, destinată
 unui număr mare de jucători, precum concursuri sportive, petreceri, conferințe, întîlniri
 auto și alte adunări publice, este considerată un eveniment organizat.
-- Influențarea sau perturbarea evenimentelor organizate este  <span style="color: red;">PERMIS</span>ă, cu excepția
-obținerii unui acord scris din partea unui Server Manager+.
+- Influențarea sau perturbarea evenimentelor organizate este interzisă, cu excepția obținerii unui acord scris din partea unui Server Manager+.
 
 ## 2.13 STREAMING ȘI CREAREA DE CONȚINUT VIDEO
 -Streamerii și creatorii de conținut care transmit live pe diferite platforme de socialmedia trebuie să își asume responsabilitatea respectării prezentului regulament.
@@ -430,7 +429,7 @@ de ore IC.
 -Jafurile/furturile asupra autovehiculelor sunt permise doar dacă în proximitatea
 mașinilor vizate nu se află și alte persoane.
 -La un jaf asupra autovehiculelor pot participa cel mult 2 persoane.
--Este strict  <span style="color: red;">PERMIS</span> ca jucătorii să ia ostatici în cadrul jafurilor asupra autovehiculelor.
+-Este strict  <span style="color: red;">INTERZIS</span> ca jucătorii să ia ostatici în cadrul jafurilor asupra autovehiculelor.
 :::danger SANCTIUNE
 Warn/Jail
 :::
@@ -440,7 +439,7 @@ Warn/Jail
 ore IC.
 -Nu aveți voie să jefuiți un bancomat sau un magazin atât timp cât la bancomat sau în
 magazin se află alte persoane.
--Este strict  <span style="color: red;">PERMIS</span> ca jucătorii să ia ostatici în cadrul jafurilor asupra bancomatelor sau
+-Este strict  <span style="color: red;">INTERZIS</span> ca jucătorii să ia ostatici în cadrul jafurilor asupra bancomatelor sau
 a magazinelor.
 :::danger SANCTIUNE
 Warn/Jail
@@ -475,15 +474,15 @@ aproba sau nu scenariul.
 Warn/Jail/Ban temporar
 :::
 
-# 5. PRECIZĂRI SUPLIMENTARE
-## 5.1 Interpretarea în mod arbitrar a prezentului regulament este strict  <span style="color: red;">PERMIS</span>ă. Jucătorii nu
+## 5. PRECIZĂRI SUPLIMENTARE
+- 5.1 Interpretarea în mod arbitrar a prezentului regulament este strict  <span style="color: red;">INTERIZSA</span>. Jucătorii nu
 au dreptul de a ajusta sau interpreta regulile în favoarea proprie, din dorința de a justifica
 sau minimiza consecințele unei încălcări a regulamentului.
-## 5.2 În cazul situațiilor neclare sau a neînțelegerii prezentului regulament, singura
+- 5.2 În cazul situațiilor neclare sau a neînțelegerii prezentului regulament, singura
 autoritate competentă să stabilească sensul exact și aplicabilitatea fiecărei reguli, precum
 și sancțiunile corespunzătoare este echipa administrativă.
-## 5.3 La analiza fiecărei situații care presupune aplicarea unei sancțiuni se vor lua în calcul,
+- 5.3 La analiza fiecărei situații care presupune aplicarea unei sancțiuni se vor lua în calcul,
 în mod obligatoriu, orele (IC) ale jucătorului, precum și vechimea sa pe server.
-## 5.4 Atunci când un jucător acumulează mai multe sancțiuni în urma încălcărilor multiple
+- 5.4 Atunci când un jucător acumulează mai multe sancțiuni în urma încălcărilor multiple
 ale regulamentului într-o singură scenă roleplay, adminul care va penaliza jucătorul va
 acorda sancțiunea cea mai severă.
