@@ -222,7 +222,10 @@ cu excepția situației când sunteți vindecați de un medic.
 situație care atrage după sine deteriorarea unui roleplay calitativ sau natural și îi pune pe
 ceilalți participanți la roleplay în situații stânjenitoare sau nefavorabile.
 
-## 1.25 CONDUSUL NON ROLEPLAY
+## 1.25 PIT-STOP
+- Acțiunea de oprire a unui vehicul prin coliziune laterală sau prin impactul în partea din spate a vehiculului țintă cu scopul de a reduce viteza sau de a opri complet vehiculul respectiv.
+
+## 1.26 CONDUSUL NON ROLEPLAY
 - Nu aveți voie să circulați pe contrasens fără un motiv IC bine întemeiat.
 - Nu aveți voie să ocoliți speedbump-urile, cu excepția situațiilor când sunteți urmăriți de
 poliție.
@@ -244,16 +247,16 @@ autovehiculele și motocicletele cu anvelope de iarnă.
 Warn/Jail/Ban temporar
 :::
 
-## 1.26 COMANDA /ME
+## 1.27 COMANDA /ME
 - Se interzic /me-urile fără sens, stupide, folosite în scopul de a provoca, a jigni sau a
 ataca alte persoane. Comanda /me se folosește doar atunci când trebuie să rolați acțiuni
 pentru care nu există animații sau când vreți să accentuați o trăire sau o emoție în
 roleplay.
 
-## 1.27 ID CHECKING
+## 1.28 ID CHECKING
 - Este  <span style="color: red;">INTERZIS</span> să vă uitați la id-urile altor jucători fără un motiv bine întemeiat.
 
-## 1.28 JOBURI LEGALE
+## 1.29 JOBURI LEGALE
 - În situația în care există o uniformă dedicată pentru jobul pe care îl practicați, sunteți obligat
 să o purtați atât timp cât practicați acel job.
 - În situația în care există un autoturism dedicat pentru jobul pe care îl practicați, sunteți obligat
