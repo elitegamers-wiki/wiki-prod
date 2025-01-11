@@ -11,9 +11,9 @@ outline: deep
 - Reprezintă simularea unui personaj real prin intermediul caracterului creat in joc,
 folosind idei proprii, scenarii similare cu realitatea, decizii și acțiuni personale, realizând
 un joc de rol cât mai credibil și complex.
-- Scopul roleplay-ului este de a crea o experiență imersivă de joc, complexă și cît mai
+- Scopul roleplay-ului este de a crea o experiență imersivă de joc, complexă și cât mai
 realistă, bazată pe interacțiuni și comunicare, factori decizionali și liber arbitru
-(posibilitatea de a alege).
+(posibilitatea de a alege). 
 
 ## 1.2 IN CHARACTER [IC]
 - Reprezintă tot ceea ce se întâmplă în viața personajului creat de tine, de la acțiuni și
@@ -71,7 +71,7 @@ Avertisment verbal/Jail (max 120 min)/Warn/Ban temporar
 :::
 
 ## 1.9 CAR RAM [CR]
-- Car Ram reprezinta lovirea cu mașina ta o altă mașină sau mai multe, fără motive
+- Car Ram reprezinta lovirea cu mașina ta a altei mașini sau a mai multora, fără motive
 întemeiate și fără a face roleplay corespunzător în acest context.
 ::: danger SANCTIUNE
 Avertisment verbal/Jail (max 120 min)/Warn/Ban temporar
@@ -280,7 +280,7 @@ Warn/Jail/Ban temporar
 a 3 warn-uri veți fi banat temporar.
 - JAIL – perioadă determinată de izolare ca urmare a nerespectării regulamentului.
 - BAN TEMPORAR - sancțiune de nivel mediu. Se acordă după acumularea a 3 warn-uri
-sau pentru greșeli stabilite in mod clar de prezentul regulament și pot fi acordate doar de
+sau pentru greșeli stabilite in mod clar de prezentul regulament și poate fi acordat doar de
 adminii cu grad de la Moderator +.
 - BAN PERMANENT - cea mai drastică sancțiune. Se acordă pentru greșeli grave sau
 repetate și doar de către adminii cu grad de la Super-Mod+.
@@ -311,7 +311,7 @@ denigrare/discriminare de rasă, naționalitate, etnie, religie sau sex) afișat
 OOC ale comunității sunt  <span style="color: red;">INTERZISE</span> cu desăvârșire și sancționate cu ban permanent.
 - Încercările de instigare/intimidare/amenințare/răzbunare împotriva membrilor
 comunității sau a adminilor pe diferite canale OOC interne și externe
-(discord/steam/rețele de socializare/live-uri ) sunt strict  <span style="color: red;">INTERZISE</span> și se pedepsesc cu ban
+(discord/steam/rețele de socializare/live-uri) sunt strict  <span style="color: red;">INTERZISE</span> și se pedepsesc cu ban
 permanent.
 - Tentativele de abuz sau influențare pe baza posibilelor relații privilegiate create în
 comunitate sau staff sunt strict  <span style="color: red;">INTERZISE</span> și vor fi sancționate corespunzător.
@@ -359,7 +359,8 @@ sancționării lor se pedepsesc drastic.
 raportarea periodică a acestora se consideră PostHunt.
 - Orice reclamație trebuie să fie formulată în maxim 24 de ore de la ora producerii
 incidentului, altfel nu vor mai fi luate în considerare.
-2.10 CHAT OOC
+
+## 2.10 CHAT OOC
 - Chat-ul global este destinat strict mesajelor ooc (probleme, întrebări, anunțuri).
 - Este  <span style="color: red;">INTERZIS</span> să faceți SPAM pe chat.
 :::danger SANCTIUNE
@@ -383,7 +384,7 @@ Warn/Ban temporar
 
 ## 2.12 EVENIMENTELE ORGANIZATE
 - Orice activitate publică sau interacțiune organizată și programată în prealabil, destinată
-unui număr mare de jucători, precum concursuri sportive, petreceri, conferințe, întîlniri
+unui număr mare de jucători, precum concursuri sportive, petreceri, conferințe, întâlniri
 auto și alte adunări publice, este considerată un eveniment organizat.
 - Influențarea sau perturbarea evenimentelor organizate este interzisă, cu excepția obținerii unui acord scris din partea unui Server Manager+.
 
