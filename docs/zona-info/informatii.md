@@ -8,7 +8,7 @@ outline: deep
 
 <span style="color:red;"><strong>Proiectul EliteGamers RolePlay a fost conceput la inceputul anului 2023, iar de atunci ne straduim sa oferim calitate si unicitate jucatorilor nostri. Suntem de parere ca un server de FiveM este un server care defineste termenul de "comunitate", deoarece membrii sai formeaza o comunitate pe joc cat si pe server-ul de Discord.</strong></span>
 
-## <center>Our Team</center>
+<!-- ## <center>Our Team</center>
 
 ---
 
@@ -27,4 +27,4 @@ outline: deep
   </div>
 </div>
 
----
+--- -->
