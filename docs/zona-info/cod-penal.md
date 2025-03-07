@@ -25,38 +25,38 @@ Faptele codului penal sunt de 2 tipuri, CONTRAVENTII si INFRACTIUNI. Fiecare din
 ## Art. 1.1 Limite de viteza si sanctiuni:
 
 - **(1)  Viteza legală maxim admisă pe drumurile publice cu un autoturism este de:**
-70 km/ora în localitate
+- 70 km/ora în localitate
 
-100 km/ora pe drum national
+- 100 km/ora pe drum national
 
-150 km/ora pe autostradă
+- 150 km/ora pe autostradă
 
 - **(2) Viteza legală maxim admisă pe drumurile publice cu un camion/tir este de:**
-60 km/ora în localitate
+- 60 km/ora în localitate
 
-80 km/ora pe drum național
+- 80 km/ora pe drum național
 
-100 km/ora pe autostrada
+- 100 km/ora pe autostrada
 
 - **(3) Sanctiunile depasirii limitelor de viteza definite in Codul Penal**
 Depășirea limitei cu 10-39 km/h este CONTRAVENȚIE
 
-AMENDĂ (90 € – 900 €) + 3 Puncte de penalizare
+- AMENDĂ (90 € – 900 €) + 3 Puncte de penalizare
 
 Depășirea limitei cu 40-99 km/h este CONTRAVENȚIE
 
-AMENDĂ (200 € – 2000 €) + 5 Puncte de penalizare
+- AMENDĂ (200 € – 2000 €) + 5 Puncte de penalizare
 
 Depășirea limitei cu 100+ km/h este INFRACȚIUNE
 
-AMENDĂ (500 € – 5000 €) + Suspendare permis + Închisoare 30 min
+- AMENDĂ (500 € – 5000 €) + Suspendare permis + Închisoare 30 min
 
 ## Art. 1.2 Obligatia participantilor la trafic in vederea respectarii indicatoarelor, marcajelor rutiere, a vehiculelor de urgență și a dispozitivelor speciale (jaloane, bariere, etc).
 
 - **(1) Trecerea pe culoarea rosie a semaforului este interzisă și se pedepsește contravențional.**
-Amendă(90 € – 900 €) + 5 Puncte penalizare
+- Amendă(90 € – 900 €) + 5 Puncte penalizare
 
-- **(2) Se permite trecerea pe culoarea roșie a semaforului între orele 24.00 – 12.00 (se consideră     galben intermitent) dar aveți obligația de a vă asigura înainte de a trece.**
+- **(2) Se permite trecerea pe culoarea roșie a semaforului între orele 24.00 – 12.00 (se consideră galben intermitent) dar aveți obligația de a vă asigura înainte de a trece.**
 - **(3) Toți participanții la trafic au obligația de a respecta marcajele rutiere, precum și dispozitivele speciale folosite de poliție (stop, linie continuă, cedează trecerea, jaloane, bariere, etc)**
 Amendă (75 € - 750 €) + 5 Puncte de penalizare
 
