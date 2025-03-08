@@ -1,7 +1,3 @@
----
-outline: deep
----
-
 # <center>👮‍♂️***Introducerea codului penal***👮‍♂️</center>
 
 ## CUPRINS COD PENAL
