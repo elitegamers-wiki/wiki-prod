@@ -39,9 +39,9 @@ outline: deep
 
 **(3) Sanctiunile depasirii limitelor de viteza definite in Codul Penal**
 Depășirea limitei cu 10-39 km/h este CONTRAVENȚIE
-
+```danger
 - AMENDĂ (90 € – 900 €) + 3 Puncte de penalizare
-
+```
 **Depășirea limitei cu 40-99 km/h este CONTRAVENȚIE**
 
 - AMENDĂ (200 € – 2000 €) + 5 Puncte de penalizare
