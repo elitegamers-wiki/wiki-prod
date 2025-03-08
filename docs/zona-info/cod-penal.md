@@ -16,9 +16,9 @@ outline: deep
 - CAP. 8 Infracţiuni contra justiţiei
 
 
-**Faptele codului penal sunt de 2 tipuri:**
+## **Faptele codului penal sunt de 2 tipuri:**
 - CONTRAVENTII si INFRACTIUNI. 
-- Fiecare dintre acestea au pedepse principale si pedepse secundare, dupa cum urmeaza:
+- Fiecare dintre acestea au pedepse principale si pedepse secundare, dupa cum urmeaza
 
 # Cap.1 LEGISLAȚIE RUTIERĂ</span>**
 ## Art. 1.1 Limite de viteza si sanctiuni:
