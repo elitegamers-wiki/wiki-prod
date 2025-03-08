@@ -24,7 +24,7 @@ outline: deep
 ---
 ## Art. 1.1 Limite de viteza si sanctiuni:
 
-- **(1)  Viteza legală maxim admisă pe drumurile publice cu un autoturism este de:**
+**(1)  Viteza legală maxim admisă pe drumurile publice cu un autoturism este de:**
 - 70 km/ora în localitate
 
 - 100 km/ora pe drum national
