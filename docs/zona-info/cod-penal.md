@@ -39,17 +39,17 @@ outline: deep
 
 **(3) Sanctiunile depasirii limitelor de viteza definite in Codul Penal**
 Depășirea limitei cu 10-39 km/h este CONTRAVENȚIE
-```danger
+:::danger
 - AMENDĂ (90 € – 900 €) + 3 Puncte de penalizare
-```
+:::
 **Depășirea limitei cu 40-99 km/h este CONTRAVENȚIE**
-
+:::danger
 - AMENDĂ (200 € – 2000 €) + 5 Puncte de penalizare
-
+:::
 **Depășirea limitei cu 100+ km/h este INFRACȚIUNE**
-
+:::danger
 - AMENDĂ (500 € – 5000 €) + Suspendare permis + Închisoare 30 min
-
+:::
 ## Art. 1.2 Obligatia participantilor la trafic in vederea respectarii indicatoarelor, marcajelor rutiere, a vehiculelor de urgență și a dispozitivelor speciale (jaloane, bariere, etc).
 
 **(1) Trecerea pe culoarea rosie a semaforului este interzisă și se pedepsește contravențional.**
