@@ -361,103 +361,124 @@ Amendă (180 € – 1800 €) + 5 Puncte de penalizare
 ## Art. 7.4 Jocurile de noroc
 
 **(1) Desfășurarea sau practicarea jocurilor de noroc în zonele publice, cu excepția cazinourilor sau a spațiilor dedicate pentru aceste activități.**
+:::danger Atentie!
 - Amendă (500 € – 5000 €)
-
+:::
 # CAP. 8 INFRACȚIUNI CONTRA JUSTIȚIEI
 
 ## Art. 8.1 Refuzul legitimării
 
 **(1) Refuzul unei persoane de a furniza date sau documente necesare stabilirii identității, la cererea organelor de ordine publică.**
+:::danger Atentie!
 - Amendă (100 € – 1000 €)
-
+:::
 ## Art. 8.2 Lipsa actului de identitate
 
 **(1) Orice cetățean este obligat să dețină și să poarte actul de identitate.**
+:::danger Atentie!
 - Amendă (100 € – 1000 €)
-
+:::
 ## Art 8.3 Fals în declarații
 
 **(1) Declararea necorespunzătoare a adevărului, verbal sau în scris, în fața organelor de ordine publică.**
+:::danger Atentie!
 - Amendă (300 € – 3000 €) + Închisoare (15 min)
-
+:::
 ## Art. 8.4 Ultraj judiciar
 
 **(1) Insultarea, înjosirea, calomnierea, amenințarea ori alte acte de violență verbală sau fizică săvârșite împotriva unui agent de poliție, procuror, judecător sau cadru medical aflat în exercitarea atribuțiilor de serviciu.**
+:::danger Atentie!
 - Amendă (250 € – 2500 €) + Închisoare (10 min)
-
+:::
 ## Art. 8.5 Darea de mită
 
 **(1) Promisiunea, oferirea de bani sau alte foloase în schimbul modificării ori influențării deciziei unui agent de poliție, procuror sau judecător.**
+:::danger Atentie!
 - Amendă (2500 € – 25 000 €) + Închisoare (60 min)
-
+:::
 ## Art. 8.6 Luarea de mită
 
 **(1) Fapta organului de ordine publică care, direct ori indirect, pentru sine sau pentru altul, pretinde sau primește bani sau alte foloase, în legătură cu îndeplinirea, neîndeplinirea, urgentarea ori întârzierea îndeplinirii unui act ce intră în îndatoririle sale de serviciu.**
+:::danger Atentie!
 - Amendă (5000 € – 50 000 €) + Închisoare (120 min) + Demitere din funcție
-
+:::
 ## Art. 8.7 Neplata amenzilor
 
 **(1) Refuzul conștient de a plăti amenda.**
+:::danger Atentie!
 - Închisoare (30 min)
-
+:::
 ## Art 8.8 Obstrucționarea unui agent de poliție
 
 **(1) Tentativa de a împiedica fără drept un agent de poliție să își ducă la îndeplinire atribuțiile de serviciu.**
+:::danger Atentie!
 - Amendă (200 € – 2000 €) + Închisoare (20 min)
-
+:::
 ## Art. 8.8 Opunere la arest/fuga
 
 **(1) Încercarea de a se împotrivi arestării în urma emiterii unui mandat de arestare sau a deciziei unui agent de poliție.**
+:::danger Atentie!
 - Amendă (400 € – 4000 €) + Închisoare (30 min în plus față de mandat)
-
+:::
 ## Art. 8.9 Refuzul de a se conforma ordinului unui agent de poliție
 
 **(1) Fapta de a nu asculta ordinul unui agent de poliție care își îndeplinește îndatoririle de serviciu.**
+:::danger Atentie!
 - Amenda (200 € – 2000 €)
-
+:::
 ## Art. 8.10 Evadarea din custodie sau închisoare
 
 **(1) Evadarea din starea legală de reținere (custodie) sau de deținere (închisoare).**
+:::danger Atentie!
 - Mandat de arestare - Închisoare (dublarea sentinței precedentă)
-
+:::
 ## Art 8.11 Apelarea abuzivă a numerelor de urgență
 
 **(1) Folosirea liniilor telefonice de urgență în mod abuziv cu scopul de a face farse sau pentru motive nejustificate.**
+:::danger Atentie!
 - Amendă (100 € – 1000 €) + Închisoare (15 min)
-
+:::
 ## Art 8.12 Munca la negru
 
 **(1) Activitatea prestată de un salariat pentru un angajator, persoană fizică sau juridică, fără forme legale.**
+:::danger Atentie!
 - Amendă (1000 € – 10 000 €)
-
+:::
 ## Art 8.13 Licențe / Atestate
 
 **(1) Practicarea joburilor fără atestatele sau licențele care atestă dreptul legal de a exercita acea activitate.**
+:::danger Atentie!
 - Amendă (5000 € – 50 000 €) + Închisoare (30 min)
-
+:::
 # CAP. 9 REGIMUL ARMELOR ȘI AL MUNIȚIILOR
 
 ## Art. 9.1 Posesia armelor albe
 
 **(1) Deținerea de obiecte destinate și adaptate pentru vătămarea sau omorârea altor persoane prin contact nemijlocit cu tăiere (box, stilet, briceag, baionetă)**
+:::danger Atentie!
 - Amendă (100 € – 1000 €) + Închisoare (15 min) + Confiscarea Armelor
-
+:::
 ## Art. 9.2 Posesia armelor de foc de calibru mic fără permis de port-armă
 
 **(1) Deținerea armelor de calibru mic fără un permis de port-armă eliberat de către poliție.**
+:::danger Atentie!
 - Amendă (250 € – 2500 €) + Închisoare (30 min) + Confiscarea Armelor
-
+:::
 ## Art. 9.3 Posesia armelor automate
 
 **(1) Deținerea armelor de foc automate (AK-47, SMG, M4, TEC, RIFLES, SHOTGUN)  și a gloanțelor necesare acestora sunt strict interzise.**
+:::danger Atentie!
 - Amendă (500 € – 5000 €) + Închisoare (60 min) + Confiscarea Armelor
-
+:::
 ## Art. 9.4 Posesia unui dispozitiv incendiar sau explozibil
 
 **(1) Deținerea dispozitivelor incendiare sau explozibile sunt strict interzise.**
+:::danger Atentie!
 - Amendă (1000 € – 10 000 €) + Închisoare (120 min) + Confiscarea Armelor
-
+:::
 ## Art. 9.5 Trafic de arme și muniții
 
 **(1) Fabricarea, asamblarea și transportul de arme letale, de piese sau de muniție pentru acestea, fără autorizație, sunt strict interzise.**
+:::danger Atentie!
 - Amendă (3000 € – 30 000 €) + Închisoare (120 min)  + Confiscarea Armelor
+:::
