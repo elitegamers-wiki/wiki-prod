@@ -20,7 +20,7 @@ outline: deep
 - CONTRAVENTII si INFRACTIUNI. 
 - Fiecare dintre acestea au pedepse principale si pedepse secundare, dupa cum urmeaza
 
-# Cap.1 LEGISLAȚIE RUTIERĂ</span>**
+# Cap.1 LEGISLAȚIE RUTIERĂ**
 ## Art. 1.1 Limite de viteza si sanctiuni:
 
 **(1)  Viteza legală maxim admisă pe drumurile publice cu un autoturism este de:**
