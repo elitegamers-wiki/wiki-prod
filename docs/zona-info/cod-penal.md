@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d3dcb7e0-1b11-470f-9b5b-801416ba09ca)---
+---
 outline: deep
 ---
 
