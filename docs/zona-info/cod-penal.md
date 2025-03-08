@@ -17,7 +17,7 @@ outline: deep
 
 
 **Faptele codului penal sunt de 2 tipuri:**
--CONTRAVENTII si INFRACTIUNI. 
+- CONTRAVENTII si INFRACTIUNI. 
 - Fiecare dintre acestea au pedepse principale si pedepse secundare, dupa cum urmeaza:
 
 # Cap.1 LEGISLAȚIE RUTIERĂ</span>**
