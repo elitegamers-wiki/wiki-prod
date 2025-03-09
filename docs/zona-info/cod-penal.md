@@ -320,7 +320,7 @@ Amendă (180 € – 1800 €) + 5 Puncte de penalizare
 
 **(1) Inițierea sau constituirea unui grup infracțional organizat, aderarea sau sprijinirea, sub orice formă, a unui astfel de grup este interzisă.**
 :::danger Atentie!
-- Amendă (5000 € 50 000 €) + Închisoare (120 min)
+- Amendă (5000 € - 50 000 €) + Închisoare (120 min)
 :::
 ## Art. 6.5 Hărțuirea
 
@@ -332,7 +332,7 @@ Amendă (180 € – 1800 €) + 5 Puncte de penalizare
 
 **(1) Acoperirea feței cu măști, bandane, în zonele publice este interzisă (cu excepția motocicliștilor).**
 :::danger Atentie!
-- Amendă (50 – 500 €)
+- Amendă (50 € – 500 €)
 :::
 # CAP. 7 INFRACȚIUNI CONTRA BUNELOR MORAVURI
 
