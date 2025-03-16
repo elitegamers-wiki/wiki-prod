@@ -109,7 +109,7 @@ export default defineConfig({
         text: 'Comenzi Rapide',
         items: [
           { text: 'Politie', link: '/factiuni/politie' },
-          { text: 'Smir', link: '/factiuni/smir' },
+          { text: 'Smir.', link: '/factiuni/smir' },
         ],
       },
 
