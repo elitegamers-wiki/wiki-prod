@@ -1,4 +1,4 @@
-ELITE BUSINESS CENTER![image](https://github.com/user-attachments/assets/8d05bdb7-16da-4a69-8ab5-71e3147b02e6)
+[image](https://github.com/user-attachments/assets/8d05bdb7-16da-4a69-8ab5-71e3147b02e6)
 
 ## AFACERILE DE TIP: GUNSHOP!
 ### PE SERVER EXISTA 11 LOCATIIPENTRUACESTTIP DE BUSINESS
