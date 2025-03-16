@@ -139,8 +139,7 @@ martori.
 - În urma trădării unei organizații/mafii, dacă a oferit informații din interiorul
 acelei organizații poliției sau altei organizații rivale și a fost descoperit.
 - Când a comis infracțiuni extreme multiple și trebuie să facă închisoare pe viață
-sau a acumulat un număr de 7 caziere.
-- Incidente fatale neprevăzute (lovit de tren, căderea de pe o cladire înaltă)
+sau a acumulat un număr de 5 caziere.
 
 ## 1.16 OLYMPIC SWIM [OS]
 - Este  <span style="color: red;">INTERZISA</span> fuga prin apă, înotând la nesfarsit. Acest lucru este considerat olympic
