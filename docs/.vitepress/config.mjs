@@ -187,6 +187,7 @@ export default defineConfig({
         activeMatch: '^/afaceri/',
         items: [
           { text: 'Elite Business Center', link: '/afaceri/elite-business-center' },
+          { text: 'Locatii', link: '/afaceri/locatii-afaceri' },
         ],
       },
       {
