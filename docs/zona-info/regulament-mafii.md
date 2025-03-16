@@ -35,5 +35,5 @@ O Familie/Grupare IC reprezintă un grup de jucători care desfășoară activit
 - Fiecare organizație poate avea un singur lider. Dacă acesta părăsește grupul, organizația se dizolvă automat.
 - Fără transfer de conducere – Liderul nu poate transfera organizația altui jucător.
 - Eliminarea liderului (CK) duce la dizolvarea organizației – Dacă liderul primește Character Kill (ex: acumularea a 5 caziere și condamnarea pe viață, moarte într-un război acceptat de ambele părți sau un alt eveniment care duce la eliminarea sa definitivă), organizația va fi desființată.
-- 4 avertismente duc la închiderea organizației – Dacă membrii încalcă regulile în mod repetat, iar organizația acumulează 4 avertismente într-un interval scurt, aceasta va fi închisă.
-Selecția atentă a membrilor – Liderii trebuie să accepte doar jucători potriviți pentru grup, testându-le abilitățile și verificându-le compatibilitatea cu organizația.
+- 4 avertismente duc la închiderea organizației (dacă membrii încalcă regulile în mod repetat, iar organizația acumulează 4 avertismente într-un interval scurt aceasta va fi închisă).
+- Selecția atentă a membrilor (liderii trebuie să accepte doar jucători potriviți pentru grup, testându-le abilitățile și verificându-le compatibilitatea cu organizația).
