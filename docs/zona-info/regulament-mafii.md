@@ -22,11 +22,13 @@ Grupurile IC pot avea canale dedicate pentru discuții OOC, însă acestea nu tr
 În cazul în care o organizație IC sau membrii săi încalcă în mod repetat regulile serverului, administrația are dreptul de a interzice desfășurarea activităților IC pentru respectiva organizație.
 
 3. Obținerea Statutului de „Organizație Non-Oficială”
+
 Comunitatea permite un număr maxim de 4 Organizații Oficiale și 4 Organizații Non-Oficiale.
 Aprobarea unei organizații se face în funcție de disponibilitatea sloturilor, activitatea, vechimea și implicarea liderului și a membrilor săi.
 Cererile de înregistrare trebuie completate conform unui format prestabilit și depuse pe platforma Discord a comunității EliteGamers.
 
 4. Reguli pentru Liderii de Organizații
+
 Un singur lider – Fiecare organizație poate avea un singur lider. Dacă acesta părăsește grupul, organizația se dizolvă automat.
 Fără transfer de conducere – Liderul nu poate transfera organizația altui jucător.
 Eliminarea liderului (CK) duce la dizolvarea organizației – Dacă liderul primește Character Kill (ex: acumularea a 5 caziere și condamnarea pe viață, moarte într-un război acceptat de ambele părți sau un alt eveniment care duce la eliminarea sa definitivă), organizația va fi desființată.
