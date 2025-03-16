@@ -3,9 +3,9 @@ outline: deep
 ---
 <img src="https://cdn-icons-png.flaticon.com/512/4913/4913701.png" alt="pozaCasino" width="230" height="230" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
-# Despre afacerile de pe server!
-DESPRE NOI
-La ELITE BUSINESS CENTER, nu suntem doar un nume, ci un partener de încredere dedicat să ofere clienților săi un mediu propice pentru dezvoltare și succes. Rețeaua noastră de afaceri, situată în regiunea Los Santos, este concepută pentru a crea un echilibru între afaceri și stilul de viață. Locația noastră strategică, în zone cu proiecte mixte, garantează acces facil și condiții optime pentru creștere și evoluție profesională.
+# DESPRE NOI
+
+ELITE BUSINESS CENTER nu este doar un nume, ci un partener de încredere dedicat să ofere clienților săi un mediu propice pentru dezvoltare și succes. Rețeaua noastră de afaceri, situată în regiunea Los Santos, este concepută pentru a crea un echilibru între afaceri și stilul de viață. Locația noastră strategică, în zone cu proiecte mixte, garantează acces facil și condiții optime pentru creștere și evoluție profesională.
 
 # CLAUZE CONTRACTUALE GENERALE ȘI OBLIGATORII
 - Chiria aferentă locației alese trebuie achitată zilnic, timp de 30 de zile consecutive de la momentul semnării contractului. După achitarea integrală a sumei, ELITE BUSINESS CENTER va oferi spațiul închiriat fără alte costuri suplimentare pentru toată perioada derulării afacerii.
