@@ -109,7 +109,7 @@ export default defineConfig({
         text: 'Comenzi Rapide',
         items: [
           { text: 'Politie', link: '/factiuni/politie' },
-          { text: 'Smurd', link: '/factiuni/smurd' },
+          { text: 'Smir', link: '/factiuni/smir' },
         ],
       },
 
@@ -150,7 +150,6 @@ export default defineConfig({
         items: [
           { text: 'Telefon', link: '/general/telefon' },
           { text: 'Inventar', link: '/general/inventar' },
-          { text: 'Crafting', link: '/general/crafting' },
           { text: 'Scoala De Soferi', link: '/general/scoala-de-soferi' },
           { text: 'ATM-uri', link: '/general/atm-uri' },
         ],
@@ -184,10 +183,10 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Economia Server-ului',
-        activeMatch: '^/economia-serverului/',
+        text: 'Afaceri,
+        activeMatch: '^/afaceri/',
         items: [
-          { text: 'Business-uri', link: '/economia-serverului/business' },
+          { text: 'Elite Business Center', link: '/afaceri/elite-business-center' },
         ],
       },
       {
