@@ -1,4 +1,5 @@
 1. Definiție și Responsabilități ale Familiilor/Grupărilor IC
+
 O Familie/Grupare IC reprezintă un grup de jucători care desfășoară activități legale sau ilegale în orașul virtual al comunității. Membrii acestor organizații trebuie să respecte regulile serverului și să contribuie la îmbunătățirea experienței de joc prin:
 
 Dezvoltarea relațiilor comerciale și profesionale, indiferent dacă sunt legale sau ilegale.
