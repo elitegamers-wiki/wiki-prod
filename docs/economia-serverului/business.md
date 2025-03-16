@@ -28,20 +28,18 @@ ELITE BUSINESS CENTER nu este doar un nume, ci un partener de încredere dedicat
 
 ELITE BUSINESS CENTER își rezervă dreptul de a modifica regulile contractuale, cu notificarea prealabilă a chiriașilor.
 
-CONTACT 
+## CONTACT 
+- Localitate: Los Santos
+- Zona: Downtown
+- Strada: San Andreas Avenue
+- Harta: [CLICK AICI](https://imgur.com/CZIszrt)
+- Telefon: TBD
 
-Localitate: Los Santos
-Zona: Downtown
-Strada: San Andreas Avenue
-Harta: [CLICK AICI](https://imgur.com/CZIszrt)
-Telefon: TBD
-
-PROGRAM
-
-Luni: TBD
-Marti: TBD
-Miercuri: TBD
-Joi: TBD
-Vineri: TBD
-Sambata: TBD
-Duminica: TBD
+## PROGRAM
+- Luni: TBD
+- Marti: TBD
+- Miercuri: TBD
+- Joi: TBD
+- Vineri: TBD
+- Sambata: TBD
+- Duminica: TBD
