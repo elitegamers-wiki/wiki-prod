@@ -2,10 +2,10 @@
 
 O Familie/Grupare IC reprezintă un grup de jucători care desfășoară activități legale sau ilegale în orașul virtual al comunității. Membrii acestor organizații trebuie să respecte regulile serverului și să contribuie la îmbunătățirea experienței de joc prin:
 
-Dezvoltarea relațiilor comerciale și profesionale, indiferent dacă sunt legale sau ilegale.
-Câștigarea respectului și recunoașterii în rândul altor jucători printr-un comportament adecvat.
-Evoluția constantă în cadrul organizației, respectând ierarhia și regulile interne.
-Termeni precum Familie/Grupare IC, Organizație Non-Oficială/Oficială sunt folosiți în context OOC pentru a diferenția facțiunile ilegale și a gestiona numărul de sloturi disponibile. În joc, membrii pot alege orice denumire pentru organizația lor, fără restricții impuse de acești termeni.
+- Dezvoltarea relațiilor comerciale și profesionale, indiferent dacă sunt legale sau ilegale.
+- Câștigarea respectului și recunoașterii în rândul altor jucători printr-un comportament adecvat.
+- Evoluția constantă în cadrul organizației, respectând ierarhia și regulile interne.
+- Termeni precum Familie/Grupare IC, Organizație Non-Oficială/Oficială sunt folosiți în context OOC pentru a diferenția facțiunile ilegale și a gestiona numărul de sloturi disponibile. În joc, membrii pot alege orice denumire pentru organizația lor, fără restricții impuse de acești termeni.
 
 2. Organizare și Funcționare a Grupărilor IC
 
