@@ -183,7 +183,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Afaceri,
+        text: 'Afaceri',
         activeMatch: '^/afaceri/',
         items: [
           { text: 'Elite Business Center', link: '/afaceri/elite-business-center' },
