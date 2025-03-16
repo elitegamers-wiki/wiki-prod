@@ -10,15 +10,18 @@ Termeni precum Familie/Grupare IC, Organizație Non-Oficială/Oficială sunt fol
 2. Organizare și Funcționare a Grupărilor IC
 
 2.1 Utilizarea Platformei Discord
+
 Fiecare grup IC poate avea propriul server Discord pentru organizarea activităților interne.
 Canalele permise pentru comunicarea IC includ: anunțuri, evidență membri, regulamente interne, uniforme, demisii și cereri de inactivitate.
 Este interzisă utilizarea canalelor de voice pentru discuții IC. Orice abatere va fi sancționată conform regulamentului comunității.
 
 2.2 Reguli pentru Discuțiile Out-Of-Character (OOC)
+
 Grupurile IC pot avea canale dedicate pentru discuții OOC, însă acestea nu trebuie folosite pentru conversații sau acțiuni IC.
 Încălcarea acestei reguli prin desfășurarea de conversații IC în canalele OOC va fi sancționată.
 
 2.3 Respectarea Regulamentului General al Serverului
+
 În cazul în care o organizație IC sau membrii săi încalcă în mod repetat regulile serverului, administrația are dreptul de a interzice desfășurarea activităților IC pentru respectiva organizație.
 
 3. Obținerea Statutului de „Organizație Non-Oficială”
