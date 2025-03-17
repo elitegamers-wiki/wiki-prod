@@ -94,6 +94,29 @@ Aplicația Garaj este ideală pentru gestionarea vehiculelor tale, de la urmări
 
 <img src="https://i.imgur.com/Mye7L7w.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
 <img src="https://i.imgur.com/afTg3ml.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
-- Starea vehiculelor – Poți vizualiza informații detaliate despre starea fiecărui vehicul, inclusiv kilometrajul, nivelul de combustibil, întreținerea necesară și altele.
-- Data achizitionarii - Permite vizualizarea datei in care a fost achizitionat autovehiculul.
-- Date suplimentare - Se precizeaza brand-ul, modelul, si numarul.
+
+- Starea vehiculelor = Poți vizualiza informații detaliate despre starea fiecărui vehicul, inclusiv kilometrajul, nivelul de combustibil, întreținerea necesară și altele.
+- Data achizitionarii = Permite vizualizarea datei in care a fost achizitionat autovehiculul.
+- Date suplimentare = Se precizeaza brand-ul, modelul, si numarul.
+
+## 🏦 Banking – Gestionarea finanțelor personale
+Aplicația Banking îți permite să îți administrezi toate tranzacțiile financiare într-un loc sigur și ușor de accesat.
+
+<img src="https://i.imgur.com/QKH7ZR2.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+
+- Verificarea soldului – Poți verifica soldul contului tău bancar în timp real, indiferent unde te afli.
+- Transferuri rapide – Realizează transferuri bancare rapide și sigure între conturi, atât interne, cât și internaționale.
+- Plăți online – Efectuează plăți rapide pentru facturi, cumpărături sau servicii, fără a ieși din aplicație.
+- Istoric tranzacții – Vizualizează toate tranzacțiile anterioare și primește notificări despre mișcările contului tău.
+
+## 🔄 Loops – Platformă socială pentru activități și colecția de mașini
+Aplicația Loops este un spațiu social dedicat pasionaților de mașini și activități de orice fel. Aici poți interacționa cu prieteni, posta imagini și împărtăși momente din viața ta.
+
+<img src="https://i.imgur.com/sLnJeqL.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="https://i.imgur.com/AVpVMV8.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+
+- Postarea de imagini – Poți posta imagini cu activitățile tale sau colecția de mașini, pentru a le împărtăși cu alți utilizatori.
+- Interacțiune socială – Urmărește utilizatori, dă like-uri și lasă comentarii la postările altora pentru a rămâne conectat cu rețeaua ta socială.
+- Crearea unui profil personalizat – Îți poți personaliza profilul cu informații despre tine, pasiunile tale și colecția de mașini.
+- Căutare și descoperire – Căută activități, evenimente sau utilizatori cu interese similare pentru a-ți extinde rețeaua socială.
+- Galerie personală – Ține toate postările și imagini într-o galerie personală pe care o poți organiza și partaja oricând.
