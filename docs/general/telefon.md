@@ -120,3 +120,29 @@ Aplicația Loops este un spațiu social dedicat pasionaților de mașini și act
 - Crearea unui profil personalizat – Îți poți personaliza profilul cu informații despre tine, pasiunile tale și colecția de mașini.
 - Căutare și descoperire – Căută activități, evenimente sau utilizatori cu interese similare pentru a-ți extinde rețeaua socială.
 - Galerie personală – Ține toate postările și imagini într-o galerie personală pe care o poți organiza și partaja oricând.
+
+## 🖼️ Galerie – Organizarea și vizualizarea imaginilor
+Aplicația Galerie îți permite să stochezi, organizezi și vizualizezi rapid toate fișierele media, inclusiv capturi de ecran și fotografii.
+
+<img src="https://i.imgur.com/VSk3mPf.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+
+- Stocarea fișierelor media – Salvează și organizează toate fișierele tale media într-un singur loc, fie că sunt poze, capturi de ecran sau imagini din aplicații.
+- Vizualizare rapidă – Accesează fișierele tale într-un mod rapid și eficient, având posibilitatea de a le vizualiza direct din aplicație.
+
+## 📶 InetMax (5G) – Gestionarea conexiunii la internet
+Aplicația InetMax te ajută să gestionezi conexiunea la internet și să achiziționezi pachete de date pentru a rămâne conectat în orice moment.
+
+<img src="https://i.imgur.com/yMW4Ydi.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+
+Verificarea stării rețelei – Poți verifica rapid starea conexiunii tale la rețea.
+Achiziționarea pachetelor de internet – Achiziționează rapid pachete de date suplimentare pentru a te asigura că ai suficient internet.
+Monitorizarea consumului de date – Urmărește consumul de date pentru a evita depășirea limitelor impuse de operatorul tău.
+Notificări de conectivitate – Primești notificări atunci când conexiunea la rețea este slabă sau întreruptă.
+
+## 📍 GPS – Navigație și găsirea locațiilor
+Aplicația GPS îți oferă indicații precise pentru a ajunge la destinațiile dorite, indiferent de locația ta.
+
+<img src="https://i.imgur.com/Q7RSkr9.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+
+Indicații de navigație – Primești direcții pas cu pas pentru a ajunge rapid și ușor la destinațiile tale.
+Găsirea locațiilor dorite – Căutând o adresă sau un loc pe hartă, aplicația îți arată rutele optime și alternative.
