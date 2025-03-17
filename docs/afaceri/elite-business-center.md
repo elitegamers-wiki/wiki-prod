@@ -1,7 +1,7 @@
 ---
 outline: deep
 ---
-<img src="https://imgur.com/a/P2yR8jM.png" 
+https://imgur.com/a/P2yR8jM.png
 
 ## DESPRE NOI
 
