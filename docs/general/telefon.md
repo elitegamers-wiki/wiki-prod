@@ -88,3 +88,12 @@ Aplicația Anunțuri este locul unde utilizatorii pot vizualiza cele mai recente
 4. Apel rapid către SMIR (Serviciul Medical de Urgență)
 - Contact direct cu SMIR
 - În caz de urgență medicală, poți suna imediat la serviciile SMIR pentru a solicita intervenție rapidă.
+
+## 🚗 Garaj – Administrarea vehiculelor personale
+Aplicația Garaj este ideală pentru gestionarea vehiculelor tale, de la urmărirea stării acestora, până la localizarea și administrarea parcării.
+
+<img src="https://i.imgur.com/Mye7L7w.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="https://i.imgur.com/afTg3ml.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+- Starea vehiculelor – Poți vizualiza informații detaliate despre starea fiecărui vehicul, inclusiv kilometrajul, nivelul de combustibil, întreținerea necesară și altele.
+- Data achizitionarii - Permite vizualizarea datei in care a fost achizitionat autovehiculul.
+- Date suplimentare - Se precizeaza brand-ul, modelul, si numarul.
