@@ -146,3 +146,57 @@ Aplicația GPS îți oferă indicații precise pentru a ajunge la destinațiile 
 
 Indicații de navigație – Primești direcții pas cu pas pentru a ajunge rapid și ușor la destinațiile tale.
 Găsirea locațiilor dorite – Căutând o adresă sau un loc pe hartă, aplicația îți arată rutele optime și alternative.
+
+## 📞 Apeluri – Inițiază și primește apeluri, gestionează agenda telefonică
+Aplicația Apeluri este esențială pentru comunicarea zilnică. Aceasta îți permite să efectuezi apeluri telefonice rapid și eficient, să primești apeluri și să îți gestionezi întreaga agenda telefonică.
+
+<img src="https://i.imgur.com/ml6BnyA.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="https://i.imgur.com/uGNdeaa.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+
+1. Inițiere apeluri
+- Poți efectua apeluri către orice număr din lista de contacte sau prin tastarea unui număr de telefon. Aplicația îți oferă o interfață intuitivă pentru a apela rapid pe cine dorești.
+
+2. Primirea apelurilor
+- Poți răspunde rapid la apelurile primite cu o simplă atingere a ecranului, fără a fi nevoie să navighezi prin diverse meniuri.
+
+3. Gestionarea agendei telefonice
+- Aplicația îți permite să adaugi, să editezi sau să ștergi contacte din lista ta, astfel încât să poți organiza rapid informațiile de contact.
+
+4. Istoric apeluri
+- Aplicația păstrează un istoric detaliat al apelurilor efectuate și primite, permițându-ți să vizualizezi informațiile legate de fiecare apel (data, durata, tipul apelului).
+
+## 📩 Mesagerie – Trimiterea și primirea de SMS-uri
+Aplicația Mesagerie îți oferă posibilitatea de a trimite și de a primi mesaje text (SMS) într-un mod simplu și eficient, fiind un instrument esențial pentru comunicarea rapidă.
+
+1. Trimiterea de SMS-uri
+- Poți trimite mesaje text către orice contact din lista ta de contacte sau la numere de telefon necunoscute. Aplicația îți permite să compui mesaje rapid, folosind tastatura telefonului.
+
+2. Primirea SMS-uri
+- Aplicația notifică instant când primești un mesaj nou, iar interfața este ușor de utilizat pentru a citi și a răspunde rapid.
+
+3. Mesaje grupuri
+- Poți crea grupuri de contacte și trimite mesaje simultan mai multor persoane, economisind timp atunci când vrei să comunici cu mai mulți oameni.
+
+4. Permite Share Location
+- Aplicatia "Mesagerie" permite si trimiterea share location-ului pentru a face viata mai usoara.
+
+## 📷 Cameră foto – Capturarea de imagini și înregistrări video
+Aplicația Cameră foto îți oferă toate instrumentele necesare pentru a captura imagini de înaltă calitate și înregistrări video, fie că vrei să imortalizezi un moment special sau să faci fotografii pentru diverse nevoi.
+
+1. Capturarea de imagini
+- Aplicația îți permite să faci fotografii rapide și clare. Poți ajusta setările camerei precum zoom din Mouse Wheel UP/Down.
+
+## ⚙️ Setări – Configurarea telefonului și personalizarea funcțiilor
+Aplicația Setări îți permite să personalizezi și să configurezi telefonul, oferindu-ți control asupra funcțiilor esențiale ale dispozitivului tău.
+
+<img src="https://i.imgur.com/99tbKDZ.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="https://i.imgur.com/tabBh4n.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="https://i.imgur.com/D1RG0eR.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="https://i.imgur.com/bfkooxf.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+
+1.Personalizarea ecranului principal
+- Poți adăuga, elimina sau organiza aplicațiile și widget-urile de pe ecranul principal pentru a avea acces rapid la funcțiile pe care le folosești frecvent.
+
+2. Gestionarea conexiunilor
+- Permite gestionarea conexiunilor wireless. De asemenea, poți activa sau dezactiva moduri precum „Avion” sau „Nu Deranja”.
+
