@@ -1,8 +1,7 @@
 ---
 outline: deep
 ---
-<img src="https://imgur.com/a/P2yR8jM" alt="pozaCasino" width="230" height="230" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
-![eg_business_center-removebg-preview](https://github.com/user-attachments/assets/16d10236-3638-4d86-98c2-b7815905f0bb)
+<img src="https://imgur.com/a/P2yR8jM.png" alt="pozaCasino" width="230" height="230" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 ## DESPRE NOI
 
