@@ -19,7 +19,7 @@ outline: deep
 <img src="https://i.imgur.com/wMNyvSg.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
 
 - Contacte 📇 – Gestionarea listei de contacte, apeluri și mesaje.
-- Email 📧 – Permite trimiterea și primirea e-mailurilor.
+- Email 📧 – Permite primirea e-mailurilor.
 - Anunțuri 📢 – Acces la anunțuri publice și mesaje administrative.
 - Servicii 🛠️ – Contact rapid pentru diverse servicii disponibile în joc.
 - Garaj 🚗 – Gestionarea vehiculelor personale.
