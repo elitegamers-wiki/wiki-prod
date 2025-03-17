@@ -7,7 +7,7 @@ outline: deep
 Inventarul îți permite să îți organizezi obiectele, de la bani și arme, la hrană și alte resurse esențiale. 
 Capacitatea inventarului este limitată, așa că asigură-te că păstrezi doar lucrurile de care ai nevoie. Ai opțiunea să depozitezi obiectele în locuri sigure, cum ar fi vehiculele sau proprietățile tale.
 
-<img src="https://i.postimg.cc/hGqz9JM0/image.png" alt="pozaCasino" width="230" height="230" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+<img src="https://i.ibb.co/gLL9v2RL/image.png" alt="pozaCasino" width="230" height="230" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 <!-- ```md
 <script setup>
 import { useData } from 'vitepress'
