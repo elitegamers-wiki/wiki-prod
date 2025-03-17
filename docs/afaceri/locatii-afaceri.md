@@ -64,7 +64,7 @@
 - Strada: ROUTE 68
 - Taxa/zi:  €
 - Informatii:  
-- Harta: APASA AICI
+- Harta: [APASA AICI](https://imgur.com/Bf97kqj)
 
 ### GUNSHOP -> PALOMINO
 <img src="https://imgur.com/pGNzz1Z.png" alt="8" width="826" height="461" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
