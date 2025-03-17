@@ -5,6 +5,7 @@
 
 ### GUNSHOP -> VINEWOOD
 <img src="https://imgur.com/G8lMkcT.png" alt="pozabusiness" width="645" height="372" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+
 - Zona:  Vinewood
 - Strada: Spanish Avenue
 - Taxa/zi:  $
