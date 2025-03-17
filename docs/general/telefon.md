@@ -49,7 +49,7 @@ Aplicația Contacte este centrul de gestionare a conexiunilor tale. Aceasta îț
 ## 📧 Email – Primirea mesajelor electronice
 Aplicația Email este destinată exclusiv primirii mesajelor electronice, oferindu-ți acces rapid și organizat la toate comunicările importante. Indiferent dacă primești notificări oficiale, mesaje administrative sau emailuri personale, această aplicație îți permite să le gestionezi eficient, asigurându-te că nu ratezi nicio informație esențială.
 
-<img src=https://i.imgur.com/y3zzkHz.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="https://i.imgur.com/y3zzkHz.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
 
 📨 Primirea emailurilor – Toate mesajele trimise către adresa ta sunt livrate instantaneu, permițându-ți să fii mereu la curent cu informațiile primite. Notificările în timp real îți asigură acces imediat la cele mai recente emailuri.
 
