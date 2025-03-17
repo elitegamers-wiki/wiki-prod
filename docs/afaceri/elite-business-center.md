@@ -1,7 +1,7 @@
 ---
 outline: deep
 ---
-<img src="https://imgur.com/a/P2yR8jM.png" alt="pozaCasino" width="230" height="230" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+<img src="https://imgur.com/a/P2yR8jM.png" 
 
 ## DESPRE NOI
 
