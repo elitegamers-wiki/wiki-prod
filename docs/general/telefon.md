@@ -195,7 +195,7 @@ Aplicația Setări îți permite să personalizezi și să configurezi telefonul
 <img src="https://i.imgur.com/bfkooxf.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
 
 1.Personalizarea ecranului principal
-- Poți adăuga, elimina sau organiza aplicațiile și widget-urile de pe ecranul principal pentru a avea acces rapid la funcțiile pe care le folosești frecvent.
+- Poti personaliza atat avatar-ul cat si wallpaer ul prin link-uri URL.
 
 2. Gestionarea conexiunilor
 - Permite gestionarea conexiunilor wireless. De asemenea, poți activa sau dezactiva moduri precum „Avion” sau „Nu Deranja”.
