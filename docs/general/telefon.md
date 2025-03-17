@@ -45,3 +45,16 @@ Aplicația Contacte este centrul de gestionare a conexiunilor tale. Aceasta îț
 - Trimiterea de mesaje – Aplicația îți oferă acces direct la funcția de mesagerie, astfel încât să poți trimite rapid un SMS către orice contact din listă.
 - Căutare rapidă – Dacă ai o listă extinsă de contacte, funcția de căutare îți permite să găsești instant persoana dorită tastând doar câteva litere din numele acesteia.
 - Istoric de interacțiuni – Aplicația păstrează un istoric al apelurilor efectuate, primite sau ratate, oferindu-ți o evidență clară a comunicării cu fiecare contact.
+
+## 📧 Email – Primirea mesajelor electronice
+Aplicația Email este destinată exclusiv primirii mesajelor electronice, oferindu-ți acces rapid și organizat la toate comunicările importante. Indiferent dacă primești notificări oficiale, mesaje administrative sau emailuri personale, această aplicație îți permite să le gestionezi eficient, asigurându-te că nu ratezi nicio informație esențială.
+
+<img src=https://i.imgur.com/y3zzkHz.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+
+📨 Primirea emailurilor – Toate mesajele trimise către adresa ta sunt livrate instantaneu, permițându-ți să fii mereu la curent cu informațiile primite. Notificările în timp real îți asigură acces imediat la cele mai recente emailuri.
+
+📂 Organizarea automată a mesajelor – Emailurile sunt afișate într-o interfață clară, aranjate în ordine cronologică pentru a facilita navigarea și identificarea celor mai recente comunicări.
+
+🔎 Căutare avansată – Dacă ai un număr mare de mesaje, funcția de căutare îți permite să găsești rapid un email specific, folosind cuvinte-cheie, expeditorul sau data primirii.
+
+🚨 Mesaje administrative și notificări importante – Pe lângă emailurile obișnuite, aplicația îți oferă acces la notificări esențiale despre diverse evenimente sau schimbări relevante pentru tine.
