@@ -116,8 +116,12 @@ Aplicația Banking îți permite să îți administrezi toate tranzacțiile fina
 ## 🔄 Loops – Platformă socială pentru activități și colecția de mașini
 Aplicația Loops este un spațiu social dedicat pasionaților de mașini și activități de orice fel. Aici poți interacționa cu prieteni, posta imagini și împărtăși momente din viața ta.
 
-<img src="https://i.imgur.com/sLnJeqL.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
-<img src="https://i.imgur.com/AVpVMV8.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://i.imgur.com/sLnJeqL.png" alt="pozaTelefon" width="300" height="600" 
+        style="border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
+    <img src="https://i.imgur.com/AVpVMV8.png" alt="pozaTelefon" width="300" height="600" 
+        style="border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
+</div>
 
 - Postarea de imagini – Poți posta imagini cu activitățile tale sau colecția de mașini, pentru a le împărtăși cu alți utilizatori.
 - Interacțiune socială – Urmărește utilizatori, dă like-uri și lasă comentarii la postările altora pentru a rămâne conectat cu rețeaua ta socială.
@@ -154,8 +158,12 @@ Găsirea locațiilor dorite – Căutând o adresă sau un loc pe hartă, aplica
 ## 📞 Apeluri – Inițiază și primește apeluri, gestionează agenda telefonică
 Aplicația Apeluri este esențială pentru comunicarea zilnică. Aceasta îți permite să efectuezi apeluri telefonice rapid și eficient, să primești apeluri și să îți gestionezi întreaga agenda telefonică.
 
-<img src="https://i.imgur.com/ml6BnyA.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
-<img src="https://i.imgur.com/uGNdeaa.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://i.imgur.com/ml6BnyA.png" alt="pozaTelefon" width="300" height="600" 
+        style="border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
+    <img src="https://i.imgur.com/uGNdeaa.png" alt="pozaTelefon" width="300" height="600" 
+        style="border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
+</div>
 
 1. Inițiere apeluri
 - Poți efectua apeluri către orice număr din lista de contacte sau prin tastarea unui număr de telefon. Aplicația îți oferă o interfață intuitivă pentru a apela rapid pe cine dorești.
@@ -193,10 +201,21 @@ Aplicația Cameră foto îți oferă toate instrumentele necesare pentru a captu
 ## ⚙️ Setări – Configurarea telefonului și personalizarea funcțiilor
 Aplicația Setări îți permite să personalizezi și să configurezi telefonul, oferindu-ți control asupra funcțiilor esențiale ale dispozitivului tău.
 
-<img src="https://i.imgur.com/99tbKDZ.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
-<img src="https://i.imgur.com/tabBh4n.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
-<img src="https://i.imgur.com/D1RG0eR.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
-<img src="https://i.imgur.com/bfkooxf.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <div style="display: flex; gap: 10px;">
+        <img src="https://i.imgur.com/99tbKDZ.png" alt="pozaTelefon" width="300" height="600" 
+            style="border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
+        <img src="https://i.imgur.com/tabBh4n.png" alt="pozaTelefon" width="300" height="600" 
+            style="border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
+    </div>
+    <div style="display: flex; gap: 10px;">
+        <img src="https://i.imgur.com/D1RG0eR.png" alt="pozaTelefon" width="300" height="600" 
+            style="border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
+        <img src="https://i.imgur.com/bfkooxf.png" alt="pozaTelefon" width="300" height="600" 
+            style="border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
+    </div>
+</div>
+
 
 1.Personalizarea ecranului principal
 - Poti personaliza atat avatar-ul cat si wallpaer ul prin link-uri URL.
