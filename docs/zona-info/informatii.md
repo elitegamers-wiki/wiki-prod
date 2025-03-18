@@ -6,8 +6,6 @@ outline: deep
 
 # <center><span class="title-font">About us</span></center>
 
-<span style="color:red;"><strong>Proiectul EliteGamers RolePlay a fost conceput la inceputul anului 2023, iar de atunci ne straduim sa oferim calitate si unicitate jucatorilor nostri. Suntem de parere ca un server de FiveM este un server care defineste termenul de "comunitate", deoarece membrii sai formeaza o comunitate pe joc cat si pe server-ul de Discord.</strong></span>
-
 ## Informații Importante - EliteGamers.ro 🌟
 🦁 EliteGamers RolePlay este mai mult decât un server de FiveM – este o comunitate unită, construită pe pasiunea pentru gaming și pe dorința de a oferi o experiență unică tuturor jucătorilor noștri. 🚀
 
