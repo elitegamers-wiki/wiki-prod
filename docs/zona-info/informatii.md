@@ -21,7 +21,7 @@ După 4 ani și 7 luni de excelență în Counter-Strike, am fost nevoiți să �
 ## 🔥 Viitorul este în FiveM!
 Ne-am adaptat și am decis să investim toată energia noastră într-un server de FiveM RolePlay, un proiect ambițios și inovator, care va redefini experiența de joc. 🎭🌆
 
-##🛠️ Ce ne face speciali?
+## 🛠️ Ce ne face speciali?
 
 - Sisteme rescrise de la zero, muncite și optimizate pentru un gameplay cât mai fluid și captivant.
 - Administrare profesionistă, cu reguli clare și un staff pregătit să mențină un mediu corect și bine organizat.
