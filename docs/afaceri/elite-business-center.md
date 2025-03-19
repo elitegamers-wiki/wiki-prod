@@ -1,7 +1,7 @@
 ---
 outline: deep
 ---
-<img src="https://imgur.com/eBBAkE8.png" alt="pozabusiness" width="666" height="375" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+<img src="../public/businesscenter/businesscenter.png" alt="pozabusiness" width="2560" height="1080" style="display: block; margin: 0px auto; border-radius: 1.5%; border-radius: 1.5%;" >
 
 ## DESPRE NOI
 

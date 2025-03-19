@@ -193,6 +193,12 @@ export default defineConfig({
             collapsed: true,
             items: [
           { text: 'Gunshop', link: '/afaceri/gunshop' },
+          { text: 'Clothing', link: '/afaceri/clothing' },
+          { text: 'Tattoo', link: '/afaceri/tattoo' },
+          { text: 'Frizerie', link: '/afaceri/frizerie' },
+          { text: 'Washing', link: '/afaceri/washing' },
+          { text: 'Service', link: '/afaceri/service' },
+
             ]
           }
         ],
