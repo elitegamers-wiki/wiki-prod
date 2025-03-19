@@ -187,8 +187,14 @@ export default defineConfig({
         text: 'Afaceri',
         activeMatch: '^/afaceri/',
         items: [
+          {
+            text: "Locatii",
+            collapsed: true,
+            items: [
           { text: 'Elite Business Center', link: '/afaceri/elite-business-center' },
           { text: 'Gunshop', link: '/afaceri/gunshop' },
+            ]
+          }
         ],
       },
       {
