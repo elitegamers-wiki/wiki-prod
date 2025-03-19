@@ -2,7 +2,7 @@
 outline: deep
 ---
 
-<img src="./elitegamers.png" alt="pozaEG" width="300" height="600" style="display: block; margin: 0px auto;">
+<img src="../public/elitegamers.png" alt="pozaEG" width="300" height="600" style="display: block; margin: 0px auto;">
 
 # <center><span class="title-font">About us</span></center>
 
