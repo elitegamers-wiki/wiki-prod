@@ -133,6 +133,7 @@ export default defineConfig({
                 { text: 'Regulament General', link: '/zona-info/regulament' },
                 { text: 'Regulament Aditional', link: '/zona-info/regulament-aditional' },
                 { text: 'Regulament Politie', link: '/zona-info/regulament-politie' },
+                { text: 'Regulament SMIR', link: '/zona-info/regulament-smir' },
                 { text: 'Regulament Mafii', link: '/zona-info/regulament-mafii' },
               ],
             },
@@ -187,7 +188,7 @@ export default defineConfig({
         activeMatch: '^/afaceri/',
         items: [
           { text: 'Elite Business Center', link: '/afaceri/elite-business-center' },
-          { text: 'Locatii', link: '/afaceri/locatii-afaceri' },
+          { text: 'Gunshop', link: '/afaceri/gunshop' },
         ],
       },
       {
