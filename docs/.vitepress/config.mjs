@@ -59,7 +59,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/elitegamers-wiki/wiki/edit/main/docs/:path',
+      pattern: 'https://github.com/elitegamers-wiki/wiki-prod/edit/main/docs/:path',
       text: 'Modifica aceasta pagina pe GitHub',
     },
 
