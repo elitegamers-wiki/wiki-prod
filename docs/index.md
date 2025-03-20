@@ -25,16 +25,30 @@ features:
   - icon: ⚡
     title: Gameplay
     details: Detalii despre Gameplay
+    link: 'zona-info/cum-intru-pe-server'
   - icon: 🖥️
     title: Sisteme
     details: Prezentarea Sistemelor Noastre
+    link: 'general/rewards'
+
   - icon: 📖
     title: FAQ
     details: Aici găsiți răspunsuri rapide la întrebările comune despre serverul nostru FiveM, pentru a vă ajuta să vă bucurați de experiența de joc
+    link: 'zona-info/informatii'
   - icon: 🤝
     title: Our Team
     details: O echipă talentată dedicată inovației și excelenței
-    
+    features:
+  - title: Regulament
+    details: "Pe acest Wiki o sa gasesti si regulamentele necesare dezvoltarii tale."
+    icon: 🎉
+    link: 'zona-info/regulament'
+
+  - title: Scripts
+    details: "Ai posibilitatea de a vedea ce sisteme folosim pe EliteGamers RP Romania!"
+    icon: 🔌
+
+
 ---
 
 <!-- <style>
@@ -95,3 +109,17 @@ features:
   color: white; /* Text alb pentru contrast */
 }
 </style> -->
+
+
+<!-- --- CONTRIBUITORI --- -->
+<!-- <div>
+
+  <h2 text="center lg" my-5 font-bold>
+    💕 Multumim tuturor pentru support!!
+  </h2>
+
+  <a href="https://github.com/elitegamers-wiki/wiki-prod/graphs/contributors" flex justify-center>
+    <img src="https://contrib.rocks/image?repo=elitegamers-wiki/wiki-prod" />
+
+  </a>
+</div> -->
