@@ -18,7 +18,7 @@ hero:
       text: 🔊 Alatura-te noua
       link: https://discord.gg/elitegamers-ro-351058903271735306
   image:
-    src: /elitegamers.gif
+    src: /elitegamers.png
     alt: eliteGamers.ro
 
 features:
