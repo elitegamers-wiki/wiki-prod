@@ -18,7 +18,7 @@ hero:
       text: 🔊 Alatura-te noua
       link: https://discord.gg/elitegamers-ro-351058903271735306
   image:
-    src: /elitegamers.webp
+    src: /elitegamers.gif
     alt: eliteGamers.ro
 
 features:
@@ -112,7 +112,7 @@ features:
 
 
 <!-- --- CONTRIBUITORI --- -->
-<!-- <div>
+<div>
 
   <h2 text="center lg" my-5 font-bold>
     💕 Multumim tuturor pentru support!!
@@ -122,4 +122,5 @@ features:
     <img src="https://contrib.rocks/image?repo=elitegamers-wiki/wiki-prod" />
 
   </a>
-</div> -->
+</div>
+
