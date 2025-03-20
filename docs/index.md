@@ -37,7 +37,7 @@ features:
     
 ---
 
-<style>
+<!-- <style>
 :root {
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #ab2e22 30%, #e82310);
@@ -57,16 +57,41 @@ features:
     --vp-home-hero-image-filter: blur(68px);
   }
 }
-</style>
+</style> -->
 
 <style>
-
 .VPFeatures .VPFeature {
-  outline: 1px solid rgba(255, 0, 0, 0.8); /* Contur roșu semi-transparent */
-  outline-offset: 1px; /* Distanță față de element */
-  box-shadow: 0 0 1px rgba(255, 0, 0, 0.6); /* Efect de glow */
-  border: none; /* Elimină orice bordură */
-  transition: box-shadow 0.2s ease-in-out, outline 0.3s ease-in-out; /* Efect de fade */
+  outline: 2px solid rgba(255, 0, 0, 0.6); /* Contur roșu semi-transparent */
+  outline-offset: 1px;
+  box-shadow: 0 0 1px rgba(255, 0, 0, 0.4); /* Efect glow inițial */
+  border: none;
+  transition: box-shadow 0.5s ease-in-out, outline 0.5s ease-in-out, opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+  opacity: 0.8; /* Face elementul puțin transparent inițial */
 }
 
+.VPFeatures .VPFeature:hover {
+  box-shadow: 0 0 10px rgba(255, 0, 0, 0.9); /* Crește efectul glow */
+  outline: 1px solid rgba(255, 0, 0, 1); /* Contur mai intens */
+  opacity: 1; /* Devine complet vizibil */
+  transform: rotate(2deg); /* Se rotește ușor */
+  background: linear-gradient(135deg, rgba(126, 9, 9, 0.45), rgb(240, 11, 11)); /* Efect de fundal pe hover */
+}
 </style>
+
+<!-- 
+<style>
+/* Background global pentru întreaga pagină */
+.VPHome {
+  background: url('../public/backgroundwiki.png') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.VPHome {
+  background: linear-gradient(45deg, rgba(0, 0, 0, 0.9), rgba(240, 5, 5, 0.38)); /* Gradient cu opacitate */
+}
+
+/* Asigură-te că restul conținutului e vizibil */
+.VPHome * {
+  color: white; /* Text alb pentru contrast */
+}
+</style> -->
