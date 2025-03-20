@@ -125,6 +125,10 @@ export default defineConfig({
         activeMatch: '^/zona-info/',
         items: [
           { text: '🦁 Informatii Importante', link: '/zona-info/informatii' },
+          { text: '❤️ Store', link: '/zona-info/store' },
+          { text: '📌 Intrebari si Raspunsuri', link: '/zona-info/faq' },
+
+
             {
               text: '🗂 Regulamente',
               activeMatch: '^/zona-info/regulamente/',
@@ -143,6 +147,7 @@ export default defineConfig({
           },
           { text: '💽 Updates', link: '/zona-info/updates' },
           { text: '🎱 Codul Penal', link: '/zona-info/cod-penal' },
+
         ],
       },
       {

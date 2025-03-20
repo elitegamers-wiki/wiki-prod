@@ -34,7 +34,7 @@ features:
   - icon: 📖
     title: FAQ
     details: Aici găsiți răspunsuri rapide la întrebările comune despre serverul nostru FiveM, pentru a vă ajuta să vă bucurați de experiența de joc
-    link: 'zona-info/informatii'
+    link: 'zona-info/faq'
   - icon: 🤝
     title: Our Team
     details: O echipă talentată dedicată inovației și excelenței

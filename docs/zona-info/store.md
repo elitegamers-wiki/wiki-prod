@@ -4,7 +4,6 @@
 
 ## CUPRINS COD PENAL
 
-::: tip
 - CAP. 1 Legislația rutieră
 - CAP. 2 Infracțiuni în trafic
 - CAP. 3 Infracţiuni contra persoanelor
@@ -13,7 +12,7 @@
 - CAP. 6 Infracţiuni contra sănătăţii şi siguranţei publice
 - CAP. 7 Infracţiuni contra bunelor moravuri
 - CAP. 8 Infracţiuni contra justiţiei
-:::
+
 
 ## **Faptele codului penal sunt de 2 tipuri:**
 - CONTRAVENTII si INFRACTIUNI. 

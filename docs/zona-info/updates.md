@@ -339,3 +339,145 @@ Am zis ca ma culc dar m-am intors la PC sa postez modificarile de astazi.. enjoy
 - Acum puteti da /carry oamenilor morti
 - Fixat un bug la inchiriat masini care nu te lasa sa spawnezi fixter
 ```
+
+# Update 1.0.2 - Quick patch
+Mesterit de: **xSLOW**
+Am zis ca ma culc dar m-am intors la PC sa postez modificarile de astazi.. enjoy! (seara nr. 2)
+
+**Features**
+```js
+- Adaugate codurile la politie pe ecran
+- Modificata pozitia magazinelor de ghiozdane sa poata fi accesate si de dupa tejghea
+- Mutat kitul de pana, kitul de reparatie si kitul de clonat chei pentru civili la magazinele 24/7
+- Actualizat MDT-ul politiei cu noul cod penal
+- Actualizate locatiile din /GPS
+- Adaugata armura/radio-ul in armuraria politiei
+- Mutata tasta pentru sirenele masinilor de politie/smir de pe Q pe SHIFT
+- Traduse toate itemele din magazinul 24/7
+```
+
+**Bug fixes**
+```js
+- Reparat un bug la taximetrist care facea ca NPC-ul sa se sperie si sa fuga
+- Facut sa apara IBAN-ul corect in meniul de intrare
+- Rezolvat un bug la consumabile care facea sa dea eroare la server
+- Rezolvata comanda de /givemoneyall pentru a da mai usor bani tuturor conectati
+- Rezolvat un bug la comenzile de admin /blips /names
+- Rezolvat un bug la radio care facea sa nu ti se actualizeze jobul si canalele la care ai acces
+```
+
+# Update 1.0.3 & 1.0.4 - More bugfix & changes
+Mesterit de: **xSLOW**
+
+**Features**
+```js
+- Adaugate coduri la politie
+- Optimizate 2 comenzi de admin care consumau foarte mult
+- Acum te poti angaja direct de la npcul de job, nu doar de la primarie
+- Adaugate multiple loguri pentru admini
+- Acum apelurile la taxi de la NPC vor intra mai rapid si se vor sterge mai greu
+- Schimbat radarul din MPH in KMH
+- Adaugat in K buton de perchezitie (poti vedea inventarul fara sa iei iteme)
+- Acum adminii pot accepta ticketele jucatorilor deconectati 
+- Adaugate efecte de zapada la roti/urme in zapada/etc
+- Modificat cum apare pe discord cand un jucator intra pe server
+- Adaugate masini/elicoptere noi la politie/smir
+- Adaugat magazin in Paleto
+- Adaugat NPC la jobul de taxi
+- Actualizate permisiunile pentru gradul de helper
+- Adaugat un buton in K pentru a opri jobul curent, valabil pentru taxi, pizza, tirist, sofer autobuz)
+```
+
+**Bug fixes**
+```js
+- La DMV la testul practic acum nu se vor mai speria npcurile si nu vor mai fugi din masina
+- Acum cand scoti masinile de job din garaj vor fi reparate si rezervorul va fi plin
+- Rezolvat un bug la MDT care facea sa nu poti da amenda fara reducere
+- Rezolvat un bug la butonul home care facea sa se blocheze jocul
+- Rezolvat bugul care facea ca mancarea la politie sa apara ca fiind gratis dar sa coste bani de fapt
+- Rezolvat un bug care te lasa sa pui mitraliere pe masina (lol)
+- Rezolvat un bug la comanda de /ore, poti scrie comanda fara sa precizezi un id
+- Rezolvat complet bugul la sistemul de haine cu spatiile goale (ms iann)
+- Rezolvat un bug la kitul de pana care facea sa se strice masina (culmea)
+- Rezolvat un bug la masinile de politie/medici in care nu puteai sa folosesti radio
+```
+
+# Update 1.0.5 - Patching/changes
+Mesterit de: **xSLOW**
+
+**Features**
+```js
+- Seful politiei acum vede toate uniformele
+- Adaugata o comanda noua pentru admini care permite refacerea caracterului unui jucator
+- Adaugate mai multe loguri
+- Modificata locatia sefului politiei
+- Ciupercile si minereurile se sincronizeaza acum doar daca esti in zona
+- Adaugate noi vehicule la SMIR in garaj si adaugata targa pentru acestea
+- Adaugat pontaj automat pentru admini
+- Mutata locatia de vandut ciupercile
+- Mutate spawnpoint-urile garajului de mecanici
+- Blips acum activeaza si names (admin)
+- Scoasa primaria de craciun (buguri vizuale)
+```
+
+**Bug fixes**
+```js
+- Rezolvat un bug care facea sa nu mai poti sta crouch
+- Rezolvat un bug la MDT care facea sa nu poti salva raportul
+```
+
+# Update 1.0.6 - Patching/changes/new goodies
+Mesterit de: **xSLOW**
+
+**Features**
+```js
+- Optimizat foarte mult sistemul de clothing
+- Optimizat sistemul de report-uri
+- Optimizat core-ul serverului
+- Adaugat un minigame fun pe server. Veti afla in curand care este acesta
+- Rescris sistemul de confiscare/restituire iteme inventar
+- Pontajul automat al adminilor acum arata si timpul petrecut in ultimele 7 zile
+```
+
+**Bug fixes**
+```js
+- Rezolvat bugul la puscarie cu itemele date inapoi corupte (buletin, arme, permis, etc)
+```
+
+# Update 1.0.7 si 1.0.8 - Patching/changes/new goodies
+Mesterit de: **xSLOW**
+
+**Features**
+```js
+@ 1.0.7
+- Adaugate haine la squidgames
+- Scos mappingul de craciun
+- Optimizate 2 masini
+- Optimizat squidgames, ar trebui sa aveti mai multe fpsuri
+- Schimbat timpul de respawn de la 1m la 5m
+- Modificata marimea default la UI-ul de radar la politie
+- Adaugate o gramada de mapping-uri noi. Multumesc tuturor
+- Optimizat chat-ul, adaugata comanda de sters chatul
+- Refacut sistemul de uniforme si optimizat acesta
+- Acum uniformele se pun automat cand incepi jobul si dispar cand termini jobul
+- Adminii acum pot tuna masina oricui
+@ 1.0.8
+- Pusa restrictie la jafurile de magazin/atm la 50h minim
+- Adaugata comanda /toprich sa vezi cei mai bogati jucatori din oras
+- Adaugate multiple loguri pentru bani
+- Actualizate retetele de crafting de la ciupercar
+- Actualizate locatiile la spital/garajele
+- Actualizat pretul la ciupercar ilegal
+- Acum ca taximetrist poti accepta o singura comanda simultan
+- Adaugata o locatie noua de haine/magazin la legion square (in centru langa fleeca)
+- Adaugat un spital secret pentru mafioti
+```
+
+**Bug fixes**
+```js
+@ 1.0.7
+- Rezolvat un bug care facea la squidgames ca castigatorii sa nu fie in ordinea corecta
+@ 1.0.8
+- Niciun bug reparat, serverul este impecabil :))
+
+```
