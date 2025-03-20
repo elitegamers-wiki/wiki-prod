@@ -1,6 +1,7 @@
 ---
 outline: deep
 ---
+<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
 #  <center>Utilizarea telefonului </center>
 ---
@@ -12,11 +13,12 @@ outline: deep
 
 ## Interfata telefonului
 
-<img src="https://i.imgur.com/WjgAfSG.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="../public/telefon/image1.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 ## Functionalitati disponibile: 
 
-<img src="https://i.imgur.com/wMNyvSg.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="../public/telefon/image2.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+
 
 - Contacte 📇 – Gestionarea listei de contacte, apeluri și mesaje.
 - Email 📧 – Permite primirea e-mailurilor.
@@ -38,7 +40,8 @@ outline: deep
 ## 📇 Contacte – Gestionarea listei de contacte, apeluri și mesaje
 Aplicația Contacte este centrul de gestionare a conexiunilor tale. Aceasta îți permite să îți organizezi lista de contacte într-un mod eficient, oferindu-ți acces rapid la persoanele cu care comunici frecvent.
 
-<img src="https://i.imgur.com/ae11QAo.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="../public/telefon/image3.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+
 
 - Adăugarea și organizarea contactelor – Poți salva noi contacte cu nume, numere de telefon și alte informații relevante. De asemenea, ai posibilitatea de a edita sau șterge contacte oricând dorești.
 - Inițierea rapidă a apelurilor – Printr-o simplă atingere, poți apela oricare dintre contactele salvate, fără a fi nevoie să tastezi manual numărul de telefon.
@@ -49,7 +52,7 @@ Aplicația Contacte este centrul de gestionare a conexiunilor tale. Aceasta îț
 ## 📧 Email – Primirea mesajelor electronice
 Aplicația Email este destinată exclusiv primirii mesajelor electronice, oferindu-ți acces rapid și organizat la toate comunicările importante. Indiferent dacă primești notificări oficiale, mesaje administrative sau emailuri personale, această aplicație îți permite să le gestionezi eficient, asigurându-te că nu ratezi nicio informație esențială.
 
-<img src="https://i.imgur.com/y3zzkHz.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="../public/telefon/image4.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 📨 Primirea emailurilor – Toate mesajele trimise către adresa ta sunt livrate instantaneu, permițându-ți să fii mereu la curent cu informațiile primite. Notificările în timp real îți asigură acces imediat la cele mai recente emailuri.
 
@@ -62,7 +65,7 @@ Aplicația Email este destinată exclusiv primirii mesajelor electronice, oferin
 ## 📢 Anunțuri – Panou informativ pentru mesaje publice și administrative
 Aplicația Anunțuri este locul unde utilizatorii pot vizualiza cele mai recente mesaje publice și administrative esențiale. Fii la curent cu informațiile importante care te pot afecta, de la anunțuri guvernamentale până la notificări locale.
 
-<img src="https://i.imgur.com/hIk5LJV.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="../public/telefon/image5.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Vizualizare anunțuri recente – Poți accesa cele mai noi anunțuri publicate de autorități sau organizații. Acestea sunt afișate într-un format ușor de citit și structurat pe categorii.
 - Căutare rapidă – Dacă vrei să găsești un anunț mai vechi, aplicația include o funcție de căutare prin cuvinte cheie, care îți permite să găsești rapid informațiile de care ai nevoie.
@@ -73,7 +76,9 @@ Aplicația Anunțuri este locul unde utilizatorii pot vizualiza cele mai recente
 ## 🛠️ Servicii – Acces rapid la diferite servicii disponibile
 - Aplicația Servicii îți permite să contactezi rapid cele mai importante servicii de care ai nevoie, direct printr-un apel telefonic. 
 - Fie că este vorba de o problemă mecanică, o urgență polițienească, necesitatea unui taxi sau apelarea unui serviciu medical de urgență, aplicația te conectează instantaneu cu profesioniștii.
-<img src="https://i.imgur.com/yAPY3MO.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="../public/telefon/image7.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+
+
 
 
 1. Apel rapid către Mecanici
@@ -93,10 +98,10 @@ Aplicația Anunțuri este locul unde utilizatorii pot vizualiza cele mai recente
 Aplicația Garaj este ideală pentru gestionarea vehiculelor tale, de la urmărirea stării acestora, până la localizarea și administrarea parcării.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://i.imgur.com/Mye7L7w.png" alt="pozaTelefon" width="300" height="600" 
-        style="border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
-    <img src="https://i.imgur.com/afTg3ml.png" alt="pozaTelefon" width="300" height="600" 
-        style="border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
+    <img src="../public/telefon/image8.png" alt="pozaTelefon" width="300" height="600" 
+        style="border-radius: 5%;">
+    <img src="../public/telefon/image9.png" alt="pozaTelefon" width="300" height="600" 
+        style="border-radius: 5%;">
 </div>
 
 - Starea vehiculelor = Poți vizualiza informații detaliate despre starea fiecărui vehicul, inclusiv kilometrajul, nivelul de combustibil, întreținerea necesară și altele.
@@ -106,7 +111,8 @@ Aplicația Garaj este ideală pentru gestionarea vehiculelor tale, de la urmări
 ## 🏦 Banking – Gestionarea finanțelor personale
 Aplicația Banking îți permite să îți administrezi toate tranzacțiile financiare într-un loc sigur și ușor de accesat.
 
-<img src="https://i.imgur.com/QKH7ZR2.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="../public/telefon/image10.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+
 
 - Verificarea soldului – Poți verifica soldul contului tău bancar în timp real, indiferent unde te afli.
 - Transferuri rapide – Realizează transferuri bancare rapide și sigure între conturi, atât interne, cât și internaționale.
@@ -117,10 +123,10 @@ Aplicația Banking îți permite să îți administrezi toate tranzacțiile fina
 Aplicația Loops este un spațiu social dedicat pasionaților de mașini și activități de orice fel. Aici poți interacționa cu prieteni, posta imagini și împărtăși momente din viața ta.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://i.imgur.com/sLnJeqL.png" alt="pozaTelefon" width="300" height="600" 
-        style="border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
-    <img src="https://i.imgur.com/AVpVMV8.png" alt="pozaTelefon" width="300" height="600" 
-        style="border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
+    <img src="../public/telefon/image11.png" alt="pozaTelefon" width="300" height="600" 
+        style="border-radius: 5%;">
+    <img src="../public/telefon/image12.png" alt="pozaTelefon" width="300" height="600" 
+        style="border-radius: 5%;">
 </div>
 
 - Postarea de imagini – Poți posta imagini cu activitățile tale sau colecția de mașini, pentru a le împărtăși cu alți utilizatori.
@@ -132,7 +138,8 @@ Aplicația Loops este un spațiu social dedicat pasionaților de mașini și act
 ## 🖼️ Galerie – Organizarea și vizualizarea imaginilor
 Aplicația Galerie îți permite să stochezi, organizezi și vizualizezi rapid toate fișierele media, inclusiv capturi de ecran și fotografii.
 
-<img src="https://i.imgur.com/VSk3mPf.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="../public/telefon/image13.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+
 
 - Stocarea fișierelor media – Salvează și organizează toate fișierele tale media într-un singur loc, fie că sunt poze, capturi de ecran sau imagini din aplicații.
 - Vizualizare rapidă – Accesează fișierele tale într-un mod rapid și eficient, având posibilitatea de a le vizualiza direct din aplicație.
@@ -140,7 +147,8 @@ Aplicația Galerie îți permite să stochezi, organizezi și vizualizezi rapid 
 ## 📶 InetMax (5G) – Gestionarea conexiunii la internet
 Aplicația InetMax te ajută să gestionezi conexiunea la internet și să achiziționezi pachete de date pentru a rămâne conectat în orice moment.
 
-<img src="https://i.imgur.com/yMW4Ydi.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="../public/telefon/image14.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+
 
 Verificarea stării rețelei – Poți verifica rapid starea conexiunii tale la rețea.
 Achiziționarea pachetelor de internet – Achiziționează rapid pachete de date suplimentare pentru a te asigura că ai suficient internet.
@@ -150,7 +158,8 @@ Notificări de conectivitate – Primești notificări atunci când conexiunea l
 ## 📍 GPS – Navigație și găsirea locațiilor
 Aplicația GPS îți oferă indicații precise pentru a ajunge la destinațiile dorite, indiferent de locația ta.
 
-<img src="https://i.imgur.com/Q7RSkr9.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="../public/telefon/image15.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+
 
 Indicații de navigație – Primești direcții pas cu pas pentru a ajunge rapid și ușor la destinațiile tale.
 Găsirea locațiilor dorite – Căutând o adresă sau un loc pe hartă, aplicația îți arată rutele optime și alternative.
@@ -159,10 +168,10 @@ Găsirea locațiilor dorite – Căutând o adresă sau un loc pe hartă, aplica
 Aplicația Apeluri este esențială pentru comunicarea zilnică. Aceasta îți permite să efectuezi apeluri telefonice rapid și eficient, să primești apeluri și să îți gestionezi întreaga agenda telefonică.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://i.imgur.com/ml6BnyA.png" alt="pozaTelefon" width="300" height="600" 
-        style="border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
-    <img src="https://i.imgur.com/uGNdeaa.png" alt="pozaTelefon" width="300" height="600" 
-        style="border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
+    <img src="../public/telefon/image16.png" alt="pozaTelefon" width="300" height="600" 
+        style="border-radius: 5%;">
+    <img src="../public/telefon/image17.png" alt="pozaTelefon" width="300" height="600" 
+        style="border-radius: 5%;">
 </div>
 
 1. Inițiere apeluri
@@ -203,16 +212,16 @@ Aplicația Setări îți permite să personalizezi și să configurezi telefonul
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <div style="display: flex; gap: 10px;">
-        <img src="https://i.imgur.com/99tbKDZ.png" alt="pozaTelefon" width="300" height="600" 
-            style="border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
-        <img src="https://i.imgur.com/tabBh4n.png" alt="pozaTelefon" width="300" height="600" 
-            style="border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
+        <img src="../public/telefon/image18.png" alt="pozaTelefon" width="300" height="600" 
+            style="border-radius: 5%;">
+        <img src="../public/telefon/image20.png" alt="pozaTelefon" width="300" height="600" 
+            style="border-radius: 5%;">
     </div>
     <div style="display: flex; gap: 10px;">
-        <img src="https://i.imgur.com/D1RG0eR.png" alt="pozaTelefon" width="300" height="600" 
-            style="border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
-        <img src="https://i.imgur.com/bfkooxf.png" alt="pozaTelefon" width="300" height="600" 
-            style="border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
+        <img src="../public/telefon/image21.png" alt="pozaTelefon" width="300" height="600" 
+            style="border-radius: 5%;">
+        <img src="../public/telefon/image22.png" alt="pozaTelefon" width="300" height="600" 
+            style="border-radius: 5%;">
     </div>
 </div>
 

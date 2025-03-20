@@ -2,7 +2,8 @@
 outline: deep
 ---
 
-<img src="https://www.pngplay.com/wp-content/uploads/12/Taxi-Driver-Transparent-File.png" alt="pozaInventar" width="200" height="100" style="display: block; margin: 0px auto;" >
+<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
+
 
 ## Ce presupune Jobul de taximetrist?
 Jobul de taximetrist implică preluarea clienților din diferite locații și transportul lor la destinațiile dorite. Va trebui să te ocupi de cursele lor, respectând regulile 
@@ -12,15 +13,15 @@ de trafic și având grijă să nu întâmpini accidente. Pe parcursul job-ului,
 Pentru a începe, trebuie să deții un permis de conducere, pe care îl poți obține de la secția de poliție, trecând mai întâi printr-un test teoretic, urmat de unul practic. După ce obții permisul, trebuie să mergi la Primărie ([/gps - Primărie]), unde un NPC de la tejghea te va introduce în meniul interactiv, de unde poți selecta locul de muncă dorit.
 
 :::details Locatie Primarie
-![](https://i.imgur.com/qE5Pk08.png){.framed-photo}
+![](../public/joburi/gps.png){.framed-photo}
 :::
 :::details NPC
-![](https://i.imgur.com/y4fhbHp.png){.framed-photo}
+![](../public/joburi/primarie.png){.framed-photo}
 :::
 După ce te-ai angajat de la Primărie, trebuie să mergi la locul de muncă de unde pleaca si taxi-urile, pe care îl găsești în [/gps - Jobs -> Taximetrist].
 
 :::details Unde gasesti job-ul?
-![](https://i.imgur.com/UisdSqH.png){.framed-photo}
+![](../public/joburi/gpstaxi.png){.framed-photo}
 :::
 Dupa ce ai selectat masina dorita de la [Objectul Albastru] trebuie sa intri in vehiculul job-ului pentru a fi la datorie. P.S: Pentru a deschide meniul cu toate comenzile apasa tasta [/F7]. 
 

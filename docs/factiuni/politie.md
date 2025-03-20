@@ -1,7 +1,8 @@
 ---
 outline: deep
 ---
-<img src="https://i.imgur.com/V9oZKWx.png" alt="pozaPolitie" width="300" height="600" style="display: block; margin: 0px auto;">
+<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
+
 
 # <center>👮‍♂️Informații despre Poliție👮‍♂️</center>
 

@@ -1,6 +1,7 @@
 ---
 outline: deep
 ---
+<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
 ## 💳 Gestionarea banilor tăi nu a fost niciodată mai simplă! 💰
 
@@ -10,7 +11,8 @@ Accesează ATM-urile din oraș pentru a retrage, depune sau verifica soldul cont
 
 📍 Găsește un ATM și gestionează-ți finanțele cu grijă! 🔐
 
-<img src="https://i.imgur.com/9IIcTdM.png" alt="pozaATM" width="1920" height="1080" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="../public/important/atm.png" alt="pozaCumIntruPeServer" width="1920" height="1080" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
+
 
 ## 💡 Funcționalități 📌
 

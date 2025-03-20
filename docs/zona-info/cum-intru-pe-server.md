@@ -1,6 +1,7 @@
 ---
 outline: deep
 ---
+<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
 # <center><span class="title-font">***Cum pot intra pe server***?</span></center>
 
@@ -22,6 +23,6 @@ outline: deep
 - Odată ce serverul FiveM ELITEGAMERS ROMANIA HARD ROLEPLAY apare în listă, apasă pe el pentru a-l selecta.
 - Apasă butonul „Connect” pentru a începe procesul de conectare la server.
 
-<img src="https://i.imgur.com/0cGGoyE.png" alt="pozaCasino" width="1920" height="1080" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);">
+<img src="../public/important/cumintrupeserver.png" alt="pozaCumIntruPeServer" width="1920" height="1080" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
 - Înainte de a începe să joci, asigură-te că citești regulile serverului ELITEGAMERS ROMANIA HARD ROLEPLAY. Acestea sunt esențiale pentru a te bucura de o experiență de roleplay plăcută și corectă alături de ceilalți jucători.

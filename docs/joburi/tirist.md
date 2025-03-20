@@ -1,7 +1,7 @@
 ---
 outline: deep
 ---
-<img src="https://i.pinimg.com/originals/d8/31/48/d831486b3ec7bf46256be9948eb607e5.png" alt="pozaInventar" width="300" height="300" style="display: block; margin: 0px auto;" >
+<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
 ## Ce presupune acest job de trucker?
 Jobul de trucker implică transportul mărfurilor între diferite destinații, folosind tirul companiei. La început, vei face curse normale pentru aprovizionarea magazinelor, benzinăriilor sau transportul de vehicule. Pe măsură ce avansezi, poți accesa curse mai complexe și riscante, precum transportul de mărfuri periculoase. Plata este făcută pe kilometru parcurs, iar performanța ta este recompensată în funcție de cum parchezi la destinatie.
@@ -10,10 +10,10 @@ Traseele sunt tematice, în funcție de tipul de marfă transportată, iar desti
 ## Cum mă angajez?
 Pentru a începe acest job, trebuie să ai un permis de conducere. Permisul se obține de la secția de poliție, trecând mai întâi un test teoretic și apoi unul practic. După ce ai permisul, trebuie să mergi la Primărie ([/gps - Primărie]), unde un NPC de la tejghea îți va permite să selectezi jobul de trucker.
 :::details Locatie Primarie
-![](https://i.imgur.com/qE5Pk08.png){.framed-photo}
+![](../public/joburi/gps.png){.framed-photo}
 :::
 :::details NPC
-![](https://i.imgur.com/HszOGhz.png){.framed-photo}
+![](../public/joburi/primarie.png){.framed-photo}
 :::
 In cazul vrei să accesezi Skill 2 - Șofer Avansat, ai nevoie de o licență suplimentară pentru transportul de mărfuri periculoase si X ore. Licența poate fi obținută de la patronul job-ului [NPC-ul], care costă 30.000 de euro și este obligatorie pentru cursele de acest tip.
 

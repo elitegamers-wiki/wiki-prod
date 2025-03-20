@@ -2,7 +2,8 @@
 outline: deep
 ---
 
-<img src="https://png.pngtree.com/png-vector/20230831/ourmid/pngtree-raw-sea-bass-fresh-seabass-fish-isolated-on-white-background-with-png-image_9225167.png" alt="pozaInventar" width="300" height="300" style="display: block; margin: 0px auto;" >
+<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
+
 
 ## Ce presupune Jobul de Pescar?
 
@@ -15,11 +16,10 @@ Ai nevoie de o barcă și unelte specifice pentru a avea succes în acest job. P
 Pentru a începe acest job, trebuie să mergi la Primărie ([/gps - Primărie]) unde un NPC de la tejghea te va introduce in meniul interactiv de unde poti selecta job-ul "Pescar".
 
 :::details Locatie Primarie
-![](https://i.imgur.com/qE5Pk08.png){.framed-photo}
+![](../public/joburi/gps.png){.framed-photo}
 :::
-
 :::details NPC
-![](https://i.imgur.com/ihPIqMZ.png){.framed-photo}
+![](../public/joburi/primarie.png){.framed-photo}
 :::
 
 ## Prezentare job - Youtube
@@ -46,18 +46,18 @@ Pe server, ai mai multe variante de a-ți procura momeala, fiecare cu avantajele
 Este cea mai simplă și rapidă variantă. Dacă nu vrei să pierzi timp, poți merge la magazinul dedicat și să cumperi momeala direct, gata de folosit. Totuși, această opțiune poate deveni costisitoare pe termen lung. [/gps - Magazin pescar]
 
 :::details Momeala NPC
-![](https://i.imgur.com/t2AaCPS.png){.framed-photo}
+![](../public/joburi/momealanpc.png){.framed-photo}
 :::
 
 :::details Rame Premium
-![](https://i.imgur.com/YLxC2IF.png){.framed-photo}
+![](../public/joburi/ramepremium.png){.framed-photo}
 :::
 
 2. Ramele culese manual:
 Pentru cei care vor să economisească bani, pot alege să culeagă rame din locația speciala marcata pe hartă care se regaseste si in [/gps]. Este o variantă mai ieftină, dar care necesită timp și un pic de efort.
 
 :::details Locatia Rame Premium
-![](https://i.imgur.com/yDtfbGZ.png){.framed-photo}
+![](../public/joburi/locatieramepremium.png){.framed-photo}
 :::
 
 3. Momeala craftată:
@@ -68,7 +68,8 @@ Pentru pescarii mai experimentați, craftingul momelii din pești este cea mai e
 - Nivelurile jobului:
 
 :::details Punct Vanzare Pesti
-![](https://i.imgur.com/9ysxThB.png){.framed-photo}
+![](../public/joburi/vanzarepesti.png){.framed-photo}
+
 :::
 - Nivel 1 (25 ore): La acest nivel, vei prinde pești comuni precum carasul mic, plătica și hamsia. Este o etapă introductivă potrivită pentru cei care abia încep jobul.
 - Nivel 2 (200 ore): Acest nivel îți oferă acces la specii mai mari și mai valoroase, precum somnul, păstrăvul și știuca. Necesită momeli mai avansate. 

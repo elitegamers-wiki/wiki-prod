@@ -1,7 +1,8 @@
 ---
 outline: deep
 ---
-<img src="https://cdn.mos.cms.futurecdn.net/vQSDaL6gwqd2VWM6umQhpd-1200-80.jpg" alt="pozaCasino" width="1920" height="1080" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%; box-shadow: 0 1px 20px rgba(0, 0, 0, 0.7);" >
+<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
+
 
 ---
 # Despre Casino-ul de pe server!

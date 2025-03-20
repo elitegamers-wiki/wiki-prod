@@ -1,3 +1,5 @@
+<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
+
 # <center><span style="font-family: Conthrax; background: -webkit-linear-gradient(red, darkred); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Reguli Aditionale</span></center>
 
 # CAP.1 REGULI OOC
