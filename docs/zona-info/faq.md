@@ -29,7 +29,7 @@ Roleplay-ul presupune respectarea unui set strict de *[reguli](/zona-info/regula
 
 ## <span class="header-font">Q: Este necesar un test introductiv pentru a juca pe server?</span>
 
-### A: Nu, oricine poate juca pe server. Totuși, nerespectarea [regulamentului general](/informatii/regulament.html) va atrage sancțiuni corespunzătoare.
+### A: Nu, oricine poate juca pe server. Totuși, nerespectarea [regulamentului general](/zona-info/regulament) va atrage sancțiuni corespunzătoare.
 
 ## <span class="header-font">Q: Ce joburi sunt disponibile pe server și ce venituri oferă?</span>
 
