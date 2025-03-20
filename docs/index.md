@@ -34,6 +34,7 @@ features:
   - icon: 🤝
     title: Our Team
     details: O echipă talentată dedicată inovației și excelenței
+    
 ---
 
 <style>
@@ -56,4 +57,16 @@ features:
     --vp-home-hero-image-filter: blur(68px);
   }
 }
+</style>
+
+<style>
+
+.VPFeatures .VPFeature {
+  outline: 1px solid rgba(255, 0, 0, 0.8); /* Contur roșu semi-transparent */
+  outline-offset: 1px; /* Distanță față de element */
+  box-shadow: 0 0 1px rgba(255, 0, 0, 0.6); /* Efect de glow */
+  border: none; /* Elimină orice bordură */
+  transition: box-shadow 0.2s ease-in-out, outline 0.3s ease-in-out; /* Efect de fade */
+}
+
 </style>

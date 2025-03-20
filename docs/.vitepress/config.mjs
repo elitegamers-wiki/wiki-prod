@@ -153,6 +153,8 @@ export default defineConfig({
           { text: '💎 Inventar', link: '/general/inventar' },
           { text: '🚗 Scoala De Soferi', link: '/general/scoala-de-soferi' },
           { text: '💵 ATM-uri', link: '/general/atm-uri' },
+          { text: '⏰ Daily Rewards', link: '/general/rewards' },
+
         ],
       },
       {
