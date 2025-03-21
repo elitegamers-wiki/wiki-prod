@@ -156,9 +156,9 @@ export default defineConfig({
         items: [
           { text: '📱 Telefon', link: '/general/telefon' },
           { text: '💎 Inventar', link: '/general/inventar' },
-          { text: '🚗 Scoala De Soferi', link: '/general/scoala-de-soferi' },
+          { text: '🚗 Scoala de soferi', link: '/general/scoala-de-soferi' },
           { text: '💵 ATM-uri', link: '/general/atm-uri' },
-          { text: '⏰ Daily Rewards', link: '/general/rewards' },
+          { text: '⏰ Daily rewards', link: '/general/rewards' },
 
         ],
       },
@@ -166,7 +166,7 @@ export default defineConfig({
         text: '💼 Activități legale/ilegale',
         activeMatch: `^/joburi/`,
         items: [
-          { text: '💼 Despre Job-uri', link: '/joburi/joburi' },
+          { text: '💼 Despre job-uri', link: '/joburi/joburi' },
           {
             text: "🎯 Joburi legale",
             collapsed: true,
