@@ -117,12 +117,57 @@
  * Component: Custom Block
  * -------------------------------------------------------------------------- */
 
+/**
+ * Component: Custom Block
+ * -------------------------------------------------------------------------- */
+
+/**
+ * Component: Custom Block
+ * -------------------------------------------------------------------------- */
+
 :root {
-  --vp-custom-block-tip-border: transparent;
-  --vp-custom-block-tip-text: var(--vp-c-text-1);
-  --vp-custom-block-tip-bg: var(--vp-c-brand-soft);
-  --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
+  --vp-custom-block-tip-border: lightgreen;
+  --vp-custom-block-tip-text: darkgreen;
+  --vp-custom-block-tip-bg: var(--vp-c-brand-dimm);
+
+  --vp-custom-block-info-border: lightblue;
+  --vp-custom-block-info-text: darkblue;
+  --vp-custom-block-info-bg: var(--vp-c-brand-dimm);
+
+  --vp-custom-block-danger-border: lightcoral;
+  --vp-custom-block-danger-text: darkred;
+  --vp-custom-block-danger-bg: var(--vp-c-brand-dimm);
 }
+
+.dark {
+  --vp-custom-block-tip-border: darkgreen;
+  --vp-custom-block-tip-text: lightgreen;
+  --vp-custom-block-tip-bg: var(--vp-c-brand-dimm);
+
+  --vp-custom-block-info-border: rgb(255, 247, 247);
+  --vp-custom-block-info-text: rgb(255, 255, 255);
+  --vp-custom-block-info-bg: var(--vp-c-brand-dimm);
+
+  --vp-custom-block-danger-border: darkred;
+  --vp-custom-block-danger-text: lightcoral;
+  --vp-custom-block-danger-bg: var(--vp-c-brand-dimm);
+
+  --vp-custom-block-warning-border: rgb(255, 238, 0);
+  --vp-custom-block-warning-text: rgb(211, 211, 42);
+  --vp-custom-block-warning-bg: var(--vp-c-brand-dimm);
+}
+
+:root {
+  --vp-c-brand: #d65f02;
+  --vp-c-brand-light: #df3314;
+  --vp-c-brand-lighter: #eb5035;
+  --vp-c-brand-lightest: #ec7763;
+  --vp-c-brand-dark: #f12b08;
+  --vp-c-brand-darker: #b83515;
+  --vp-c-brand-dimm: rgba(100, 108, 255, 0.08);
+}
+
+
 
 /**
  * Component: Algolia
