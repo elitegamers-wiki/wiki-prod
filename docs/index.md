@@ -28,7 +28,7 @@ features:
     link: 'zona-info/cum-intru-pe-server'
   - icon: 🖥️
     title: Sisteme
-    details: Prezentarea sistemlor noastre
+    details: Prezentarea sistemelor noastre
     link: 'general/rewards'
 
   - icon: 📖
