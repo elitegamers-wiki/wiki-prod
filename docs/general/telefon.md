@@ -232,3 +232,39 @@ Aplicația Setări îți permite să personalizezi și să configurezi telefonul
 2. Gestionarea conexiunilor
 - Permite gestionarea conexiunilor wireless. De asemenea, poți activa sau dezactiva moduri precum „Avion” sau „Nu Deranja”.
 
+## 🎵 YouTube – Redare Audio în Joc
+Aplicația YouTube îți oferă posibilitatea de a asculta muzica preferată direct în joc, fără redare video, astfel încât să te bucuri de un fundal sonor perfect pentru experiența ta de gaming.
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <div style="display: flex; gap: 10px;">
+        <img src="../public/telefon/image23.png" alt="pozaTelefon" width="300" height="600" 
+            style="border-radius: 5%;">
+        <img src="../public/telefon/image24.png" alt="pozaTelefon" width="300" height="600" 
+            style="border-radius: 5%;">
+    </div>
+    <div style="display: flex; gap: 10px;">
+        <img src="../public/telefon/image25.png" alt="pozaTelefon" width="300" height="600" 
+            style="border-radius: 5%;">
+    </div>
+</div>
+
+Funcționalități principale:
+
+- 🔍 Căutare rapidă a melodiilor
+Poți căuta orice melodie disponibilă pe YouTube și o poți adăuga direct în coada de redare.
+
+- ▶️ Redare continuă a muzicii
+Odată adăugată în coadă, melodia va fi redată automat, fără întreruperi, asigurând o experiență auditivă fluidă.
+
+- 📋 Gestionarea cozii de redare
+Poți adăuga mai multe melodii într-o listă de așteptare, astfel încât acestea să se redea una după alta.
+Posibilitatea de a elimina piese din coadă oricând dorești.
+
+- ⏯️ Controale simple pentru redare
+Poți pune pauză, sări peste melodii sau opri redarea direct din interfața aplicației.
+
+- 🔔 Notificări pentru adăugarea pieselor:
+Când adaugi o melodie în coadă, vei primi o notificare care confirmă acest lucru.
+
+- 🎛️ Sunet de înaltă calitate:
+Redarea audio este optimizată pentru a oferi un sunet clar și fără întreruperi.
