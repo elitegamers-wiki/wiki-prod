@@ -250,8 +250,9 @@ Aplicația YouTube îți oferă posibilitatea de a asculta muzica preferată dir
 
 Funcționalități principale:
 
-- 🔍 Căutare rapidă a melodiilor
+- 🔍 Căutare rapidă a melodiilor/Searchbar
 Poți căuta orice melodie disponibilă pe YouTube și o poți adăuga direct în coada de redare.
+_ Acum poti adauga si link in searchbar pentru melodia dorita.
 
 - ▶️ Redare continuă a muzicii
 Odată adăugată în coadă, melodia va fi redată automat, fără întreruperi, asigurând o experiență auditivă fluidă.
