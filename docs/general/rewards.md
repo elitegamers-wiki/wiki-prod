@@ -16,7 +16,7 @@ Misiuni zilnice, săptămânale și lunare – Jucătorii au obiective variate, 
 
 ## 🙌 Alte caracteristici:
 
-- ✅ Recompense atractive – Finalizarea misiunilor oferă euro virtuali, iteme speciale (whiskey, monede oficiale, cadouri) și posibilitatea de a avansa către recompense mai valoroase.
+- ✅ Recompense atractive – Finalizarea misiunilor oferă bani in joc, iteme speciale (whiskey, eg-coins, cadouri) și posibilitatea de a avansa către recompense mai valoroase.
 
 - ✅ Status Premium/VIP – Jucătorii pot activa un statut Premium pentru acces la recompense exclusive.
 
