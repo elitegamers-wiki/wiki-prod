@@ -151,14 +151,14 @@ export default defineConfig({
         ],
       },
       {
-        text: '⚠️ General',
+        text: '𖤍 General',
         activeMatch: '^/general/',
         items: [
-          { text: '📱 Telefon', link: '/general/telefon' },
-          { text: '💎 Inventar', link: '/general/inventar' },
-          { text: '🚗 Scoala de soferi', link: '/general/scoala-de-soferi' },
-          { text: '💵 ATM-uri', link: '/general/atm-uri' },
-          { text: '⏰ Daily rewards', link: '/general/rewards' },
+          { text: '✆ Telefon', link: '/general/telefon' },
+          { text: '❖ Inventar', link: '/general/inventar' },
+          { text: '√ Scoala de soferi', link: '/general/scoala-de-soferi' },
+          { text: '⌗ ATM-uri', link: '/general/atm-uri' },
+          { text: '✗  Daily rewards', link: '/general/rewards' },
 
         ],
       },
@@ -171,7 +171,7 @@ export default defineConfig({
             text: "🎯 Joburi legale",
             collapsed: true,
             items: [ 
-              { text: '⛏ Mecanic', link: '/joburi/mecanic' },
+              { text: '🔧Mecanic', link: '/joburi/mecanic' },
               { text: '🚕 Taximetrist', link: '/joburi/taximetrist' },
               { text: '🚌 Sofer de autobuz', link: '/joburi/sofer-de-autobuz' },
               { text: '🎣 Pescar', link: '/joburi/pescar' },
@@ -194,7 +194,7 @@ export default defineConfig({
         text: '🏆 Afaceri',
         activeMatch: '^/afaceri/',
         items: [
-          { text: '♟️ Elite Business Center', link: '/afaceri/elite-business-center' },
+          { text: '🏛️ Elite Business Center', link: '/afaceri/elite-business-center' },
           {
             text: "🗺️ Locatii",
             collapsed: true,
