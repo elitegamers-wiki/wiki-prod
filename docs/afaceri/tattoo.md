@@ -1,6 +1,6 @@
 <img src="https://imgur.com/eBBAkE8.png" alt="pozabusiness" width="666" height="375" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
-# Afacerile te tip : GUNSHOP
+# Afacerile te tip : SALON DE TATUAJE
 ### Pe server exista 11 Locatii pentru acest tip de business
 
 ### GUNSHOP -> VINEWOOD
