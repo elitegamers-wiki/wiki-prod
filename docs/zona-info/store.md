@@ -3,7 +3,7 @@
 # <center>**Introducerea Store-ului**</center>
 
 
-🕹 Mulțumim că faci parte din comunitatea EliteGamers și pentru sprijinul oferit! 🕹️
+ Mulțumim că faci parte din comunitatea EliteGamers și pentru sprijinul oferit! 
 
 ##  INFORMAȚII ESENȚIALE
 
