@@ -121,112 +121,112 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '👉 Zona Informativa',
+        text: ' Zona Informativa',
         activeMatch: '^/zona-info/',
         items: [
-          { text: '🦁 Informatii Importante', link: '/zona-info/informatii' },
-          { text: '❤️ Store', link: '/zona-info/store' },
-          { text: '📌 Intrebari si Raspunsuri', link: '/zona-info/faq' },
+          { text: ' Informatii Importante', link: '/zona-info/informatii' },
+          { text: ' Store', link: '/zona-info/store' },
+          { text: ' Intrebari si Raspunsuri', link: '/zona-info/faq' },
 
 
             {
-              text: '🗂 Regulamente',
+              text: ' Regulamente',
               activeMatch: '^/zona-info/regulamente/',
               collapsed: true,
               items: [
-                { text: '📔 Regulament General', link: '/zona-info/regulament' },
-                { text: '📒 Regulament Aditional', link: '/zona-info/regulament-aditional' },
-                { text: '📘 Regulament Politie', link: '/zona-info/regulament-politie' },
-                { text: '📕 Regulament SMIR', link: '/zona-info/regulament-smir' },
-                { text: '📙 Regulament Mafii', link: '/zona-info/regulament-mafii' },
+                { text: ' Regulament General', link: '/zona-info/regulament' },
+                { text: ' Regulament Aditional', link: '/zona-info/regulament-aditional' },
+                { text: ' Regulament Politie', link: '/zona-info/regulament-politie' },
+                { text: ' Regulament SMIR', link: '/zona-info/regulament-smir' },
+                { text: ' Regulament Mafii', link: '/zona-info/regulament-mafii' },
               ],
             },
           {
-            text: '❓ Cum intru pe server?',
+            text: ' Cum intru pe server?',
             link: '/zona-info/cum-intru-pe-server',
           },
-          { text: '💽 Updates', link: '/zona-info/updates' },
-          { text: '🎱 Codul Penal', link: '/zona-info/cod-penal' },
+          { text: ' Updates', link: '/zona-info/updates' },
+          { text: ' Codul Penal', link: '/zona-info/cod-penal' },
 
         ],
       },
       {
-        text: '𖤍 General',
+        text: ' General',
         activeMatch: '^/general/',
         items: [
-          { text: '✆ Telefon', link: '/general/telefon' },
-          { text: '❖ Inventar', link: '/general/inventar' },
-          { text: '√ Scoala de soferi', link: '/general/scoala-de-soferi' },
-          { text: '⌗ ATM-uri', link: '/general/atm-uri' },
-          { text: '✗  Daily rewards', link: '/general/rewards' },
+          { text: ' Telefon', link: '/general/telefon' },
+          { text: ' Inventar', link: '/general/inventar' },
+          { text: ' Scoala de soferi', link: '/general/scoala-de-soferi' },
+          { text: ' ATM-uri', link: '/general/atm-uri' },
+          { text: ' Daily rewards', link: '/general/rewards' },
 
         ],
       },
       {
-        text: '💼 Activități legale/ilegale',
+        text: ' Activități legale/ilegale',
         activeMatch: `^/joburi/`,
         items: [
-          { text: '💼 Despre job-uri', link: '/joburi/joburi' },
+          { text: ' Despre job-uri', link: '/joburi/joburi' },
           {
-            text: "🎯 Joburi legale",
+            text: " Joburi legale",
             collapsed: true,
             items: [ 
-              { text: '🔧Mecanic', link: '/joburi/mecanic' },
-              { text: '🚕 Taximetrist', link: '/joburi/taximetrist' },
-              { text: '🚌 Sofer de autobuz', link: '/joburi/sofer-de-autobuz' },
-              { text: '🎣 Pescar', link: '/joburi/pescar' },
-              { text: '🚚 Tirist', link: '/joburi/tirist' },
-              { text: '🍄 Ciupercar', link: '/joburi/ciupercar' },
-              { text: '👷🏼‍♂️ Miner', link: '/joburi/miner' },
-              { text: '🍕 Livrator Pizza', link: '/joburi/pizza' },
+              { text: 'Mecanic', link: '/joburi/mecanic' },
+              { text: 'Taximetrist', link: '/joburi/taximetrist' },
+              { text: 'Sofer de autobuz', link: '/joburi/sofer-de-autobuz' },
+              { text: 'Pescar', link: '/joburi/pescar' },
+              { text: 'Tirist', link: '/joburi/tirist' },
+              { text: 'Ciupercar', link: '/joburi/ciupercar' },
+              { text: 'Miner', link: '/joburi/miner' },
+              { text: 'Livrator Pizza', link: '/joburi/pizza' },
             ]
           },
           {
-            text: "💉 Joburi ilegale",
+            text: "Joburi ilegale",
             collapsed: true,
             items: [
-              {text: '💊 Metamfetamina', link: '/joburi/meta'},
+              {text: 'Metamfetamina', link: '/joburi/meta'},
             ]
           }
         ]
       },
       {
-        text: '🏆 Afaceri',
+        text: 'Afaceri',
         activeMatch: '^/afaceri/',
         items: [
-          { text: '🏛️ Elite Business Center', link: '/afaceri/elite-business-center' },
+          { text: 'Elite Business Center', link: '/afaceri/elite-business-center' },
           {
-            text: "🗺️ Locatii",
+            text: "Locatii",
             collapsed: true,
             items: [
-          { text: '🔫 Gunshop', link: '/afaceri/gunshop' },
-          { text: '👔 Clothing', link: '/afaceri/clothing' },
-          { text: '🖋️ Tattoo', link: '/afaceri/tattoo' },
-          { text: '✂️ Frizerie', link: '/afaceri/frizerie' },
-          { text: '🧼 Washing', link: '/afaceri/washing' },
-          { text: '👨‍🔧 Service', link: '/afaceri/service' },
+          { text: 'Gunshop', link: '/afaceri/gunshop' },
+          { text: 'Clothing', link: '/afaceri/clothing' },
+          { text: 'Tattoo', link: '/afaceri/tattoo' },
+          { text: 'Frizerie', link: '/afaceri/frizerie' },
+          { text: 'Washing', link: '/afaceri/washing' },
+          { text: 'Service', link: '/afaceri/service' },
 
             ]
           }
         ],
       },
       {
-        text: '🏅 Proprietati',
+        text: 'Proprietati',
         activeMatch: '^/proprietati/',
-        items: [{ text: '🏠 Case', link: '/proprietati/despre-case' }],
+        items: [{ text: 'Case', link: '/proprietati/despre-case' }],
       },
       {
-        text: '⛔ Factiuni',
+        text: 'Factiuni',
         activeMatch: '^/factiuni/',
         items: [
-          { text: '👮 Politie', link: '/factiuni/politie' },
-          { text: '🩺 SMIR', link: '/factiuni/smir' },
+          { text: 'Politie', link: '/factiuni/politie' },
+          { text: 'SMIR', link: '/factiuni/smir' },
         ],
       },
       {
-        text: '🎰 Casino',
+        text: 'Casino',
         activeMatch: '^/casino/',
-        items: [{ text: '🎰 Unde se afla Casino-ul', link: '/casino/casino' }],
+        items: [{ text: 'Unde se afla Casino-ul', link: '/casino/casino' }],
       },
     ],
   },

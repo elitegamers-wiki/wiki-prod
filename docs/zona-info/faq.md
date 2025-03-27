@@ -4,7 +4,7 @@ title: Întrebări frecvente
 
 <img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
-# <center>:question: FAQ :exclamation:</center>
+# <center> FAQ </center>
 
 ### <center> Această secțiune este dedicată întrebărilor frecvente adresate staff-ului sau curiozităților pe care jucătorii le au înainte de a începe experiența pe ELITEGAMERS ROMANIA HARD ROLEPLAY.</center>
 
@@ -12,7 +12,7 @@ title: Întrebări frecvente
 
 ### A: Serverul rulează pe platforma FiveM, care poate fi descărcată accesând următorul link: [https://fivem.net](https://fivem.net).
 :::tip Atenție!
-Pentru a putea juca, este necesar să dețineți o copie achiziționată a jocului GTA V.
+Pentru a putea juca este necesar să dețineți o copie achiziționată a jocului GTA V.
 :::
 
 ## <span class="header-font">Q: Ce este roleplay-ul?</span>

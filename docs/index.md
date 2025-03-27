@@ -115,7 +115,7 @@ features:
 <div>
 
   <h2 text="center lg" my-5 font-bold>
-    💕 Multumim tuturor pentru support!!
+    Multumim tuturor pentru support!!
   </h2>
 
   <a href="https://github.com/elitegamers-wiki/wiki-prod/graphs/contributors" flex justify-center>

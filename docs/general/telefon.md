@@ -20,24 +20,24 @@ outline: deep
 <img src="../public/telefon/image2.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 
-- Contacte 📇 – Gestionarea listei de contacte, apeluri și mesaje.
-- Email 📧 – Permite primirea e-mailurilor.
-- Anunțuri 📢 – Acces la anunțuri publice și mesaje administrative.
-- Servicii 🛠️ – Contact rapid pentru diverse servicii disponibile în joc.
-- Garaj 🚗 – Gestionarea vehiculelor personale.
-- Banking 🏦 – Vizualizare sold, transferuri bancare și plăți.
-- Loops 🔄 – O platforma inspirata de la "X", unde jucatorii pot posta diferite activitati, poze, masini.
-- Galerie 🖼️ – Gestionarea capturilor de ecran și imaginilor.
-- InetMax (5G) 📶 – Indică conexiunea la rețeaua de internet, permite achizitionarea pentru GB.
-- GPS 📍 – Harta și sistem de navigație.
+- Contacte  – Gestionarea listei de contacte, apeluri și mesaje.
+- Email  – Permite primirea e-mailurilor.
+- Anunțuri  – Acces la anunțuri publice și mesaje administrative.
+- Servicii  – Contact rapid pentru diverse servicii disponibile în joc.
+- Garaj  – Gestionarea vehiculelor personale.
+- Banking  – Vizualizare sold, transferuri bancare și plăți.
+- Loops  – O platforma inspirata de la "X", unde jucatorii pot posta diferite activitati, poze, masini.
+- Galerie  – Gestionarea capturilor de ecran și imaginilor.
+- InetMax (5G)  – Indică conexiunea la rețeaua de internet, permite achizitionarea pentru GB.
+- GPS  – Harta și sistem de navigație.
 
 În partea de jos, telefonul are și trei aplicații esențiale:
-- Apeluri 📞– Inițiază și primește apeluri, gestionează agenda telefonică.
-- Mesagerie 📩 – Trimiterea și primirea de SMS-uri.
-- Cameră foto 📷 – Capturarea de imagini și înregistrări video.
-- Setări ⚙️ – Configurarea telefonului și personalizarea funcțiilor.
+- Apeluri – Inițiază și primește apeluri, gestionează agenda telefonică.
+- Mesagerie  – Trimiterea și primirea de SMS-uri.
+- Cameră foto – Capturarea de imagini și înregistrări video.
+- Setări  – Configurarea telefonului și personalizarea funcțiilor.
 
-## 📇 Contacte – Gestionarea listei de contacte, apeluri și mesaje
+##  Contacte – Gestionarea listei de contacte, apeluri și mesaje
 Aplicația Contacte este centrul de gestionare a conexiunilor tale. Aceasta îți permite să îți organizezi lista de contacte într-un mod eficient, oferindu-ți acces rapid la persoanele cu care comunici frecvent.
 
 <img src="../public/telefon/image3.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
@@ -49,20 +49,20 @@ Aplicația Contacte este centrul de gestionare a conexiunilor tale. Aceasta îț
 - Căutare rapidă – Dacă ai o listă extinsă de contacte, funcția de căutare îți permite să găsești instant persoana dorită tastând doar câteva litere din numele acesteia.
 - Istoric de interacțiuni – Aplicația păstrează un istoric al apelurilor efectuate, primite sau ratate, oferindu-ți o evidență clară a comunicării cu fiecare contact.
 
-## 📧 Email – Primirea mesajelor electronice
+##  Email – Primirea mesajelor electronice
 Aplicația Email este destinată exclusiv primirii mesajelor electronice, oferindu-ți acces rapid și organizat la toate comunicările importante. Indiferent dacă primești notificări oficiale, mesaje administrative sau emailuri personale, această aplicație îți permite să le gestionezi eficient, asigurându-te că nu ratezi nicio informație esențială.
 
 <img src="../public/telefon/image4.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
-📨 Primirea emailurilor – Toate mesajele trimise către adresa ta sunt livrate instantaneu, permițându-ți să fii mereu la curent cu informațiile primite. Notificările în timp real îți asigură acces imediat la cele mai recente emailuri.
+ Primirea emailurilor – Toate mesajele trimise către adresa ta sunt livrate instantaneu, permițându-ți să fii mereu la curent cu informațiile primite. Notificările în timp real îți asigură acces imediat la cele mai recente emailuri.
 
-📂 Organizarea automată a mesajelor – Emailurile sunt afișate într-o interfață clară, aranjate în ordine cronologică pentru a facilita navigarea și identificarea celor mai recente comunicări.
+ Organizarea automată a mesajelor – Emailurile sunt afișate într-o interfață clară, aranjate în ordine cronologică pentru a facilita navigarea și identificarea celor mai recente comunicări.
 
-🔎 Căutare avansată – Dacă ai un număr mare de mesaje, funcția de căutare îți permite să găsești rapid un email specific, folosind cuvinte-cheie, expeditorul sau data primirii.
+ Căutare avansată – Dacă ai un număr mare de mesaje, funcția de căutare îți permite să găsești rapid un email specific, folosind cuvinte-cheie, expeditorul sau data primirii.
 
-🚨 Mesaje administrative și notificări importante – Pe lângă emailurile obișnuite, aplicația îți oferă acces la notificări esențiale despre diverse evenimente sau schimbări relevante pentru tine.
+ Mesaje administrative și notificări importante – Pe lângă emailurile obișnuite, aplicația îți oferă acces la notificări esențiale despre diverse evenimente sau schimbări relevante pentru tine.
 
-## 📢 Anunțuri – Panou informativ pentru mesaje publice și administrative
+## Anunțuri – Panou informativ pentru mesaje publice și administrative
 Aplicația Anunțuri este locul unde utilizatorii pot vizualiza cele mai recente mesaje publice și administrative esențiale. Fii la curent cu informațiile importante care te pot afecta, de la anunțuri guvernamentale până la notificări locale.
 
 <img src="../public/telefon/image5.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
@@ -73,7 +73,7 @@ Aplicația Anunțuri este locul unde utilizatorii pot vizualiza cele mai recente
 - Notificări push – Poți activa notificări pentru a fi informat imediat ce sunt postate anunțuri importante sau urgente.
 - Istoric anunțuri – Aplicația păstrează un istoric al anunțurilor vizualizate, astfel încât să poți reveni la orice informație importantă oricând.
 
-## 🛠️ Servicii – Acces rapid la diferite servicii disponibile
+## Servicii – Acces rapid la diferite servicii disponibile
 - Aplicația Servicii îți permite să contactezi rapid cele mai importante servicii de care ai nevoie, direct printr-un apel telefonic. 
 - Fie că este vorba de o problemă mecanică, o urgență polițienească, necesitatea unui taxi sau apelarea unui serviciu medical de urgență, aplicația te conectează instantaneu cu profesioniștii.
 <img src="../public/telefon/image7.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
@@ -94,7 +94,7 @@ Aplicația Anunțuri este locul unde utilizatorii pot vizualiza cele mai recente
 - Contact direct cu SMIR
 - În caz de urgență medicală, poți suna imediat la serviciile SMIR pentru a solicita intervenție rapidă.
 
-## 🚗 Garaj – Administrarea vehiculelor personale
+## Garaj – Administrarea vehiculelor personale
 Aplicația Garaj este ideală pentru gestionarea vehiculelor tale, de la urmărirea stării acestora, până la localizarea și administrarea parcării.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
@@ -108,7 +108,7 @@ Aplicația Garaj este ideală pentru gestionarea vehiculelor tale, de la urmări
 - Data achizitionarii = Permite vizualizarea datei in care a fost achizitionat autovehiculul.
 - Date suplimentare = Se precizeaza brand-ul, modelul, si numarul.
 
-## 🏦 Banking – Gestionarea finanțelor personale
+## Banking – Gestionarea finanțelor personale
 Aplicația Banking îți permite să îți administrezi toate tranzacțiile financiare într-un loc sigur și ușor de accesat.
 
 <img src="../public/telefon/image10.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
@@ -119,7 +119,7 @@ Aplicația Banking îți permite să îți administrezi toate tranzacțiile fina
 - Plăți online – Efectuează plăți rapide pentru facturi, cumpărături sau servicii, fără a ieși din aplicație.
 - Istoric tranzacții – Vizualizează toate tranzacțiile anterioare și primește notificări despre mișcările contului tău.
 
-## 🔄 Loops – Platformă socială pentru activități și colecția de mașini
+## Loops – Platformă socială pentru activități și colecția de mașini
 Aplicația Loops este un spațiu social dedicat pasionaților de mașini și activități de orice fel. Aici poți interacționa cu prieteni, posta imagini și împărtăși momente din viața ta.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
@@ -135,7 +135,7 @@ Aplicația Loops este un spațiu social dedicat pasionaților de mașini și act
 - Căutare și descoperire – Căută activități, evenimente sau utilizatori cu interese similare pentru a-ți extinde rețeaua socială.
 - Galerie personală – Ține toate postările și imagini într-o galerie personală pe care o poți organiza și partaja oricând.
 
-## 🖼️ Galerie – Organizarea și vizualizarea imaginilor
+## Galerie – Organizarea și vizualizarea imaginilor
 Aplicația Galerie îți permite să stochezi, organizezi și vizualizezi rapid toate fișierele media, inclusiv capturi de ecran și fotografii.
 
 <img src="../public/telefon/image13.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
@@ -144,7 +144,7 @@ Aplicația Galerie îți permite să stochezi, organizezi și vizualizezi rapid 
 - Stocarea fișierelor media – Salvează și organizează toate fișierele tale media într-un singur loc, fie că sunt poze, capturi de ecran sau imagini din aplicații.
 - Vizualizare rapidă – Accesează fișierele tale într-un mod rapid și eficient, având posibilitatea de a le vizualiza direct din aplicație.
 
-## 📶 InetMax (5G) – Gestionarea conexiunii la internet
+## InetMax (5G) – Gestionarea conexiunii la internet
 Aplicația InetMax te ajută să gestionezi conexiunea la internet și să achiziționezi pachete de date pentru a rămâne conectat în orice moment.
 
 <img src="../public/telefon/image14.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
@@ -155,7 +155,7 @@ Achiziționarea pachetelor de internet – Achiziționează rapid pachete de dat
 Monitorizarea consumului de date – Urmărește consumul de date pentru a evita depășirea limitelor impuse de operatorul tău.
 Notificări de conectivitate – Primești notificări atunci când conexiunea la rețea este slabă sau întreruptă.
 
-## 📍 GPS – Navigație și găsirea locațiilor
+## GPS – Navigație și găsirea locațiilor
 Aplicația GPS îți oferă indicații precise pentru a ajunge la destinațiile dorite, indiferent de locația ta.
 
 <img src="../public/telefon/image15.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
@@ -164,7 +164,7 @@ Aplicația GPS îți oferă indicații precise pentru a ajunge la destinațiile 
 Indicații de navigație – Primești direcții pas cu pas pentru a ajunge rapid și ușor la destinațiile tale.
 Găsirea locațiilor dorite – Căutând o adresă sau un loc pe hartă, aplicația îți arată rutele optime și alternative.
 
-## 📞 Apeluri – Inițiază și primește apeluri, gestionează agenda telefonică
+## Apeluri – Inițiază și primește apeluri, gestionează agenda telefonică
 Aplicația Apeluri este esențială pentru comunicarea zilnică. Aceasta îți permite să efectuezi apeluri telefonice rapid și eficient, să primești apeluri și să îți gestionezi întreaga agenda telefonică.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
@@ -186,7 +186,7 @@ Aplicația Apeluri este esențială pentru comunicarea zilnică. Aceasta îți p
 4. Istoric apeluri
 - Aplicația păstrează un istoric detaliat al apelurilor efectuate și primite, permițându-ți să vizualizezi informațiile legate de fiecare apel (data, durata, tipul apelului).
 
-## 📩 Mesagerie – Trimiterea și primirea de SMS-uri
+## Mesagerie – Trimiterea și primirea de SMS-uri
 Aplicația Mesagerie îți oferă posibilitatea de a trimite și de a primi mesaje text (SMS) într-un mod simplu și eficient, fiind un instrument esențial pentru comunicarea rapidă.
 
 1. Trimiterea de SMS-uri
@@ -201,13 +201,13 @@ Aplicația Mesagerie îți oferă posibilitatea de a trimite și de a primi mesa
 4. Permite Share Location
 - Aplicatia "Mesagerie" permite si trimiterea share location-ului pentru a face viata mai usoara.
 
-## 📷 Cameră foto – Capturarea de imagini și înregistrări video
+## Cameră foto – Capturarea de imagini și înregistrări video
 Aplicația Cameră foto îți oferă toate instrumentele necesare pentru a captura imagini de înaltă calitate și înregistrări video, fie că vrei să imortalizezi un moment special sau să faci fotografii pentru diverse nevoi.
 
 1. Capturarea de imagini
 - Aplicația îți permite să faci fotografii rapide și clare. Poți ajusta setările camerei precum zoom din Mouse Wheel UP/Down.
 
-## ⚙️ Setări – Configurarea telefonului și personalizarea funcțiilor
+## Setări – Configurarea telefonului și personalizarea funcțiilor
 Aplicația Setări îți permite să personalizezi și să configurezi telefonul, oferindu-ți control asupra funcțiilor esențiale ale dispozitivului tău.
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
@@ -232,7 +232,7 @@ Aplicația Setări îți permite să personalizezi și să configurezi telefonul
 2. Gestionarea conexiunilor
 - Permite gestionarea conexiunilor wireless. De asemenea, poți activa sau dezactiva moduri precum „Avion” sau „Nu Deranja”.
 
-## 🎵 YouTube – Redare Audio în Joc
+## YouTube – Redare Audio în Joc
 Aplicația YouTube îți oferă posibilitatea de a asculta muzica preferată direct în joc, fără redare video, astfel încât să te bucuri de un fundal sonor perfect pentru experiența ta de gaming.
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
@@ -250,21 +250,21 @@ Aplicația YouTube îți oferă posibilitatea de a asculta muzica preferată dir
 
 Funcționalități principale:
 
-- 🔍 Căutare rapidă a melodiilor
+- Căutare rapidă a melodiilor
 Poți căuta orice melodie disponibilă pe YouTube și o poți adăuga direct în coada de redare.
 
-- ▶️ Redare continuă a muzicii
+- Redare continuă a muzicii
 Odată adăugată în coadă, melodia va fi redată automat, fără întreruperi, asigurând o experiență auditivă fluidă.
 
-- 📋 Gestionarea cozii de redare
+- Gestionarea cozii de redare
 Poți adăuga mai multe melodii într-o listă de așteptare, astfel încât acestea să se redea una după alta.
 Posibilitatea de a elimina piese din coadă oricând dorești.
 
-- ⏯️ Controale simple pentru redare
+- Controale simple pentru redare
 Poți pune pauză, sări peste melodii sau opri redarea direct din interfața aplicației.
 
-- 🔔 Notificări pentru adăugarea pieselor:
+- Notificări pentru adăugarea pieselor:
 Când adaugi o melodie în coadă, vei primi o notificare care confirmă acest lucru.
 
-- 🎛️ Sunet de înaltă calitate:
+-  Sunet de înaltă calitate:
 Redarea audio este optimizată pentru a oferi un sunet clar și fără întreruperi.
