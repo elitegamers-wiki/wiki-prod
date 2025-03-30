@@ -4,7 +4,7 @@
 ### Pe server exista 6 Locatii pentru acest tip de business
 
 ### SALON DE TATUAJE -> EAST LOS SANTOS
-<img src="../public/locatii/gunshop/gs_vinewood.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+<img src="../public/locatii/tattoo/tt_eastls.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  EAST LOS SANTOS
 - Strada: INNOCENCE BOULEVARD
@@ -13,7 +13,7 @@
 - Harta: [APASA AICI](https://imgur.com/q6cf5fR)
 
 ### SALON DE TATUAJE -> VESPUCCI
-<img src="../public/locatii/gunshop/gs_vinewood.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+<img src="../public/locatii/tattoo/tt_vespucci.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  VESPUCCI
 - Strada: AGUJA STREET
@@ -22,7 +22,7 @@
 - Harta: [APASA AICI](https://imgur.com/CZUxngB)
 
 ### SALON DE TATUAJE -> VINEWOOD
-<img src="../public/locatii/gunshop/gs_vinewood.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+<img src="../public/locatii/tattoo/tt_vinewood.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  VINEWOOD
 - Strada: VINEWOOD BOULEVARD
@@ -31,7 +31,7 @@
 - Harta: [APASA AICI](https://imgur.com/45rJWuC)
 
 ### SALON DE TATUAJE -> HIGHWAY
-<img src="../public/locatii/gunshop/gs_vinewood.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+<img src="../public/locatii/tattoo/tt_highway.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  HIGHWAY
 - Strada: GREAT OCEAN HIGHWAY
@@ -40,7 +40,7 @@
 - Harta: [APASA AICI](https://imgur.com/LP3pMhb)
 
 ### SALON DE TATUAJE -> SANDY
-<img src="../public/locatii/gunshop/gs_vinewood.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+<img src="../public/locatii/tattoo/tt_sandy.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  SANDY
 - Strada: ALHAMBRA DRIVE
@@ -48,8 +48,8 @@
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/ElcDqmm)
 
-### SALON DE TATUAJE -> SANDY
-<img src="../public/locatii/gunshop/gs_vinewood.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+### SALON DE TATUAJE -> PALETO
+<img src="../public/locatii/tattoo/tt_paleto.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  PALETO
 - Strada: DULOUZ AVENUE
