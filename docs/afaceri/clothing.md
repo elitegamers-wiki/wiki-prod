@@ -121,7 +121,7 @@
 - Harta: [APASA AICI](https://imgur.com/U8r06Sg)
 
 ### CLOTHING -> ROUTE 68
-<img src="../public/locatii/clothing/gs_vinewood.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+<img src="../public/locatii/clothing/cl_vinewood.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  ROUTE 68
 - Strada: ROUTE 68
