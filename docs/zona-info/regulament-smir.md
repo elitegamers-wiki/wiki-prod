@@ -18,26 +18,26 @@
 
 ### Masini si Elicoptere
 
-1. Pentru a folosi elicopterul din dotarea spitalului trebuie să dați un test si sa obtinuti un permis special, elicopterul putand fi folosit doar la intervențiile unde locația pacientului este izolată, respectiv locații unde ambulanței îi este imposibil să ajungă.
-2. Dacă nu există niciun medic specializat în pilotaj în oraș, puteți folosi elicopterul pe propria răspundere DOAR ÎN SITUAȚIA PRECIZATA MAI SUS!
-3. Nu aveți voie să folosiți vehiculele din dotare în scopuri personale.
-4. La fiecare intervenție ÎNCUIAȚI MAȘINILE!
-5. Aveți obligația de a întreține ambulanțele în stare bună. Alimentați-le mereu înainte să le parcați (măcar 80% sa fie) și nu le parcați stricate.
-6. Este interzis să abuzați de sirene / semnale luminoase pentru a încălca regulile de circulație!
+10. Pentru a folosi elicopterul din dotarea spitalului trebuie să dați un test si sa obtinuti un permis special, elicopterul putand fi folosit doar la intervențiile unde locația pacientului este izolată, respectiv locații unde ambulanței îi este imposibil să ajungă.
+12. Dacă nu există niciun medic specializat în pilotaj în oraș, puteți folosi elicopterul pe propria răspundere DOAR ÎN SITUAȚIA PRECIZATA MAI SUS!
+13. Nu aveți voie să folosiți vehiculele din dotare în scopuri personale.
+14. La fiecare intervenție ÎNCUIAȚI MAȘINILE!
+15. Aveți obligația de a întreține ambulanțele în stare bună. Alimentați-le mereu înainte să le parcați (măcar 80% sa fie) și nu le parcați stricate.
+16. Este interzis să abuzați de sirene / semnale luminoase pentru a încălca regulile de circulație!
 
 ## Jafuri
-- Nu aveți voie să mergeți la jafuri fără acordul sau suportul polițiștilor (trebuie să fiți păziți)
+17. Nu aveți voie să mergeți la jafuri fără acordul sau suportul polițiștilor (trebuie să fiți păziți)
 
 ## Reguli generale
 
-1. Sunteți obligați să arătați legitimația în momentul în care ajungeți la un apel! (daca vi se cere)
-2. Este interzis să aveți obiecte ilegale la voi, atat On-duty cat si Off-duty. 
-3. Nu este permis să acționați într -o zona în care are loc un schimb de focuri. Aveți voie să acționați doar în cazul în care schimbul de focuri s-a încheiat, iar poliția este prezenta la fața locului.
-4. Când ajungeți la un apel, prioritatea la asistență medicală o au polițiștii, deoarece ei vă pot ajuta în caz că veți fi pus în pericol.
-5. În funcție de gravitate, persoana aflată în comă va fi dusă OBLIGATORIU la spital! (In cazul in care acestia refuza le puteti face ticket pentru refuz-roleplay)
+18. Sunteți obligați să arătați legitimația în momentul în care ajungeți la un apel! (daca vi se cere)
+19. Este interzis să aveți obiecte ilegale la voi, atat On-duty cat si Off-duty. 
+20. Nu este permis să acționați într -o zona în care are loc un schimb de focuri. Aveți voie să acționați doar în cazul în care schimbul de focuri s-a încheiat, iar poliția este prezenta la fața locului.
+21. Când ajungeți la un apel, prioritatea la asistență medicală o au polițiștii, deoarece ei vă pot ajuta în caz că veți fi pus în pericol.
+22. În funcție de gravitate, persoana aflată în comă va fi dusă OBLIGATORIU la spital! (In cazul in care acestia refuza le puteti face ticket pentru refuz-roleplay)
 - ex: Dacă X a primit o serie de pumni, acesta va primi asistență medicală la fața locului, putand fi dus la spital doar dacă doreste.
 - Dacă Y a primit 2 gloanțe în umăr și picior, acesta va fi dus de urgență la spital și va intra în operație.
-6. Este strict interzis să luați ȘPAGĂ! Acest lucru se pedepseste cu demiterea din factiune!
+23. Este strict interzis să luați ȘPAGĂ! Acest lucru se pedepseste cu demiterea din factiune!
 
  ## OFF-Duty & Inactivitate
 - Aveți dreptul la 10 zile de concediu / lună.
