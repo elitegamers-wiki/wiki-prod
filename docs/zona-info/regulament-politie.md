@@ -43,8 +43,8 @@
 - Când o persoană este observată purtând un obiect care îi acoperă fața (ex.: mască, bandană).
 20. Orice abatere de la regulament se pedepseste cu suspendare/demitere (in functie de gravitate)!
 
-21. Coduri de asistență:  
-🔴COD ROȘU - Situație de urgență majoră
+21. Coduri de asistență:
+🔴 COD ROȘU - Situație de urgență majoră
 - Utilizare: Semnale acustice și luminoase activate
 - Exemple:
 - Ofițer atacat sau rănit
