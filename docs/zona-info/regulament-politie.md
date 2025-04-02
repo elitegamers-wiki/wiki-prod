@@ -45,36 +45,36 @@
 
 21. Coduri de asistență:  
 🔴COD ROȘU - Situație de urgență majoră
-🔹Utilizare: Semnale acustice și luminoase activate
-🔹Exemple:
+- Utilizare: Semnale acustice și luminoase activate
+- Exemple:
 - Ofițer atacat sau rănit
 - Suspecți înarmați și periculoși
 - Jaf bancar sau furt major în desfășurare
 ________________________________________
 🟠 COD PORTOCALIU - Intervenție urgentă
-🔹 Utilizare: Semnale acustice și luminoase activate
-🔹 Exemple:
+-  Utilizare: Semnale acustice și luminoase activate
+- Exemple:
 - Luptă între mai multe persoane
 - Urmărire în desfășurare
 - Incident cu posibil pericol iminent pentru viață
 ________________________________________
 🟡 COD GALBEN - Asistență standard
-🔹 Utilizare: Doar semnale luminoase, fără semnale acustice
-🔹 Exemple:
+- Utilizare: Doar semnale luminoase, fără semnale acustice
+- Exemple:
 - Control rutier care escaladează
 - Suspect fugar fără pericol imediat
 - Incident care necesită prezența forțelor de ordine, dar fără amenințare directă
 ________________________________________
 🔵 COD ALBASTRU - Necesită îngrijiri medicale
-🔹 Utilizare: Solicitare pentru unitățile medicale
-🔹 Exemple:
+- Utilizare: Solicitare pentru unitățile medicale
+- Exemple:
 - Persoană rănită în urma unui accident
 - Suspect sau civil care necesită îngrijiri medicale
 - Ofițer rănit fără pericol iminent
 ________________________________________
 🟢 COD VERDE - Zonă sigură
-🔹 Utilizare: Nicio urgență, patrulare normală
-🔹 Exemple:
+- Utilizare: Nicio urgență, patrulare normală
+- Exemple:
 - Incident rezolvat, zona este sigură
 - Finalizare intervenție fără pericole rămase
 - Rutină obișnuită fără nevoia de sprijin
