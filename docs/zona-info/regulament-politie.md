@@ -40,6 +40,7 @@ Regulament General:
  •	Când o persoană este văzută cu o armă albă în mână.
  •	În urma unui apel ce semnalează activități suspecte în zonă.
  •	Când o persoană este observată purtând un obiect care îi acoperă fața (ex.: mască, bandană).
+
 20. Orice abatere de la regulament se pedepseste cu suspendare/demitere (in functie de gravitate)!
 21. Coduri de asistență:  
 🔴 COD ROȘU - Situație de urgență majoră
