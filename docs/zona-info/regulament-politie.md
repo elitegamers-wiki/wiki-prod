@@ -11,7 +11,8 @@
 8.	 Poliţia este autorizată să organizeze, ocazional, cu mijloace foto-audio-video sau prin alte mijloace tehnice din dotare, momente operative cu privire la activităţi desfăşurate în locuri publice, fără consimţământul persoanelor vizate, în cazul în care există motive verosimile pentru a bănui că în aceste locuri publice ar putea fi comise infracţiuni sau alte fapte ilegale ori tulburată ordinea şi siguranţa publică.
 9.	În cazurile de intervenție, acțiunile trebuie să fie justificate și proporționale cu pericolul întâmpinat. Comportamentele nesăbuite, cum ar fi folosirea excesivă a forței sau urmăriri periculoase fără un motiv clar, nu vor fi tolerate.
 10.	Toți membrii IGPLS trebuie să respecte regulamentul serverului și să aplice legile într-un mod profesionist, conform normelor din viața reală. Încălcarea regulamentului poate duce la sancțiuni administrative, inclusiv suspendarea sau excluderea din departament.
-Regulament General: 
+
+## Regulament General: 
 1.	Este interzis să folosiți vehiculele din dotarea departamentului cand sunteti OFF-DUTY.
 2.	Este interzis sa purtati și să folosiți uniforma de politie si echipamentul specific cand sunteti OFF-DUTY.
 3.	Actele de coruptie, inclusiv colaborarea cu grupări ilegale, mită, traficul de substanțe interzise sau arme sunt pedepsite conform prevederilor codului penal, inclusiv cu pedeapsa de închisoare pe viață, în funcție de gravitatea faptei.
