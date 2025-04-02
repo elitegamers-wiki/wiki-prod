@@ -3,67 +3,93 @@
 # <center>**Introducerea Store-ului**</center>
 
 
- Mulțumim că faci parte din comunitatea EliteGamers și pentru sprijinul oferit! 
+ <center>Mulțumim că faci parte din comunitatea EliteGamers și pentru sprijinul oferit!</center> 
 
-##  INFORMAȚII ESENȚIALE
+##  INFORMAȚII ESENȚIALE:
 
 ::: tip EG COINS
-
-Această categorie este dedicată jucătorilor care doresc să obțină avantaje speciale pe serverul nostru FiveM.
+Aceasta moneda "EG Coins" este utilizata pentru achizitionarea anumitor articole din "ESC -> Magazin in joc" / "Apasa K -> Magazin in joc"
 :::
 
-##  Cum poți afla mai multe?
- Apasă butonul „Informații” de lângă „ADAUGĂ ÎN COȘ” in TEBEX ELITEGAMERS pentru fiecare pachet disponibil sau verifică secțiunea „EG COINS” situată în partea de sus a paginii.
+## Ce pot achizitiona cu EG-Coins?:
+ - Pe ELITEGAMERS.RO HARD ROLEPLAY, dispui de o gama larga de articole precum:
+ - Masini premium din DEALERSHIP ([APASA AICI PT LOCATIE](../public/store/dealership.png));
+ - VIP SILVER/GOLD/PLATINUM;
+ - BANI IN JOC;
+ - ADMIN JAIL,
+
+ ## Cum pot face rost de EG Coins?:
+ Poti face rost de EG Coins folosind variantele de mai jos:
+ - Poti sa platesti pe tebex-ul official ELITEGAMERS.RO;
+ - Poti face 4 EG-Coins lunar daca intri pe server si esti activ folosind [/premii] ([Mai multe detalii aici](https://wiki.elitegamers.ro/general/rewards.html)),
+
+## Cum iti folosesti monedele “EG Coins” pe server-ul nostru?: 
+::: tip Urmeaza pasii de mai jos:
+- Pentru a face aceasta actiune, apasa “K”, unde o sa gasesti “Magazin in joc”. Alta varianta este cea de a apasa tasta “ESC” -> Magazin in joc” 
+- Monedele sunt adăugate automat în contul tău de joc după finalizarea plății.
+:::
 
 ##  SANCȚIUNI
 ::: danger Descriere:
 Această secțiune este destinată jucătorilor care au primit o sancțiune de tip ban permanent sau temporar și doresc să achite pentru ridicarea acesteia.
-:::
-::: info
--  Detalii importante:
--  Accesează butonul „Informații” de lângă „ADAUGĂ ÎN COȘ” pentru a vizualiza pachetele disponibile:
+::: 
+
+Pentru ce tip de sanctiune poti sa platesti:
 -  UNBAN PERMANENT
 -  UNBAN TEMPORAR
 -  CLEAR WARN
 -  UNBAN DISCORD
-- Mai multe detalii găsești și în categoria „SANCȚIUNI”.
-:::
 
-##  ATENȚIE!
+## Ce faci dupa ce ai efectuat plata?:  
+ Pe server-ul nostru de discord, deschizi un ticket in care prezinti chitanta pe care o primesti pe email dupa care iti lasi detaliile in camera de discord, nume in-game, steam (TBD). 
+ 
+
 ::: danger ATENTIE:
- Respectarea regulamentului serverului FiveM este obligatorie!
+- Respectarea regulamentului serverului FiveM este obligatorie!
 - Dacă primești BAN PERMANENT fără drept de plata, pachetele achiziționate nu vor mai putea fi utilizate.
 :::
 
-::: tip
--  Îți recomandăm să consulți Termenii și Condițiile înainte de a efectua o achiziție pentru a înțelege regulile comunității și drepturile tale.
-
--  Joacă responsabil, respectă regulile și bucură-te de o experiență de gaming de excepție pe serverul EliteGamers! 🚀
-:::
-
-## <h1 style="font-size: 2em;"><center>**Detalii despre EG-Coins**</center></h1>
-
-
-##  Cum îți folosești monedele EG după achiziție?
+## VIP
 ::: tip Info:
--  Accesează rapid magazinul din joc folosind comanda /store în chat. Acolo vei descoperi toate opțiunile disponibile pentru a folosi monedele tale EG.
--  Monedele sunt adăugate automat în contul tău de joc după finalizarea plății.
+ Pe ELTIEGAMERS.RO HARD ROLEPLAY avem 3 tipuri de VIP:
+ - VIP Silver
+ - VIP Gold
+ - Vip Platinum
+ :::
+
+
+---
+ # VIP SILVER – 7 EGC
+::: danger Beneficii:
+- Acces la camerele tip "Supporter"
+- Jobboost: 5%
+- Grad pe Discord + FiveM
+- Bani în joc: 25000
+- Salariu bonus: 1000 / Ora
+- Priority Queue tier 1
+- Acces la anumite vehicule: Canis Hawk, Ubermacht B3, Obey R8
 :::
 
-::: danger ATENTIE:
- Fără rambursare:
-După finalizarea plății și revendicarea monedelor în joc, nu se acceptă returnarea banilor.
+# VIP GOLD – 13 EGC 
+::: danger Beneficii:
+- Acces la camerele tip "Supporter"
+- Jobboost: 7%
+- Grad pe Discord + FiveM
+- Bani în joc: 60000
+- Salariu bonus: 2000
+- Battlepass premium
+- Priority Queue tier 2
+- Acces la anumite vehicule: Pegassi Zentorno, Grotti 488, Baller Bio, Pegassi Hyurus
 :::
 
-##  Informații suplimentare:
-
-::: warning Sfat:
-Înainte de a cumpăra un pachet de EG Coins iți recomandăm să citești Termenii și Condițiile pentru a înțelege regulamentul și responsabilitățile tale.
-:::
-
-##  SANCȚIUNI
-
-Această categorie este destinată jucătorilor care au primit o sancțiune de tip și doresc să achite pentru ridicarea acesteia:
-- Ban Permanent, 
-- Ban Provizoriu 
-- Warn 
+# VIP PLATINUM – 20 EGC 
+::: danger Beneficii:
+- Acces la camerele tip "Supporter"
+- Jobboost: 10%
+- Grad pe Discord + FiveM
+- Bani în joc: 150000
+- Salariu bonus: 5000
+- Battlepass premium
+- Priority Queue tier 3
+- Acces la anumite vehicule: Progen Overflod, Benefactor One, Ubermacht B8, Elegy RH35, Pegassi Zentorno VSJ
+::: 
