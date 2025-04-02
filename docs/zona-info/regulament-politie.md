@@ -1,16 +1,16 @@
 <img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
 ## Obligațiile și Îndatoririle Polițistului
-1.În exercitarea atribuţiilor de serviciu, poliţistul are obligaţia să poarte asupra sa insigna de poliţist sau legitimaţia de serviciu şi mijloacele de constrângere şi de protecţie din dotare, precum şi să utilizeze mijloacele din dotare necesare îndeplinirii atribuţiilor
-2.În îndeplinirea atribuţiilor profesionale poliţistul aplică tratamente egale tuturor persoanelor, luând aceleaşi măsuri pentru situaţii similare de încălcare a normelor protejate de lege, fără a fi influenţat de considerente etnice, de naţionalitate, rasă, religie, vârstă, sex, orientare sexuală sau avere.
-3.Poliţistul trebuie să dovedească stăpânire de sine, capacitate de comunicare, abilităţi de gestionare a situaţiilor conflictuale.
-4.Poliţistul are obligaţia să păstreze, în condiţiile legii, secretul de stat şi secretul de serviciu, precum şi confidenţialitatea deplină a datelor şi informaţiilor pe care le deţine şi să nu le utilizeze abuziv sau în folos personal.
-5.Poliţistului îi este interzis să pretindă sau să accepte bani, bunuri ori valori în scopul de a îndeplini sau de a nu îndeplini atribuţiile profesionale şi să primească sarcini, misiuni sau lucrări care depășesc responsabilitățile stabilite prin fişa postului.
-6.Poliţistul este îndreptăţit să utilizeze cătuşe sau alte mijloace de imobilizare în scopul împiedicării sau neutralizării acţiunilor violente ale oricărei persoane.
-7.În caz de necesitate poliţistul poate folosi, în situaţiile şi în condiţiile prevăzute de lege, forţa armelor albe sau a armelor de foc. Armele de foc se folosesc după somaţia: "Stai, stai că trag!"
-8.Poliţia este autorizată să organizeze, ocazional, cu mijloace foto-audio-video sau prin alte mijloace tehnice din dotare, momente operative cu privire la activităţi desfăşurate în locuri publice, fără consimţământul persoanelor vizate, în cazul în care există motive verosimile pentru a bănui că în aceste locuri publice ar putea fi comise infracţiuni sau alte fapte ilegale ori tulburată ordinea şi siguranţa publică.
-9.În cazurile de intervenție, acțiunile trebuie să fie justificate și proporționale cu pericolul întâmpinat. Comportamentele nesăbuite, cum ar fi folosirea excesivă a forței sau urmăriri periculoase fără un motiv clar, nu vor fi tolerate.
-10.Toți membrii IGPLS trebuie să respecte regulamentul serverului și să aplice legile într-un mod profesionist, conform normelor din viața reală. Încălcarea regulamentului poate duce la sancțiuni administrative, inclusiv suspendarea sau excluderea din departament.
+1. În exercitarea atribuţiilor de serviciu, poliţistul are obligaţia să poarte asupra sa insigna de poliţist sau legitimaţia de serviciu şi mijloacele de constrângere şi de protecţie din dotare, precum şi să utilizeze mijloacele din dotare necesare îndeplinirii atribuţiilor
+2. În îndeplinirea atribuţiilor profesionale poliţistul aplică tratamente egale tuturor persoanelor, luând aceleaşi măsuri pentru situaţii similare de încălcare a normelor protejate de lege, fără a fi influenţat de considerente etnice, de naţionalitate, rasă, religie, vârstă, sex, orientare sexuală sau avere.
+3. Poliţistul trebuie să dovedească stăpânire de sine, capacitate de comunicare, abilităţi de gestionare a situaţiilor conflictuale.
+4. Poliţistul are obligaţia să păstreze, în condiţiile legii, secretul de stat şi secretul de serviciu, precum şi confidenţialitatea deplină a datelor şi informaţiilor pe care le deţine şi să nu le utilizeze abuziv sau în folos personal.
+5. Poliţistului îi este interzis să pretindă sau să accepte bani, bunuri ori valori în scopul de a îndeplini sau de a nu îndeplini atribuţiile profesionale şi să primească sarcini, misiuni sau lucrări care depășesc responsabilitățile stabilite prin fişa postului.
+6. Poliţistul este îndreptăţit să utilizeze cătuşe sau alte mijloace de imobilizare în scopul împiedicării sau neutralizării acţiunilor violente ale oricărei persoane.
+7. În caz de necesitate poliţistul poate folosi, în situaţiile şi în condiţiile prevăzute de lege, forţa armelor albe sau a armelor de foc. Armele de foc se folosesc după somaţia: "Stai, stai că trag!"
+8. Poliţia este autorizată să organizeze, ocazional, cu mijloace foto-audio-video sau prin alte mijloace tehnice din dotare, momente operative cu privire la activităţi desfăşurate în locuri publice, fără consimţământul persoanelor vizate, în cazul în care există motive verosimile pentru a bănui că în aceste locuri publice ar putea fi comise infracţiuni sau alte fapte ilegale ori tulburată ordinea şi siguranţa publică.
+9. În cazurile de intervenție, acțiunile trebuie să fie justificate și proporționale cu pericolul întâmpinat. Comportamentele nesăbuite, cum ar fi folosirea excesivă a forței sau urmăriri periculoase fără un motiv clar, nu vor fi tolerate.
+10. Toți membrii IGPLS trebuie să respecte regulamentul serverului și să aplice legile într-un mod profesionist, conform normelor din viața reală. Încălcarea regulamentului poate duce la sancțiuni administrative, inclusiv suspendarea sau excluderea din departament.
 
 ## Regulament General: 
 1.Este interzis să folosiți vehiculele din dotarea departamentului cand sunteti OFF-DUTY.
