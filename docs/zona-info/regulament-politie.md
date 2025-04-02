@@ -44,7 +44,7 @@ e)Daca este oprit pentru verificarea permisului de conducere sau a altor documen
 20. Orice abatere de la regulament se pedepseste cu suspendare/demitere (in functie de gravitate)!
 
 21. Coduri de asistență:  
-🔴 COD ROȘU - Situație de urgență majoră
+🔴 <span style="color: red;">COD ROȘU - Situație de urgență majoră</span>
 🔹 Utilizare: Semnale acustice și luminoase activate
 🔹 Exemple:
 - Ofițer atacat sau rănit
