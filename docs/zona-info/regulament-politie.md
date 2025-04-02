@@ -94,8 +94,9 @@ La codurile portocaliu, galben și albastru, se specifică pe stație numărul d
 - Pot fi utilizate doar pentru filaj al zonelor sau persoanelor, fără implicare în urmăriri sau transporturi de persoane.
  Este obligatoriu ca geamurile mașinilor nermarcate utilizate pentru filaj să fie dotate cu folii foarte închise.
 
-### Zonele rău famate GROOVE / VINEWOOD / VESPUCC/ EL BURROI:
+### [Zonele rău famate GROOVE / VINEWOOD / VESPUCC/ EL BURROI:](https://elitegamers.ro/map/)
 Zona"ROSIE" reprezinta unde este zona de MARE RISC sa fiti impuscati de oamenii din zona rau famata.
+
 Incepand cu orele 20:00 - 08:00 se aplica regula cu zona ROSIE unde exista posibilitatea sa se traga direct asupra voastra fara nici un fel de discutie.
 
 
