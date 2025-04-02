@@ -43,14 +43,10 @@
  e)	Daca este oprit pentru verificarea permisului de conducere sau a altor documente.
 
 19.	Perchezițiile în aceste zone se  fac doar în următoarele cazuri:
-
- •	Când o persoană este surprinsă mergând la o clădire și pleacă ulterior, sugerând comportament ilegal (aplicabil doar în zonele Grove, Vinewood și Vespucci).
-
- •	Când o persoană este văzută cu o armă albă în mână.
-
- •	În urma unui apel ce semnalează activități suspecte în zonă.
-
- •	Când o persoană este observată purtând un obiect care îi acoperă fața (ex.: mască, bandană).
+	- Când o persoană este surprinsă mergând la o clădire și pleacă ulterior, sugerând comportament ilegal (aplicabil doar în zonele Grove, Vinewood și Vespucci).
+ -	Când o persoană este văzută cu o armă albă în mână.
+ -	În urma unui apel ce semnalează activități suspecte în zonă.
+ -	Când o persoană este observată purtând un obiect care îi acoperă fața (ex.: mască, bandană).
 
 20. Orice abatere de la regulament se pedepseste cu suspendare/demitere (in functie de gravitate)!
 21. Coduri de asistență:  
@@ -91,7 +87,7 @@ ________________________________________
 La codurile portocaliu, galben și albastru, se specifică pe stație numărul de unități necesare, evitând suprasolicitarea forțelor.
 
 ## Traffic Stop
- •	Reprezintă oprirea unui vehicul pentru un control de rutină sau ca urmare a constatării unor ilegalități în trafic.
+ - 	Reprezintă oprirea unui vehicul pentru un control de rutină sau ca urmare a constatării unor ilegalități în trafic.
  În cazul unui Traffic Stop sau atunci când i se solicită, polițistul are obligația de a se prezenta! (Exemplu: "Sunt Cadet Don Antonio din cadrul Inspectoratului General de Poliție Los Santos.”)
 ## Masinile Nemarcate
  a)	Mașini din dotarea poliției, echipate cu lumini și sirene, fără inscripții și girofare.
