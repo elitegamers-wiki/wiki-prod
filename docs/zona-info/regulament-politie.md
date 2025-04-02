@@ -31,11 +31,17 @@
 16.	Arestarea unei persoane poate avea loc doar atunci când există dovezi clare de comitere a unei infracțiuni sau când persoana refuză să colaboreze în fața unui ordin legal (ex: refuzul de a opri la semnalul poliției).
 17.	Dreptul de a efectua percheziții este restrâns la situații precise, justificabile: comportament agresiv sau suspect al persoanei, prezența elementelor definitorii ale unor acțiuni ilegale, informații clare despre existența unor obiecte ilegale aflate în posesia celui percheziționat. 
 18.	Percheziția nu este permisă în următoarele situații:
+
  a)	Daca este oprit pentru ca a trecut pe rosu;
+
  b)	Daca este oprit pentru folii, neoane sau modificări ale aspectului mașinii;
+
  c)	Daca este oprit pentru condus imprudent;
+
  d)	Daca persoana respectiva sta intr-un loc fara sa faca nimic;
+
  e)	Daca este oprit pentru verificarea permisului de conducere sau a altor documente.
+
 19.	Perchezițiile în aceste zone se  fac doar în următoarele cazuri:
 
  •	Când o persoană este surprinsă mergând la o clădire și pleacă ulterior, sugerând comportament ilegal (aplicabil doar în zonele Grove, Vinewood și Vespucci).
@@ -89,11 +95,17 @@ La codurile portocaliu, galben și albastru, se specifică pe stație numărul d
  În cazul unui Traffic Stop sau atunci când i se solicită, polițistul are obligația de a se prezenta! (Exemplu: "Sunt Cadet Don Antonio din cadrul Inspectoratului General de Poliție Los Santos.”)
 ## Masinile Nemarcate
  a)	Mașini din dotarea poliției, echipate cu lumini și sirene, fără inscripții și girofare.
+
  b)	Mașinile personale ale polițiștilor care nu sunt dotate cu echipamente specifice și sunt folosite doar în anumite situații (doar mașinile personale ale INSPECTOR+)
+
  c)	Este strict interzis să folosiți vehiculele nemarcate fără să purtați uniforma și echipamentul corespunzător.
+
  d)	Este interzisă utilizarea vehiculelor nemarcate pentru efectuarea unui Traffic Stop.
+
  e)	Este recomandat să fie minim 2 polițiști in mașină in momentul in care se folosesc NEMARCATELE. 
+
  f)	Pot fi utilizate doar pentru filaj al zonelor sau persoanelor, fără implicare în urmăriri sau transporturi de persoane.
+
  g)	Este obligatoriu ca geamurile mașinilor nermarcate utilizate pentru filaj să fie dotate cu folii foarte închise.
 
 Zonele rău famate GROOVE / VINEWOOD / VESPUCC/ EL BURROI:
@@ -107,13 +119,20 @@ Reguli S.I.A.T.
 
 2.	Raziile pentru fabricare ilegală:
  a)	Trupele S.I.A.T. organizează razii la locațiile ilegale de fabricare (ex.: droguri) cu aprobarea unui Procuror Șef+ și sub supervizarea unui Procuror sau Comisar+.
+
  b)	Este necesar un minim de 6 membri S.I.A.T. pentru desfășurarea unei razii.
+
  c)	Polițiștii pot participa doar ca suport în spate și nu pot interveni înaintea trupelor speciale.
+
  d)	Sunt permise maximum trei razii pe zi.
 
 3.	Patrule/Razii pentru livrări ilegale:
  a)	Poliția patrulează în zonele de livrare (Grove, Vespucci, Vinewood, El Burro ) pentru a identifica persoanele implicate în livrări ilegale, doar cu aprobarea unui Comisar+.
+
  b)	Este necesar un minim de două unități (adică doua masini de politie) pentru desfășurarea unei razii. 
+
  c)	Raziile trebuie să fie realizate la un interval de cel puțin o oră, iar timpul poate varia pentru a menține elementul surpriză.
+
  d)	Polițiștii nu pot sta în zonele de livrare mai mult de 30 de minute și nu pot patrula fără aprobarea unui INSPECTOR+.
+
 4. În caz de apeluri privind focuri de armă, Trupele Speciale S.I.A.T. pot interveni împreună cu poliția.
