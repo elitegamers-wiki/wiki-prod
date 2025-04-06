@@ -5,4 +5,6 @@ outline: deep
 
 
 # <center>Informații despre Echipajul Medical</center>
-În calitate de paramedic sau medic în facțiunea S.M.I.R, vei fi chemat să salvezi vieți. Ești responsabil de intervențiile de urgență, tratarea răniților, acordarea de prim ajutor și transportul pacienților la spital. Vei fi pregătit să gestionezi situații de criză precum accidentele rutiere, conflictele armate sau alte incidente majore. Munca ta poate salva vieți, iar cooperarea cu poliția și alte facțiuni este esențială pentru succesul misiunilor.
+Misiunea Departamentului Medical  este aceea de a preveni, proteja și susține viețile omenești, servind cu onoare, respect, dedicare și curaj toți cetățenii orasului. De la micile urgențe medicale până la calamități naturale, Spitalul Național Los Santos asigură un răspuns eficient și prompt pentru a menține siguranța vieților oamenilor
+
+Spitalul Național Los Santos oferă un loc de muncă avantajos, beneficii și stabilitate, dar cere în același timp o serie de abilități și aptitudini care să permită desfășurarea activității în condiții optime. Se așteaptă de la fiecare aplicant seriozitate, dedicare, onoare, curaj și interes pentru locul de muncă pentru care aplică. Următorul regulament reprezintă fundația după care departamentul modelează fiecare medic pe parcursul procesului de recrutare
