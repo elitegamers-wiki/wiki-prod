@@ -50,17 +50,17 @@
  * -------------------------------------------------------------------------- */
 
  @font-face {
-  font-family: 'Kimberley Bl';
-  src: url('/fonts/Kimberley Bl.otf') format('truetype');
+  font-family: 'LibreBaskerville-Regular';
+  src: url('../public/font/LibreBaskerville-Regular.ttf') format('truetype');
 }
 
 .title-font {
-  font-family: 'Kimberley Bl';
+  font-family: 'LibreBaskerville-Regular';
 }
 
 .header-font {
   color: red;
-  font-family: 'Kimberley Bl';
+  font-family: 'LibreBaskerville-Regular';
 }
 /* sfarsit text font */
 
@@ -175,4 +175,66 @@
 
 .DocSearch {
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
+}
+
+/**
+ * Component: BOXES
+ * -------------------------------------------------------------------------- */
+
+/* Stiluri pentru casetele dintr-o secțiune specifică (de exemplu, doar pentru o secțiune cu clasa .vip-section) */
+/* Secțiunea VIP Cars - Stiluri pentru casetele VIP */
+.vip-selection .box-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.vip-selection .box {
+  background-color: var(--vt-c-bg-soft); /* Fundal similar cu cel din exemplul tău */
+  border: 1px solid #850c0c; /* Bordură de culoare gri deschis */
+  padding: 20px;
+  width: 30%;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Umbra pentru adâncire */
+  transition: border-color 0.3s cubic-bezier(0.25, 0.8, 0.25, 1); /* Efect de tranziție pentru hover */
+}
+
+/* Efectul de hover pentru casetă din secțiunea VIP */
+.vip-selection .box:hover {
+  border-color: #b82006; /* Culoare de border la hover */
+}
+
+/* Stiluri pentru titluri (h2) în cadrul casetelor VIP */
+.vip-selection .box h2 {
+  font-size: 1.5rem;
+  color: #bd0000;
+  margin-bottom: 10px;
+}
+
+/* Stiluri pentru lista de elemente din fiecare casetă */
+.vip-selection .box ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.vip-selection .box ul li {
+  font-size: 1rem;
+  color: var(--vt-c-text-2); /* Culoare similară cu textul din exemplul tău */
+  margin-bottom: 5px;
+}
+
+/* Stiluri suplimentare pentru secțiunea VIP */
+.vip-selection h2 {
+  font-size: 2rem;
+  color: #bd0000;
+  margin-bottom: 20px;
+}
+
+.vip-selection .box-container .box {
+  transition: transform 0.3s ease-in-out;
+}
+
+.vip-selection .box-container .box:hover {
+  transform: scale(1.05);
 }

@@ -60,26 +60,47 @@ Pentru ce tip de sanctiune poti sa platesti:
 
 | VIP           | Pret             | Acces la suporter | Jobboost | Grad discord + FiveM | Bani in joc | Salariu bonus | BattlePass Premium | Priority Queue |
 | ------------- | :-----------:    | :----:            | :----: | :----: | :----:   | :----: | :----: | :----: 
-| Silver        | 7 EG COINS       |  ✅               | 5%  |  ✅      | 25.000$  | 1000$ | ❌ | Tier 1 |
+| Silver        |   7 EG COINS     |  ✅               | 5%  |  ✅      | 25.000$  | 1000$ | ❌ | Tier 1 |
 | Gold          |   13 EG COINS    |  ✅               | 7%  |  ✅      | 60.000$  | 2000$ | ✅ | Tier 2 |
 | Platinum      |   20 EG COINS    |  ✅               | 10% |  ✅      | 150.000$ | 5000$ | ✅ | Tier 3 |
 
 ## Masinile de la VIP
 
-VIP Silver: 
-- Canis Hawk, 
-- Ubermacht B3, 
-- Obey R8
 
-VIP Gold:
-- Pegassi Zentorno, 
-- Grotti 488, 
-- Baller Bio, 
-- Pegassi Hyurus
+<div class="vip-selection">
+  <div class="box-container">
+    <div class="box">
+    <h2>VIP Silver</h2>
+    <ul>
+      <li>Canis Hawk</li>
+      <li>Ubermacht B3</li>
+      <li>Obey R8</li>
+    </ul>
+  </div>
 
-VIP Platinum:
-- Progen Overflod, 
-- Benefactor One, 
-- Ubermacht B8, 
-- Elegy RH35, 
-- Pegassi Zentorno VSJ 
+  <div class="box">
+    <h2>VIP Gold</h2>
+    <ul>
+      <li> - Pegassi Zentorno</li>
+      <li> - Grotti 488</li>
+      <li> - Baller Bio</li>
+      <li> - Pegassi Hyurus</li>
+      <li> + Toate masinile de la vipul anterior</li>
+    </ul>
+  </div>
+
+  <div class="box">
+    <h2>VIP Platinum</h2>
+    <ul>
+      <li> - Progen Overflod</li>
+      <li> - Benefactor One</li>
+      <li> - Ubermacht B8</li>
+      <li> - Elegy RH35</li>
+      <li> - Pegassi Zentorno VSJ</li>
+      <li> + Toate masinile de la vipul anterior</li>
+        </ul>
+    </div>
+  </div>
+</div>
+
+

@@ -155,10 +155,14 @@ export default defineConfig({
         activeMatch: '^/general/',
         items: [
           { text: ' Telefon', link: '/general/telefon' },
+          { text: ' Setari pentru performanta', link: '/general/setarigrafice' },
           { text: ' Inventar', link: '/general/inventar' },
           { text: ' Scoala de soferi', link: '/general/scoala-de-soferi' },
           { text: ' ATM-uri', link: '/general/atm-uri' },
           { text: ' Daily rewards', link: '/general/rewards' },
+          { text: ' Comenzi ', link: '/general/comenzi' },
+
+          
 
         ],
       },
@@ -216,11 +220,13 @@ export default defineConfig({
         items: [{ text: 'Case', link: '/proprietati/despre-case' }],
       },
       {
-        text: 'Factiuni',
+        text: 'Institutii',
         activeMatch: '^/factiuni/',
         items: [
-          { text: 'Politie', link: '/factiuni/politie' },
-          { text: 'SMIR', link: '/factiuni/smir' },
+          { text: 'Politie', link: '/institutii/politie' },
+          { text: 'SMIR', link: '/institutii/smir' },
+          { text: 'Primarie', link: '/institutii/primarie' },
+
         ],
       },
       {
