@@ -238,3 +238,144 @@
 .vip-selection .box-container .box:hover {
   transform: scale(1.05);
 }
+
+/* CARDS */
+
+/* Import pentru font */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+/* Resetare pentru margini, padding și box-sizing */
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Containerul pentru carduri */
+#cards {
+  width: 70%;
+  padding-inline: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+/* Stilizare pentru fiecare card */
+.card {
+  min-width: 200px;
+  height: 350px;
+  flex: 1 1 250px;
+  background-color: rgba(255, 255, 255, 0.12);
+  border-radius: 12px;
+  position: relative;
+}
+
+/* Efectul de hover pe carduri */
+#cards:hover > .card {
+  background: radial-gradient(
+    400px circle at var(--mouse-x) var(--mouse-y),
+    hsl(var(--color) / 1),
+    rgba(255, 255, 255, 0.12) 40%
+  );
+}
+
+/* Conținutul cardului */
+.card-content {
+  position: absolute;
+  inset: 1px;
+  background-color: #131315;
+  border-radius: inherit;
+}
+
+/* Culoare pentru fiecare card */
+.card:nth-child(1) {
+  --color: 348 80% 60%;
+}
+.card:nth-child(2) {
+  --color: 232, 178, 51
+}
+.card:nth-child(3) {
+  --color: 201, 14, 4
+}
+
+/* Efectul de fundal pe hover */
+.card::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: radial-gradient(
+    500px circle at var(--mouse-x) var(--mouse-y),
+    hsl(var(--color) / 0.35),
+    transparent 40%
+  );
+  border-radius: inherit;
+  opacity: 0;
+  z-index: 2;
+}
+
+#cards:hover > .card::before {
+  opacity: 1;
+}
+
+/* Stilizarea linkurilor din card */
+a {
+  all: unset;
+  cursor: pointer;
+}
+
+/* Stilizare pentru conținutul cardului (centrat) */
+.card-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 18px;
+  align-items: center;
+}
+
+/* Stilizare iconițe */
+.card-section .card-content > i {
+  font-size: 4rem; /* Ajustează mărimea iconițelor */
+  color: rgba(255, 255, 255, 0.5);
+}
+
+/* Stilizarea titlurilor (elimină bordura și sublinierea) */
+.card-section .card-content h2 {
+  border: none; /* Elimina orice bordură */
+  text-decoration: none; /* Elimina linia de subliniere */
+  font-size: 1.5rem; /* Ajustează dimensiunea fontului pentru titlu */
+  margin: 0; /* Elimină orice margine nedorită */
+}
+
+/* Stilizarea paragrafelor */
+.card-section .card-content p {
+  border: none; /* Elimina orice bordură */
+  text-decoration: none; /* Elimina linia de subliniere */
+  font-size: 1rem; /* Ajustează dimensiunea fontului pentru paragraf */
+  color: rgba(255, 255, 255, 0.5);
+  margin: 0; /* Elimină orice margine */
+}
+
+/* Stilizare pentru linkul 'Follow me' */
+.card-section .card-content > a {
+  text-decoration: none; /* Asigură-te că nu există subliniere pe link */
+  width: 90%;
+  padding-block: 0.8rem;
+  background-color: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.card-section .card-content > a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}

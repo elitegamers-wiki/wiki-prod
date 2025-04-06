@@ -110,6 +110,185 @@ features:
 }
 </style> -->
 
+<head>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap"
+    rel="stylesheet"
+  />
+</head>
+
+<script setup>
+import { onMounted } from 'vue'
+
+onMounted(() => {
+  const cards = Array.from(document.querySelectorAll(".card-section .card"))
+  const cardsContainer = document.querySelector(".card-section")
+
+  if (!cardsContainer) return
+
+  cardsContainer.addEventListener("mousemove", (e) => {
+    for (const card of cards) {
+      const rect = card.getBoundingClientRect()
+      const x = e.clientX - rect.left
+      const y = e.clientY - rect.top
+      card.style.setProperty("--mouse-x", `${x}px`)
+      card.style.setProperty("--mouse-y", `${y}px`)
+    }
+  })
+})
+</script>
+
+<style scoped>
+.card-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+  padding: 2rem 1rem;
+  background: transparent;
+  font-family: 'Poppins', sans-serif;
+}
+
+.card-section .card {
+  min-width: 200px;
+  height: 350px;
+  flex: 1 1 250px;
+  background-color: rgba(255, 255, 255, 0.12);
+  border-radius: 12px;
+  position: relative;
+  overflow: hidden;
+}
+
+.card-section .card-content {
+  position: absolute;
+  inset: 1px;
+  background-color: #131315;
+  border-radius: inherit;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 18px;
+  text-align: center;
+  padding: 1rem;
+}
+
+.card-section .card-content > i {
+  font-size: 4.8rem;
+  color: rgba(255, 255, 255, 0.5);
+}
+
+.card-section .card-content > p,
+.card-section .card-content > a {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.card-section .card-content > a {
+  width: 90%;
+  padding: 0.8rem;
+  background-color: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 6px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  z-index: 10;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.card-section .card:nth-child(1) {
+  --color: 348 80% 60%; /* Roșu (rămâne la fel) */
+}
+
+.card-section .card:nth-child(2) {
+  --color: 60 100% 50%; /* Galben */
+}
+
+.card-section .card:nth-child(3) {
+  --color: 0 100% 50%; /* Roșu intens */
+}
+
+
+.card-section .card::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: radial-gradient(
+    500px circle at var(--mouse-x) var(--mouse-y),
+    hsl(var(--color) / 0.35),
+    transparent 40%
+  );
+  border-radius: inherit;
+  opacity: 0;
+  z-index: 2;
+}
+
+.card-section:hover > .card::before {
+  opacity: 1;
+}
+
+.card-section:hover > .card {
+  background: radial-gradient(
+    400px circle at var(--mouse-x) var(--mouse-y),
+    hsl(var(--color) / 1),
+    rgba(255, 255, 255, 0.12) 40%
+  );
+}
+</style>
+
+
+## <center><span class="title-font" style="color: red; font-size: 2.5rem;">UNDE NE GASESTI?</span></center>
+
+
+<div class="card-section">
+  <div class="card">
+    <div class="card-content">
+      <i class="fa-brands fa-tiktok"></i>
+      <h2>TikTok</h2>
+      <p>Followers: <span>41.6K</span></p>
+      <a href="https://www.tiktok.com/@elitegamers.ro?is_from_webapp=1&sender_device=pc" target="_blank">
+        <i class="fa-solid fa-link"></i>
+        <span>Follow me</span>
+      </a>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-content">
+      <i class="fa-brands fa-instagram"></i>
+      <h2>Instagram</h2>
+      <p>Followers: <span>124</span></p>
+      <a href="https://www.instagram.com/elitegamers.ro/" target="_blank">
+        <i class="fa-solid fa-link"></i>
+        <span>Follow me</span>
+      </a>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-content">
+      <i class="fa-brands fa-youtube"></i>
+      <h2>Youtube</h2>
+      <p>Followers: <span>573</span></p>
+      <a href="https://www.youtube.com/channel/UCKp7obyi2MSyQaGTjZKnIxw/videos" target="_blank">
+        <i class="fa-solid fa-link"></i>
+        <span>Follow me</span>
+      </a>
+    </div>
+  </div>
+</div>
 
 <!-- --- CONTRIBUITORI --- -->
 <div>
