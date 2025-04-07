@@ -110,19 +110,20 @@ features:
 }
 </style> -->
 
-<!-- <head>
-  <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
-    integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
-    crossorigin="anonymous"
-    referrerpolicy="no-referrer"
-  />
-  <link
-    href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap"
-    rel="stylesheet"
-  />
-</head>
+
+
+<!-- --- CONTRIBUITORI --- -->
+<div>
+
+  <h2 text="center lg" my-5 font-bold>
+    Multumim tuturor pentru support!!
+  </h2>
+
+  <a href="https://github.com/elitegamers-wiki/wiki-prod/graphs/contributors" flex justify-center>
+    <img src="https://contrib.rocks/image?repo=elitegamers-wiki/wiki-prod" />
+
+  </a>
+</div>
 
 <script setup>
 import { onMounted } from 'vue'
@@ -130,7 +131,6 @@ import { onMounted } from 'vue'
 onMounted(() => {
   const cards = Array.from(document.querySelectorAll(".card-section .card"))
   const cardsContainer = document.querySelector(".card-section")
-
   if (!cardsContainer) return
 
   cardsContainer.addEventListener("mousemove", (e) => {
@@ -146,6 +146,9 @@ onMounted(() => {
 </script>
 
 <style scoped>
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css");
+
 .card-section {
   display: flex;
   flex-wrap: wrap;
@@ -181,7 +184,7 @@ onMounted(() => {
 }
 
 .card-section .card-content > i {
-  font-size: 4.8rem;
+  font-size: 3rem;
   color: rgba(255, 255, 255, 0.5);
 }
 
@@ -206,17 +209,16 @@ onMounted(() => {
 }
 
 .card-section .card:nth-child(1) {
-  --color: 348 80% 60%; /* Roșu (rămâne la fel) */
+  --color: 348 80% 60%; /* roșu */
 }
 
 .card-section .card:nth-child(2) {
-  --color: 60 100% 50%; /* Galben */
+  --color: 60 100% 50%; /* galben */
 }
 
 .card-section .card:nth-child(3) {
-  --color: 0 100% 50%; /* Roșu intens */
+  --color: 0 100% 50%; /* roșu intens */
 }
-
 
 .card-section .card::before {
   content: "";
@@ -248,9 +250,9 @@ onMounted(() => {
 }
 </style>
 
+---
 
-## <center><span class="title-font" style="color: red; font-size: 2.5rem;">UNDE NE GASESTI?</span></center>
-
+## <center><span style="color: #e63946; font-size: 2.5rem;">UNDE NE GĂSEȘTI?</span></center>
 
 <div class="card-section">
   <div class="card">
@@ -258,7 +260,7 @@ onMounted(() => {
       <i class="fa-brands fa-tiktok"></i>
       <h2>TikTok</h2>
       <p>Followers: <span>41.6K</span></p>
-      <a href="https://www.tiktok.com/@elitegamers.ro?is_from_webapp=1&sender_device=pc" target="_blank">
+      <a href="https://www.tiktok.com/@elitegamers.ro" target="_blank">
         <i class="fa-solid fa-link"></i>
         <span>Follow me</span>
       </a>
@@ -282,24 +284,10 @@ onMounted(() => {
       <i class="fa-brands fa-youtube"></i>
       <h2>Youtube</h2>
       <p>Followers: <span>573</span></p>
-      <a href="https://www.youtube.com/channel/UCKp7obyi2MSyQaGTjZKnIxw/videos" target="_blank">
+      <a href="https://www.youtube.com/@elitegamers.ro" target="_blank">
         <i class="fa-solid fa-link"></i>
         <span>Follow me</span>
       </a>
     </div>
   </div>
-</div> -->
-
-<!-- --- CONTRIBUITORI --- -->
-<div>
-
-  <h2 text="center lg" my-5 font-bold>
-    Multumim tuturor pentru support!!
-  </h2>
-
-  <a href="https://github.com/elitegamers-wiki/wiki-prod/graphs/contributors" flex justify-center>
-    <img src="https://contrib.rocks/image?repo=elitegamers-wiki/wiki-prod" />
-
-  </a>
 </div>
-
