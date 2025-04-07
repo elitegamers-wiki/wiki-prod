@@ -313,8 +313,8 @@ body {
 .card-section .card-content > a {
   width: 90%;
   padding: 0.8rem;
-  background-color: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  background-color: rgba(255, 0, 0, 0.8); /* Fundal roșu */
+  border: 1px solid rgba(255, 0, 0, 0.8); /* Border roșu */
   border-radius: 6px;
   display: flex;
   justify-content: center;
@@ -322,8 +322,13 @@ body {
   gap: 8px;
   z-index: 10;
   text-decoration: none;
-  color: white;
+  color: white; /* Text alb */
   transition: all 0.2s ease;
+}
+
+.card-section .card-content > a:hover {
+  background-color: rgba(255, 0, 0, 0.6); /* Roșu la hover */
+  border-color: rgba(255, 0, 0, 0.8); /* Border roșu la hover */
 }
 
 .card-section .card-content > a:hover {

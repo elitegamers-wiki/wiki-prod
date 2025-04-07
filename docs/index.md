@@ -47,9 +47,8 @@ features:
   - title: Scripts
     details: "Ai posibilitatea de a vedea ce sisteme folosim pe EliteGamers RP Romania!"
     icon: 🔌
-
-
 ---
+
 
 <!-- <style>
 :root {
@@ -196,8 +195,8 @@ onMounted(() => {
 .card-section .card-content > a {
   width: 90%;
   padding: 0.8rem;
-  background-color: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  background-color: rgba(201, 24, 24, 0.8); /* Fundal roșu */
+  border: 1px solid rgba(65, 4, 4, 0.8); /* Border roșu */
   border-radius: 6px;
   display: flex;
   justify-content: center;
@@ -205,6 +204,7 @@ onMounted(() => {
   gap: 8px;
   z-index: 10;
   text-decoration: none;
+  color: white; /* Text alb */
   transition: all 0.2s ease;
 }
 
@@ -250,7 +250,6 @@ onMounted(() => {
 }
 </style>
 
----
 
 ## <center><span style="color: #e63946; font-size: 2.5rem;">UNDE NE GĂSEȘTI?</span></center>
 
@@ -284,7 +283,7 @@ onMounted(() => {
       <i class="fa-brands fa-youtube"></i>
       <h2>Youtube</h2>
       <p>Followers: <span>573</span></p>
-      <a href="https://www.youtube.com/@elitegamers.ro" target="_blank">
+      <a href="https://www.youtube.com/@elitegamers7873" target="_blank">
         <i class="fa-solid fa-link"></i>
         <span>Follow me</span>
       </a>
