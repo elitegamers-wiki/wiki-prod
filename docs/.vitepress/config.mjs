@@ -10,7 +10,7 @@ export default defineConfig({
   },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/elitegamers.webp',
+    logo: '/elitegamers.gif',
     search: {
       provider: 'local',
       options: {
