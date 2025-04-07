@@ -110,20 +110,6 @@ features:
 </style> -->
 
 
-
-<!-- --- CONTRIBUITORI --- -->
-<div>
-
-  <h2 text="center lg" my-5 font-bold>
-    Multumim tuturor pentru support!!
-  </h2>
-
-  <a href="https://github.com/elitegamers-wiki/wiki-prod/graphs/contributors" flex justify-center>
-    <img src="https://contrib.rocks/image?repo=elitegamers-wiki/wiki-prod" />
-
-  </a>
-</div>
-
 <script setup>
 import { onMounted } from 'vue'
 
@@ -251,7 +237,7 @@ onMounted(() => {
 </style>
 
 
-## <center><span style="color: #e63946; font-size: 2.5rem;">UNDE NE GĂSEȘTI?</span></center>
+### <center><span style="color: #e63946; font-size: 2.5rem;">UNDE NE GĂSEȘTI?</span></center>
 
 <div class="card-section">
   <div class="card">
@@ -289,4 +275,17 @@ onMounted(() => {
       </a>
     </div>
   </div>
+</div>
+
+<!-- --- CONTRIBUITORI --- -->
+<div>
+
+  <h2 text="center lg" my-5 font-bold>
+    Multumim tuturor pentru support!!
+  </h2>
+
+  <a href="https://github.com/elitegamers-wiki/wiki-prod/graphs/contributors" flex justify-center>
+    <img src="https://contrib.rocks/image?repo=elitegamers-wiki/wiki-prod" />
+
+  </a>
 </div>
