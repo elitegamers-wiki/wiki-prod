@@ -1,10 +1,11 @@
 ---
 outline: deep
 ---
+
 <img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
 
-## Update 0.1.0 
+### Update 0.1.0 
 
 ```js
 - Reparate grade admin
@@ -23,7 +24,7 @@ outline: deep
 - Rezolvat un bug la sistemul de contracte in care aparea ca esti deja in contract
 ```
 
-## Update 0.2.0
+### Update 0.2.0
 
 **Features**
 ```javascript
@@ -56,7 +57,7 @@ outline: deep
 - Fixat un bug la contracte care nu permitea afisajul jucatorilor din jur
 ```
 
-## Update 0.3.0
+### Update 0.3.0
 
 **Features**
 ```javascript
@@ -78,7 +79,7 @@ outline: deep
 - Fixat un bug la multiple resurse care cauzau probleme de memorie (mem. leak)
 ```
 
-## Update 0.4.0 
+### Update 0.4.0 
 Facut de: **xSLOW & sNok3**
 
 **Bug fixes**
@@ -112,7 +113,7 @@ Facut de: **xSLOW & sNok3**
 - Creat un sistem pentru backup-uri zilnice a serverului pentru cat o mai buna pastrare a datelor
 ```
 
-## Update 0.5.0
+### Update 0.5.0
 Facut de: **sNok3 & xSLOW**
 
 **Features**
@@ -141,7 +142,7 @@ Facut de: **sNok3 & xSLOW**
 - Fixat un bug la computer-ul de bord care bloca butonul de play/pauza dupa ce se iesea din masina
 ```
 
-## Update 0.6.0
+### Update 0.6.0
 Facut de: **sNok3 & xSLOW**
 
 **Features**
@@ -169,7 +170,7 @@ Facut de: **sNok3 & xSLOW**
 - Reparat un bug la inchiriat masini care facea sa nu mai poti urca pe motocicleta/atv/etc
 ```
 
-## Update 0.7.0
+### Update 0.7.0
 Facut de: **xSLOW**
 
 **Features/Changes**
@@ -202,7 +203,7 @@ Facut de: **xSLOW**
 - Rezolvat un bug la legat firele (aparea notificarea si dupa ce ieseai din masina)
 ```
 
-## Update 0.8.0
+### Update 0.8.0
 Facut de: sNok3 & xSLOW
 
 **Features**
@@ -240,7 +241,7 @@ Facut de: sNok3 & xSLOW
 - Fixat un bug la functia interna de incarcat vehiculele din baza de date
 ```
 
-## Update 0.9.0
+### Update 0.9.0
 Facut de: sNok3 & xSLOW
 **Features**
 ```javascript
@@ -274,7 +275,7 @@ Facut de: sNok3 & xSLOW
 - Rezolvat un mesaj in meniul liderului de factiune/jucator promovat/retrogradat
 ```
 
-## Update 1.0 (Stable release) - Marea deschidere
+### Update 1.0 (Stable release) - Marea deschidere
 Facut de: **sNok3 & xSLOW**
 
 **Features**
@@ -314,7 +315,7 @@ Facut de: **sNok3 & xSLOW**
 - Multiple buguri/greseli minore rezolvate
 ```
 
-## Update 1.0.1 - Quick patch
+### Update 1.0.1 - Quick patch
 Mesterit de: **xSLOW**
 Am zis ca ma culc dar m-am intors la PC sa postez modificarile de astazi.. enjoy!
 

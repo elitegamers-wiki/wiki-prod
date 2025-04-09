@@ -3,11 +3,11 @@ outline: deep
 ---
 <img src="../public/businesscenter/businesscenter.png" alt="pozabusiness" width="2560" height="1080" style="display: block; margin: 0px auto; border-radius: 1.5%; border-radius: 1.5%;" >
 
-## DESPRE NOI
+### DESPRE NOI
 
 ELITE BUSINESS CENTER nu este doar un nume, ci un partener de încredere dedicat să ofere clienților săi un mediu propice pentru dezvoltare și succes. Rețeaua noastră de afaceri, situată în regiunea Los Santos, este concepută pentru a crea un echilibru între afaceri și stilul de viață. Locația noastră strategică, în zone cu proiecte mixte, garantează acces facil și condiții optime pentru creștere și evoluție profesională.
 
-## CLAUZE CONTRACTUALE GENERALE ȘI OBLIGATORII
+### CLAUZE CONTRACTUALE GENERALE ȘI OBLIGATORII
 - Chiria aferentă locației alese trebuie achitată zilnic, timp de 30 de zile consecutive de la momentul semnării contractului. După achitarea integrală a sumei, ELITE BUSINESS CENTER va oferi spațiul închiriat fără alte costuri suplimentare pentru toată perioada derulării afacerii.
 - IMPORTANT: În cazul în care plata nu este efectuată timp de 3 zile consecutive, contractul va fi anulat automat, iar sumele deja achitate nu vor fi returnate.
 - Chiria nu poate fi achitată în avans pentru întreaga perioadă de 30 de zile. Este obligatoriu ca fiecare chiriaș să efectueze plata zilnic pentru spațiul închiriat. În cazul unei absențe de două zile consecutive, se va emite un avertisment.
@@ -28,14 +28,14 @@ ELITE BUSINESS CENTER nu este doar un nume, ci un partener de încredere dedicat
 
 ELITE BUSINESS CENTER își rezervă dreptul de a modifica regulile contractuale, cu notificarea prealabilă a chiriașilor.
 
-## CONTACT 
+### CONTACT 
 - Localitate: Los Santos
 - Zona: Downtown
 - Strada: San Andreas Avenue
 - Harta: [CLICK AICI](https://imgur.com/CZIszrt)
 - Telefon: TBD
 
-## PROGRAM
+### PROGRAM
 - Luni: TBD
 - Marti: TBD
 - Miercuri: TBD

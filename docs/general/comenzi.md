@@ -5,103 +5,109 @@ outline: deep
 
 # <span class="title-font"><center>Comenzi utilizate</center></span>
 
-## <span class="header-font">Comenzi în chat</span>
+#### <span class="header-font">Comenzi în chat</span>
 
-### /premii
+###### /premii
 
 - Deschide meniul ce permite accesul la premii și misiuni.
 
-### Tasta Y
+###### /wiki
+- Foloseste aceasta comanda pentru a putea deschide wiki.elitegamers.ro direct din joc.
+
+###### /map
+- Foloseste aceasta comanda pentru a deschide harta cu toate teritoriile de pe server, inclusiv cele rau famate.
+
+###### Tasta Y
 
 - Permite accesul la meniul prin care poți scoate hainele.
 
-### Tasta Z
+###### Tasta Z
 
 - Permite să te așezi pe burtă.
 
-### /givekeys id (în mașină)
+###### /givekeys id (în mașină)
 
 - Oferă cheile unui alt jucător din mașină.
 
-### /report
+###### /report
 
 - Deschide un meniu pentru a trimite întrebări, ticheturi sau rapoarte de bug-uri către staff.
 
-### /carry
+###### /carry
 
 - Permite ridicarea unui jucător pe umăr.
 
-### /e [nume]
+###### /e [nume]
 
 - Realizează o animație, unde "nume" se înlocuiește cu numele animației dorite.
 
-### /e cancel
+###### /e cancel
 
 - Oprește animația curentă.
 
-### /hud
+###### /hud
 
 - Permite ascunderea sau activarea HUD-ului.
 
-### /hudchat
+###### /hudchat
 
 - Permite ascunderea chat-ului.
 
-### /ore id
+###### /ore id
 
 - Afișează numărul de ore jucate de un utilizator.
 
-### /k
+###### /k
 
 - Te pune în genunchi.
 
-### /fps
+###### /fps
 
 - Deschide meniul pentru opțiuni de FPS Boost.
 
 
-## Butoane cu funcții prestabilite
+#### Butoane cu funcții prestabilite
 
-### Tasta K
+###### Tasta K
 - Deschide meniul principal.
 
-### Tasta B
+###### Tasta B
 - Permite să arăți cu degetul.
 
-### Tasta X
+###### Tasta X
 - Ridică mâinile în sus. (handsup)
 
-### Tasta F4
+###### Tasta F4
 - Deschide meniul cu toate animațiile și stilurile de mers disponibile.
 
-### Tasta l
+###### Tasta l
 - Închide sau deschide mașina personală.
 
-### Tasta O (în mașină)
+###### Tasta O (în mașină)
 - Deschide meniul pentru controlul motorului, portbagajului, capotei, ușilor și geamurilor.
 
-### Tasta Y (în mașină)
+###### Tasta Y (în mașină)
 - Activează cruise control-ul.
 
-### Tasta TAB
+###### Tasta TAB
 - Deschide inventarul.
 
-### Tasta M
+###### Tasta M
 - Deschide telefonul.
 
-### Tasta ALT
+###### Tasta ALT
 - Activează microfonul pe stațiile radio.
 
-### Tasta `
+###### Tasta `
 - Permite alegerea proximității voice chat-ului (vizibilă în colțul din dreapta jos al ecranului).
 
-## <span class="header-font">Cum pot modifica un keybind?</span>
+#### <span class="header-font">Cum pot modifica un keybind?</span>
 
 - Ai posibilitatea de a schimba orice tastă din joc cu alta dorită accesând setările jocului.
 
 **ESC - Settings - Keybinds (apăsați enter pentru a edita o tastă) - FiveM**
 
-## <span class="header-font">Cum îmi pot seta un bind pentru o anumită comanda/actiune?</span>
+#### <span class="header-font">Cum îmi pot seta un bind pentru o anumită comanda/actiune?</span>
 
 - Poți seta un bind pentru orice comandă din joc folosind consola (F8).
 

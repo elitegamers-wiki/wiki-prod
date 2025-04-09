@@ -5,13 +5,13 @@ outline: deep
 <img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
 
-## Ce presupune Jobul de Pescar?
+### Ce presupune Jobul de Pescar?
 
 Ca pescar, vei naviga pe ape pentru a prinde diferite tipuri de pește. Prinde pește proaspăt și vinde-l pe piața locală sau direct către NPC. 
 Ai nevoie de o barcă și unelte specifice pentru a avea succes în acest job. Pescuitul este relaxant și bine plătit dacă prinzi pești rari. Fiecare nivel de experiență îți oferă acces la specii de pești mai valoroși și la metode mai eficiente de pescuit.
 - Pe lângă pescuit, ai posibilitatea de a colecta sau crafta momeală, fiecare metodă având avantajele sale. Alegerea momelii potrivite influențează direct tipul și calitatea peștilor prinși, precum și veniturile obținute.
 
-## Cum mă angajez?
+### Cum mă angajez?
 
 Pentru a începe acest job, trebuie să mergi la Primărie ([/gps - Primărie]) unde un NPC de la tejghea te va introduce in meniul interactiv de unde poti selecta job-ul "Pescar".
 
@@ -22,7 +22,7 @@ Pentru a începe acest job, trebuie să mergi la Primărie ([/gps - Primărie]) 
 ![](../public/joburi/primarie.png){.framed-photo}
 :::
 
-## Prezentare job - Youtube
+### Prezentare job - Youtube
 
 <iframe 
   width="560" 
@@ -39,7 +39,7 @@ Pentru a începe acest job, trebuie să mergi la Primărie ([/gps - Primărie]) 
 Dupa ce ai finalizat primul pas trebuie cumperi si echipamentul corespunzator. Vizitează magazinul de unelte de pescuit pentru a cumpăra o undiță și momeală de bază. Dacă preferi să economisești bani, poți colecta rame din [/gps - Loc rame].
 (De scris despre zonele de pescuit)
 
-## Opțiuni pentru momeală:
+### Opțiuni pentru momeală:
 Pe server, ai mai multe variante de a-ți procura momeala, fiecare cu avantajele și dezavantajele ei:
 
 1. Momeala cumpărată de la NPC:
@@ -63,7 +63,7 @@ Pentru cei care vor să economisească bani, pot alege să culeagă rame din loc
 3. Momeala craftată:
 Pentru pescarii mai experimentați, craftingul momelii din pești este cea mai eficientă soluție. Aceasta te ajută să-ți faci propriul stoc de momeală de calitate, perfectă pentru capturile mai valoroase.
 
-## Informatii UTILE
+### Informatii UTILE
 - După ce ai umplut ghiozdanul sau barca cu pești, îi poți vinde în funcție de preferințele tale. Ai opțiunea de a-i vinde la NPC-ul din [/gps] sau de a-i vinde pe piața publică jucătorilor care au nevoie de pești pentru skill-ul 2. 
 - Nivelurile jobului:
 
@@ -103,6 +103,6 @@ Avat Mediu
 Peste Mandarin - Bonus
 ```
 
-## Despre momeala:
+### Despre momeala:
 Pentru skill 1 ai nevoie strict de rame, ramele se pot cumpara de la NPC sau poti culege rame premium din [/gps - Loc rame]. Metodologia de folosire a ramelor este bazata pe bonus-ul de la fiecare skill si pe sansele de a prinde gunoi in timpul in care pescuiesti.
 Pentru skill 2 ai nevoie de Nada care se crafteaza din pesti sau de Naluca pe care o poti cumpara de la NPC. Fiecare jucator are libertatea de a folosii orice varianta mentionata atat timp cat respecta regulile server-ului.

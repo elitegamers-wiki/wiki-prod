@@ -1,6 +1,10 @@
+---
+outline: deep
+---
+
 <img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
-## Obligațiile și Îndatoririle Polițistului
+### Obligațiile și Îndatoririle Polițistului
 1. În exercitarea atribuţiilor de serviciu, poliţistul are obligaţia să poarte asupra sa insigna de poliţist sau legitimaţia de serviciu şi mijloacele de constrângere şi de protecţie din dotare, precum şi să utilizeze mijloacele din dotare necesare îndeplinirii atribuţiilor
 2. În îndeplinirea atribuţiilor profesionale poliţistul aplică tratamente egale tuturor persoanelor, luând aceleaşi măsuri pentru situaţii similare de încălcare a normelor protejate de lege, fără a fi influenţat de considerente etnice, de naţionalitate, rasă, religie, vârstă, sex, orientare sexuală sau avere.
 3. Poliţistul trebuie să dovedească stăpânire de sine, capacitate de comunicare, abilităţi de gestionare a situaţiilor conflictuale.
@@ -12,7 +16,7 @@
 9. În cazurile de intervenție, acțiunile trebuie să fie justificate și proporționale cu pericolul întâmpinat. Comportamentele nesăbuite, cum ar fi folosirea excesivă a forței sau urmăriri periculoase fără un motiv clar, nu vor fi tolerate.
 10. Toți membrii IGPLS trebuie să respecte regulamentul serverului și să aplice legile într-un mod profesionist, conform normelor din viața reală. Încălcarea regulamentului poate duce la sancțiuni administrative, inclusiv suspendarea sau excluderea din departament.
 
-## Regulament General: 
+### Regulament General: 
 1. Este interzis să folosiți vehiculele din dotarea departamentului cand sunteti OFF-DUTY.
 2. Este interzis sa purtati și să folosiți uniforma de politie si echipamentul specific cand sunteti OFF-DUTY.
 3. Actele de coruptie, inclusiv colaborarea cu grupări ilegale, mită, traficul de substanțe interzise sau arme sunt pedepsite conform prevederilor codului penal, inclusiv cu pedeapsa de închisoare pe viață, în funcție de gravitatea faptei.
@@ -43,7 +47,7 @@
 - Când o persoană este observată purtând un obiect care îi acoperă fața (ex.: mască, bandană).
 20. Orice abatere de la regulament se pedepseste cu suspendare/demitere (in functie de gravitate)!
 
-### Coduri de asistență:
+#### Coduri de asistență:
 🔴 COD ROȘU - Situație de urgență majoră
 - Utilizare: Semnale acustice și luminoase activate
 - Exemple:
@@ -80,12 +84,12 @@ ________________________________________
 - Rutină obișnuită fără nevoia de sprijin
 La codurile portocaliu, galben și albastru, se specifică pe stație numărul de unități necesare, evitând suprasolicitarea forțelor.
 
-### Traffic Stop
+#### Traffic Stop
 - Reprezintă oprirea unui vehicul pentru un control de rutină sau ca urmare a constatării unor ilegalități în trafic.
 
 În cazul unui Traffic Stop sau atunci când i se solicită, polițistul are obligația de a se prezenta! (Exemplu: "Sunt Cadet Don Antonio din cadrul Inspectoratului General de Poliție Los Santos.”)
 
-### Masinile Nemarcate
+#### Masinile Nemarcate
 - Mașini din dotarea poliției, echipate cu lumini și sirene, fără inscripții și girofare.
 - Mașinile personale ale polițiștilor care nu sunt dotate cu echipamente specifice și sunt folosite doar în anumite situații (doar mașinile personale ale INSPECTOR+)
 - Este strict interzis să folosiți vehiculele nemarcate fără să purtați uniforma și echipamentul corespunzător.
@@ -94,13 +98,13 @@ La codurile portocaliu, galben și albastru, se specifică pe stație numărul d
 - Pot fi utilizate doar pentru filaj al zonelor sau persoanelor, fără implicare în urmăriri sau transporturi de persoane.
  Este obligatoriu ca geamurile mașinilor nermarcate utilizate pentru filaj să fie dotate cu folii foarte închise.
 
-### [Zonele rău famate GROOVE / VINEWOOD / VESPUCC/ EL BURROI:](https://elitegamers.ro/map/)
+#### [Zonele rău famate GROOVE / VINEWOOD / VESPUCC/ EL BURROI:](https://elitegamers.ro/map/)
 Zona"ROSIE" reprezinta unde este zona de MARE RISC sa fiti impuscati de oamenii din zona rau famata.
 
 Incepand cu orele 20:00 - 08:00 se aplica regula cu zona ROSIE unde exista posibilitatea sa se traga direct asupra voastra fara nici un fel de discutie.
 
 
-## Reguli S.I.A.T.
+### Reguli S.I.A.T.
 
 1. Pentru a putea participa la actiuni S.I.A.T. ca si membru cu uniforma specifica trebuie sa fiti minim AGENT PRINCIPAL.
 

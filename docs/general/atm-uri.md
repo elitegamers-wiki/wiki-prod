@@ -3,7 +3,7 @@ outline: deep
 ---
 <img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
-##  Gestionarea banilor tăi nu a fost niciodată mai simplă! 
+###  Gestionarea banilor tăi nu a fost niciodată mai simplă! 
 
 Accesează ATM-urile din oraș pentru a retrage, depune sau verifica soldul contului tău bancar. Fie că ai nevoie de bani lichizi pentru cumpărături sau vrei să îți păstrezi economiile în siguranță, ATM-urile sunt mereu la dispoziția ta! 
 
@@ -13,7 +13,7 @@ Accesează ATM-urile din oraș pentru a retrage, depune sau verifica soldul cont
 <img src="../public/important/atm.png" alt="pozaCumIntruPeServer" width="1920" height="1080" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
 
-##  Funcționalități 
+###  Funcționalități 
 
 🔹 Retragere de numerar – Ai nevoie de bani lichizi? Introdu suma dorită și scoate rapid banii din cont. Dar ai grijă unde și când retragi! 
 

@@ -108,8 +108,8 @@ export default defineConfig({
       {
         text: 'Comenzi Rapide',
         items: [
-          { text: 'Politie', link: '/factiuni/politie' },
-          { text: 'SMIR', link: '/factiuni/smir' },
+          { text: 'Politie', link: '/institutii/politie' },
+          { text: 'SMIR', link: '/institutii/smir' },
         ],
       },
 
@@ -221,7 +221,7 @@ export default defineConfig({
       },
       {
         text: 'Institutii',
-        activeMatch: '^/factiuni/',
+        activeMatch: '^/institutii/',
         items: [
           { text: 'Politie', link: '/institutii/politie' },
           { text: 'SMIR', link: '/institutii/smir' },

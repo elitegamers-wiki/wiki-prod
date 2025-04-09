@@ -1,9 +1,13 @@
+---
+outline: deep
+---
+
 <img src="https://imgur.com/eBBAkE8.png" alt="pozabusiness" width="666" height="375" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 # Afacerile te tip : CLOTHING STORE
-### Pe server exista 15 Locatii pentru acest tip de business
+#### Pe server exista 15 Locatii pentru acest tip de business
 
-### CLOTHING -> GRAPESEED
+#### CLOTHING -> GRAPESEED
 <img src="../public/locatii/clothing/cl_highway.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  GRAPESEED
@@ -12,7 +16,7 @@
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/0PfNg80)
 
-### CLOTHING -> LEGION SQUARE
+#### CLOTHING -> LEGION SQUARE
 <img src="../public/locatii/clothing/cl_lgsquare.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  LEGION SQUARE
@@ -21,7 +25,7 @@
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/S4oKpRV)
 
-### CLOTHING -> ROCKFORD
+#### CLOTHING -> ROCKFORD
 <img src="../public/locatii/clothing/cl_rockford.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  ROCKFORD HILLS
@@ -30,7 +34,7 @@
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/Zo4ihTe)
 
-### CLOTHING -> VESPUCCI
+#### CLOTHING -> VESPUCCI
 <img src="../public/locatii/clothing/cl_vespucci.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  VESPUCCI
@@ -39,7 +43,7 @@
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/6UffQH7)
 
-### CLOTHING -> SINNER STREET
+#### CLOTHING -> SINNER STREET
 <img src="../public/locatii/clothing/cl_snstreet.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  SINNER STREET
@@ -48,7 +52,7 @@
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/GOjFNmG)
 
-### CLOTHING -> SINNER STREET
+#### CLOTHING -> SINNER STREET
 <img src="../public/locatii/clothing/cl_rockfordplaza.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  ROCKFORD PLAZA
@@ -57,7 +61,7 @@
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/Rz3JMoT)
 
-### CLOTHING -> GROOVE
+#### CLOTHING -> GROOVE
 <img src="../public/locatii/clothing/cl_groove.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  GROOVE STREET
@@ -66,7 +70,7 @@
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/9DCv4Mk)
 
-### CLOTHING -> PALOMINO  AVENUE
+#### CLOTHING -> PALOMINO  AVENUE
 <img src="../public/locatii/clothing/cl_palomino.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  PALOMINO  AVENUE
@@ -75,7 +79,7 @@
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/32t6WU3)
 
-### CLOTHING -> MORNINGWOOD
+#### CLOTHING -> MORNINGWOOD
 <img src="../public/locatii/clothing/cl_moringwood.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  MORNINGWOOD
@@ -84,7 +88,7 @@
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/kv08Ja7)
 
-### CLOTHING -> PALETO
+#### CLOTHING -> PALETO
 <img src="../public/locatii/clothing/cl_paleto.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  PALETO
@@ -93,7 +97,7 @@
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/rV3V7Kp)
 
-### CLOTHING -> HARMONY
+#### CLOTHING -> HARMONY
 <img src="../public/locatii/clothing/cl_harmony.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  HARMONY
@@ -102,7 +106,7 @@
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/wMfjexV)
 
-### CLOTHING -> HARMONY
+#### CLOTHING -> HARMONY
 <img src="../public/locatii/clothing/cl_harmony2.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  HARMONY
@@ -111,7 +115,7 @@
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/jsgTdMo)
 
-### CLOTHING -> HIGHWAY
+#### CLOTHING -> HIGHWAY
 <img src="../public/locatii/clothing/cl_route68.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  HIGHWAY
@@ -120,7 +124,7 @@
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/U8r06Sg)
 
-### CLOTHING -> ROUTE 68
+#### CLOTHING -> ROUTE 68
 <img src="../public/locatii/clothing/cl_route68.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  ROUTE 68
@@ -129,7 +133,7 @@
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/JMv7Bbd)
 
-### CLOTHING -> HAWICK
+#### CLOTHING -> HAWICK
 <img src="../public/locatii/clothing/cl_hawick.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  HAWICK

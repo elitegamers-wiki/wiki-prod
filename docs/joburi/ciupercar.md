@@ -5,13 +5,13 @@ outline: deep
 <img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
 
-## Ce presupune acest job de ciupercar?
+### Ce presupune acest job de ciupercar?
 Jobul de ciupercar implică culesul ciupercilor dintr-o zonă prestabilită din apropierea Muntelui Chilliad pe partea orașului Paleto. La început vei culege aceste ciuperci pentru a urma să le vinzi la un NPC din mijlocul orașului (poză mai jos), dar dacă dorești să faci profit mai mult, după ce capeți o anumită experiență vei putea încercă și partea ilegală a acestui job ce presupune culegerea ciupercilor halucinogene și transformarea acestora în substanțe interzise.
 
 :::details Locatia Harta | Ciupercar
 ![](../public/joburi/ciupercar.png){.framed-photo}
 :::
-## Cum mă angajez?
+### Cum mă angajez?
 Pentru a putea începe acest job trebuie să ai 10 ore jucate și să mergi la Primărie ([/gps - Primărie]), unde un NPC de la tejghea îți vă permite să selectezi jobul de ciupercar. În cazul vrei să accesezi Skill 2 - Culegător de Ciuperci Avansat, ai nevoie de 50 ore.
 :::details Locatie Primarie
 ![](../public/joburi/gps.png){.framed-photo}
@@ -20,7 +20,7 @@ Pentru a putea începe acest job trebuie să ai 10 ore jucate și să mergi la P
 ![](../public/joburi/primarie.png){.framed-photo}
 :::
 
-## Prezentare job - Youtube
+### Prezentare job - Youtube
 
 <iframe 
   width="560" 
@@ -34,7 +34,7 @@ Pentru a putea începe acest job trebuie să ai 10 ore jucate și să mergi la P
 
 </iframe>
 
-## Informații suplimentare:
+### Informații suplimentare:
 Skill-uri disponibile:
 
 Culegător de Ciuperci (Skill 1): Implică culegerea de ciuperci normale, dar nici foarte scumpe.

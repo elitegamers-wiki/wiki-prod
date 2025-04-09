@@ -7,7 +7,7 @@ outline: deep
 ---
 # <center><span class="title-font">1. Regulamentul In-Character</span></center>
 
-## 1.1 ROLEPLAY(RP)
+### 1.1 ROLEPLAY(RP)
 - Reprezintă simularea unui personaj real prin intermediul caracterului creat in joc,
 folosind idei proprii, scenarii similare cu realitatea, decizii și acțiuni personale, realizând
 un joc de rol cât mai credibil și complex.
@@ -15,17 +15,17 @@ un joc de rol cât mai credibil și complex.
 realistă, bazată pe interacțiuni și comunicare, factori decizionali și liber arbitru
 (posibilitatea de a alege). 
 
-## 1.2 IN CHARACTER [IC]
+### 1.2 IN CHARACTER [IC]
 - Reprezintă tot ceea ce se întâmplă în viața personajului creat de tine, de la acțiuni și
 decizii până la emoții și sentimente, prin intermediul Roleplay-ului.
 
-## 1.3 OUT OF CHARACTER [OOC]
+### 1.3 OUT OF CHARACTER [OOC]
 - Reprezintă tot ceea ce faceți în realitate, fără nicio legătură cu personajul creat sau
 roleplay-ul care vă definește caracterul și evoluția pe server.
 - Este strict interzisă folosirea informațiilor OOC în IC.
 - Este permis doar în timpul unui ticket în desfășurare, cu acordul unui membru staff.
 
-## 1.4 META GAMING [MG]
+### 1.4 META GAMING [MG]
 - Meta Gaming reprezintă folosirea informațiilor aflate OOC într-o situație IC.
 Exemplu: George se uita pe live la un youtuber si vede unde se află pe hartă, apoi se duce
 direct la acea locație sa interactioneze cu el roleplay, fără alte informații IC.
@@ -35,7 +35,7 @@ direct la acea locație sa interactioneze cu el roleplay, fără alte informați
 - Ban temporar 7 zile
 :::
 
-## 1.5 MIXING 🔄 [MX]
+### 1.5 MIXING 🔄 [MX]
 - Mixing-ul reprezintă transmiterea de informații IC către OOC sau invers.
 Exemplu: Când încurci chatul OOC cu cel IC sau invers.
 - Se interzice transmiterea informațiilor IC pe chatul global, discord, sau orice alt mijloc
@@ -45,7 +45,7 @@ OOC.
 Avertisment verbal / Warn /Ban Temporar
 :::
 
-## 1.6 POWER GAMING [PG]
+### 1.6 POWER GAMING [PG]
 - Power Gaming reprezintă orice acțiune roleplay exagerată/supranaturală, care ar fi
 imposibilă și în viața reală.
 ::: info Exemplu
@@ -56,27 +56,27 @@ Intri cu 200 km/h într-un copac, după care mergi mai departe ca și cum nimic 
 Avertisment verbal/Jail (max 120 min)/Warn/Ban temporar
 :::
 
-## 1.7 DEATH MATCH [DM]
+### 1.7 DEATH MATCH [DM]
 - Death Match, reprezinta atacarea și/sau uciderea unui jucător fără a avea motive
 întemeiate și fără a face roleplay corespunzător în acest context.
 ::: danger SANCTIUNE
 Avertisment verbal/Jail (max 120 min)/Warn/Ban temporar
 :::
 
-## 1.8 VEHICLE DEATH MATCH [VDM]
+### 1.8 VEHICLE DEATH MATCH [VDM]
 - Vehicle Death Match reprezintă lovirea intenționată a persoanelor cu un vehicul fără
 motive întemeiate și fără a face roleplay corespunzător în acest context.
 ::: danger SANCTIUNE
 Avertisment verbal/Jail (max 120 min)/Warn/Ban temporar
 :::
 
-## 1.9 CAR RAM [CR]
+### 1.9 CAR RAM [CR]
 - Car Ram reprezinta lovirea cu mașina ta a altei mașini sau a mai multora, fără motive
 întemeiate și fără a face roleplay corespunzător în acest context.
 ::: danger SANCTIUNE
 Avertisment verbal/Jail (max 120 min)/Warn/Ban temporar
 :::
-## 1.10 NO FEAR [NF]
+### 1.10 NO FEAR [NF]
 - No Fear reprezintă acțiunile unui jucător care alege sa nu simuleze frica atunci când, în
 mod normal, în viața reală, ar face-o. Un roleplay calitativ presupune și simularea cât
 mai detaliată a emoțiilor și sentimentelor produse de acest gen de situație, momentul
@@ -89,7 +89,7 @@ ciuda faptului că are arma ațintită asupra ta.
  Warn/Ban temporar
 :::
 
-## 1.11 COP FEAR [CF]
+### 1.11 COP FEAR [CF]
 - Cop Fear reprezintă incapacitatea de a simula frica/teama față de un polițist. Trebuie sa
 aveți un comportament civilizat si respectuos fata de Polițiști/Medici indiferent daca
 faceți parte dintr-o Organizație sau nu.
@@ -102,7 +102,7 @@ să vă predați. Această regulă nu se aplică în zonele retrase sau la loca�
 Avertisment verbal/Warn/Ban temporar
 :::
 
-## 1.12 COP BAIT [CB]
+### 1.12 COP BAIT [CB]
 - Cop Bait reprezintă provocarea/instigarea polițiștilor în mod repetat și intenționat pentru a te
 urmări sau a-l atrage la roleplay fără niciun motiv întemeiat si doar pentru amuzamentul
 propriu. Este permis CB doar în contextul desfășurării unui roleplay care presupune jaf.
@@ -110,12 +110,12 @@ propriu. Este permis CB doar în contextul desfășurării unui roleplay care pr
 Avertisment verbal/Warn/Ban temporar
 :::
 
-## 1.13 PLAYER KILL[PK]
+### 1.13 PLAYER KILL[PK]
 - Player Kill reprezintă momentul în care jucătorul este în comă și folosește opțiunea de
 respawn trezindu-se la spital (din acel moment memoria lui se resetează, uitând toate
 informațiile aflate în roleplay-ul anterior).
 
-## 1.14 REVENGE KILL [RK]
+### 1.14 REVENGE KILL [RK]
 - Revenge Kill reprezintă uciderea sau tentativa de a ucide o persoană care te-a ucis cu
 puțin timp în urmă, într-o manieră roleplay bineînțeles, doar pentru a te răzbuna. În
 momentul în care caracterul tău moare, se presupune că a pierdut toate informațiile din
@@ -126,7 +126,7 @@ cel care a atentat la viata voastră.
 :::danger SANCTIUNE
 Avertisment verbal/Warn/Ban temporar
 :::
-## 1.15 CHARACTER KILL [CK]
+### 1.15 CHARACTER KILL [CK]
 - Character Kill reprezintă moartea definitivă a personajului creat de dumneavoastră.
 - Toată experiența de viață a personajului, averea, informațiile acumulate, orele jucate de
 la momentul creării caracterului și până la momentul CK se vor pierde.
@@ -141,7 +141,7 @@ acelei organizații poliției sau altei organizații rivale și a fost descoperi
 - Când a comis infracțiuni extreme multiple și trebuie să facă închisoare pe viață
 sau a acumulat un număr de 5 caziere.
 
-## 1.16 OLYMPIC SWIM [OS]
+### 1.16 OLYMPIC SWIM [OS]
 - Este  <span style="color: red;">INTERZISA</span> fuga prin apă, înotând la nesfarsit. Acest lucru este considerat olympic
 swim pentru că nu poți înota la nesfârșit, în mod normal obosești. Printr-o astfel de
 practică, polițiștilor le este imposibil să vă rețină în apă, neputând trage cu armele din
@@ -149,7 +149,7 @@ dotare.
 :::danger SANCTIUNE
  Avertisment verbal/Jail/Warn
 :::
-## 1.17 TROLLING [TROLL]
+### 1.17 TROLLING [TROLL]
 - Reprezintă momentul în care un jucător nu are intenția de a face roleplay corespunzător
 pe server, deranjând/provocând intenționat alte persoane pentru a crea dezordine,
 conflicte, în scopul propriului amuzament.
@@ -157,7 +157,7 @@ conflicte, în scopul propriului amuzament.
 Warn/Jail/Ban temporar/Ban permanent
 :::
 
-## 1.18 TOXICITATE [TOX]
+### 1.18 TOXICITATE [TOX]
 - Elitegamers este o comunitate bazată pe respect și bun simț. În consecință, toate
 persoanele care vor intra pe server trebuie să se conformeze acestui tipar. Ne rezervăm
 dreptul de a îndepărta definitiv jucătorii a căror unică plăcere este să deranjeze pe ceilalți
@@ -172,7 +172,7 @@ roleplay.
 :::danger SANCTIUNE
 Warn/Jail/Ban temporar/Ban permanent
 :::
-## 1.19 SCAM [ESCROCHERIE]
+### 1.19 SCAM [ESCROCHERIE]
 - Reprezintă o formă de fraudă care exploatează încrederea și vulnerabilitățile oamenilor
 pentru a obține beneficii necuvenite.
 - Este strict  <span style="color: red;">INTERZIS</span> să angajați (verbal sau scris) pe cineva să presteze anumite servicii și
@@ -184,20 +184,20 @@ le mai primiți înapoi.
 Warn/Jail/Ban temporar
 :::
 
-## 1.20 DROP & KILL [D&K]
+### 1.20 DROP & KILL [D&K]
 - Este  <span style="color: red;">INTERZIS</span> sa forțezi o persoană să arunce bunuri din inventar, iar după aceea să îl
 omori. Dacă l-ați forțat sa arunce lucrurile trebuie sa îl lăsați în viață.
 :::danger SANCTIUNE
 Warn/Jail/Ban temporar
 :::
 
-## 1.21 ROB & KILL 🔄 [R&K]
+### 1.21 ROB & KILL 🔄 [R&K]
 - Este  <span style="color: red;">INTERZIS</span> sa jefuiești o persoana iar după aceea să o omori.
 :::danger SANCTIUNE
 Warn/Jail/Ban temporar
 :::
 
-## 1.22 ROLEPLAY DEZGUSTĂTOR [RD]
+### 1.22 ROLEPLAY DEZGUSTĂTOR [RD]
 - Abuzul sexual (violul), canibalismul, necrofilia, pedofilia și alte tipuri de roleplay
 dezgustător sunt permise pe server doar cu acordul OOC al ambelor părți implicate în
 RP
@@ -205,7 +205,7 @@ RP
  Warn/Jail/Ban temporar/Ban permanent
 :::
 
-## 1.23 COMĂ
+### 1.23 COMĂ
 - Reprezintă momentul când sunteți incoștient din diverse motive, accident rutier,
 împușcat, căzături, etc.
 - Cât timp sunteți în comă nu aveți voie să vorbiți cu cei din jurul vostru, la telefon, pe
@@ -216,15 +216,15 @@ cu excepția situației când sunteți vindecați de un medic.
 în jurul vostru și ați murit într-un mod roleplay. În timpul apelului vorbiți la persoana a
 3-a.
 
-## 1.24 FAIL ROLEPLAY [FRP]
+### 1.24 FAIL ROLEPLAY [FRP]
 - Reprezintă interpretarea greșită (în mod voit sau nu) a scenei de roleplay pe care o jucați,
 situație care atrage după sine deteriorarea unui roleplay calitativ sau natural și îi pune pe
 ceilalți participanți la roleplay în situații stânjenitoare sau nefavorabile.
 
-## 1.25 PIT-STOP
+### 1.25 PIT-STOP
 - Acțiunea de oprire a unui vehicul prin coliziune laterală sau prin impactul în partea din spate a vehiculului țintă cu scopul de a reduce viteza sau de a opri complet vehiculul respectiv.
 
-## 1.26 CONDUSUL NON ROLEPLAY
+### 1.26 CONDUSUL NON ROLEPLAY
 - Nu aveți voie să circulați pe contrasens fără un motiv IC bine întemeiat.
 - Nu aveți voie să ocoliți speedbump-urile, cu excepția situațiilor când sunteți urmăriți de
 poliție.
@@ -246,16 +246,16 @@ autovehiculele și motocicletele cu anvelope de iarnă.
 Warn/Jail/Ban temporar
 :::
 
-## 1.27 COMANDA /ME
+### 1.27 COMANDA /ME
 - Se interzic /me-urile fără sens, stupide, folosite în scopul de a provoca, a jigni sau a
 ataca alte persoane. Comanda /me se folosește doar atunci când trebuie să rolați acțiuni
 pentru care nu există animații sau când vreți să accentuați o trăire sau o emoție în
 roleplay.
 
-## 1.28 ID CHECKING
+### 1.28 ID CHECKING
 - Este  <span style="color: red;">INTERZIS</span> să vă uitați la id-urile altor jucători fără un motiv bine întemeiat.
 
-## 1.29 JOBURI LEGALE
+### 1.29 JOBURI LEGALE
 - În situația în care există o uniformă dedicată pentru jobul pe care îl practicați, sunteți obligat
 să o purtați atât timp cât practicați acel job.
 - În situația în care există un autoturism dedicat pentru jobul pe care îl practicați, sunteți obligat
@@ -274,7 +274,7 @@ Warn/Jail/Ban temporar
 
 # 2. REGULAMENT (OOC)
 
-## 2.1 TIPURI DE SANCȚIUNI
+### 2.1 TIPURI DE SANCȚIUNI
 - WARN - cea mai ușoară sancțiune (sistem de pedeapsă bazat pe puncte). La acumularea
 a 3 warn-uri veți fi banat temporar.
 - JAIL – perioadă determinată de izolare ca urmare a nerespectării regulamentului.
@@ -284,7 +284,7 @@ adminii cu grad de la Moderator +.
 - BAN PERMANENT - cea mai drastică sancțiune. Se acordă pentru greșeli grave sau
 repetate și doar de către adminii cu grad de la Super-Mod+.
 
-## 2.2 BAN EVADING
+### 2.2 BAN EVADING
 - Reprezintă încercarea de a intra pe server cu alt cont în condițiile în care ai ban
 temporar/ban permanent pe contul tau principal. Este  <span style="color: red;">INTERZIS</span> cu desăvârșire și se
 pedepsește cu ban permanent fără drept de plată.
@@ -292,7 +292,7 @@ pedepsește cu ban permanent fără drept de plată.
 Ban permanent
 :::
 
-## 2.3 BUG ABUSE / CHEATING
+### 2.3 BUG ABUSE / CHEATING
 - Identificarea bug-urilor existente pe server va fi răsplătită de către echipa de
 development a comunității, în consecință, încurajăm toți jucătorii să semnaleze imediat
 apariția acestor bug-uri, fie direct pe server, prin chat-ul OOC, fie pe discord. Jucătorii
@@ -304,7 +304,7 @@ permanent.
 Ban permanent
 :::
 
-## 2.4 TOXICITATE
+### 2.4 TOXICITATE
 - Orice tip de comportament toxic (jigniri/înjurături/plâns isteric/ limbaj vulgar,
 denigrare/discriminare de rasă, naționalitate, etnie, religie sau sex) afișate pe canalele
 OOC ale comunității sunt  <span style="color: red;">INTERZISE</span> cu desăvârșire și sancționate cu ban permanent.
@@ -318,7 +318,7 @@ comunitate sau staff sunt strict  <span style="color: red;">INTERZISE</span> și
 Warn/Jail/Ban temporar/Ban permanent
 :::
 
-## 2.5 RECLAMĂ
+### 2.5 RECLAMĂ
 - Reclama la alte comunități, indiferent de natura lor și de metoda prin care se face
 reclamă (mascată, prin nume, în mod direct), este strict  <span style="color: red;">INTERZISA</span> și se pedepsește cu ban
 permanent.
@@ -326,13 +326,13 @@ permanent.
 Ban permanent
 :::
 
-## 2.6 AFILIEREA/ASOCIEREA
+### 2.6 AFILIEREA/ASOCIEREA
 - Afilierea sau asocierea de orice fel cu un grup/clan care încalcă în mod flagrant
 regulamentul Elitegamers sau care acționează împotriva intereselor comunității se face
 pe propria răspundere. Ne rezervăm privilegiul de a sancționa fiecare membru al acelui
 grup, indiferent de gradul de vină avut.
 
-## 2.7 NUME IC & OOC
+### 2.7 NUME IC & OOC
 - Nu aveți voie să vă puneți nume IC care sunt cunoscute (nume de celebrități, orașe, țări,
 religii, doctrine, culturi), nume nerealiste (indescriptibile sau indescifrabile), nume prin
 care se face reclamă mascată sau nume puse pentru a stârni amuzamentul celor din jur.
@@ -340,14 +340,14 @@ care se face reclamă mascată sau nume puse pentru a stârni amuzamentul celor 
 Warn/Ban temporar
 :::
 
-## 2.8 TRANZACȚII OOC
+### 2.8 TRANZACȚII OOC
 - Nu aveți voie să cumpărați sau să vindeți bunuri sau bani IC pe sume de bani OOC ! Se
 pedepsește cu ban permanent.
 :::danger SANCTIUNE
 Ban permanent
 :::
 
-## 2.9 RECLAMAȚII/ POST-HUNT
+### 2.9 RECLAMAȚII/ POST-HUNT
 - Orice ticket/reclamație/sesizare/discuție OOC sau IC care presupune analiză sau
 evaluare din partea membrilor STAFF trebuie însoțită, în mod obligatoriu, de o
 filmare/înregistrare/dovadă. În comunitatea Elitegamers nu se acceptă acuzații fără
@@ -359,14 +359,14 @@ raportarea periodică a acestora se consideră PostHunt.
 - Orice reclamație trebuie să fie formulată în maxim 24 de ore de la ora producerii
 incidentului, altfel nu vor mai fi luate în considerare.
 
-## 2.10 CHAT OOC
+### 2.10 CHAT OOC
 - Chat-ul global este destinat strict mesajelor ooc (probleme, întrebări, anunțuri).
 - Este  <span style="color: red;">INTERZIS</span> să faceți SPAM pe chat.
 :::danger SANCTIUNE
 Warn/Ban temporar
 :::
 
-## 2.11 AFK/DISCONNECT ÎN RP
+### 2.11 AFK/DISCONNECT ÎN RP
 - Nu aveți voie să vă dați disconnect în RP (în timpul unei acțiuni organizate sau a
 bătăilor, în timpul interacțiunilor RP sau în timpul unui ticket).
 - Este  interzis să stați AFK mai mult de 5 minute în timp ce sunteți ON DUTY ca
@@ -381,13 +381,13 @@ Update Channel --> Latest (Unstable)
 Warn/Ban temporar
 :::
 
-## 2.12 EVENIMENTELE ORGANIZATE
+### 2.12 EVENIMENTELE ORGANIZATE
 - Orice activitate publică sau interacțiune organizată și programată în prealabil, destinată
 unui număr mare de jucători, precum concursuri sportive, petreceri, conferințe, întâlniri
 auto și alte adunări publice, este considerată un eveniment organizat.
 - Influențarea sau perturbarea evenimentelor organizate este interzisă, cu excepția obținerii unui acord scris din partea unui Server Manager+.
 
-## 2.13 STREAMING ȘI CREAREA DE CONȚINUT VIDEO
+### 2.13 STREAMING ȘI CREAREA DE CONȚINUT VIDEO
 - Streamerii și creatorii de conținut care transmit live pe diferite platforme de socialmedia trebuie să își asume responsabilitatea respectării prezentului regulament.
 - În scopul promovării unei imagini corecte și reale a comunității Elitegamers și,
 implicit, a serverului de joc, echipa de administrare încurajează și sprijină crearea de
@@ -406,7 +406,7 @@ efectua streaming pe serverul Elitegamers.
 
 # 3. REGULAMENT JOBURI/ACTIVITĂȚI ILEGALE
 
-## 3.1 JAF ASUPRA PERSOANELOR
+### 3.1 JAF ASUPRA PERSOANELOR
 - Jaful asupra persoanelor este permis doar după acumularea unui număr de 50 de ore IC.
 - Jafurile sunt permise doar în intervalul orar 20.00 – 08.00 în Los Santos.
 - Pe insula Cayo Perico jafurile pot avea loc în intervalul orar 18.00 – 09.00.
@@ -426,7 +426,7 @@ doar în cazul în care victima refuză să plătească taxa de protecție.
 Warn/Jail/Ban termporar
 :::
 
-## 3.2 JAF/FURT AUTO
+### 3.2 JAF/FURT AUTO
 - Jaful/furtul asupra autovehiculelor este permis doar după acumularea unui număr de 50
 de ore IC.
 - Jafurile/furturile asupra autovehiculelor sunt permise doar dacă în proximitatea
@@ -437,7 +437,7 @@ mașinilor vizate nu se află și alte persoane.
 Warn/Jail
 :::
  
-## 3.2 JAF BANCOMATE/MAGAZINE
+### 3.2 JAF BANCOMATE/MAGAZINE
 - Jaful asupra bancomatelor și a magazinelor sunt permise doar după acumularea a 50 de
 ore IC.
 - Nu aveți voie să jefuiți un bancomat sau un magazin atât timp cât la bancomat sau în
@@ -448,7 +448,7 @@ a magazinelor.
 Warn/Jail
 :::
 
-## 3.3 RĂPIRI/OSTATICI
+### 3.3 RĂPIRI/OSTATICI
 - Nu aveți voie să răpiți jucătorii din zonele publice.
 - Nu aveți voie să răpiți persoanele care practică un job legal, polițiști sau cadre
 medicale aflate on-duty.
@@ -460,7 +460,7 @@ prezentați un scenariu roleplay bine întemeiat care să justifice sechestrarea
 Warn/Jail
 :::
 
-## 3.5 INTERVENTII IN TRANSPORTUL DETINUTILOR
+### 3.5 INTERVENTII IN TRANSPORTUL DETINUTILOR
 - Atacarea unui transport de deținuți poate fi organizat doar de către membrii
 organizației din care face parte deținutul transportat.
 - Acțiunea de salvare a deținutului/deținuților este permisă doar în cazul în care
@@ -469,7 +469,7 @@ transportul implică liderul organizației sau un minim de 2 membri ai organiza�
 Warn/Jail/Ban temporar
 :::
 
-## 3.6 ROLEPLAY-URI EXTRA/ACȚIUNI TERORISTE
+### 3.6 ROLEPLAY-URI EXTRA/ACȚIUNI TERORISTE
 - În cazul ideilor speciale de roleplay care presupun actiuni teroriste sau interacțiuni
 deosebite aveți obligația să luați legătura cu un Super-Administrator+ care vă va
 aproba sau nu scenariul.
@@ -477,7 +477,7 @@ aproba sau nu scenariul.
 Warn/Jail/Ban temporar
 :::
 
-## 5. PRECIZĂRI SUPLIMENTARE
+### 5. PRECIZĂRI SUPLIMENTARE
 - 5.1 Interpretarea în mod arbitrar a prezentului regulament este strict  <span style="color: red;">INTERZISA</span>. Jucătorii nu
 au dreptul de a ajusta sau interpreta regulile în favoarea proprie, din dorința de a justifica
 sau minimiza consecințele unei încălcări a regulamentului.
