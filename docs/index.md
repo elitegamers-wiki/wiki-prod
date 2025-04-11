@@ -290,9 +290,10 @@ onMounted(() => {
   <!-- Card 1: Ai nevoie de GTA 5 -->
   <div class="howtocard">
     <div class="corner-icon">
+      <img src="/cards/fivem.png" alt="Web Icon" />
     </div>
     <div class="step">STEP 1</div>
-    <img src="../public/cards/fivem3.jpg" alt="EliteGamers" style="border: 2px solid red;">
+    <img src="/cards/fivem3.jpg" alt="EliteGamers" style="border: 2px solid red;">
     <h3>Ai nevoie de GTA 5</h3>
     <div class="description">
       Puteți achiziționa GTA 5 de pe 
@@ -305,10 +306,10 @@ onMounted(() => {
   <!-- Card 2: Descarci FiveM -->
   <div class="howtocard">
     <div class="corner-icon">
-      <img src="../public/cards/fivem.png" alt="Download Icon" />
+      <img src="/cards/fivem.png" alt="Download Icon" />
     </div>
     <div class="step">STEP 2</div>
-    <img src="../public/cards/fivem.jpg" alt="FiveM" style="border: 2px solid red;">
+    <img src="/cards/fivem.jpg" alt="FiveM" style="border: 2px solid red;">
     <h3>Descarci FiveM</h3>
     <div class="description">
       Accesează site-ul oficial FiveM și descarcă clientul pentru a începe jocul.
@@ -323,10 +324,10 @@ onMounted(() => {
   <!-- Card 3: Intri pe elitegamers.ro -->
   <div class="howtocard">
     <div class="corner-icon">
-      <img src="../public/cards/search.png" alt="Web Icon" />
+      <img src="/cards/search.png" alt="Web Icon" />
     </div>
     <div class="step">STEP 3</div>
-      <img src="../public/cards/fivem2.webp" alt="EliteGamers" style="border: 2px solid red;">
+    <img src="/cards/fivem2.webp" alt="EliteGamers" style="border: 2px solid red;">
     <h3>Intră pe gta.elitegamers.ro</h3>
     <div class="description">
       În clientul FiveM, caută la BROWSE: ELITEGAMERS.RO sau connect gta.elitegamers.ro
