@@ -255,8 +255,8 @@ onMounted(() => {
   <div class="card">
     <div class="card-content">
       <i class="fa-brands fa-discord"></i>
-      <h2>Instagram</h2>
-      <p>Members: <span>8545</span></p>
+      <h2>Discord</h2>
+      <p>Members: <span>8.545</span></p>
       <a href="https://discord.gg/u8nnkDqZ2q" target="_blank">
         <i class="fa-solid fa-link"></i>
         <span>Join Now</span>
