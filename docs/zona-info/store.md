@@ -76,9 +76,9 @@ Pentru ce tip de sanctiune poti sa platesti:
     <div class="box">
     <h2>VIP Silver</h2>
     <ul>
-      <li>Canis Hawk</li>
-      <li>Ubermacht B3</li>
-      <li>Obey R8</li>
+      <li> - Canis Hawk</li>
+      <li> - Ubermacht B3</li>
+      <li> - Obey R8</li>
     </ul>
   </div>
 

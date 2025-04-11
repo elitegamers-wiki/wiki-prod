@@ -279,10 +279,8 @@ onMounted(() => {
 
 <!-- HOW TO PLAY -->
 
-<!-- HOW TO PLAY -->
-
 ---
-# <span><center>CUM TE POTI JUCA LA NOI PE SERVER?</center></span>
+### <center><span style="color: #e63946; font-size: 2.5rem;">CUM TE POTI JUCA PE SERVER-UL NOSTRU?</span></center>
 ### <span><center>Pentru a juca pe serverul nostru, trebuie să aveți o copie licențiată a Grand Theft Auto V și FiveM descărcat.</center></span>
 ---
 
