@@ -247,19 +247,19 @@ onMounted(() => {
       <p>Followers: <span>41.6K</span></p>
       <a href="https://www.tiktok.com/@elitegamers.ro" target="_blank">
         <i class="fa-solid fa-link"></i>
-        <span>Follow me</span>
+        <span>Follow Us</span>
       </a>
     </div>
   </div>
 
   <div class="card">
     <div class="card-content">
-      <i class="fa-brands fa-instagram"></i>
+      <i class="fa-brands fa-discord"></i>
       <h2>Instagram</h2>
-      <p>Followers: <span>124</span></p>
-      <a href="https://www.instagram.com/elitegamers.ro/" target="_blank">
+      <p>Members: <span>8545</span></p>
+      <a href="https://discord.gg/u8nnkDqZ2q" target="_blank">
         <i class="fa-solid fa-link"></i>
-        <span>Follow me</span>
+        <span>Join Now</span>
       </a>
     </div>
   </div>
@@ -271,7 +271,7 @@ onMounted(() => {
       <p>Followers: <span>573</span></p>
       <a href="https://www.youtube.com/@elitegamers7873" target="_blank">
         <i class="fa-solid fa-link"></i>
-        <span>Follow me</span>
+        <span>Follow Us</span>
       </a>
     </div>
   </div>
@@ -291,7 +291,7 @@ onMounted(() => {
       <img src="/cards/gta5.png" alt="Web Icon" />
     </div>
     <div class="step">STEP 1</div>
-    <img src="/cards/fivem3.jpg" alt="EliteGamers" style="border: 2px solid red;">
+    <img src="/cards/fivem3.jpg" alt="EliteGamers" style="border: 0.9px solid darkred; border-radius: 16px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
     <h3>Ai nevoie de GTA 5</h3>
     <div class="description">
       Puteți achiziționa GTA 5 de pe 
@@ -307,7 +307,7 @@ onMounted(() => {
       <img src="/cards/fivem.png" alt="Download Icon" />
     </div>
     <div class="step">STEP 2</div>
-    <img src="/cards/fivem.jpg" alt="FiveM" style="border: 2px solid red;">
+    <img src="/cards/fivem.jpg" alt="FiveM" style="border: 0.9px solid darkred; border-radius: 16px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
     <h3>Descarci FiveM</h3>
     <div class="description">
       Accesează site-ul oficial FiveM și descarcă clientul pentru a începe jocul.
@@ -325,7 +325,7 @@ onMounted(() => {
       <img src="/cards/search.png" alt="Web Icon" />
     </div>
     <div class="step">STEP 3</div>
-    <img src="/cards/fivem2.webp" alt="EliteGamers" style="border: 2px solid red;">
+    <img src="/cards/fivem2.webp" alt="EliteGamers" style="border: 0.9px solid darkred; border-radius: 16px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
     <h3>Intră pe gta.elitegamers.ro</h3>
     <div class="description">
       În clientul FiveM, caută la BROWSE: ELITEGAMERS.RO sau connect gta.elitegamers.ro
