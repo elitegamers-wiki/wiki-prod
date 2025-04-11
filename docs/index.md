@@ -290,7 +290,7 @@ onMounted(() => {
   <!-- Card 1: Ai nevoie de GTA 5 -->
   <div class="howtocard">
     <div class="corner-icon">
-      <img src="../public/gta5.png" alt="Web Icon" />
+      <img src="../public/gta5.jpg" alt="Web Icon" />
     </div>
     <div class="step">STEP 1</div>
     <img src="../public/fivem3.jpg" alt="EliteGamers" style="border: 2px solid red;">
