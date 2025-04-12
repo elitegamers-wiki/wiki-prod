@@ -361,8 +361,4 @@ body:has(.VPHome)::before {
   pointer-events: none;
 }
 
-/* Ne asigurăm că .VPHome nu mai are background */
-.VPHome {
-  background: none !important;
-}
 </style>
