@@ -346,3 +346,23 @@ onMounted(() => {
 
   </a>
 </div>
+
+<style>
+body:has(.VPHome)::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: url('../public/eg32.png') center center no-repeat;
+  background-size: 1920px 1080px;
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* Ne asigurăm că .VPHome nu mai are background */
+.VPHome {
+  background: none !important;
+}
+</style>
