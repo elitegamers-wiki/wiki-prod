@@ -91,23 +91,21 @@ features:
 }
 </style>
 
-<!-- 
+
 <style>
-/* Background global pentru întreaga pagină */
-.VPHome {
-  background: url('../public/backgroundwiki.png') no-repeat center center fixed;
-  background-size: cover;
+body:has(.VPHome)::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: url('../public/cards/elitegamers32.png') center center no-repeat;
+  background-size: 1920px 1080px;
+  z-index: -1;
+  pointer-events: none;
 }
-
-.VPHome {
-  background: linear-gradient(45deg, rgba(0, 0, 0, 0.9), rgba(240, 5, 5, 0.38)); /* Gradient cu opacitate */
-}
-
-/* Asigură-te că restul conținutului e vizibil */
-.VPHome * {
-  color: white; /* Text alb pentru contrast */
-}
-</style> -->
+</style>
 
 
 <script setup>
@@ -347,18 +345,3 @@ onMounted(() => {
   </a>
 </div>
 
-<style>
-body:has(.VPHome)::before {
-  content: "";
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  background: url('../public/elitegamers32.png') center center no-repeat;
-  background-size: 1920px 1080px;
-  z-index: -1;
-  pointer-events: none;
-}
-
-</style>
