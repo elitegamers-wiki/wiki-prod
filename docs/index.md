@@ -100,12 +100,13 @@ body:has(.VPHome)::before {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background: url('../public/cards/elitegamers32.png') center center no-repeat;
+  background: url('/cards/elitegamers32.png') center center no-repeat;
   background-size: 1920px 1080px;
   z-index: -1;
   pointer-events: none;
 }
 </style>
+
 
 
 <script setup>
