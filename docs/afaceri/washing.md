@@ -12,7 +12,7 @@ outline: deep
 
 - Zona:  GROOVE 
 - Strada: GARSON AVENUE
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/G15NYsa)
 
@@ -21,7 +21,7 @@ outline: deep
 
 - Zona:  GROOVE 
 - Strada: INNOCENCE BOULEVARD
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/HK4yyvG)
 
@@ -30,7 +30,7 @@ outline: deep
 
 - Zona:  PALETO
 - Strada: PALETO BOULEVARD
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/JlZQDOo)
 
@@ -39,7 +39,7 @@ outline: deep
 
 - Zona:  SANDY
 - Strada: ALGONQUIN BOULEVARD
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/gSV00oj)
 
@@ -48,7 +48,7 @@ outline: deep
 
 - Zona:  VESPUCCI
 - Strada: LINDSAY CIRCUS
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/QWfhwNo)
 

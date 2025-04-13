@@ -32,3 +32,11 @@ outline: deep
 <a href="/bg/eg.gif" target="_blank">
   <img src="/bg/eg.gif" alt="altGIF" width="750" height="800" style="display: block; margin: 0px auto; border-radius: 2.5%; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3), 0 6px 6px rgba(0, 0, 0, 0.23);">
 </a>
+
+# Mapa EliteGamers
+
+Iată harta live:
+
+<div style="border-radius: 15px; box-shadow: 0 15px 30px rgba(0, 0, 0, 0.4), 0 10px 10px rgba(0, 0, 0, 0.3); overflow: hidden;">
+  <iframe src="https://elitegamers.ro/map/#" width="100%" height="500px" frameborder="0" style="border: none;"></iframe>
+</div>

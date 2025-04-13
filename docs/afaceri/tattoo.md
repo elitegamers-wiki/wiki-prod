@@ -12,7 +12,7 @@ outline: deep
 
 - Zona:  EAST LOS SANTOS
 - Strada: INNOCENCE BOULEVARD
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/q6cf5fR)
 
@@ -21,7 +21,7 @@ outline: deep
 
 - Zona:  VESPUCCI
 - Strada: AGUJA STREET
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/CZUxngB)
 
@@ -30,7 +30,7 @@ outline: deep
 
 - Zona:  VINEWOOD
 - Strada: VINEWOOD BOULEVARD
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/45rJWuC)
 
@@ -39,7 +39,7 @@ outline: deep
 
 - Zona:  HIGHWAY
 - Strada: GREAT OCEAN HIGHWAY
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/LP3pMhb)
 
@@ -48,7 +48,7 @@ outline: deep
 
 - Zona:  SANDY
 - Strada: ALHAMBRA DRIVE
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/ElcDqmm)
 
@@ -57,7 +57,7 @@ outline: deep
 
 - Zona:  PALETO
 - Strada: DULOUZ AVENUE
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/prmpbNV)
 

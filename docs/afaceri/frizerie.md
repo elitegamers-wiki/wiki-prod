@@ -12,7 +12,7 @@ outline: deep
 
 - Zona:  ROCKFORD HILLS
 - Strada: MAD  WAYNE THUNDER DRIVE
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/hlrCQus)
 
@@ -21,7 +21,7 @@ outline: deep
 
 - Zona:  GROOVE
 - Strada: CARSON AVENUE
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/QrUw1lE)
 
@@ -30,7 +30,7 @@ outline: deep
 
 - Zona:  VESPUCCI
 - Strada: CORTES STREET
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/izjxs2b)
 
@@ -39,7 +39,7 @@ outline: deep
 
 - Zona:  SANDY
 - Strada: ALHAMBRA DRIVE
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/E1NGKmK)
 
@@ -49,7 +49,7 @@ outline: deep
 
 - Zona: HAWICK
 - Strada: HAWICK AVENUE
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/XpQyL7w)
 
@@ -58,7 +58,7 @@ outline: deep
 
 - Zona: MIRROR PARK
 - Strada: MIRROR PARK BOULEVARD
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/YvEDcjt)
 
@@ -67,7 +67,7 @@ outline: deep
 
 - Zona: PALETO
 - Strada: PALETO BOULEVARD
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/c6wznLf)
 

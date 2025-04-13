@@ -12,7 +12,7 @@ outline: deep
 
 - Zona:  Vinewood
 - Strada: Spanish Avenue
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/tl5iae0)
 
@@ -21,7 +21,7 @@ outline: deep
 
 - Zona:  EAST LOS SANTOS
 - Strada: VESPUCCI BOULEVARD
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/XlTU18i)
 
@@ -30,7 +30,7 @@ outline: deep
 
 - Zona:  SANDY SHORES
 - Strada: ALONQUIN BOULEVARD
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/hzwsnH0)
 
@@ -39,7 +39,7 @@ outline: deep
 
 - Zona:  PALETO
 - Strada: GREAT OCEAN HIGHWAY
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/FL15Cbi)
 
@@ -48,7 +48,7 @@ outline: deep
 
 - Zona:  ZONA INDUSTRIALA
 - Strada: POPULAR STREET
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/6L13nhx)
 
@@ -57,7 +57,7 @@ outline: deep
 
 - Zona:  CHUMASH
 - Strada: GREAT OCEAN HIGHWAY
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/IC0vQxO)
 
@@ -66,7 +66,7 @@ outline: deep
 
 - Zona:  ZANCUDO
 - Strada: ROUTE 68
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/Bf97kqj)
 
@@ -76,7 +76,7 @@ outline: deep
 
 - Zona:  TATAVIAM MOUNTAINS
 - Strada: PALOMINO FREEWAY
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/JduR9Xn)
 
@@ -86,7 +86,7 @@ outline: deep
 
 - Zona:  MORINGWOOD LOS SANTOS
 - Strada: BOULEVARD DEL PERRO
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/MIEQPDA)
 
@@ -96,7 +96,7 @@ outline: deep
 
 - Zona:  LITTLE SEOUL
 - Strada: LINDSAY CIRCUS
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/QX4Z9fB)
 
@@ -105,7 +105,7 @@ outline: deep
 
 - Zona:  DOWNTOWN
 - Strada: ADAM'S APPLE BOULEVARD
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/5cpBcC5)
 

@@ -12,7 +12,7 @@ outline: deep
 
 - Zona:  EAST LOS SANTOS
 - Strada: POPULAR
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/Wv7h9pG)
 
@@ -21,7 +21,7 @@ outline: deep
 
 - Zona:  EAST LOS SANTOS
 - Strada: VESPUCCI BOULEVARD
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/pmENj4v)
 
@@ -30,7 +30,7 @@ outline: deep
 
 - Zona:  ROCKFORD HILLS
 - Strada: EASTBOURNE WAY
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/lTRmleL)
 
@@ -39,7 +39,7 @@ outline: deep
 
 - Zona:  GRAND SENORA DESERT
 - Strada: ROUTE 68
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/4LT3MAe)
 
@@ -48,7 +48,7 @@ outline: deep
 
 - Zona:  PALETO
 - Strada: GREAT OCEAN HIGHWAY
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/iptuEYN)
 
@@ -57,7 +57,7 @@ outline: deep
 
 - Zona:  EAST LOS SANTOS
 - Strada: EL RANCHO  BOULEVARD
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/gbvL0zv)
 

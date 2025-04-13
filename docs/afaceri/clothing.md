@@ -12,7 +12,7 @@ outline: deep
 
 - Zona:  GRAPESEED
 - Strada: GREAT OCEAN HIGHWAY
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/0PfNg80)
 
@@ -21,7 +21,7 @@ outline: deep
 
 - Zona:  LEGION SQUARE
 - Strada: ELGIN AVENUE
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/S4oKpRV)
 
@@ -30,7 +30,7 @@ outline: deep
 
 - Zona:  ROCKFORD HILLS
 - Strada: PORTOLA DRIVE
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/Zo4ihTe)
 
@@ -39,7 +39,7 @@ outline: deep
 
 - Zona:  VESPUCCI
 - Strada: PROSPERITY STREET PROMENADE
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/6UffQH7)
 
@@ -48,7 +48,7 @@ outline: deep
 
 - Zona:  SINNER STREET
 - Strada: SINNER STREET
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/GOjFNmG)
 
@@ -57,7 +57,7 @@ outline: deep
 
 - Zona:  ROCKFORD PLAZA
 - Strada: LAS  LAGUNASS BOULEVARD
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/Rz3JMoT)
 
@@ -66,7 +66,7 @@ outline: deep
 
 - Zona:  GROOVE STREET
 - Strada: STRAWBERRY AVENUE
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/9DCv4Mk)
 
@@ -75,7 +75,7 @@ outline: deep
 
 - Zona:  PALOMINO  AVENUE
 - Strada: PALOMINO  AVENUE
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/32t6WU3)
 
@@ -84,7 +84,7 @@ outline: deep
 
 - Zona:  MORNINGWOOD
 - Strada: COUGAR AVENUE
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/kv08Ja7)
 
@@ -93,7 +93,7 @@ outline: deep
 
 - Zona:  PALETO
 - Strada: PALETO BOULEVARD
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/rV3V7Kp)
 
@@ -102,7 +102,7 @@ outline: deep
 
 - Zona:  HARMONY
 - Strada: ROUTE 68
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/wMfjexV)
 
@@ -111,7 +111,7 @@ outline: deep
 
 - Zona:  HARMONY
 - Strada: ROUTE 68
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/jsgTdMo)
 
@@ -120,7 +120,7 @@ outline: deep
 
 - Zona:  HIGHWAY
 - Strada: GREAT OCEAN HIGHWAY
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/U8r06Sg)
 
@@ -129,7 +129,7 @@ outline: deep
 
 - Zona:  ROUTE 68
 - Strada: ROUTE 68
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/JMv7Bbd)
 
@@ -138,7 +138,7 @@ outline: deep
 
 - Zona:  HAWICK
 - Strada: HAWICK AVE
-- Taxa/zi:  €
+- Pret afacere: €
 - Informatii:  
 - Harta: [APASA AICI](https://imgur.com/VmwjKun)
 
