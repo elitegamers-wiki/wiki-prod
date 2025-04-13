@@ -49,6 +49,12 @@ features:
     icon: 🔌
 ---
 
+---
+### <center><span style="color: #e63946; font-size: 2.5rem;">OBLIGATORIU SA AVETI VERSIUNEA BETA</span></center>
+
+<a href="../public/eg.gif" target="_blank">
+  <img src="../public/eg.gif" alt="altGIF" width="750" height="800" style="display: block; margin: 0px auto; border-radius: 2.5%; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3), 0 6px 6px rgba(0, 0, 0, 0.23);">
+</a>
 
 <!-- <style>
 :root {
