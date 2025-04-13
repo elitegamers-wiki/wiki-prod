@@ -29,6 +29,6 @@ outline: deep
 
 ###  3. OBLIGATORIU SA AVETI VERSIUNEA BETA
 
-<a href="../public/eg.gif" target="_blank">
-  <img src="../public/eg.gif" alt="altGIF" width="900" height="800" style="display: block; margin: 0px auto; border-radius: 2.5%; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3), 0 6px 6px rgba(0, 0, 0, 0.23);">
+<a href="/bg/eg.gif" target="_blank">
+  <img src="/bg/eg.gif" alt="altGIF" width="750" height="800" style="display: block; margin: 0px auto; border-radius: 2.5%; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3), 0 6px 6px rgba(0, 0, 0, 0.23);">
 </a>
