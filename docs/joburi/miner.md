@@ -22,6 +22,7 @@ Pentru a putea începe acest job trebuie să ai 100 ore jucate și să mergi la 
 - Ai voie să folosești doar vehiculele specifice jobului.
 - Materialele pot fi vândute de la rafinărie sau pot fi folosite pentru a crafta arme.
 - Pentru a mina vei avea nevoie de un târnacop pe care îl cumperi de la NPC-ul de la intrare din mina.
+- Este necesar pentru acest job sa achizitionati licenta pentru extragere minereurilor si permisul pentru transportul acestora.
 
 ### Lista minereuri:
 ```
