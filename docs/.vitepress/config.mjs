@@ -226,7 +226,7 @@ export default defineConfig({
         items: [
           { text: 'Politie', link: '/institutii/politie' },
           { text: 'SMIR', link: '/institutii/smir' },
-          { text: 'Primarie', link: '/institutii/primarie' },
+          // { text: 'Primarie', link: '/institutii/primarie' },
 
         ],
       },
