@@ -168,12 +168,12 @@ export default defineConfig({
         ],
       },
       {
-        text: ' Activități legale/ilegale',
+        text: ' Activitati',
         activeMatch: `^/joburi/`,
         items: [
           { text: ' Despre job-uri', link: '/joburi/joburi' },
           {
-            text: " Joburi legale",
+            text: " Activitati legale",
             collapsed: true,
             items: [ 
               { text: 'Mecanic', link: '/joburi/mecanic' },
@@ -187,10 +187,13 @@ export default defineConfig({
             ]
           },
           {
-            text: "Joburi ilegale",
+            text: "Activitati ilegale",
             collapsed: true,
             items: [
-              {text: 'Metamfetamina', link: '/joburi/meta'},
+              {text: 'Producerea drogurilor', link: '/joburi/droguri'},
+              {text: 'Insula Cayo Perico', link: '/joburi/cayo-perico'},
+              {text: 'Crafting Arme', link: '/joburi/arme'},
+
             ]
           }
         ]
