@@ -107,16 +107,18 @@ body:has(.VPHome)::before {
   width: 100vw;
   height: 100vh;
   background: url('/cards/elitegamers32.png') center center no-repeat;
-  background-size: 1920px 1080px;
+  background-size: cover;
   z-index: -1;
   pointer-events: none;
 }
 </style>
 
 
-
 <script setup>
 import { onMounted } from 'vue'
+import StarRating from '.vitepress/components/StarRating.vue'
+import SiteMap from '.vitepress/components/SiteMap.vue'
+
 
 onMounted(() => {
   const cards = Array.from(document.querySelectorAll(".card-section .card"))
@@ -353,3 +355,10 @@ onMounted(() => {
 </div>
 
 
+<ClientOnly>
+  <StarRating />
+</ClientOnly>
+
+---
+
+<SiteMap />
