@@ -11,16 +11,16 @@ outline: deep
 3. Intrați pe stație pe frecvența dedicata și salutati colegii.
 4. Ascultați gradele superioare și ajutați gradele inferioare ?
 
-#### Uniforme:
+### Uniforme:
 5. Nu aveți voie sa aduceti nicio schimbare asupra uniformei.
 6. Nu aveți voie să aveți tatuaje în zona fetei.
 
-#### Statia
+### Statia
 7. Aveti obligatia de a sta pe statie in momentul in care sunteti On-duty. Cat timp sunteti Off-duty aveti obligatia de a fi atenti la chat-ul factiunii. Daca va aflati Off-duty si sunteti chemati de URGENTA la spital si nu veniti veti fi sanctionati cu 1/3 Faction Warn.
 8. Liniștea pe stație este foarte importantă, întotdeauna trebuie folosită pentru a cere sprijin / a da informații importante, niciodată pentru caterincă/troll/spam/freechat. Acestea sunt sanctionabile in functie de gravitatea acestora.
 9. Dupa preluarea unui apel, in cazul in care pacientul se afla la o distanta foarte mare,aveti obligatia de a anunța pe stație locația apelului preluat, astfel încât, dacă un echipaj este mai aproape, acesta se va ocupa de apel.
 
-#### Masini si Elicoptere
+### Masini si Elicoptere
 
 10. Pentru a folosi elicopterul din dotarea spitalului trebuie să dați un test si sa obtinuti un permis special, elicopterul putand fi folosit doar la intervențiile unde locația pacientului este izolată, respectiv locații unde ambulanței îi este imposibil să ajungă.
 12. Dacă nu există niciun medic specializat în pilotaj în oraș, puteți folosi elicopterul pe propria răspundere DOAR ÎN SITUAȚIA PRECIZATA MAI SUS!
