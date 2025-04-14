@@ -14,33 +14,30 @@ Spitalul Național Los Santos oferă un loc de muncă avantajos, beneficii și s
 
 **Out Of Character(OOC)**
 
--Vârsta minimă este de 14 ani.
+- Vârsta minimă este de 14 ani.
 
--Cunoașterea regulilor de bază ale roleplay-ului și a regulamentelor comunității.
+- Cunoașterea regulilor de bază ale roleplay-ului și a regulamentelor comunității.
 
--Capacitatea de a lua propriile decizii chiar și în roleplay-uri complexe.
+- Capacitatea de a lua propriile decizii chiar și în roleplay-uri complexe.
 
--Asumare în caz de greșeală, seriozitate și punctualitate.
+- Asumare în caz de greșeală, seriozitate și punctualitate.
 
--Calitatea de a asculta când cineva vorbește, fără să îl întrerupi, atât în conversații OOC, cât și IC. ?
+- Calitatea de a asculta când cineva vorbește, fără să îl întrerupi, atât în conversații OOC, cât și IC. ?
 
--Roleplay-ul trebuie să fie cât mai natural și cât se poate de complex.
+- Roleplay-ul trebuie să fie cât mai natural și cât se poate de complex.
 
--Prima impresie contează, așa că, pregătiți-vă din toate punctele de vedere înainte de interviu. 
+- Prima impresie contează, așa că, pregătiți-vă din toate punctele de vedere înainte de interviu. 
 
 **In Character(IC)**
 
--Ca medic, trebuie să faci tot ce îți stă în putință pentru a salva pacientul.
+- Ca medic, trebuie să faci tot ce îți stă în putință pentru a salva pacientul.
 
--Trebuie să fii un cetățean model, fără antecedente si probleme comportamentale.
+- Trebuie să fii un cetățean model, fără antecedente si probleme comportamentale.
 
--Abilitatea de a lucra în echipă cu ceilalți colegi.
+- Abilitatea de a lucra în echipă cu ceilalți colegi.
 
--Păstrarea calmului în orice situație.
+- Păstrarea calmului în orice situație.
 
--Tratarea pacienților cu seriozitate și respect.
+- Tratarea pacienților cu seriozitate și respect.
 
--Cazier curat. 
-
-
-astea sunt cele generale, si o sa facem si informatii particulare dar o sa intram pe sv ca sa punem imagini pt regulament si alea
+- Cazier curat. 
