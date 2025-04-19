@@ -18,7 +18,7 @@ hero:
       text: 🔊 Alatura-te noua
       link: https://discord.gg/elitegamers-ro-351058903271735306
   image:
-    src: /elitegamers.gif
+    src: /elitegamers.webp
     alt: eliteGamers.ro
 
 features:
@@ -106,7 +106,7 @@ body:has(.VPHome)::before {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background: url('/cards/elitegamers32.png') center center no-repeat;
+  background: url('/cards/elitegamers32.webp') center center no-repeat;
   background-size: cover;
   z-index: -1;
   pointer-events: none;
@@ -295,10 +295,10 @@ onMounted(() => {
   <!-- Card 1: Ai nevoie de GTA 5 -->
   <div class="howtocard">
     <div class="corner-icon">
-      <img src="/cards/gta5.png" alt="Web Icon" />
+      <img src="/cards/gta5.webp" alt="Web Icon" />
     </div>
     <div class="step">STEP 1</div>
-    <img src="/cards/fivem3.jpg" alt="EliteGamers" style="border: 0.9px solid darkred; border-radius: 16px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
+    <img src="/cards/fivem3.webp" alt="EliteGamers" style="border: 0.9px solid darkred; border-radius: 16px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
     <h3>Ai nevoie de GTA 5</h3>
     <div class="description">
       Puteți achiziționa GTA 5 de pe 
@@ -311,10 +311,10 @@ onMounted(() => {
   <!-- Card 2: Descarci FiveM -->
   <div class="howtocard">
     <div class="corner-icon">
-      <img src="/cards/fivem.png" alt="Download Icon" />
+      <img src="/cards/fivem.webp" alt="Download Icon" />
     </div>
     <div class="step">STEP 2</div>
-    <img src="/cards/fivem.jpg" alt="FiveM" style="border: 0.9px solid darkred; border-radius: 16px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
+    <img src="/cards/fivemf.webp" alt="FiveM" style="border: 0.9px solid darkred; border-radius: 16px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
     <h3>Descarci FiveM</h3>
     <div class="description">
       Accesează site-ul oficial FiveM și descarcă clientul pentru a începe jocul.
@@ -329,7 +329,7 @@ onMounted(() => {
   <!-- Card 3: Intri pe elitegamers.ro -->
   <div class="howtocard">
     <div class="corner-icon">
-      <img src="/cards/search.png" alt="Web Icon" />
+      <img src="/cards/search.webp" alt="Web Icon" />
     </div>
     <div class="step">STEP 3</div>
     <img src="/cards/fivem2.webp" alt="EliteGamers" style="border: 0.9px solid darkred; border-radius: 16px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);">
@@ -349,7 +349,7 @@ onMounted(() => {
   </h2>
 
   <a href="https://github.com/elitegamers-wiki/wiki-prod/graphs/contributors" flex justify-center>
-    <img src="https://contrib.rocks/image?repo=elitegamers-wiki/wiki-prod" />
+    <img src="https://contrib.rocks/image?repo=elitegamers-wiki/wiki-prod" alt="Contributors to the EliteGamers Wiki project" width="300" height="200" />
 
   </a>
 </div>
