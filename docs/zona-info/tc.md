@@ -17,8 +17,6 @@ Sa aveti un microfon pentru a putea comunica cu restul jucatorilor,
 ### 3. Comportament și Roleplay
 Participarea pe server presupune respectarea unui comportament matur și realist. Sunt strict interzise:
 
-Limbajul ofensator, hărțuirea sau comportamentele discriminatorii.
-
 Utilizarea de bug-uri, cheat-uri sau modificări externe interzise.
 
 Încălcarea regulilor fundamentale de roleplay (metagaming, powergaming, etc.).
