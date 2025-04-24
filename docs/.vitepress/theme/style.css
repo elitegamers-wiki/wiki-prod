@@ -51,7 +51,7 @@
 
  @font-face {
   font-family: 'Orbitron';
-  src: url('/public/font/Orbitron.ttf') format('truetype');
+  src: url('/public/Orbitron.ttf') format('truetype');
 }
 
 .title-font {
