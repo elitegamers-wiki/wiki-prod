@@ -127,6 +127,8 @@ export default defineConfig({
           { text: ' Informatii Importante', link: '/zona-info/informatii' },
           { text: ' Store', link: '/zona-info/store' },
           { text: ' Intrebari si Raspunsuri', link: '/zona-info/faq' },
+          { text: ' T&C', link: '/zona-info/tc' },
+
 
 
             {

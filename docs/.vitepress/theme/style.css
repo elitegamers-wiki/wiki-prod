@@ -50,17 +50,17 @@
  * -------------------------------------------------------------------------- */
 
  @font-face {
-  font-family: 'LibreBaskerville-Regular';
-  src: url('../public/font/LibreBaskerville-Regular.ttf') format('truetype');
+  font-family: 'Orbitron';
+  src: url('../public/font/Orbitron.ttf') format('truetype');
 }
 
 .title-font {
-  font-family: 'LibreBaskerville-Regular';
+  font-family: 'Orbitron';
 }
 
 .header-font {
   color: red;
-  font-family: 'LibreBaskerville-Regular';
+  font-family: 'Orbitron';
 }
 /* sfarsit text font */
 
