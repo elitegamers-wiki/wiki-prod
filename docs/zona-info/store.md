@@ -24,7 +24,7 @@ Aceasta moneda "EG Coins" este utilizata pentru achizitionarea anumitor articole
 
  ### Cum pot face rost de EG Coins?:
  Poti face rost de EG Coins folosind variantele de mai jos:
- - Poti sa platesti pe tebex-ul official ELITEGAMERS.RO;
+ - Poti sa platesti pe tebex-ul official ELITEGAMERS.RO; (https://elitegamers.tebex.io)
  - Poti face 4 EG-Coins lunar daca intri pe server si esti activ folosind [/premii] ([Mai multe detalii aici](https://wiki.elitegamers.ro/general/rewards.html)),
 
 ### Cum iti folosesti monedele “EG Coins” pe server-ul nostru?: 
