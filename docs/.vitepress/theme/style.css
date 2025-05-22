@@ -250,6 +250,13 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+img {
+  pointer-events: none;
+  user-select: none;
 }
 
 /* Secțiunea de carduri */
