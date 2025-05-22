@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Disallow sensitive or non-public paths
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /admin/
+
+# Sitemap (update the URL if you have a sitemap)
+# Sitemap: https://yourdomain.com/sitemap.xml

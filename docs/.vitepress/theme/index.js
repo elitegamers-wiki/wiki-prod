@@ -14,5 +14,13 @@ export default {
   },
   enhanceApp({ app, router, siteData }) {
     // 🧠 Poți înregistra componente globale aici dacă ai nevoie
+    if (typeof window !== 'undefined' && 'navigation' in window) {
+      window.navigation.addEventListener('navigate', (event) => {
+        // Prevent bfcache issues by forcing reload on back/forward navigation
+        if (event.navigationType === 'back_forward') {
+          window.location.reload();
+        }
+      });
+    }
   }
 }
