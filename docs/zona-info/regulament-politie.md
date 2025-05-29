@@ -102,21 +102,3 @@ La codurile portocaliu, galben și albastru, se specifică pe stație numărul d
 Zona"ROSIE" reprezinta unde este zona de MARE RISC sa fiti impuscati de oamenii din zona rau famata.
 
 Incepand cu orele 20:00 - 08:00 se aplica regula cu zona ROSIE unde exista posibilitatea sa se traga direct asupra voastra fara nici un fel de discutie.
-
-
-### Reguli S.I.A.T.
-
-1. Pentru a putea participa la actiuni S.I.A.T. ca si membru cu uniforma specifica trebuie sa fiti minim AGENT PRINCIPAL.
-
-2. Raziile pentru fabricare ilegală:
-- Trupele S.I.A.T. organizează razii la locațiile ilegale de fabricare (ex.: droguri) cu aprobarea unui Procuror Șef+ și sub supervizarea unui Procuror sau Comisar+.
-- Este necesar un minim de 6 membri S.I.A.T. pentru desfășurarea unei razii.
-- Polițiștii pot participa doar ca suport în spate și nu pot interveni înaintea trupelor speciale.
-- Sunt permise maximum trei razii pe zi.
-
-3. Patrule/Razii pentru livrări ilegale:
-- Poliția patrulează în zonele de livrare (Grove, Vespucci, Vinewood, El Burro ) pentru a identifica persoanele implicate în livrări ilegale, doar cu aprobarea unui Comisar+.
-- Este necesar un minim de două unități (adică doua masini de politie) pentru desfășurarea unei razii. 
-- Raziile trebuie să fie realizate la un interval de cel puțin o oră, iar timpul poate varia pentru a menține elementul surpriză.
-- Polițiștii nu pot sta în zonele de livrare mai mult de 30 de minute și nu pot patrula fără aprobarea unui INSPECTOR+.
-4. În caz de apeluri privind focuri de armă, Trupele Speciale S.I.A.T. pot interveni împreună cu poliția.
