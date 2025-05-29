@@ -20,15 +20,7 @@ Accesează Settings → Graphics și folosește următoarele setări:
 Aceste ajustări reduc consumul de resurse și îmbunătățesc performanța FPS-ului.
 :::
 
-### 2. Comenzi utile pentru îmbunătățirea performanței în FiveM
-:::tip
-Accesează consola cu F8 și încearcă aceste comenzi:
-
-- <p style="color:green">profile_purge</p> → Curăță memoria RAM și îmbunătățește performanțele FPS.
-- <p style="color:green">r_disableRendering 1</p> → Dezactivează randarea (pentru testarea FPS).
-:::
-
-### 3. Optimizarea sistemului Windows și a driverelor
+### 2. Optimizarea sistemului Windows și a driverelor
 :::tip
 - <p style="color:green">Setează Windows în "High Performance Mode"</p>
 - <p style="color:green">Actualizează driverele pentru placa video (NVIDIA/AMD)</p>
