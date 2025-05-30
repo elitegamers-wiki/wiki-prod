@@ -45,7 +45,10 @@ outline: deep
 - Când o persoană este văzută cu o armă albă în mână.
 - În urma unui apel ce semnalează activități suspecte în zonă.
 - Când o persoană este observată purtând un obiect care îi acoperă fața (ex.: mască, bandană).
-20. Orice abatere de la regulament se pedepseste cu suspendare/demitere (in functie de gravitate)!
+20. Este strict interzis să faceți manevra 'wheelie' cu motocicletele din dotarea Departamentului!
+21. Regrupările la secție pot fi efectuate doar de un Inspector+ !
+22. Coordonatorul oricărui jaf va fi intotdeauna cel mai mare grad prezent la acel moment.
+23. Orice abatere de la regulament se pedepseste cu suspendare/demitere (in functie de gravitate)!
 
 #### Coduri de asistență:
 🔴 COD ROȘU - Situație de urgență majoră
@@ -102,3 +105,28 @@ La codurile portocaliu, galben și albastru, se specifică pe stație numărul d
 Zona"ROSIE" reprezinta unde este zona de MARE RISC sa fiti impuscati de oamenii din zona rau famata.
 
 Incepand cu orele 20:00 - 08:00 se aplica regula cu zona ROSIE unde exista posibilitatea sa se traga direct asupra voastra fara nici un fel de discutie.
+
+
+#### Patrulele Rău-famate
+1. Aceste patrule vizează zonele intens folosite in scopul activităților ilegale.
+2. O patrulă rău-famată poate fi coordonata doar de un Agent-Șef+ .
+3. Este permisă efectuarea a maximum două pe zi, la o distanță de minim 6 ore între ele.
+4. O patrulă poate dura maxim 40 de minute.
+5. Este nevoie de minim 8 politiști pentru a efectua o patrulă rău-famată!
+
+
+#### Razii licențe
+1. Aceste razii vizează job-urile legale.
+2. O razie la licențe poate fi coordonata doar de un Agent-Șef+ .
+3. Este permisă efectuarea a maximum două pe zi, la o distanță de minim 3 ore între ele.
+4. O razie poate dura maxim 40 de minute.
+5. Este nevoie de minim 4 politiști pentru a efectua o astfel de razie.
+
+
+#### Patrule rutiere organizate
+1. Aceste patrule vizează zonele aglomerate și cele de mare viteză.
+2. O patrulă rutieră organizată poate fi coordonata doar de un Agent-Șef+ .
+3. Este permisă efectuarea a maximum două pe zi, la o distanță de minim 3 ore între ele.
+4. O razie poate dura maxim 30 de minute.
+5. Este nevoie de minim 6 politiști pentru a efectua o astfel de patrulă.
+ 
