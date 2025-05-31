@@ -70,26 +70,26 @@ outline: deep
 <!-- #### 2.8 LIPSA BULETIN
 - Atunci cand rolati ca nu aveti buletinul la dumneavoastra, trebuie sa aveti OBLIGATORIU o dovada cu /me si /hudstats. -->
 
-#### 2.9 TELEFON
+#### 2.8 TELEFON
 - Este <span style="color: red;">INTERZIS</span> sa folositi telefonul sau statia sub apa
 
-#### 2.10 SCHIMBAREA ARMEI PE MOTOR
+#### 2.9 SCHIMBAREA ARMEI PE MOTOR
 
 - Este <span style="color: red;">INTERZIS</span> sa schimbati arma instant (fara animatie) atat timp cat sunteti pe motocicleta. Pentru a schimba arma este nevoie sa coborati de pe motocicleta.
 - Este <span style="color: red;">INTERZIS</span> sa va urcati pe motocicleta cu arma mare.
 
-#### 2.11 /carry IN ROLEPLAY
+#### 2.10 /carry IN ROLEPLAY
 - Este <span style="color: red;">INTERZIS</span> sa luati oameni in /carry cand sariti, ca sa-i treceti anumite obstacole
 - Este <span style="color: red;">INTERZIS</span> sa bagati oameni prin /carry in apartamente/garsoniere/case
 - Este <span style="color: green;">Permis</span> sa folositi /walk quick cand aveti pe cineva in /carry
 - Este <span style="color: red;">INTERZIS</span> sa bagati oamenii din /carry in masini fara a face un minim de roleplay ( EX: /me il pune pe bancheta/scaun)
 
-#### 2.12 ITEME ILEGALE
+#### 2.11 ITEME ILEGALE
 - Persoanele care detin iteme ilegale ( arme, praf de pusca, gloante, etc) si fac parte dintr-un departament legal AU VOIE sa pastreze aceste iteme in casa/masina/depozit DOAR daca nu se ating de acestea pe perioada de activitate in departament.
 
-#### 2.13 CAYO PERICO
+#### 2.12 CAYO PERICO
 - Este <span style="color: red;">INTERZIS</span> sa jefuiti la depozitul de pe insula Cayo Perico!(Explicatie: Persoanele care interactioneaza cu depozitul nu au nici o sansa sa se apere cat timp sunt cu ochii in depozit. Ca atare, nu aveti voie sa ii jefuiti.)
 
-#### 2.14 POLITIE
+#### 2.13 POLITIE
 - Este <span style="color: green;">PERMIS</span> ca politia sa perchezitioneze orice persoana atat timp cat pare suspecta.
 - In cazul actiunilor politie – mafie, politistii pot da revive colegilor cazuti la datorie daca nu sunt medici on-duty. 
