@@ -437,7 +437,7 @@ mașinilor vizate nu se află și alte persoane.
 Warn/Jail
 :::
  
-### 3.2 JAF BANCOMATE/MAGAZINE
+### 3.3 JAF BANCOMATE/MAGAZINE
 - Jaful asupra bancomatelor și a magazinelor sunt permise doar după acumularea a 50 de
 ore IC.
 - Nu aveți voie să jefuiți un bancomat sau un magazin atât timp cât la bancomat sau în
@@ -448,7 +448,7 @@ a magazinelor.
 Warn/Jail
 :::
 
-### 3.3 RĂPIRI/OSTATICI
+### 3.4 RĂPIRI/OSTATICI
 - Nu aveți voie să răpiți jucătorii din zonele publice.
 - Nu aveți voie să răpiți persoanele care practică un job legal, polițiști sau cadre
 medicale aflate on-duty.
