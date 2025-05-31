@@ -8,7 +8,7 @@ outline: deep
 Jobul de livrator pizza implică livratul cutiilor de pizza în orașul Los Santos. La început vei livra câte 5 pizza pe tură cu un scuter, dar pe măsură ce acumulezi experiență pe server vei putea livra câte 10 folosind o mașină dedicată acestui job.
 
 ### Cum mă angajez?
-Pentru a începe acest job, trebuie să ai un permis de conducere. Permisul se obține de la secția de poliție, trecând mai întâi un test teoretic și apoi unul practic. După ce ai permisul, trebuie să mergi la Primărie ([/gps - Primărie]), unde un NPC de la tejghea îți vă permite să selectezi jobul de ciupercar. În cazul vrei să accesezi Skill 2 - Livrator Pizza Avansat, ai nevoie de 25 ore.
+Pentru a începe acest job, trebuie să ai un permis de conducere. Permisul se obține de la secția de poliție, trecând mai întâi un test teoretic și apoi unul practic. După ce ai permisul, trebuie să mergi la Primărie ([/gps - Primărie]), unde un NPC de la tejghea îți vă permite să selectezi jobul livrator pizza. În cazul vrei să accesezi Skill 2 - Livrator Pizza Avansat, ai nevoie de 25 ore.
 
 :::details Locatie Primarie
 ![](../public/joburi/gps.png){.framed-photo}
