@@ -4,7 +4,7 @@ outline: deep
 
 <img src="https://imgur.com/eBBAkE8.png" alt="pozabusiness" width="666" height="375" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
-# Afacerile te tip : GUNSHOP
+# Afacerile te tip : GUNSHOP (MOMENTAN INDISPONIBILE)
 #### Pe server exista 11 Locatii pentru acest tip de business
 
 #### GUNSHOP -> VINEWOOD
@@ -12,8 +12,8 @@ outline: deep
 
 - Zona:  Vinewood
 - Strada: Spanish Avenue
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 400.000€
+- Informatii: Intretinere 100.000€/ 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/tl5iae0)
 
 #### GUNSHOP -> EAST LOS SANTOS
@@ -21,8 +21,8 @@ outline: deep
 
 - Zona:  EAST LOS SANTOS
 - Strada: VESPUCCI BOULEVARD
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 300.000€
+- Informatii: Intretinere 100.000€/ 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/XlTU18i)
 
 #### GUNSHOP -> SANDY
@@ -30,8 +30,8 @@ outline: deep
 
 - Zona:  SANDY SHORES
 - Strada: ALONQUIN BOULEVARD
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 250.000€
+- Informatii: Intretinere 100.000€/ 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/hzwsnH0)
 
 #### GUNSHOP -> PALETO
@@ -39,8 +39,8 @@ outline: deep
 
 - Zona:  PALETO
 - Strada: GREAT OCEAN HIGHWAY
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 150.000€
+- Informatii: Intretinere 100.000€/ 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/FL15Cbi)
 
 #### GUNSHOP -> ZONA INDUSTRIALA
@@ -48,8 +48,8 @@ outline: deep
 
 - Zona:  ZONA INDUSTRIALA
 - Strada: POPULAR STREET
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 500.000€
+- Informatii: Intretinere 100.000€/ 2 saptamani 
 - Harta: [APASA AICI](https://imgur.com/6L13nhx)
 
 #### GUNSHOP -> GREAT OCEAN HIGHWAY
@@ -57,8 +57,8 @@ outline: deep
 
 - Zona:  CHUMASH
 - Strada: GREAT OCEAN HIGHWAY
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 250.000€
+- Informatii: Intretinere 100.000€/ 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/IC0vQxO)
 
 #### GUNSHOP -> ZANCUDO
@@ -66,8 +66,8 @@ outline: deep
 
 - Zona:  ZANCUDO
 - Strada: ROUTE 68
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 200.000€
+- Informatii: Intretinere 100.000€/ 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/Bf97kqj)
 
 #### GUNSHOP -> PALOMINO
@@ -76,8 +76,8 @@ outline: deep
 
 - Zona:  TATAVIAM MOUNTAINS
 - Strada: PALOMINO FREEWAY
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 250.000€
+- Informatii: Intretinere 100.000€/ 2 saptamani 
 - Harta: [APASA AICI](https://imgur.com/JduR9Xn)
 
 #### GUNSHOP -> MORINGWWOOD
@@ -86,8 +86,8 @@ outline: deep
 
 - Zona:  MORINGWOOD LOS SANTOS
 - Strada: BOULEVARD DEL PERRO
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 300.000€
+- Informatii: Intretinere 100.000€/ 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/MIEQPDA)
 
 #### GUNSHOP -> WEAZEL
@@ -96,8 +96,8 @@ outline: deep
 
 - Zona:  LITTLE SEOUL
 - Strada: LINDSAY CIRCUS
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 400.000€
+- Informatii: Intretinere 100.000€/ 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/QX4Z9fB)
 
 #### GUNSHOP -> FLECCA
@@ -105,8 +105,8 @@ outline: deep
 
 - Zona:  DOWNTOWN
 - Strada: ADAM'S APPLE BOULEVARD
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 750.000€
+- Informatii: Intretinere 100.000€/ 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/5cpBcC5)
 
 
