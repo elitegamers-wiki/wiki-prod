@@ -12,8 +12,8 @@ outline: deep
 
 - Zona:  EAST LOS SANTOS
 - Strada: INNOCENCE BOULEVARD
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 200.000€
+- Informatii:  Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/q6cf5fR)
 
 #### SALON DE TATUAJE -> VESPUCCI
@@ -21,8 +21,8 @@ outline: deep
 
 - Zona:  VESPUCCI
 - Strada: AGUJA STREET
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 300.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/CZUxngB)
 
 #### SALON DE TATUAJE -> VINEWOOD
@@ -30,8 +30,8 @@ outline: deep
 
 - Zona:  VINEWOOD
 - Strada: VINEWOOD BOULEVARD
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 250.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/45rJWuC)
 
 #### SALON DE TATUAJE -> HIGHWAY
@@ -39,8 +39,8 @@ outline: deep
 
 - Zona:  HIGHWAY
 - Strada: GREAT OCEAN HIGHWAY
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 150.000€
+- Informatii:  Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/LP3pMhb)
 
 #### SALON DE TATUAJE -> SANDY
@@ -48,8 +48,8 @@ outline: deep
 
 - Zona:  SANDY
 - Strada: ALHAMBRA DRIVE
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 150.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/ElcDqmm)
 
 #### SALON DE TATUAJE -> PALETO
@@ -57,8 +57,8 @@ outline: deep
 
 - Zona:  PALETO
 - Strada: DULOUZ AVENUE
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 150.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/prmpbNV)
 
 
