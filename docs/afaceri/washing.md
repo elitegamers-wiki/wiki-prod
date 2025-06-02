@@ -12,8 +12,8 @@ outline: deep
 
 - Zona:  GROOVE 
 - Strada: GARSON AVENUE
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 350.000€
+- Informatii: Intretinere 90.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/G15NYsa)
 
 #### SPALATORIE AUTO -> GROOVE 
@@ -21,8 +21,8 @@ outline: deep
 
 - Zona:  GROOVE 
 - Strada: INNOCENCE BOULEVARD
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 350.000€
+- Informatii: Intretinere 90.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/HK4yyvG)
 
 #### SPALATORIE AUTO -> PALETO
@@ -30,8 +30,8 @@ outline: deep
 
 - Zona:  PALETO
 - Strada: PALETO BOULEVARD
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 200.000€
+- Informatii: Intretinere 90.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/JlZQDOo)
 
 #### SPALATORIE AUTO -> SANDY
@@ -39,8 +39,8 @@ outline: deep
 
 - Zona:  SANDY
 - Strada: ALGONQUIN BOULEVARD
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 150.000€
+- Informatii:  Intretinere 90.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/gSV00oj)
 
 #### SPALATORIE AUTO -> VESPUCCI
@@ -48,7 +48,7 @@ outline: deep
 
 - Zona:  VESPUCCI
 - Strada: LINDSAY CIRCUS
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 200.000€
+- Informatii: Intretinere 90.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/QWfhwNo)
 
