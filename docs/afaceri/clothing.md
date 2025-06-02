@@ -12,8 +12,8 @@ outline: deep
 
 - Zona:  GRAPESEED
 - Strada: GREAT OCEAN HIGHWAY
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 100.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/0PfNg80)
 
 #### CLOTHING -> LEGION SQUARE
@@ -21,8 +21,8 @@ outline: deep
 
 - Zona:  LEGION SQUARE
 - Strada: ELGIN AVENUE
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 700.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani 
 - Harta: [APASA AICI](https://imgur.com/S4oKpRV)
 
 #### CLOTHING -> ROCKFORD
@@ -30,8 +30,8 @@ outline: deep
 
 - Zona:  ROCKFORD HILLS
 - Strada: PORTOLA DRIVE
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 600.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/Zo4ihTe)
 
 #### CLOTHING -> VESPUCCI
@@ -39,8 +39,8 @@ outline: deep
 
 - Zona:  VESPUCCI
 - Strada: PROSPERITY STREET PROMENADE
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 200.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani 
 - Harta: [APASA AICI](https://imgur.com/6UffQH7)
 
 #### CLOTHING -> SINNER STREET
@@ -48,8 +48,8 @@ outline: deep
 
 - Zona:  SINNER STREET
 - Strada: SINNER STREET
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 500.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/GOjFNmG)
 
 #### CLOTHING -> SINNER STREET
@@ -57,8 +57,8 @@ outline: deep
 
 - Zona:  ROCKFORD PLAZA
 - Strada: LAS  LAGUNASS BOULEVARD
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 300.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/Rz3JMoT)
 
 #### CLOTHING -> GROOVE
@@ -66,8 +66,8 @@ outline: deep
 
 - Zona:  GROOVE STREET
 - Strada: STRAWBERRY AVENUE
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 500.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/9DCv4Mk)
 
 #### CLOTHING -> PALOMINO  AVENUE
@@ -75,8 +75,8 @@ outline: deep
 
 - Zona:  PALOMINO  AVENUE
 - Strada: PALOMINO  AVENUE
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 350.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/32t6WU3)
 
 #### CLOTHING -> MORNINGWOOD
@@ -84,8 +84,8 @@ outline: deep
 
 - Zona:  MORNINGWOOD
 - Strada: COUGAR AVENUE
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 250.000€
+- Informatii:  Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/kv08Ja7)
 
 #### CLOTHING -> PALETO
@@ -93,8 +93,8 @@ outline: deep
 
 - Zona:  PALETO
 - Strada: PALETO BOULEVARD
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 150.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani 
 - Harta: [APASA AICI](https://imgur.com/rV3V7Kp)
 
 #### CLOTHING -> HARMONY
@@ -102,8 +102,8 @@ outline: deep
 
 - Zona:  HARMONY
 - Strada: ROUTE 68
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 200.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani 
 - Harta: [APASA AICI](https://imgur.com/wMfjexV)
 
 #### CLOTHING -> HARMONY
@@ -111,8 +111,8 @@ outline: deep
 
 - Zona:  HARMONY
 - Strada: ROUTE 68
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 300.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/jsgTdMo)
 
 #### CLOTHING -> HIGHWAY
@@ -120,8 +120,8 @@ outline: deep
 
 - Zona:  HIGHWAY
 - Strada: GREAT OCEAN HIGHWAY
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 200.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani 
 - Harta: [APASA AICI](https://imgur.com/U8r06Sg)
 
 #### CLOTHING -> ROUTE 68
@@ -129,8 +129,8 @@ outline: deep
 
 - Zona:  ROUTE 68
 - Strada: ROUTE 68
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 200.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/JMv7Bbd)
 
 #### CLOTHING -> HAWICK
@@ -138,8 +138,8 @@ outline: deep
 
 - Zona:  HAWICK
 - Strada: HAWICK AVE
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 350.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/VmwjKun)
 
 
