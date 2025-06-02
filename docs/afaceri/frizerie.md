@@ -12,8 +12,8 @@ outline: deep
 
 - Zona:  ROCKFORD HILLS
 - Strada: MAD  WAYNE THUNDER DRIVE
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 150.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/hlrCQus)
 
 #### FRIZERIE -> GROOVE
@@ -21,8 +21,8 @@ outline: deep
 
 - Zona:  GROOVE
 - Strada: CARSON AVENUE
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 300.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/QrUw1lE)
 
 #### FRIZERIE -> VESPUCCI
@@ -30,8 +30,8 @@ outline: deep
 
 - Zona:  VESPUCCI
 - Strada: CORTES STREET
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 250.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani 
 - Harta: [APASA AICI](https://imgur.com/izjxs2b)
 
 #### FRIZERIE -> SANDY SHORES
@@ -39,8 +39,8 @@ outline: deep
 
 - Zona:  SANDY
 - Strada: ALHAMBRA DRIVE
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 150.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/E1NGKmK)
 
 
@@ -49,8 +49,8 @@ outline: deep
 
 - Zona: HAWICK
 - Strada: HAWICK AVENUE
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 175.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/XpQyL7w)
 
 #### FRIZERIE -> MIRROR PARK
@@ -58,8 +58,8 @@ outline: deep
 
 - Zona: MIRROR PARK
 - Strada: MIRROR PARK BOULEVARD
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 350.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/YvEDcjt)
 
 #### FRIZERIE -> PALETO
@@ -67,8 +67,8 @@ outline: deep
 
 - Zona: PALETO
 - Strada: PALETO BOULEVARD
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 100.000€
+- Informatii: Intretinere 70.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/c6wznLf)
 
 
