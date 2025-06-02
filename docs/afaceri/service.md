@@ -12,8 +12,8 @@ outline: deep
 
 - Zona:  EAST LOS SANTOS
 - Strada: POPULAR
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 3.000.000€
+- Informatii: Intretinere 250.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/Wv7h9pG)
 
 #### SERVICE AUTO -> EAST LOS SANTOS
@@ -21,8 +21,8 @@ outline: deep
 
 - Zona:  EAST LOS SANTOS
 - Strada: VESPUCCI BOULEVARD
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 3.000.000€
+- Informatii: Intretinere 250.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/pmENj4v)
 
 #### SERVICE AUTO -> ROCKFORD
@@ -30,8 +30,8 @@ outline: deep
 
 - Zona:  ROCKFORD HILLS
 - Strada: EASTBOURNE WAY
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 7.000.000€
+- Informatii: Intretinere 500.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/lTRmleL)
 
 #### SERVICE AUTO -> GRAND SENORA DESERT
@@ -39,8 +39,8 @@ outline: deep
 
 - Zona:  GRAND SENORA DESERT
 - Strada: ROUTE 68
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 750.000€
+- Informatii: Intretinere 250.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/4LT3MAe)
 
 #### SERVICE AUTO -> PALETO
@@ -48,8 +48,8 @@ outline: deep
 
 - Zona:  PALETO
 - Strada: GREAT OCEAN HIGHWAY
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 450.000€
+- Informatii:  Intretinere 150.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/iptuEYN)
 
 #### SERVICE AUTO -> EAST LOS SANTOS
@@ -57,7 +57,7 @@ outline: deep
 
 - Zona:  EAST LOS SANTOS
 - Strada: EL RANCHO  BOULEVARD
-- Pret afacere: €
-- Informatii:  
+- Pret afacere: 9.000.000€
+- Informatii: Intretinere 700.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/gbvL0zv)
 
