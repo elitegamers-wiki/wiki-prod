@@ -33,7 +33,7 @@ ELITE BUSINESS CENTER își rezervă dreptul de a modifica regulile contractuale
 - Zona: Downtown
 - Strada: San Andreas Avenue
 - Harta: [CLICK AICI](https://imgur.com/CZIszrt)
-- Telefon: TBD
+- Telefon: [0734784683]
 
 ### PROGRAM
 - Luni: TBD
