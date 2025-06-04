@@ -36,10 +36,10 @@ ELITE BUSINESS CENTER își rezervă dreptul de a modifica regulile contractuale
 - Telefon: [0734784683]
 
 ### PROGRAM
-- Luni: TBD
-- Marti: TBD
-- Miercuri: TBD
-- Joi: TBD
-- Vineri: TBD
-- Sambata: TBD
-- Duminica: TBD
+- Luni: 19:00 - 21:00
+- Marti: INCHIS
+- Miercuri: 19:00 - 21:00
+- Joi: INCHIS
+- Vineri: 19:00 - 21:00
+- Sambata: INCHIS
+- Duminica: INCHIS
