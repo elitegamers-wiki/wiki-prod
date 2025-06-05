@@ -87,4 +87,3 @@ outline: deep
 - Pret afacere: 800.000€
 - Informatii: Intretinere 200.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/WeWszY9)
-
