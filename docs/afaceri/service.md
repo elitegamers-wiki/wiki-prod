@@ -62,7 +62,7 @@ outline: deep
 - Harta: [APASA AICI](https://imgur.com/gbvL0zv)
 
 #### SERVICE AUTO -> Benny's Original
-<img src="../public/locatii/service/sv_benny's.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+<img src="../public/locatii/service/sv_bennys.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  Alta
 - Strada: Alta Street
