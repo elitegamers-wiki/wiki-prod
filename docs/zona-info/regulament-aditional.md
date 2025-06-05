@@ -22,7 +22,7 @@ outline: deep
  - <span style="color: red;">NU</span> se da TP daca ati ramas blocati intr-un mod Roleplay cu masina/barca
  #### 1.3 DOVEZI PENTRU TICKETE
  - Pentru probleme precum: "M-a aruncat din masina", "Nu mi s-a deschis parasuta", "Mi-a spawnat masina stricata/fara benzina", "Am intrat pe server si m-a dat mort", "Am murit dintr-un bug", etc. este necesara prezentarea unei dovezi.
-
+ - Ticket-ul in roleplay <span style="color: red;">NU</span> se sanctioneaza.
  #### 1.4 MISSCLICK
 - Cand apasati neintentionat o tasta/buton cu gandul de a face alta actiune
 - ORICE missclick se roleaza, indiferent de cauza acestuia ( ati dat un pumn, ati apasat F din greseala, etc)
