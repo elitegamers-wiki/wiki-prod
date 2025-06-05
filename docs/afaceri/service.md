@@ -62,7 +62,7 @@ outline: deep
 - Harta: [APASA AICI](https://imgur.com/gbvL0zv)
 
 #### SERVICE AUTO -> Benny's Original
-<img src="../public/locatii/service/sv_eastls3.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+<img src="../public/locatii/service/sv_benny's.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  Alta
 - Strada: Alta Street
@@ -71,7 +71,7 @@ outline: deep
 - Harta: [APASA AICI](https://imgur.com/raMwu3l)
 
 #### SERVICE AUTO -> Portul Mic
-<img src="../public/locatii/service/sv_eastls3.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+<img src="../public/locatii/service/sv_portul_mic.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  Portul Mic
 - Strada: Plaice Place
@@ -80,7 +80,7 @@ outline: deep
 - Harta: [APASA AICI](https://imgur.com/uLsM6AL)
 
 #### SERVICE AUTO -> Voodoo
-<img src="../public/locatii/service/sv_eastls3.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+<img src="../public/locatii/service/sv_voodoo.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  Voodoo Place
 - Strada: Signal Street
