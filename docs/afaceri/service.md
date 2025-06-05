@@ -61,3 +61,30 @@ outline: deep
 - Informatii: Intretinere 700.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/gbvL0zv)
 
+#### SERVICE AUTO -> Benny's Original
+<img src="../public/locatii/service/sv_eastls3.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+
+- Zona:  Alta
+- Strada: Alta Street
+- Pret afacere: 700.000€
+- Informatii: Intretinere 150.000€ o data la 2 saptamani
+- Harta: [APASA AICI](https://imgur.com/raMwu3l)
+
+#### SERVICE AUTO -> Portul Mic
+<img src="../public/locatii/service/sv_eastls3.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+
+- Zona:  Portul Mic
+- Strada: Plaice Place
+- Pret afacere: 900.000€
+- Informatii: Intretinere 250.000€ o data la 2 saptamani
+- Harta: [APASA AICI](https://imgur.com/uLsM6AL)
+
+#### SERVICE AUTO -> Voodoo
+<img src="../public/locatii/service/sv_eastls3.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+
+- Zona:  Voodoo Place
+- Strada: Signal Street
+- Pret afacere: 800.000€
+- Informatii: Intretinere 200.000€ o data la 2 saptamani
+- Harta: [APASA AICI](https://imgur.com/WeWszY9)
+
