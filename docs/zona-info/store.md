@@ -65,8 +65,8 @@ Pentru ce tip de sanctiune poti sa platesti:
 | VIP           | Pret             | Acces la suporter | Jobboost | Grad discord + FiveM | Bani in joc | Salariu bonus | BattlePass Premium | Priority Queue |
 | ------------- | :-----------:    | :----:            | :----: | :----: | :----:   | :----: | :----: | :----: 
 | Silver        |   7 EG COINS     |  ✅               | 5%  |  ✅      | 25.000$  | 1000$ | ❌ | Tier 1 |
-| Gold          |   13 EG COINS    |  ✅               | 7%  |  ✅      | 60.000$  | 2000$ | ✅ | Tier 2 |
-| Platinum      |   20 EG COINS    |  ✅               | 10% |  ✅      | 150.000$ | 5000$ | ✅ | Tier 3 |
+| Gold          |   13 EG COINS    |  ✅               | 7%  |  ✅      | 50.000$  | 2000$ | ✅ | Tier 2 |
+| Platinum      |   20 EG COINS    |  ✅               | 10% |  ✅      | 100.000$ | 3000$ | ✅ | Tier 3 |
 
 ### Masinile de la VIP
 
