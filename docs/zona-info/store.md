@@ -76,7 +76,7 @@ Pentru ce tip de sanctiune poti sa platesti:
     <div class="box">
     <h2>VIP Silver</h2>
     <ul>
-      <li> - Canis Hawk</li>
+      <li> - Ubermacht B8</li>
       <li> - Ubermacht B3</li>
       <li> - Obey R8</li>
     </ul>
@@ -98,7 +98,7 @@ Pentru ce tip de sanctiune poti sa platesti:
     <ul>
       <li> - Progen Overflod</li>
       <li> - Benefactor One</li>
-      <li> - Ubermacht B8</li>
+      <li> - Peptos 911 RS</li>
       <li> - Elegy RH35</li>
       <li> - Pegassi Zentorno VSJ</li>
       <li> + Toate masinile de la vipul anterior</li>
