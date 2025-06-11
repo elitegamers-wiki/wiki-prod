@@ -33,7 +33,7 @@ ELITE BUSINESS CENTER își rezervă dreptul de a modifica regulile contractuale
 - Zona: Downtown
 - Strada: San Andreas Avenue
 - Harta: [CLICK AICI](https://imgur.com/CZIszrt)
-- Telefon: 0725600697 / 0769808987
+- Telefon: 0734784683 / 0769808987
 
 ### PROGRAM
 - Luni: 19:00 - 21:00
