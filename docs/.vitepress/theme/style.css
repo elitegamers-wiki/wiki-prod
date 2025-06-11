@@ -167,6 +167,16 @@
   --vp-c-brand-dimm: rgba(100, 108, 255, 0.08);
 }
 
+/* SCROLLBAR */
+
+/* Ascunde scrollbar-ul lateral din sidebar */
+.VPSidebar {
+  scrollbar-width: none; /* Firefox */
+}
+
+.VPSidebar::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Edge */
+}
 
 
 /**
