@@ -140,6 +140,7 @@ martori.
 acelei organizații poliției sau altei organizații rivale și a fost descoperit.
 - Când a comis infracțiuni extreme multiple și trebuie să facă închisoare pe viață
 sau a acumulat un număr de 5 caziere.
+- Transmiterea de informatii din interiorul factiunilor legale catre alte tipuri de factiuni(ilegale) se pedepseste cu inchisoare pe viata.
 
 ### 1.16 OLYMPIC SWIM [OS]
 - Este  <span style="color: red;">INTERZISA</span> fuga prin apă, înotând la nesfarsit. Acest lucru este considerat olympic
