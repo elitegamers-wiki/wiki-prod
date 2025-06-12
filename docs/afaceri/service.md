@@ -61,7 +61,7 @@ outline: deep
 - Informatii: Intretinere 700.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/gbvL0zv)
 
-#### SERVICE AUTO -> Benny's Original
+#### SERVICE AUTO -> Benny's Original - OCUPATA
 <img src="../public/locatii/service/sv_bennys.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  Alta
