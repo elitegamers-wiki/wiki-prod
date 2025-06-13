@@ -26,6 +26,9 @@ outline: deep
  #### 1.4 MISSCLICK
 - Cand apasati neintentionat o tasta/buton cu gandul de a face alta actiune
 - ORICE missclick se roleaza, indiferent de cauza acestuia ( ati dat un pumn, ati apasat F din greseala, etc)
+ #### 1.5 Activitate minima in factiuni
+- După acceptarea într-o facțiune, membrii au obligația de a rămâne activi minimum 14 de zile.
+În cazul în care un membru este dat afară (OUT) sau primește ban înainte de împlinirea celor 14 de zile, din motive precum lipsă de activitate, lipsă pontaj, absența certificatelor sau comportament neadecvat, acesta va fi sancționat cu ban pentru numărul de zile rămase până la împlinirea celor 14 de zile obligatorii.
 
 # CAP.2 REGULI IC
 
