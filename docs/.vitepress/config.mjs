@@ -156,6 +156,7 @@ export default defineConfig({
         text: ' General',
         activeMatch: '^/general/',
         items: [
+          {text: 'Ghid de incepere', link: '/general/guide'},
           { text: ' Harta Los Santos', link: '/general/harta' },
           { text: ' Telefon', link: '/general/telefon' },
           { text: ' Setari pentru performanta', link: '/general/setarigrafice' },
