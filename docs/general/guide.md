@@ -28,6 +28,6 @@ Aici o sa postam chestii folositoare pentru a nu intampina probleme pe server-ul
 </p>
 
 ### 3. FIVEM MENU SETTINGS
-<a href="/public/bg/guide2.png" target="_blank">
-    <img src="/public/bg/guide2.png" alt="setarifivem" width="750" height="400" style="display: block; margin: 0px auto; border-radius: 2.5%; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3), 0 6px 6px rgba(0, 0, 0, 0.23);">
+<a href="/bg/guide2.png" target="_blank">
+    <img src="/bg/guide2.png" alt="setarifivem" width="750" height="400" style="display: block; margin: 0px auto; border-radius: 2.5%; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3), 0 6px 6px rgba(0, 0, 0, 0.23);">
 </a>
