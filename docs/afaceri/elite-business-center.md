@@ -8,9 +8,8 @@ outline: deep
 ELITE BUSINESS CENTER nu este doar un nume, ci un partener de încredere dedicat să ofere clienților săi un mediu propice pentru dezvoltare și succes. Rețeaua noastră de afaceri, situată în regiunea Los Santos, este concepută pentru a crea un echilibru între afaceri și stilul de viață. Locația noastră strategică, în zone cu proiecte mixte, garantează acces facil și condiții optime pentru creștere și evoluție profesională.
 
 ### CLAUZE CONTRACTUALE GENERALE ȘI OBLIGATORII
-- Chiria aferentă locației alese trebuie achitată zilnic, timp de 30 de zile consecutive de la momentul semnării contractului. După achitarea integrală a sumei, ELITE BUSINESS CENTER va oferi spațiul închiriat fără alte costuri suplimentare pentru toată perioada derulării afacerii.
+- Neachitarea chiriei de 2 ori consecutiv duce la rezilierea automata a contractului
 - IMPORTANT: În cazul în care plata nu este efectuată timp de 3 zile consecutive, contractul va fi anulat automat, iar sumele deja achitate nu vor fi returnate.
-- Chiria nu poate fi achitată în avans pentru întreaga perioadă de 30 de zile. Este obligatoriu ca fiecare chiriaș să efectueze plata zilnic pentru spațiul închiriat. În cazul unei absențe de două zile consecutive, se va emite un avertisment.
 - ATENȚIE: Acumularea a 4 avertismente atrage după sine rezilierea contractului, fără posibilitatea recuperării sumelor achitate.
 - Subînchirierea sau vânzarea dreptului de utilizare a locației închiriate este strict interzisă. Dacă nu mai doriți să folosiți spațiul, rezilierea contractului trebuie realizată la sediul ELITE BUSINESS CENTER.
 - Este interzisă desfășurarea unor activități care nu corespund destinației stabilite pentru spațiul respectiv. De exemplu, nu este permisă prestarea serviciilor de frizerie într-un salon de tatuaje.
