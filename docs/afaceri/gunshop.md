@@ -34,19 +34,19 @@ outline: deep
 - Informatii: Intretinere 100.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/hzwsnH0)
 
-#### GUNSHOP -> PALETO
+#### GUNSHOP -> PALETO - OCUPATA
 <img src="../public/locatii/gunshop/gs_paleto.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
-- Zona:  PALETO - OCUPATA
+- Zona:  PALETO
 - Strada: GREAT OCEAN HIGHWAY
 - Pret afacere: 150.000€
 - Informatii: Intretinere 100.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/FL15Cbi)
 
-#### GUNSHOP -> ZONA INDUSTRIALA
+#### GUNSHOP -> ZONA INDUSTRIALA  - OCUPATA
 <img src="../public/locatii/gunshop/gs_zonaindustriala.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
-- Zona:  ZONA INDUSTRIALA - OCUPATA
+- Zona:  ZONA INDUSTRIALA
 - Strada: POPULAR STREET
 - Pret afacere: 500.000€
 - Informatii: Intretinere 100.000€ o data la 2 saptamani
