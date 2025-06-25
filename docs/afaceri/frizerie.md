@@ -7,7 +7,7 @@ outline: deep
 # Afacerile te tip : FRIZERIE
 #### Pe server exista 7 Locatii pentru acest tip de business
 
-#### FRIZERIE -> ROCKFORD
+#### FRIZERIE -> ROCKFORD - OCUPATA
 <img src="../public/locatii/frizerie/fr_rockford.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  ROCKFORD HILLS
