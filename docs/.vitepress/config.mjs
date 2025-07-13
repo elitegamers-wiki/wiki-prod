@@ -194,7 +194,8 @@ export default defineConfig({
             text: "Activitati ilegale",
             collapsed: true,
             items: [
-              {text: 'Producerea drogurilor', link: '/joburi/droguri'},
+              {text: 'Jafuri la masini', link: '/joburi/jafurimasini'},
+              {text: 'Jafuri la case', link: '/joburi/jafuricase'},
               {text: 'Insula Cayo Perico', link: '/joburi/cayo-perico'},
               {text: 'Crafting Arme', link: '/joburi/arme'},
 
