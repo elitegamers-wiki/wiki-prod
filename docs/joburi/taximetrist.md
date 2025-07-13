@@ -10,7 +10,7 @@ Jobul de taximetrist implică preluarea clienților din diferite locații și tr
 de trafic și având grijă să nu întâmpini accidente. Pe parcursul job-ului, vei câștiga bani in functie de numarul de Km efectuati.
 
 ### Cum pot începe acest job?
-Pentru a începe, trebuie să deții un permis de conducere, pe care îl poți obține de la secția de poliție, trecând mai întâi printr-un test teoretic, urmat de unul practic. După ce obții permisul, trebuie să mergi la Primărie ([/gps - Primărie]), unde un NPC de la tejghea te va introduce în meniul interactiv, de unde poți selecta locul de muncă dorit.
+Pentru a începe, trebuie să deții un permis de conducere, pe care îl poți obține de la scoala de soferi, trecând mai întâi printr-un test teoretic, urmat de unul practic. După ce obții permisul, trebuie să mergi la Primărie, unde un NPC de la tejghea te va introduce în meniul interactiv, de unde poți selecta locul de muncă dorit.
 
 :::details Locatie Primarie
 ![](../public/joburi/gps.png){.framed-photo}
