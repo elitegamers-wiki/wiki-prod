@@ -195,8 +195,11 @@ export default defineConfig({
             items: [
               {text: 'Jafuri la masini', link: '/joburi/jafurimasini'},
               {text: 'Jafuri la case', link: '/joburi/jafuricase'},
-              {text: 'Insula Cayo Perico', link: '/joburi/cayo-perico'},
-              {text: 'Crafting Arme', link: '/joburi/arme'},
+              {text: 'Jafuri la ATM', link: '/joburi/jafuriatm'},
+              {text: 'Jafuri la magazin', link: '/joburi/jafurimagazin'},
+
+              // {text: 'Insula Cayo Perico', link: '/joburi/cayo-perico'},
+              // {text: 'Crafting Arme', link: '/joburi/arme'},
 
             ]
           }
