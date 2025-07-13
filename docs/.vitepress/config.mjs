@@ -162,7 +162,6 @@ export default defineConfig({
           { text: ' Telefon', link: '/general/telefon' },
           { text: ' Setari pentru performanta', link: '/general/setarigrafice' },
           { text: ' Inventar', link: '/general/inventar' },
-          { text: ' Scoala de soferi', link: '/general/scoala-de-soferi' },
           { text: ' ATM-uri', link: '/general/atm-uri' },
           { text: ' Daily rewards', link: '/general/rewards' },
           { text: ' Comenzi ', link: '/general/comenzi' },
