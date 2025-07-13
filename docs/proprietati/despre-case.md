@@ -13,7 +13,7 @@ outline: deep
 
 - Zona: Vinewood  
 - Strada: Hawick Ave
-- Pret casa: 
+- Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
 - Numar de locuinte: 14
 
@@ -22,7 +22,7 @@ outline: deep
 
 - Zona: West Eclipse Boulevard 
 - Strada: Edwood Way
-- Pret casa: 
+- Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
 
  #### LOS SANTOS -> GROVE STREET
@@ -30,7 +30,7 @@ outline: deep
 
 - Zona: Grove Street 
 - Strada: Forum Drive
-- Pret casa: 
+- Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
 
  #### LOS SANTOS -> Mirror Park
@@ -38,7 +38,7 @@ outline: deep
 
 - Zona: Mirror Park 
 - Strada: Nikola
-- Pret casa: 
+- Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
 
  #### LOS SANTOS -> Mirror Park
@@ -46,7 +46,7 @@ outline: deep
 
 - Zona: Mirror Park 
 - Strada: Nikola
-- Pret casa: 
+- Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
 
  #### LOS SANTOS -> Mirror Park
@@ -54,7 +54,7 @@ outline: deep
 
 - Zona: Mirror Park 
 - Strada: Nikola
-- Pret casa: 
+- Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
 
  #### LOS SANTOS -> Mirror Park
@@ -62,7 +62,7 @@ outline: deep
 
 - Zona: Mirror Park 
 - Strada: Nikola
-- Pret casa: 
+- Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
 
  #### LOS SANTOS -> Mirror Park
@@ -70,7 +70,7 @@ outline: deep
 
 - Zona: Mirror Park 
 - Strada: Nikola
-- Pret casa: 
+- Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
 
  #### LOS SANTOS -> Mirror Park
@@ -78,7 +78,7 @@ outline: deep
 
 - Zona: Mirror Park 
 - Strada: Nikola
-- Pret casa: 
+- Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
 
  #### LOS SANTOS -> Vinewood
@@ -86,7 +86,7 @@ outline: deep
 
 - Zona: Vinewood 
 - Strada: Normandy Drive
-- Pret casa: 
+- Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
 
  #### LOS SANTOS -> Vinewood
@@ -94,5 +94,5 @@ outline: deep
 
 - Zona: Vinewood 
 - Strada: Whispymound Drive
-- Pret casa: 
+- Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
