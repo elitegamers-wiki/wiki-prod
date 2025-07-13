@@ -8,7 +8,7 @@ Jobul de trucker implică transportul mărfurilor între diferite destinații, f
 Traseele sunt tematice, în funcție de tipul de marfă transportată, iar destinațiile se calculează automat în funcție de locația ta curentă, pentru a permite organizarea de convoaie cu alți jucători.
 
 ### Cum mă angajez?
-Pentru a începe acest job, trebuie să ai un permis de conducere. Permisul se obține de la secția de poliție, trecând mai întâi un test teoretic și apoi unul practic. După ce ai permisul, trebuie să mergi la Primărie ([/gps - Primărie]), unde un NPC de la tejghea îți va permite să selectezi jobul de trucker.
+Pentru a începe, trebuie să deții un permis de conducere, pe care îl poți obține de la scoala de soferi, trecând mai întâi printr-un test teoretic, urmat de unul practic. După ce obții permisul, trebuie să mergi la Primărie, unde un NPC de la tejghea te va introduce în meniul interactiv, de unde poți selecta locul de muncă dorit.
 :::details Locatie Primarie
 ![](../public/joburi/gps.png){.framed-photo}
 :::
