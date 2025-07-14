@@ -8,7 +8,7 @@ outline: deep
 # <center style="font-size: 2.6rem; color: #d72638; margin-top: 1rem;"> Cum jefuiesti masini?</center>
 
 <style>
-  .box {
+  .eg-box-jafmasini {
     background: linear-gradient(135deg, #1a1a1a 70%, #ff2323 100%);
     border: 2px solid #ff2323;
     border-radius: 10px;
@@ -18,16 +18,16 @@ outline: deep
     color: white;
     font-weight: 500;
   }
-  .box strong {
+  .eg-box-jafmasini strong {
     color: #ff5555;
   }
-  .box ul {
+  .eg-box-jafmasini ul {
     margin-left: 20px;
   }
 </style>
 
 ### Ce trebuie sa stiu de la inceput?
-<div class="box" style="margin-left: auto; margin-right: auto;">
+<div class="eg-box-jafmasini" style="margin-left: auto; margin-right: auto;">
   <ul>
     <li><strong>Locația și NPC-ul</strong> sunt exclusiv IC!</li>
     <li>Dacă ai prieteni vechi prin oraș, poate afli de la ei despre o metodă <strong>"alternativă"</strong> de a face bani. Dar ai grijă – totul se face pe riscul tău.</li>
@@ -37,9 +37,9 @@ outline: deep
   </ul>
 </div>
 
-  ### Identificarea Mașinii
+### Identificarea Mașinii
 
-<div class="box">
+<div class="eg-box-jafmasini">
   <ul>
     <li>După discuția cu NPC-ul:
       <ul>
@@ -52,7 +52,7 @@ outline: deep
 </div>
 
 ### Spargerea Masinii
-<div class="box">
+<div class="eg-box-jafmasini">
   <ul>
     <li>Ai nevoie de un <strong>lockpick</strong>, care se poate cumpăra de la Homedepot.</li>
     <li>Ajuns la mașină, folosește lockpick-ul pentru a forța ușa.</li>
@@ -61,7 +61,7 @@ outline: deep
 </div>
 
 ### Cautarea obiectelor
-<div class="box">
+<div class="eg-box-jafmasini">
   <ul>
     <li>După ce intri:
       <ul>
@@ -73,7 +73,7 @@ outline: deep
 </div>
 
 ### Dezmembrarea Mașinii (Optional)
-<div class="box">
+<div class="eg-box-jafmasini">
   <ul>
     <li>Dacă ai reușit să legi firele și să pornești mașina, o poți duce la un loc de dezmembrare (<strong>locația este IC</strong>).</li>
     <li>Ai două opțiuni:
