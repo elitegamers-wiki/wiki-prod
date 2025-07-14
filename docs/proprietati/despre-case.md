@@ -118,7 +118,7 @@ outline: deep
 - Informatii: Intretinere x€ o data la 1 luna
 - Interior: https://imgur.com/a/7RKEqVT
 
- #### 13. LOS SANTOS -> Vinewood
+ #### 13. LOS SANTOS -> Americano Way
 <img src="../public/case/americano.png" alt="motel" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona: North Rockford Drive 
