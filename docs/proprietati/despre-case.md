@@ -61,6 +61,7 @@ outline: deep
 - Strada: Nikola
 - Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
+- Interior: https://imgur.com/a/DUcaCbN
 
  #### 7. LOS SANTOS -> Mirror Park
 <img src="../public/case/mirror4.png" alt="motel" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
@@ -69,6 +70,8 @@ outline: deep
 - Strada: Nikola
 - Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
+- Interior: https://imgur.com/a/DUcaCbN
+
 
  #### 8. LOS SANTOS -> Mirror Park
 <img src="../public/case/mirror5.png" alt="motel" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
@@ -77,6 +80,7 @@ outline: deep
 - Strada: Nikola
 - Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
+- Interior: https://imgur.com/a/QNvIGYV
 
  #### 9. LOS SANTOS -> Mirror Park
 <img src="../public/case/mirror6.png" alt="motel" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
@@ -85,6 +89,7 @@ outline: deep
 - Strada: Nikola
 - Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
+- Interior: https://imgur.com/a/gQccWA5
 
  #### 10. LOS SANTOS -> Vinewood
 <img src="../public/case/normandy.png" alt="motel" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
@@ -93,6 +98,7 @@ outline: deep
 - Strada: Normandy Drive
 - Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
+- Interior: https://imgur.com/a/xLnq6f5
 
  #### 11. LOS SANTOS -> Vinewood
 <img src="../public/case/vinewood2.png" alt="motel" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
@@ -101,3 +107,4 @@ outline: deep
 - Strada: Whispymound Drive
 - Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
+- Interior: https://imgur.com/a/AfE2x45
