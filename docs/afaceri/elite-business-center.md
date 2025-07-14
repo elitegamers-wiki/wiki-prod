@@ -5,7 +5,7 @@ outline: deep
 <img src="../public/businesscenter/businesscenter.png" alt="pozabusiness" width="2560" height="1080" style="display: block; margin: 0 auto; border-radius: 1.5%;">
 
 <style>
-  .box-despre-noi {
+  .eg-box-despre-noi {
     max-width: 900px;
     margin: 30px auto 50px auto;
     background: linear-gradient(135deg, #1a1a1a 60%, #c62828 100%);
@@ -16,12 +16,12 @@ outline: deep
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     box-shadow: 0 4px 15px rgba(198, 40, 40, 0.5);
   }
-  .box-despre-noi h3 {
+  .eg-box-despre-noi h3 {
     color: #ff5252;
     margin-bottom: 16px;
   }
 
-  .box-clauze {
+  .eg-box-clauze {
     max-width: 900px;
     margin: 30px auto 50px auto;
     background: linear-gradient(135deg, #2a2a2a 60%, #d32f2f 100%);
@@ -32,23 +32,23 @@ outline: deep
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     box-shadow: 0 4px 20px rgba(211, 47, 47, 0.6);
   }
-  .box-clauze h3 {
+  .eg-box-clauze h3 {
     color: #ff7b7b;
     margin-bottom: 16px;
   }
-  .box-clauze ul {
+  .eg-box-clauze ul {
     margin-left: 1.5em;
     margin-bottom: 20px;
   }
-  .box-clauze ul li {
+  .eg-box-clauze ul li {
     margin-bottom: 10px;
     line-height: 1.4;
   }
-  .box-clauze strong {
+  .eg-box-clauze strong {
     color: #ff7b7b;
   }
 
-  .box-contact {
+  .eg-box-contact {
     max-width: 900px;
     margin: 30px auto 50px auto;
     background: linear-gradient(135deg, #1c1c1c 60%, #b71c1c 100%);
@@ -59,28 +59,28 @@ outline: deep
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     box-shadow: 0 4px 10px rgba(183, 28, 28, 0.7);
   }
-  .box-contact h3 {
+  .eg-box-contact h3 {
     color: #ff3d3d;
     margin-bottom: 16px;
   }
-  .box-contact ul {
+  .eg-box-contact ul {
     margin-left: 1.5em;
     margin-bottom: 20px;
   }
-  .box-contact ul li {
+  .eg-box-contact ul li {
     margin-bottom: 10px;
     line-height: 1.4;
   }
-  .box-contact a {
+  .eg-box-contact a {
     color: #ff7f7f;
     font-weight: 600;
     text-decoration: none;
   }
-  .box-contact a:hover {
+  .eg-box-contact a:hover {
     text-decoration: underline;
   }
 
-  .box-program {
+  .eg-box-program {
     max-width: 900px;
     margin: 30px auto 50px auto;
     background: linear-gradient(135deg, #222 60%, #e53935 100%);
@@ -91,24 +91,24 @@ outline: deep
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     box-shadow: 0 4px 15px rgba(229, 57, 53, 0.6);
   }
-  .box-program h3 {
+  .eg-box-program h3 {
     color: #ff6f6f;
     margin-bottom: 16px;
   }
-  .box-program ul {
+  .eg-box-program ul {
     margin-left: 1.5em;
     margin-bottom: 20px;
   }
-  .box-program ul li {
+  .eg-box-program ul li {
     margin-bottom: 10px;
     line-height: 1.4;
   }
-  .box-program strong {
+  .eg-box-program strong {
     color: #ff6f6f;
   }
 </style>
 
-<div class="box-despre-noi">
+<div class="eg-box-despre-noi">
   
 ### DESPRE NOI
 
@@ -116,7 +116,7 @@ ELITE BUSINESS CENTER nu este doar un nume, ci un partener de încredere dedicat
 
 </div>
 
-<div class="box-clauze">
+<div class="eg-box-clauze">
 
 ### CLAUZE CONTRACTUALE GENERALE ȘI OBLIGATORII
 
@@ -143,7 +143,7 @@ ELITE BUSINESS CENTER își rezervă dreptul de a modifica regulile contractuale
 
 </div>
 
-<div class="box-contact">
+<div class="eg-box-contact">
 
 ### CONTACT 
 
@@ -156,7 +156,7 @@ ELITE BUSINESS CENTER își rezervă dreptul de a modifica regulile contractuale
 
 </div>
 
-<div class="box-program">
+<div class="eg-box-program">
 
 ### PROGRAM
 

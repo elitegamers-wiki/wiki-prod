@@ -2,11 +2,10 @@
 outline: deep
 ---
 
-  <img src="../public/elitegamers.png" alt="pozaEG" width="300" height="600" style="display: block; margin: 0 auto 25px; border-radius: 5%;">
-
+<img src="../public/elitegamers.png" alt="pozaEG" width="300" height="600" style="display: block; margin: 0 auto 25px; border-radius: 5%;">
 
 <style scoped>
-.eg-guide-container {
+.eg-guide-box {
   max-width: 820px;
   margin: 30px auto 60px;
   padding: 30px 40px;
@@ -18,7 +17,7 @@ outline: deep
   color: #e4a1a1;
 }
 
-.eg-guide-title {
+.eg-guide-box h1 {
   color: #ff4d4d;
   font-weight: 900;
   font-size: 2.7rem;
@@ -28,7 +27,7 @@ outline: deep
   text-shadow: 0 0 7px #b84141;
 }
 
-.eg-guide-section-title {
+.eg-guide-box h3 {
   font-size: 1.45rem;
   font-weight: 700;
   margin-top: 38px;
@@ -38,14 +37,14 @@ outline: deep
   padding-bottom: 6px;
 }
 
-.eg-guide p {
+.eg-guide-box p {
   font-size: 1.15rem;
   line-height: 1.5;
   margin-bottom: 20px;
   color: #f0b0b0;
 }
 
-.eg-guide img {
+.eg-guide-box img {
   display: block;
   margin: 20px auto;
   max-width: 100%;
@@ -55,35 +54,35 @@ outline: deep
   cursor: zoom-in;
 }
 
-.eg-guide img:hover {
+.eg-guide-box img:hover {
   box-shadow: 0 10px 25px rgba(255, 77, 77, 0.6);
 }
 
-.eg-guide a {
+.eg-guide-box a {
   color: #ff5555;
   text-decoration: none;
   font-weight: 600;
 }
 
-.eg-guide a:hover {
+.eg-guide-box a:hover {
   text-decoration: underline;
   color: #ff7a7a;
 }
 
-.eg-youtube-wrapper {
+.eg-guide-box .eg-youtube-wrapper {
   text-align: center;
   margin: 40px 0 20px;
   position: relative;
   display: inline-block;
 }
 
-.eg-youtube-wrapper img {
+.eg-guide-box .eg-youtube-wrapper img {
   border-radius: 5%;
   box-shadow: 0 4px 18px rgba(0, 0, 0, 0.7);
   display: block;
 }
 
-.eg-youtube-wrapper span.play-button {
+.eg-guide-box .eg-youtube-wrapper span.play-button {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -94,7 +93,7 @@ outline: deep
   user-select: none;
 }
 
-.eg-youtube-button {
+.eg-guide-box .eg-youtube-button {
   display: inline-block;
   background-color: #d43131;
   color: white;
@@ -107,23 +106,23 @@ outline: deep
   user-select: none;
 }
 
-.eg-youtube-button:hover {
+.eg-guide-box .eg-youtube-button:hover {
   background-color: #ff4d4d;
   cursor: pointer;
 }
 </style>
 
-<div class="eg-guide-container eg-guide">
-  <h1 class="eg-guide-title">Ghidul de începere</h1>
+<div class="eg-guide-box">
+  <h1>Ghidul de începere</h1>
 
   <p>Aici o să postăm chestii folositoare pentru a nu întâmpina probleme pe server-ul nostru de FiveM.</p>
 
-  <h3 class="eg-guide-section-title">1. OBLIGATORIU SA AVEȚI VERSIUNEA BETA</h3>
+  <h3>1. OBLIGATORIU SA AVEȚI VERSIUNEA BETA</h3>
   <a href="/bg/eg.gif" target="_blank">
     <img src="/bg/eg.gif" alt="altGIF" width="750" height="800">
   </a>
 
-  <h3 class="eg-guide-section-title">2. CUM SE FOLOSEȘTE INSTANT REPLAY OBS</h3>
+  <h3>2. CUM SE FOLOSEȘTE INSTANT REPLAY OBS</h3>
 
   <p align="center">
     <a href="https://www.youtube.com/watch?v=YsgIFKVQkFs" target="_blank" class="eg-youtube-wrapper" style="position: relative;">
@@ -131,13 +130,13 @@ outline: deep
       <span class="play-button">&#9654;</span>
     </a>
   </p>
+
   <p align="center">
     <a href="https://www.youtube.com/watch?v=YsgIFKVQkFs" target="_blank" class="eg-youtube-button">▶️ Vezi tutorialul video pe YouTube</a>
   </p>
 
-  <h3 class="eg-guide-section-title">3. FIVEM MENU SETTINGS</h3>
+  <h3>3. FIVEM MENU SETTINGS</h3>
   <a href="/bg/guide2.png" target="_blank">
     <img src="/bg/guide2.png" alt="setari fivem" width="750" height="400">
   </a>
-
 </div>
