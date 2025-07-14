@@ -2,33 +2,123 @@
 outline: deep
 ---
 
-<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
+<style scoped>
 
-#  <center> Premii zilnice prin activitate </center>
+.page-daily {
+  font-family: 'Poppins', sans-serif;
+  color: #f4f4f4;
+}
 
-### Descriere:
+.page-daily h2, .page-daily h3 {
+  color: #ff4b4b;
+  text-align: center;
+  font-weight: 700;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.4);
+}
 
-Daily Rewards/Premii Zilnice este un sistem avansat de recompense bazat pe misiuni zilnice, săptămânale și lunare, conceput pentru a încuraja activitatea constantă a jucătorilor pe server.
+.page-daily h2 {
+  font-size: 2.6rem;
+  margin-top: 2rem;
+}
 
-<img src="../public/dailyrewards/dailyrewards.png" alt="pozaRewards" width="1920" height="1080" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
+.page-daily h3 {
+  font-size: 1.9rem;
+  margin-top: 3rem;
+}
 
-### Caracteristici principale:
-Misiuni zilnice, săptămânale și lunare – Jucătorii au obiective variate, de exemplu:
-- Efectuarea unui număr de curse ca șofer
-- Realizarea livrărilor ca livrator de pizza
-- Acumularea de salarii (payday)
+.page-daily img:not(.no-style) {
+  display: block;
+  margin: 2rem auto;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(215, 38, 56, 0.3);
+  max-width: 100%;
+  height: auto;
+}
 
-### Alte caracteristici:
+.card-box {
+  margin: 2rem auto;
+  max-width: 900px;
+  padding: 1.8rem 2.2rem;
+  background: linear-gradient(135deg, #1a1a1a 70%, #ff2323 100%);
+  border-left: 6px solid #ff4b4b;
+  border-radius: 14px;
+  box-shadow: 0 8px 18px rgba(215, 38, 56, 0.15);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  font-size: 1.2rem;
+  color: #ffffff;
+}
 
-- Recompense atractive – Finalizarea misiunilor oferă bani in joc, iteme speciale (whiskey, eg-coins, cadouri) și posibilitatea de a avansa către recompense mai valoroase.
+.card-box:hover {
+  box-shadow: 0 15px 35px rgba(215, 38, 56, 0.4);
+  transform: translateY(-4px);
+}
 
-- Status Premium/VIP – Jucătorii pot activa un statut Premium pentru acces la recompense exclusive.
+.card-box ul {
+  padding-left: 1.5rem;
+}
 
-- Timer zilnic – Sistemul are un cronometru care arată cât timp mai rămâne până la următoarea recompensă disponibilă.
+.card-box li {
+  margin-bottom: 0.6rem;
+  line-height: 1.6;
+}
 
-- Interfață modernă și intuitivă – Organizată pe categorii și cu un design plăcut, scriptul oferă o experiență fluidă și clară.
+.card-box li ul {
+  margin-top: 0.3rem;
+  list-style-type: disc;
+  color: #ffd1d1;
+  font-weight: 600;
+}
 
-### Comenzile disponibile:
+.card-box strong {
+  color: #ffffff;
+}
+</style>
 
-- /premii – Afișează lista cu recompensele disponibile și timpul rămas până la următoarea.
-- /misiuni – Arată progresul misiunilor zilnice, săptămânale și lunare, precum și recompensele aferente.
+<div class="page-daily">
+<div style="display: flex; justify-content: center;">
+    <img src="../public/elitegamers.png" alt="logo EliteGamers" width="256" height="256" class="no-style" style="margin-top: 2rem; border-radius: 12px;">
+</div>
+
+## Premii zilnice prin activitate
+
+<div class="card-box">
+  <strong>🔥 Daily Rewards / Premii Zilnice</strong> este un sistem avansat de recompense bazat pe misiuni zilnice, săptămânale și lunare, conceput pentru a încuraja activitatea constantă a jucătorilor pe server.
+</div>
+
+<img src="../public/dailyrewards/dailyrewards.png" alt="sistem Daily Rewards">
+
+### ⚡ Caracteristici principale
+
+<div class="card-box">
+  <ul>
+    <li>Misiuni zilnice, săptămânale și lunare – Jucătorii au obiective variate, de exemplu:
+      <ul>
+        <li>🚗 Efectuarea unui număr de curse ca șofer</li>
+        <li>🍕 Realizarea livrărilor ca livrator de pizza</li>
+        <li>💰 Acumularea de salarii (payday)</li>
+      </ul>
+    </li>
+  </ul>
+</div>
+
+### 🎯 Alte caracteristici
+
+<div class="card-box">
+  <ul>
+    <li>🎁 Recompense atractive – bani, iteme rare (whiskey, eg-coins, cadouri), șanse la premii mari.</li>
+    <li>⭐ Status Premium/VIP – oferă acces la recompense exclusive și mai valoroase.</li>
+    <li>⏰ Timer zilnic – cronometru vizibil pentru următoarea recompensă.</li>
+    <li>🖥️ Interfață intuitivă – UI modern și clar, organizat pe categorii.</li>
+  </ul>
+</div>
+
+### 📜 Comenzile disponibile
+
+<div class="card-box">
+  <ul>
+    <li><strong>/premii</strong> – Afișează lista recompenselor și timpul rămas.</li>
+    <li><strong>/misiuni</strong> – Vezi progresul misiunilor și recompensele aferente.</li>
+  </ul>
+</div>
+
+</div>

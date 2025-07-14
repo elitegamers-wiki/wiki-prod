@@ -8,6 +8,16 @@ outline: deep
 
  Pe ELITEGAMERS poți deține propria locuință! Alege dintr-o varietate de case și apartamente disponibile în oraș și bucură-te de un spațiu personal unde îți poți depozita obiectele în siguranță. Sistemul este simplu, stabil și gata să fie extins pe viitor cu funcții precum oferirea de chei și mobilare.
 
+<div style="margin: 1.5rem 0; padding: 1.2rem; background: rgba(215,38,56,0.1); border-left: 6px solid #d72638; border-radius: 12px; box-shadow: 0 0 12px rgba(215,38,56,0.3);">
+  <strong style="color: #d72638;">💡 Sfat:</strong> Pentru intrebari, va recomand sa il contactati pe Toni Corso care este un reprezentant al agentiei de imobiliare:
+  Cu respect,
+Tony Corso – Agent Imobiliar
+
+- Date contact:
+- Telefon: 0713943854
+- Aplicația Albastră: Crixus99
+</div>
+
  #### 1. LOS SANTOS -> MOTEL
 <img src="../public/case/motel.png" alt="motel" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
@@ -126,3 +136,4 @@ outline: deep
 - Pret casa: 150 EG Coins
 - Informatii: Intretinere 30 EG Coins o data la 1 luna
 - Interior: https://imgur.com/a/dBseAbu
+

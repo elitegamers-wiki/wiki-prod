@@ -2,122 +2,235 @@
 outline: deep
 ---
 
-# <span class="title-font"> <center> Ghid pentru Setările Grafice în GTA 5 </center> </span>
+<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 2rem auto 1rem; border-radius: 5%;">
 
-### <span class="header-font">Cum îmbunătățești Performanta?</span>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 
-### 1. Configurarea optimă a graficii în FiveM
-:::tip INFO:
-Accesează Settings → Graphics și folosește următoarele setări:
-- <p style="color:green">Texture Quality: Medium / High</p> (dacă ai VRAM suficient)
-- <p style="color:green">Shader Quality: Low</p>
-- <p style="color:green">Reflection Quality: Off</p>
-- <p style="color:green">MSAA: Off</p>
-- <p style="color:green">Anisotropic Filtering: x2 sau Off</p>
-- <p style="color:green">Shadow Quality: Very Low</p>
-- <p style="color:green">Grass Quality: Off</p>
-- <p style="color:green">Post FX: Low</p>
-Aceste ajustări reduc consumul de resurse și îmbunătățesc performanța FPS-ului.
-:::
+.guide-container {
+  font-family: 'Poppins', sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1rem 1.5rem;
+  color: white;
+}
 
-### 2. Optimizarea sistemului Windows și a driverelor
-:::tip
-- <p style="color:green">Setează Windows în "High Performance Mode"</p>
-- <p style="color:green">Actualizează driverele pentru placa video (NVIDIA/AMD)</p>
-- <p style="color:green">Închide aplicațiile care rulează în fundal</p>
-:::
+.guide-box {
+  background: linear-gradient(135deg, #1a1a1a 70%, #cc3a3a 100%);
+  border-left: 5px solid #d94a4a;
+  padding: 1.5rem 2rem;
+  margin: 1.5rem 0;
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(217, 74, 74, 0.25);
+  transition: box-shadow 0.3s ease;
+}
 
-### <span class="header-font">Explicația fiecărei setări din GTA 5</span>
+.guide-box:hover {
+  box-shadow: 0 12px 35px rgba(217, 74, 74, 0.45);
+}
 
-### Ignore Suggested Limits -> <span style="color:red">Nu este necesar</span>
-- Această opțiune permite creșterea graficii dincolo de limita VRAM-ului plăcii video, dar poate cauza instabilitate.
+.title-font {
+  font-weight: 800;
+  color: #d94a4a;
+  text-shadow: 1px 1px 4px rgba(217, 74, 74, 0.7);
+  font-size: 2.6rem;
+  margin-bottom: 1rem;
+}
 
-### DirectX Version -> <span style="color:green">DirectX 11</span>
-- Alegerea unei versiuni inferioare de DirectX poate reduce considerabil calitatea graficii.
-:::tip Recomandare!
-- Dacă folosești un PC cu resurse limitate, poți seta o versiune mai veche pentru a obține un FPS mai bun.
-:::
+.header-font {
+  font-weight: 600;
+  color: #e26a6a;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
 
-### Render Resolution -> <span style="color:red">Recomandată: Nativă</span>
-- Setează rezoluția nativă a monitorului pentru a obține cea mai bună calitate a imaginii.
+.tip {
+  background: #222020cc;
+  border-left: 4px solid #d94a4a;
+  padding: 1rem 1.2rem;
+  border-radius: 10px;
+  margin: 1rem 0 1.5rem 0;
+  color: #d3d3d3;
+}
 
-### Output monitor -> <span style="color:red">La alegere</span>
-- Permite alegerea monitorului pentru redarea jocului, în cazul în care ai mai multe monitoare conectate.
+.tip strong {
+  color: #e07c7c;
+}
 
-### FXAA -> <span style="color:green">Activat (pentru a evita efectul de pixelare)</span>
-- FXAA este un filtru care netezește marginile obiectelor, creând un efect vizual mai plăcut, însă poate estompa detaliile fine.
+p, ul {
+  line-height: 1.5;
+}
 
-### MSAA -> <span style="color:green">Dezactivat</span>
-- MSAA este similar cu FXAA, dar are un impact mai mare asupra performanței. Folosește-l doar dacă ai un PC foarte puternic.
+code {
+  background-color: #cc3a3aaa;
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+  font-weight: 600;
+  color: white;
+}
 
-### VSync -> <span style="color:green">Dezactivat</span>
-- Această setare sincronizează FPS-ul cu rata de refresh a monitorului. În general, este recomandat să o dezactivezi pentru a obține un FPS mai mare.
-- Dacă ai un monitor cu 60Hz, setarea VSync va limita FPS-ul la 60.
+ul {
+  margin-left: 1.3rem;
+}
+</style>
 
-### Pause Game On Focus Loss -> <span style="color:red">Nu este relevantă pentru multiplayer</span>
+<div class="guide-container">
 
-### Population Density/Variety -> <span style="color:red">Minimă, este doar pentru Singleplayer</span>
+# <span class="title-font"><center>Ghid pentru Setarile Grafice in GTA 5</center></span>
 
-### Distance Scaling -> <span style="color:red">Depinde de preferințe</span>
-- Acest setaj controlează distanța la care sunt randate obiectele. Mărirea acestei setări poate scădea performanța.
+### <span class="header-font">Cum imbunatatesti Performanta?</span>
 
-### Extended Texture Budget -> <span style="color:red">Depinde de resursele tale</span>
-- Dacă ai dificultăți cu texturile din joc, poți crește acest parametru, dar va consuma mai mult VRAM.
+### 1. Configurarea optima a graficii in FiveM
+<div class="tip"><strong>INFO:</strong><br>
+Acceseaza <code>Settings → Graphics</code> si foloseste urmatoarele setari:
+<ul>
+  <li><p style="color: #6ecc5d;"><strong>Texture Quality:</strong> Medium / High (daca ai VRAM suficient)</p></li>
+  <li><p style="color: #6ecc5d;"><strong>Shader Quality:</strong> Low</p></li>
+  <li><p style="color: #6ecc5d;"><strong>Reflection Quality:</strong> Off</p></li>
+  <li><p style="color: #6ecc5d;"><strong>MSAA:</strong> Off</p></li>
+  <li><p style="color: #6ecc5d;"><strong>Anisotropic Filtering:</strong> x2 sau Off</p></li>
+  <li><p style="color: #6ecc5d;"><strong>Shadow Quality:</strong> Very Low</p></li>
+  <li><p style="color: #6ecc5d;"><strong>Grass Quality:</strong> Off</p></li>
+  <li><p style="color: #6ecc5d;"><strong>Post FX:</strong> Low</p></li>
+</ul>
+Aceste ajustari reduc consumul de resurse si imbunatatesc performanta FPS-ului.
+</div>
 
-### Texture Quality -> <span style="color:red">Depinde de PC</span>
-- Această setare afectează calitatea texturilor. Setează-o pe valoare mare pentru detalii grafice mai bune, dar vei observa o scădere a performanței.
+### 2. Optimizarea sistemului Windows si a driverelor
+<div class="tip">
+<ul>
+  <li><p style="color: #6ecc5d;">Seteaza Windows in "High Performance Mode"</p></li>
+  <li><p style="color: #6ecc5d;">Actualizeaza driverele pentru placa video (NVIDIA/AMD)</p></li>
+  <li><p style="color: #6ecc5d;">Inchide aplicatiile care ruleaza in fundal</p></li>
+</ul>
+</div>
 
-### Shader Quality -> <span style="color:red">Depinde de performanță</span>
-- Schimbă calitatea efectelor de lumină și alte efecte grafice. Creșterea acestei setări poate îmbunătăți grafica, dar reduce FPS-ul.
+### <span class="header-font">Explicatia fiecarei setari din GTA 5</span>
 
-:::tip Recomandare!
-- Dacă folosești un mod grafic, setează această opțiune la valoare mare pentru a pune în valoare efectele grafice.
-:::
+### Ignore Suggested Limits -> <span style="color:#d94a4a;">Nu este necesar</span>
+<div class="guide-box">
+Aceasta optiune permite cresterea graficii dincolo de limita VRAM-ului placii video, dar poate cauza instabilitate.
+</div>
 
-### Shadow Quality -> <span style="color:red">Depinde de preferințe</span>
-- Această setare afectează calitatea umbrelor din joc. Cu cât o crești, cu atât mai mult va afecta performanța.
+### DirectX Version -> <span style="color:#6ecc5d;">DirectX 11</span>
+<div class="guide-box">
+Alegerea unei versiuni inferioare de DirectX poate reduce considerabil calitatea graficii.
+<div class="tip"><strong>Recomandare!</strong><br>Daca folosesti un PC cu resurse limitate, poti seta o versiune mai veche pentru a obtine un FPS mai bun.</div>
+</div>
 
-### Reflection Quality -> <span style="color:red">Depinde de PC</span>
-- Ajustează detaliile reflexiilor. Mărirea acestei setări poate îmbunătăți calitatea vizuală, dar poate reduce FPS-ul.
+### Render Resolution -> <span style="color:#d94a4a;">Recomandata: Nativa</span>
+<div class="guide-box">
+Seteaza rezolutia nativa a monitorului pentru a obtine cea mai buna calitate a imaginii.
+</div>
 
-### Reflection MSAA -> <span style="color:red">Depinde de performanță</span>
-- Similar cu MSAA, dar aplicat doar reflexiilor. Creșterea acestuia afectează semnificativ performanța.
+### Output monitor -> <span style="color:#d94a4a;">La alegere</span>
+<div class="guide-box">
+Permite alegerea monitorului pentru redarea jocului, in cazul in care ai mai multe monitoare conectate.
+</div>
 
-### Water Quality -> <span style="color:red">Depinde de detalii vizuale</span>
-- Setează calitatea apei din joc. Creșterea acestei setări poate reduce performanța.
+### FXAA -> <span style="color:#6ecc5d;">Activat (pentru a evita efectul de pixelare)</span>
+<div class="guide-box">
+FXAA este un filtru care netezeste marginile obiectelor, creand un efect vizual mai placut, insa poate estompa detaliile fine.
+</div>
 
-### Particles Quality -> <span style="color:red">Depinde de preferințe</span>
-- Această setare afectează efectele particulelor (ex: fum, praf, foc). Creșterea acesteia poate îmbunătăți grafica, dar va reduce FPS-ul.
+### MSAA -> <span style="color:#6ecc5d;">Dezactivat</span>
+<div class="guide-box">
+MSAA este similar cu FXAA, dar are un impact mai mare asupra performantei. Foloseste-l doar daca ai un PC foarte puternic.
+</div>
 
-### Grass Quality -> <span style="color:red">Depinde de performanță</span>
-- Modifică calitatea vegetației din joc. Creșterea acesteia poate scădea FPS-ul, dar îmbunătățește grafica.
+### VSync -> <span style="color:#6ecc5d;">Dezactivat</span>
+<div class="guide-box">
+Aceasta setare sincronizeaza FPS-ul cu rata de refresh a monitorului. In general, este recomandat sa o dezactivezi pentru a obtine un FPS mai mare.<br>
+Daca ai un monitor cu 60Hz, setarea VSync va limita FPS-ul la 60.
+</div>
 
-### Soft Shadows -> <span style="color:red">Nu face diferență semnificativă</span>
-- Această setare controlează modul în care umbrele sunt randate. De obicei, nu are un impact major asupra FPS-ului.
+### Pause Game On Focus Loss -> <span style="color:#d94a4a;">Nu este relevanta pentru multiplayer</span>
 
-### Post FX -> <span style="color:red">Depinde de preferințe</span>
-- Modifică efectele vizuale precum contrastul, luminozitatea și filtrele de imagine. Creșterea acestui parametru poate îmbunătăți estetica jocului, dar reduce FPS-ul.
+### Population Density/Variety -> <span style="color:#d94a4a;">Minima, este doar pentru Singleplayer</span>
 
-:::tip Recomandare!
-- Dacă folosești un mod grafic, setează această opțiune la maxim pentru a pune în valoare acele moduri.
-:::
+### Distance Scaling -> <span style="color:#d94a4a;">Depinde de preferinte</span>
+<div class="guide-box">
+Acest setaj controleaza distanta la care sunt randate obiectele. Marirea acestei setari poate scadea performanta.
+</div>
 
-### Motion Blur Strength -> <span style="color:red">Depinde de preferințe</span>
+### Extended Texture Budget -> <span style="color:#d94a4a;">Depinde de resursele tale</span>
+<div class="guide-box">
+Daca ai dificultati cu texturile din joc, poti creste acest parametru, dar va consuma mai mult VRAM.
+</div>
 
-### In-Game Depth of Field Effects -> <span style="color:red">La alegere</span>
-- Creează un efect cinematic prin estomparea fundalului, oferind un efect de focalizare pe obiectele de interes.
+### Texture Quality -> <span style="color:#d94a4a;">Depinde de PC</span>
+<div class="guide-box">
+Aceasta setare afecteaza calitatea texturilor. Seteaz-o pe valoare mare pentru detalii grafice mai bune, dar vei observa o scadere a performantei.
+</div>
 
-### Anisotropic Filtering -> <span style="color:green">x16</span>
-- Îmbunătățește calitatea texturilor vizibile la unghiuri oblice (ex: drumuri, ziduri). Fără această setare, texturile pot deveni neclare la distanță.
+### Shader Quality -> <span style="color:#d94a4a;">Depinde de performanta</span>
+<div class="guide-box">
+Schimba calitatea efectelor de lumina si alte efecte grafice. Cresterea acestei setari poate imbunatati grafica, dar reduce FPS-ul.
+<div class="tip"><strong>Recomandare!</strong><br>Daca folosesti un mod grafic, seteaza aceasta optiune la valoare mare pentru a pune in valoare efectele grafice.</div>
+</div>
 
-:::tip Recomandare!
-- Dacă setezi calitatea texturilor pe o valoare medie, această setare poate îmbunătăți detaliile vizuale fără a afecta semnificativ FPS-ul.
-:::
+### Shadow Quality -> <span style="color:#d94a4a;">Depinde de preferinte</span>
+<div class="guide-box">
+Aceasta setare afecteaza calitatea umbrelor din joc. Cu cat o cresti, cu atat mai mult va afecta performanta.
+</div>
 
-### Ambient Occlusion -> <span style="color:red">La alegere</span>
-- Îmbunătățește umbrele și iluminarea, creând efecte mai realiste ale umbrelor și al luminii din colțuri și sub obiecte.
+### Reflection Quality -> <span style="color:#d94a4a;">Depinde de PC</span>
+<div class="guide-box">
+Ajusteaza detaliile reflexiilor. Marirea acestei setari poate imbunatati calitatea vizuala, dar poate reduce FPS-ul.
+</div>
 
-### Tesselation -> <span style="color:red">La alegere</span>
-- Adaugă detalii suplimentare obiectelor 3D, făcându-le mai realiste. Folosește-o pentru un efect vizual mai bun, dar poate afecta performanța.
+### Reflection MSAA -> <span style="color:#d94a4a;">Depinde de performanta</span>
+<div class="guide-box">
+Similar cu MSAA, dar aplicat doar reflexiilor. Cresterea acestuia afecteaza semnificativ performanta.
+</div>
 
----
+### Water Quality -> <span style="color:#d94a4a;">Depinde de detalii vizuale</span>
+<div class="guide-box">
+Seteaza calitatea apei din joc. Cresterea acestei setari poate reduce performanta.
+</div>
+
+### Particles Quality -> <span style="color:#d94a4a;">Depinde de preferinte</span>
+<div class="guide-box">
+Aceasta setare afecteaza efectele particulelor (ex: fum, praf, foc). Cresterea acesteia poate imbunatati grafica, dar va reduce FPS-ul.
+</div>
+
+### Grass Quality -> <span style="color:#d94a4a;">Depinde de performanta</span>
+<div class="guide-box">
+Modifica calitatea vegetatiei din joc. Cresterea acesteia poate scadea FPS-ul, dar imbunatateste grafica.
+</div>
+
+### Soft Shadows -> <span style="color:#d94a4a;">Nu face diferenta semnificativa</span>
+<div class="guide-box">
+Aceasta setare controleaza modul in care umbrele sunt randate. De obicei, nu are un impact major asupra FPS-ului.
+</div>
+
+### Post FX -> <span style="color:#d94a4a;">Depinde de preferinte</span>
+<div class="guide-box">
+Modifica efectele vizuale precum contrastul, luminozitatea si filtrele de imagine. Cresterea acestui parametru poate imbunatati estetica jocului, dar reduce FPS-ul.
+<div class="tip"><strong>Recomandare!</strong><br>Daca folosesti un mod grafic, seteaza aceasta optiune la maxim pentru a pune in valoare acele moduri.</div>
+</div>
+
+### Motion Blur Strength -> <span style="color:#d94a4a;">Depinde de preferinte</span>
+
+### In-Game Depth of Field Effects -> <span style="color:#d94a4a;">La alegere</span>
+<div class="guide-box">
+Creeaza un efect cinematic prin estomparea fundalului, oferind un efect de focalizare pe obiectele de interes.
+</div>
+
+### Anisotropic Filtering -> <span style="color:#6ecc5d;">x16</span>
+<div class="guide-box">
+Imbunatateste calitatea texturilor vizibile la unghiuri oblice (ex: drumuri, ziduri). Fara aceasta setare, texturile pot deveni neclare la distanta.
+<div class="tip"><strong>Recomandare!</strong><br>Daca setezi calitatea texturilor pe o valoare medie, aceasta setare poate imbunatati detaliile vizuale fara a afecta semnificativ FPS-ul.</div>
+</div>
+
+### Ambient Occlusion -> <span style="color:#d94a4a;">La alegere</span>
+<div class="guide-box">
+Imbunatateste umbrele si iluminarea, creand efecte mai realiste ale umbrelor si al luminii din colturi si sub obiecte.
+</div>
+
+### Tesselation -> <span style="color:#d94a4a;">La alegere</span>
+<div class="guide-box">
+Adauga detalii suplimentare obiectelor 3D, facandu-le mai realiste. Foloseste-o pentru un efect vizual mai bun, dar poate afecta performanta.
+</div>
+
+</div>
