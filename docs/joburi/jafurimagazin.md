@@ -5,7 +5,7 @@ outline: deep
 <img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0 auto; border-radius: 5%;">
 
 <style>
-  .box-table {
+  .eg-jaf-magazin {
     background: linear-gradient(135deg, #1a1a1a 70%, #ff2323 100%);
     border: 2px solid #ff2323;
     border-radius: 10px;
@@ -16,32 +16,32 @@ outline: deep
     font-weight: 500;
     font-family: Arial, sans-serif;
   }
-  .box-table table {
+  .eg-jaf-magazin table {
     width: 100%;
     border-collapse: separate;
     border-spacing: 0 10px;
   }
-  .box-table td {
+  .eg-jaf-magazin td {
     background: rgba(255, 255, 255, 0.07);
     padding: 12px 18px;
     border-radius: 8px;
     vertical-align: top;
     color: #fff;
   }
-  .box-table td strong {
+  .eg-jaf-magazin td strong {
     color: #ff5555;
   }
-  .box-table td ul {
+  .eg-jaf-magazin td ul {
     margin: 0;
     padding-left: 20px;
   }
-  .box-table td ul li {
+  .eg-jaf-magazin td ul li {
     margin-bottom: 6px;
   }
 </style>
 
 ### Ce presupune Spargerea Magazinelor?
-<div class="box-table">
+<div class="eg-jaf-magazin">
 <table>
 <tr><td>
 Uneori, cel mai simplu mod de a face rost de bani rapid e să intri cu tupeu și pistolul la vedere. Spargerea magazinelor este o activitate riscantă, dar directă – intri, ameninți, iei banii... și fugi înainte să apară cineva nedorit.
@@ -50,7 +50,7 @@ Uneori, cel mai simplu mod de a face rost de bani rapid e să intri cu tupeu și
 </div>
 
 ### Ce trebuie să știi la început?
-<div class="box-table">
+<div class="eg-jaf-magazin">
 <table>
 <tr><td>
 - Ai nevoie de:<br>
@@ -63,7 +63,7 @@ Uneori, cel mai simplu mod de a face rost de bani rapid e să intri cu tupeu și
 </div>
 
 ### Cum se face jaful?
-<div class="box-table">
+<div class="eg-jaf-magazin">
 <table>
 <tr><td>
 - Intră într-un magazin și scoate pistolul.<br>
@@ -75,7 +75,7 @@ Uneori, cel mai simplu mod de a face rost de bani rapid e să intri cu tupeu și
 </div>
 
 ### Alerte și Consecințe
-<div class="box-table">
+<div class="eg-jaf-magazin">
 <table>
 <tr><td>
 - Poliția este alertată automat în momentul în care jaful începe.<br>
