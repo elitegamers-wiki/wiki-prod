@@ -210,6 +210,21 @@
   transition: border-color 0.3s cubic-bezier(0.25, 0.8, 0.25, 1); /* Efect de tranziție pentru hover */
 }
 
+/* Alternative box style */
+.box-alt {
+  background-color: #181c2f;
+  border: 1.5px solid #2e8b57;
+  padding: 20px;
+  width: 30%;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(46, 139, 87, 0.15);
+  transition: border-color 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.box-alt:hover {
+  border-color: #44d17a;
+}
+
 /* Efectul de hover pentru casetă din secțiunea VIP */
 .vip-selection .box:hover {
   border-color: #b82006; /* Culoare de border la hover */
@@ -414,3 +429,6 @@ h2.eg-section-title {
 .eg-card:hover img {
   transform: scale(1.05);
 }
+/* ---------------------------------------- */
+
+

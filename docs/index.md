@@ -90,8 +90,8 @@ onMounted(() => {
   <div class="eg-card">
     <img src="https://cdn.discordapp.com/avatars/295581149986553857/14ab973e2e0ad5cf4ecf5f55c0d8a94b?size=1024" alt="snoke" />
     <div class="eg-name">sNok3</div>
-    <div class="eg-role">Developer Wikipedia</div>
-    <span class="eg-badge orange">Developer</span>
+    <div class="eg-role">Developer</div>
+    <span class="eg-badge red">Developer</span>
     <div class="eg-desc">Crează interfețe moderne și minimaliste. Focus pe accesibilitate.</div>
     <!-- <a class="eg-link" href="#">GitHub ↗</a> -->
   </div>
@@ -99,8 +99,8 @@ onMounted(() => {
   <div class="eg-card">
     <img src="https://cdn.discordapp.com/avatars/262600228719427584/6bbd35d58578cde62ac75422a45781c7?size=1024" alt="xslow" />
     <div class="eg-name">xSL0W</div>
-    <div class="eg-role"> Main Developer</div>
-    <span class="eg-badge yellow">DEVELOPER</span>
+    <div class="eg-role"> Head Developer</div>
+    <span class="eg-badge red">Developer & FONDATOR</span>
     <div class="eg-desc">Scripter-ul si fondatorul comunitatii.</div>
     <!-- <a class="eg-link" href="#">GitHub ↗</a> -->
   </div>
@@ -114,17 +114,17 @@ onMounted(() => {
 <div class="eg-cards-team">
 
   <div class="eg-card">
-    <img src="https://cdn.discordapp.com/avatars/424292609209401345/d6e928ea84bbff192ab7fd6c0fc72bb1?size=1024" alt="Quo" />
+    <img src="https://media.discordapp.net/attachments/836253183403753503/1394279829884375071/20171005_133659.jpg?ex=68763bc7&is=6874ea47&hm=44515bb1a2452e1cdf8db773f15a92404e0db9d54290a22ca4abad3d6702b967&=&format=webp&width=720&height=960" alt="Quo" />
     <div class="eg-name">Quo</div>
     <div class="eg-role">Fondator</div>
     <span class="eg-badge red">Founder</span>
-    <div class="eg-desc">Conduce echipa staff și supraveghează proiectele comunității.</div>
+    <div class="eg-desc">Conduce echipa staff și coordoneaza proiectele comunității.</div>
   </div>
 
   <div class="eg-card">
     <img src="https://cdn.discordapp.com/avatars/262600228719427584/6bbd35d58578cde62ac75422a45781c7?size=1024" alt="xslow" />
     <div class="eg-name">xSL0W</div>
-    <div class="eg-role">Developer & FONDATOR</div>
+    <div class="eg-role">Developer & Fondator</div>
     <span class="eg-badge red">Founder</span>
     <div class="eg-desc">Responsabil pe partea tehnică și tools management.</div>
   </div>
@@ -191,7 +191,7 @@ onMounted(() => {
     <div class="eg-name">88lucian</div>
     <div class="eg-role">Administrator</div>
     <span class="eg-badge blue">Administrator</span>
-    <div class="eg-desc">Asigura la dezvoltarea server-ului.</div>
+    <div class="eg-desc">Ajuta la dezvoltarea server-ului.</div>
   
   </div>  
   <div class="eg-card">
@@ -199,7 +199,7 @@ onMounted(() => {
     <div class="eg-name">Toto</div>
     <div class="eg-role">Super-Moderator</div>
     <span class="eg-badge orange">Super-Moderator</span>
-    <div class="eg-desc">Asigura la dezvoltarea server-ului.</div>
+    <div class="eg-desc">Ajuta la dezvoltarea server-ului.</div>
 
  </div>
     <div class="eg-card">
@@ -207,7 +207,7 @@ onMounted(() => {
     <div class="eg-name">paul</div>
     <div class="eg-role">Super-Moderator</div>
     <span class="eg-badge orange">Super-Moderator</span>
-    <div class="eg-desc">Asigura la dezvoltarea server-ului.</div>
+    <div class="eg-desc">Ajuta la dezvoltarea server-ului.</div>
   
   </div> 
     <div class="eg-card">

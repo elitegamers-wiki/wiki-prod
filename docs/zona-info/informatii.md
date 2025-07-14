@@ -2,40 +2,131 @@
 outline: deep
 ---
 
-<img src="../public/elitegamers.png" alt="pozaEG" width="300" height="600" style="display: block; margin: 0px auto;">
+<style>
 
-# <center><span class="title-font" style ="color: red;">About us</span></center>
+.discord-widget-container {
+  position: fixed;
+  top: 120px;
+  right: 20px;
+  width: 350px;
+  z-index: 999;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.6);
+  transition: all 0.3s ease;
+}
+
+@media (max-width: 1100px) {
+  .discord-widget-container {
+    display: none;
+  }
+}
+
+.eg-info-boxes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 2rem;
+}
+
+.eg-info-box {
+  background: linear-gradient(to bottom right, #1e1e1e, #2c2c2c);
+  border: 1px solid rgba(255, 0, 0, 0.2);
+  color: #fff;
+  padding: 1.5rem;
+  border-radius: 16px;
+  flex: 1 1 300px;
+  max-width: 100%;
+  box-shadow: 0 0 20px rgba(255, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.eg-info-box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 25px rgba(204, 43, 43, 0.4);
+}
+
+.eg-info-box h3 {
+  margin-top: 0;
+  color: #cc2b2b;
+  font-size: 1.4rem;
+  margin-bottom: 0.75rem;
+}
+
+.eg-info-box p {
+  color: #ddd;
+  line-height: 1.6;
+}
+
+.eg-info-box ul {
+  padding-left: 1.2rem;
+  margin: 0.5rem 0 0;
+}
+
+.eg-info-box ul li {
+  color: #ccc;
+  margin-bottom: 0.4rem;
+  list-style: "🔸 ";
+}
+</style>
+
+<img src="../public/elitegamers.png" alt="logoEG" width="300" style="display:block; margin: 0 auto;">
+
+# <center><span style="color: #cc2b2b;">📌 Despre EliteGamers</span></center>
+
+<div class="discord-widget-container" style="border: 2px solid #cc2b2b; box-shadow: 0 0 20px rgba(204, 43, 43, 0.4);">
+    <iframe src="https://discord.com/widget?id=351058903271735306&theme=dark"
+        width="100%"
+        height="500"
+        allowtransparency="true"
+        frameborder="0"
+        style="border: none;    border-radius: 0 0 12px 12px;"
+        sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
+    </iframe>
+</div>
 
 
-### <span class="title-font" style="background: linear-gradient(to right,rgb(236, 45, 38),rgb(255, 0, 0)); -webkit-background-clip: text; color: transparent;">Informații Importante - EliteGamers.ro </span>
+<div class="eg-info-boxes">
 
- EliteGamers RolePlay este mai mult decât un server de FiveM – este o comunitate unită, construită pe pasiunea pentru gaming și pe dorința de a oferi o experiență unică tuturor jucătorilor noștri. 
+<div class="eg-info-box">
+  <h3>🎮 Cine suntem?</h3>
+  <p>EliteGamers este o comunitate de FiveM RolePlay construită pe inovație, respect și gaming curat. Proiectul nostru a început în 2023 și a crescut datorită pasiunii jucătorilor.</p>
+</div>
 
-### <span class="title-font" style="background: linear-gradient(to right,rgb(236, 45, 38),rgb(255, 0, 0)); -webkit-background-clip: text; color: transparent;">Povestea Noastra </span>
-Proiectul EliteGamers RolePlay a prins viață la începutul anului 2023, având ca scop crearea unui mediu calitativ și inovator pentru toți cei care își doresc un roleplay autentic și captivant. Credem cu tărie că un server de FiveM nu este doar un loc de joacă, ci un spațiu unde se leagă prietenii, se creează povești și se trăiesc momente memorabile. 
+<div class="eg-info-box">
+  <h3>📜 Povestea Noastră</h3>
+  <p>Am început în lumea CSGO, cu servere apreciate național și internațional. Odată cu trecerea la CS2, am decis să închidem acea etapă și să ne reinventăm în FiveM.</p>
+</div>
 
-### <span class="title-font" style="background: linear-gradient(to right,rgb(236, 45, 38),rgb(255, 0, 0)); -webkit-background-clip: text; color: transparent;">EliteGamers - Un Etalon in Gaming </span>
-Înainte de aventura FiveM, EliteGamers a fost un nume de referință în Counter-Strike: Global Offensive, atât în România, cât și în străinătate. Am creat servere apreciate, unde mii de jucători și-au petrecut timpul, însă, odată cu tranziția de la CSGO la CS2, epoca serverelor publice a ajuns la final.
+<div class="eg-info-box">
+  <h3>🚀 Evoluție Constantă</h3>
+  <ul>
+    <li>Update-uri regulate</li>
+    <li>Conținut nou</li>
+    <li>Sisteme proprii optimizate</li>
+    <li>Feedback ascultat și aplicat</li>
+  </ul>
+</div>
 
-### <span class="title-font" style="background: linear-gradient(to right,rgb(236, 45, 38),rgb(255, 0, 0)); -webkit-background-clip: text; color: transparent;">Sfârșitul unei ere, începutul unei noi aventuri </span>
-După 4 ani și 7 luni de excelență în Counter-Strike, am fost nevoiți să închidem ultimul nostru server public din lipsa suportului oferit de Valve pentru CS2. Totuși, EliteGamers nu se oprește aici! 
+<div class="eg-info-box">
+  <h3>👥 Comunitate & Staff</h3>
+  <p>Staff-ul nostru este pregătit, matur și activ. Încurajăm respectul reciproc și o comunitate unită, unde toți jucătorii contează.</p>
+</div>
 
-### <span class="title-font" style="background: linear-gradient(to right,rgb(236, 45, 38),rgb(255, 0, 0)); -webkit-background-clip: text; color: transparent;">Viitorul este în FiveM!</span>
-Ne-am adaptat și am decis să investim toată energia noastră într-un server de FiveM RolePlay, un proiect ambițios și inovator, care va redefini experiența de joc. 🎭🌆
+<div class="eg-info-box">
+  <h3>🌍 Ce ne diferențiază?</h3>
+  <ul>
+    <li>Sisteme de gameplay unice</li>
+    <li>Economii realiste și dinamice</li>
+    <li>Facțiuni cu rol bine definit</li>
+    <li>Evenimente speciale și custom</li>
+  </ul>
+</div>
 
-### <span class="title-font" style="background: linear-gradient(to right,rgb(236, 45, 38),rgb(255, 0, 0)); -webkit-background-clip: text; color: transparent;">Ce ne face speciali?!</span>
+<div class="eg-info-box">
+  <h3>🔮 Ce urmează?</h3>
+  <p>EliteGamers nu se oprește niciodată! Ne dezvoltăm constant și pregătim noi provocări pentru comunitate: Battle Pass, afaceri custom, misiuni RP și multe altele!</p>
+</div>
 
-- Sisteme rescrise de la zero, muncite și optimizate pentru un gameplay cât mai fluid și captivant.
-- Administrare profesionistă, cu reguli clare și un staff pregătit să mențină un mediu corect și bine organizat.
-- O comunitate activă și implicată, unde fiecare jucător contează și poate contribui la dezvoltarea serverului.
-
-### <span class="title-font" style="background: linear-gradient(to right,rgb(236, 45, 38),rgb(255, 0, 0)); -webkit-background-clip: text; color: transparent;">Ce urmează?</span>
-- Serverul nostru EliteGamers RolePlay este deja deschis și funcționează la capacitate maximă! 🚀🔥 Dar asta nu înseamnă că ne oprim aici!
-- Continuăm să îmbunătățim și să optimizăm constant serverul, adăugând conținut nou și ascultând feedback-ul comunității pentru a oferi o experiență de roleplay autentică și captivantă.
-
-### <span class="title-font" style="background: linear-gradient(to right,rgb(236, 45, 38),rgb(255, 0, 0)); -webkit-background-clip: text; color: transparent;">Ce pregătim pentru viitor?</span>
-
-- Update-uri regulate cu îmbunătățiri și noi mecanici de joc!
-- Noi oportunități pentru facțiuni, afaceri și economie, astfel încât fiecare jucător să își poată construi propriul drum în oraș. 
-- EliteGamers RolePlay nu este doar un server – este o lume în continuă evoluție, creată pentru și alături de voi! 
-
+</div>

@@ -1128,3 +1128,23 @@ Mesterit de: **xSLOW**
 - Reparat pontajul la mecanici (acum toate service-urile ar trebui sa aiba pontaj, comanda /raport)
 - Rezolvata o problema la garaje care te lasa sa spawnezi de 2 ori aceeasi masina iar portbagajul sa nu functioneze
 ```
+
+# Update 2.2.9
+Mesterit de: **xSLOW** & **sNok3**
+
+**Features**
+```javascript
+- Actualizata lista hainelor de @dey
+- Crescute preturile la depozit in functie de zona pentru a favoriza detinerea unei case/org. neof. care are seif gratuit
+- Garajele si vehiculele acum sunt persistente. Daca scoti o masina din garaj aceasta va ramane pe server pana .cand aceasta va fi stearsa, indiferent daca dai relog sau nu. Rezolvat si un bug care facea sa nu iti poti localiza masina la relog
+- Adaugate mai multe verificari la ilegalitati pentru a evita fail rp-ul. Politistii/medicii nu vor putea interactiona cu aceste sisteme
+- Facute mici schimbari QOL
+```
+
+**Bug fixes**
+```javascript
+- Rezolvat un bug care facea sa iti dea alt VIP daca deja aveai unul la referral
+- Rezolvat un bug care facea sa sune alarma de mai multe ori la jaful de case daca spargeai incuietoarea mai multor usi
+- Rezolvat un bug la tuning care facea ca anumite culori sa nu fie salvate pe anumite masini
+- Rezolvate multiple buguri mici
+```

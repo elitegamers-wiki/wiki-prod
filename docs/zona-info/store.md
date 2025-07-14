@@ -1,110 +1,141 @@
 ---
 outline: deep
 ---
+<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0 auto; border-radius: 5%;">
 
-<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
+# <center>🎮 **EliteGamers Store – Tot ce trebuie să știi!**</center>
 
-# <center>**Introducerea Store-ului**</center>
+<center>👋 Mulțumim că faci parte din comunitatea **EliteGamers.RO** și pentru sprijinul acordat!</center>
 
+---
 
- <center>Mulțumim că faci parte din comunitatea EliteGamers și pentru sprijinul oferit!</center> 
+## 📌 INFORMAȚII ESENȚIALE
 
-###  INFORMAȚII ESENȚIALE:
-
-::: tip EG COINS
-Aceasta moneda "EG Coins" este utilizata pentru achizitionarea anumitor articole din "ESC -> Magazin in joc" / "Apasa K -> Magazin in joc"
+::: tip 💰 EG COINS
+Moneda **"EG Coins"** este utilizată pentru a achiziționa articole din:
+- `ESC -> Magazin în joc`
+- `Apasă K -> Magazin în joc`
 :::
 
-### Ce pot achizitiona cu EG-Coins?:
- - Pe ELITEGAMERS.RO HARD ROLEPLAY, dispui de o gama larga de articole precum:
- - Masini premium din DEALERSHIP ([APASA AICI PT LOCATIE](../public/store/dealership.png));
- - VIP SILVER/GOLD/PLATINUM;
- - BANI IN JOC;
- - ADMIN JAIL,
+---
 
- ### Cum pot face rost de EG Coins?:
- Poti face rost de EG Coins folosind variantele de mai jos:
- - Poti sa platesti pe tebex-ul official ELITEGAMERS.RO; (https://elitegamers.tebex.io)
- - Poti face 4 EG-Coins lunar daca intri pe server si esti activ folosind [/premii] ([Mai multe detalii aici](https://wiki.elitegamers.ro/general/rewards.html)),
+## 🎁 Ce poți achiziționa cu EG Coins?
 
-### Cum iti folosesti monedele “EG Coins” pe server-ul nostru?: 
-::: tip Urmeaza pasii de mai jos:
-- Pentru a face aceasta actiune, apasa “K”, unde o sa gasesti “Magazin in joc”. Alta varianta este cea de a apasa tasta “ESC” -> Magazin in joc” 
-- Monedele sunt adăugate automat în contul tău de joc după finalizarea plății.
+Pe **ELITEGAMERS.RO HARD ROLEPLAY** ai acces la:
+
+- 🚗 Mașini premium din Dealership 👉 [📍 Vezi locația](../public/store/dealership.png)
+- 💎 VIP (Silver, Gold, Platinum)
+- 💵 Bani în joc
+- 🚨 Unban / Clear Warn / Unban Discord
+
+---
+
+## 💸 Cum obții EG Coins?
+
+1. 🛒 Prin plata pe [Tebex-ul oficial](https://elitegamers.tebex.io)
+2. 🎁 4 EG Coins/lună dacă ești activ pe server folosind comanda [`/premii`](https://wiki.elitegamers.ro/general/rewards.html)
+
+---
+
+## 🧭 Cum folosești EG Coins pe server?
+
+::: tip 🔧 Pași simpli:
+1. Apasă `K` sau `ESC -> Magazin în joc`
+2. Monedele sunt **adăugate automat** după finalizarea plății
 :::
 
-###  SANCȚIUNI
-::: danger Descriere:
-Această secțiune este destinată jucătorilor care au primit o sancțiune de tip ban permanent sau temporar și doresc să achite pentru ridicarea acesteia.
-::: 
+---
 
-Pentru ce tip de sanctiune poti sa platesti:
--  UNBAN PERMANENT
--  UNBAN TEMPORAR
--  CLEAR WARN
--  UNBAN DISCORD
+## 🚫 SANCȚIUNI & UNBAN
 
-### Ce faci dupa ce ai efectuat plata?:  
- Pe server-ul nostru de discord, deschizi un ticket in care prezinti chitanta pe care o primesti pe email dupa care iti lasi detaliile in camera de discord, nume in-game, steam (TBD). 
- 
-
-::: danger ATENTIE:
-- Respectarea regulamentului serverului FiveM este obligatorie!
-- Dacă primești BAN PERMANENT fără drept de plata, pachetele achiziționate nu vor mai putea fi utilizate.
+::: danger ⚠️ Important:
+Această secțiune este pentru jucătorii care au primit **ban temporar/permanent** și vor să achite pentru ridicarea sancțiunii.
 :::
 
-### VIP
-::: tip Info:
- Pe ELTIEGAMERS.RO HARD ROLEPLAY avem 3 tipuri de VIP:
- - VIP Silver
- - VIP Gold
- - Vip Platinum
- :::
+### 🔓 Poți plăti pentru:
 
+- ✅ UNBAN PERMANENT
+- ⏳ UNBAN TEMPORAR
+- 🧹 CLEAR WARN
+- 📢 UNBAN DISCORD
 
-| VIP           | Pret             | Acces la suporter | Jobboost | Grad discord + FiveM | Bani in joc | Salariu bonus | BattlePass Premium | Priority Queue |
-| ------------- | :-----------:    | :----:            | :----: | :----: | :----:   | :----: | :----: | :----: 
-| Silver        |   7 EG COINS     |  ✅               | 5%  |  ✅      | 25.000$  | 1000$ | ❌ | Tier 1 |
-| Gold          |   13 EG COINS    |  ✅               | 7%  |  ✅      | 50.000$  | 2000$ | ✅ | Tier 2 |
-| Platinum      |   20 EG COINS    |  ✅               | 10% |  ✅      | 100.000$ | 3000$ | ✅ | Tier 3 |
+### 🔁 După plată:
 
-### Masinile de la VIP
+- Deschide un **ticket** pe [Discord](https://discord.gg/elitegamers)
+- Atașează dovada de plată (chitanță email)
+- Include: **nume în-game**, **Steam ID (TBD)**
 
+::: danger ❗ ATENȚIE:
+- Respectarea regulamentului **FiveM** este obligatorie!
+- Dacă primești **BAN FĂRĂ DREPT DE PLATĂ**, pachetele cumpărate NU se mai pot folosi.
+:::
+
+---
+
+## 👑 VIP – Beneficii Exclusive
+
+::: tip 🎖️ VIP Levels:
+Pe server avem 3 pachete VIP:
+- 🥈 **VIP Silver**
+- 🥇 **VIP Gold**
+- 💎 **VIP Platinum**
+:::
+
+| VIP Level     | 💰 Preț        | 🆘 Suport | 🚀 Boost Job | 🎖️ Grade Discord & FiveM | 💵 Bani în joc | 💼 Bonus Salariu | 🎫 BattlePass | 🚪 Prioritate Coada |
+| ------------- | :-----------: | :------: | :----------: | :-----------------------: | :-----------: | :--------------: | :-----------: | :-----------------: |
+| **Silver**    | 7 EG COINS    | ✅        | +5%          | ✅                        | $25.000       | $1.000           | ❌            | Tier 1              |
+| **Gold**      | 13 EG COINS   | ✅        | +7%          | ✅                        | $50.000       | $2.000           | ✅            | Tier 2              |
+| **Platinum**  | 20 EG COINS   | ✅        | +10%         | ✅                        | $100.000      | $3.000           | ✅            | Tier 3              |
+
+---
+
+## 🚘 Mașini Incluse cu VIP
 
 <div class="vip-selection">
   <div class="box-container">
-    <div class="box">
-    <h2>VIP Silver</h2>
+
+  <div class="box">
+    <h2>🥈 VIP Silver</h2>
     <ul>
-      <li> - Ubermacht B8</li>
-      <li> - Ubermacht B3</li>
-      <li> - Obey R8</li>
+      <li>Ubermacht B8</li>
+      <li>Ubermacht B3</li>
+      <li>Obey R8</li>
     </ul>
   </div>
 
   <div class="box">
-    <h2>VIP Gold</h2>
+    <h2>🥇 VIP Gold</h2>
     <ul>
-      <li> - Pegassi Zentorno</li>
-      <li> - Grotti 488</li>
-      <li> - Baller Bio</li>
-      <li> - Pegassi Hyurus</li>
-      <li> + Toate masinile de la vipul anterior</li>
+      <li>Pegassi Zentorno</li>
+      <li>Grotti 488</li>
+      <li>Baller Bio</li>
+      <li>Pegassi Hyurus</li>
+      <li><strong>+ toate mașinile de la Silver</strong></li>
     </ul>
   </div>
 
   <div class="box">
-    <h2>VIP Platinum</h2>
+    <h2>💎 VIP Platinum</h2>
     <ul>
-      <li> - Progen Overflod</li>
-      <li> - Benefactor One</li>
-      <li> - Peptos 911 RS</li>
-      <li> - Elegy RH35</li>
-      <li> - Pegassi Zentorno VSJ</li>
-      <li> + Toate masinile de la vipul anterior</li>
-        </ul>
-    </div>
+      <li>Progen Overflod</li>
+      <li>Benefactor One</li>
+      <li>Peptos 911 RS</li>
+      <li>Elegy RH35</li>
+      <li>Pegassi Zentorno VSJ</li>
+      <li><strong>+ toate mașinile de la Gold</strong></li>
+    </ul>
+  </div>
+
   </div>
 </div>
 
+---
+
+## ✅ Gata de acțiune?
+
+➡️ Intră pe server, strânge EG Coins, ia-ți mașina de vis și bucură-te de beneficiile tale!
+
+---
+
+> 💬 Ai întrebări? Echipa noastră te așteaptă pe [Discord](https://discord.gg/elitegamers)
 
