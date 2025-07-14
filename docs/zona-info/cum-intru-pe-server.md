@@ -3,7 +3,7 @@ outline: deep
 ---
 <img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
-# <center><span class="title-font">***Cum pot intra pe server***?</span></center>
+# <center><span style="color: #cc2b2b;">Cum intru pe EliteGamers</span></center>
 
 ### Pașii pentru a te conecta pe server-ul de FiveM ELITEGAMERS ROMANIA HARD ROLEPLAY:
 
