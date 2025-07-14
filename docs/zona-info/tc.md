@@ -1,38 +1,87 @@
 ---
 outline: deep
 ---
-<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
-# <span style="font-family: Orbitron, sans-serif; font-size: 0.89em;"><center>Termeni si Conditii – ELITEGAMERS.RO</center></span>
+<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0 auto;">
 
-### 1. Acceptarea Termenilor
-Accesarea și utilizarea serverului ELITEGAMERS.RO implică acceptarea termenilor și condițiilor. Vă recomandăm să citiți cu atenție toate informațiile înainte de a vă implica activ în comunitate, pentru a asigura o experiență conformă și responsabilă pentru toți participanții.
+# <center><span style="font-family: Orbitron, sans-serif;">📜 Termeni și Condiții – ELITEGAMERS.RO</span></center>
 
-### 2. Acces și Eligibilitate
-Pentru a va putea juca pe serverul nostru, este necesar:
-Să folosiți o copie originală a jocului Grand Theft Auto V,
-Sa aveti FiveM instalat,
-Sa aveti un microfon pentru a putea comunica cu restul jucatorilor,
+---
 
-### 3. Comportament și Roleplay
-Participarea pe server presupune respectarea unui comportament matur și realist. Sunt strict interzise:
+## ✅ 1. Acceptarea Termenilor
 
-Utilizarea de bug-uri, cheat-uri sau modificări externe interzise.
+::: tip
+Prin accesarea și utilizarea serverului **ELITEGAMERS.RO**, accepți în totalitate termenii și condițiile prezentate pe această pagină.
 
-Încălcarea regulilor fundamentale de roleplay (metagaming, powergaming, etc.).
+📌 Recomandăm citirea completă a regulilor pentru a evita sancțiuni și pentru a contribui la o experiență de joc corectă și realistă.
+:::
 
-Abuzurile împotriva altor jucători sau echipei administrative.
+---
 
-### 4. Moderare și Sancțiuni
-Echipa de administrare își rezervă dreptul de a lua măsuri pentru menținerea unui mediu sănătos pe server, inclusiv:
+## 🎮 2. Acces și Eligibilitate
 
-Suspendarea temporară sau definitivă a accesului, în funcție de gravitatea situației.
+::: info
+Pentru a putea juca pe serverul nostru, trebuie să îndeplinești următoarele condiții:
 
-Analiza sesizărilor și aplicarea de sancțiuni în baza dovezilor disponibile.
+- 🔹 Să deții o **copie originală** a jocului **Grand Theft Auto V**  
+- 🔹 Să ai instalat clientul **FiveM**  
+- 🔹 Să dispui de un **microfon funcțional** pentru interacțiuni vocale in-game
+:::
 
-### 5. Confidențialitate și Date Personale
-Datele colectate (ex: IP, activitate pe server, nickname) sunt utilizate exclusiv în scopuri administrative și de securitate. Acestea nu sunt transmise către terți, cu excepția cazurilor prevăzute de lege.
+---
 
-### 6. Modificarea Termenilor
-Termenii și condițiile pot suferi modificări periodice pentru a reflecta evoluțiile din comunitate sau schimbările legislative. Este responsabilitatea fiecărui utilizator să rămână informat cu privire la cea mai recentă versiune.
+## 👮 3. Comportament și Roleplay
 
+::: warning
+Participarea pe server presupune un comportament **matur, responsabil și realist**.  
+
+Este strict interzis:
+
+- ❌ Utilizarea de bug-uri, cheat-uri sau modificări interzise  
+- ❌ Încălcarea regulilor de roleplay (*metagaming, powergaming, combat logging*)  
+- ❌ Abuzul verbal sau comportamentul ostil față de alți jucători sau staff
+:::
+
+---
+
+## ⚖️ 4. Moderare și Sancțiuni
+
+::: danger
+Echipa de administrare are autoritatea de a menține ordinea și respectarea regulilor prin:
+
+- 🔸 **Suspendări temporare sau permanente** în funcție de gravitatea abaterii  
+- 🔸 **Verificarea și analizarea sesizărilor**, pe baza **dovezilor furnizate**  
+- 🔸 Aplicarea sancțiunilor direct, fără preaviz, dacă fapta o justifică
+:::
+
+---
+
+## 🔒 5. Confidențialitate și Date Personale
+
+::: info
+Serverul colectează date minime necesare pentru funcționare și securitate, precum:
+
+- 🧾 Adresa IP  
+- 🧾 Activitatea in-game  
+- 🧾 Numele de utilizator
+
+Aceste date:
+
+- 🔐 Sunt folosite **doar intern**, în scopuri administrative  
+- 🚫 **Nu sunt distribuite terților**, cu excepția cazurilor prevăzute de lege
+:::
+
+---
+
+## 📌 6. Modificarea Termenilor
+
+::: tip
+Termenii și condițiile pot fi actualizați în orice moment pentru a reflecta:
+
+- 🔁 Schimbările legislative  
+- 📈 Evoluțiile interne ale comunității
+
+🕵️‍♂️ Este responsabilitatea fiecărui jucător să verifice periodic această secțiune pentru a rămâne informat.
+:::
+
+---
