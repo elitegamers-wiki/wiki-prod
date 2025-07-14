@@ -5,7 +5,7 @@ outline: deep
 <img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0 auto; border-radius: 5%;">
 
 <style>
-  .box-table {
+  .eg-jaf-case {
     background: linear-gradient(135deg, #1a1a1a 70%, #ff2323 100%);
     border: 2px solid #ff2323;
     border-radius: 10px;
@@ -16,32 +16,32 @@ outline: deep
     font-weight: 500;
     font-family: Arial, sans-serif;
   }
-  .box-table table {
+  .eg-jaf-case table {
     width: 100%;
     border-collapse: separate;
     border-spacing: 0 10px;
   }
-  .box-table td {
+  .eg-jaf-case td {
     background: rgba(255, 255, 255, 0.07);
     padding: 12px 18px;
     border-radius: 8px;
     vertical-align: top;
     color: #fff;
   }
-  .box-table td strong {
+  .eg-jaf-case td strong {
     color: #ff5555;
   }
-  .box-table td ul {
+  .eg-jaf-case td ul {
     margin: 0;
     padding-left: 20px;
   }
-  .box-table td ul li {
+  .eg-jaf-case td ul li {
     margin-bottom: 6px;
   }
 </style>
 
 ### Ce trebuie să știu la început?
-<div class="box-table">
+<div class="eg-jaf-case">
 <table>
 <tr><td>
 - Totul se face <strong>IC</strong>. NPC-ul principal este <strong>Lester</strong> – îl găsești doar în joc, prin interacțiune roleplay.<br>
@@ -57,7 +57,7 @@ outline: deep
 </div>
 
 ### Cum faci rost de crowbar?
-<div class="box-table">
+<div class="eg-jaf-case">
 <table>
 <tr><td>
 - Vorbește cu <strong>Lester</strong> și alege opțiunea „Obține Rangă”.<br>
@@ -68,7 +68,7 @@ outline: deep
 </div>
 
 ### Crearea Echipei
-<div class="box-table">
+<div class="eg-jaf-case">
 <table>
 <tr><td>
 - După ce ai uneltele necesare, accesează <strong>Meniul Echipă</strong> și creează-ți echipa (<strong>maxim 3 persoane</strong>).<br>
@@ -78,7 +78,7 @@ outline: deep
 </div>
 
 ### Începerea Jafului
-<div class="box-table">
+<div class="eg-jaf-case">
 <table>
 <tr><td>
 - După ce ai dat start la jaf, pe hartă îți va apărea locația unei case.<br>
@@ -88,7 +88,7 @@ outline: deep
 </div>
 
 ### Spargerea Casei
-<div class="box-table">
+<div class="eg-jaf-case">
 <table>
 <tr><td>
 - Folosește <strong>Advanced Lockpick</strong> pentru a descuia ușa.<br>
@@ -100,7 +100,7 @@ outline: deep
 </div>
 
 ### Căutarea prin Casă
-<div class="box-table">
+<div class="eg-jaf-case">
 <table>
 <tr><td>
 - După ce totul e sigur, poți începe să cauți:<br>
