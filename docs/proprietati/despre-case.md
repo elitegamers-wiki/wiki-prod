@@ -13,8 +13,8 @@ outline: deep
 
 - Zona: Vinewood  
 - Strada: Hawick Ave
-- Pret per locuinta: €
-- Informatii: Intretinere x€ o data la 1 luna
+- Pret per locuinta: 2.000.000€
+- Informatii: Intretinere 400.000€ o data la 1 luna
 - Numar de locuinte: 14
 - Interior: https://imgur.com/a/E54nGzr
 
@@ -23,8 +23,8 @@ outline: deep
 
 - Zona: West Eclipse Boulevard 
 - Strada: Edwood Way
-- Pret casa: €
-- Informatii: Intretinere x€ o data la 1 luna
+- Pret casa: 150 Bitcoins
+- Informatii: Intretinere 30 Bitcoins o data la 1 luna
 - Interior: https://imgur.com/a/SJfvFXN
 
  #### 3. LOS SANTOS -> GROVE STREET
@@ -32,8 +32,8 @@ outline: deep
 
 - Zona: Grove Street 
 - Strada: Forum Drive
-- Pret casa: €
-- Informatii: Intretinere x€ o data la 1 luna
+- Pret casa: 80 Bitcoins
+- Informatii: Intretinere 15 Bitcoins o data la 1 luna
 - Informatii: https://imgur.com/a/GE2QO3O
 
  #### 4. LOS SANTOS -> Mirror Park
@@ -41,8 +41,8 @@ outline: deep
 
 - Zona: Mirror Park 
 - Strada: Nikola
-- Pret casa: €
-- Informatii: Intretinere x€ o data la 1 luna
+- Pret casa: 3.500.000€
+- Informatii: Intretinere 600.000€ o data la 1 luna
 - Interior: https://imgur.com/a/LlIzwrC
 
  #### 5. LOS SANTOS -> Mirror Park
@@ -50,8 +50,8 @@ outline: deep
 
 - Zona: Mirror Park 
 - Strada: Nikola
-- Pret casa: €
-- Informatii: Intretinere x€ o data la 1 luna
+- Pret casa: 3.500.000€
+- Informatii: Intretinere 600.000€ o data la 1 luna
 - Interior: https://imgur.com/a/QNvIGYV
 
  #### 6. LOS SANTOS -> Mirror Park
@@ -59,8 +59,8 @@ outline: deep
 
 - Zona: Mirror Park 
 - Strada: Nikola
-- Pret casa: €
-- Informatii: Intretinere x€ o data la 1 luna
+- Pret casa: 100 Bitcoins
+- Informatii: Intretinere 20 Bitcoins o data la 1 luna
 - Interior: https://imgur.com/a/DUcaCbN
 
  #### 7. LOS SANTOS -> Mirror Park
@@ -68,8 +68,8 @@ outline: deep
 
 - Zona: Mirror Park 
 - Strada: Nikola
-- Pret casa: €
-- Informatii: Intretinere x€ o data la 1 luna
+- Pret casa: 100 Bitcoins
+- Informatii: Intretinere 20 Bitcoins o data la 1 luna
 - Interior: https://imgur.com/a/DUcaCbN
 
 
@@ -78,8 +78,8 @@ outline: deep
 
 - Zona: Mirror Park 
 - Strada: Nikola
-- Pret casa: €
-- Informatii: Intretinere x€ o data la 1 luna
+- Pret casa: 3.500.000€
+- Informatii: Intretinere 600.000€ o data la 1 luna
 - Interior: https://imgur.com/a/QNvIGYV
 
  #### 9. LOS SANTOS -> Mirror Park
@@ -87,8 +87,8 @@ outline: deep
 
 - Zona: Mirror Park 
 - Strada: Nikola
-- Pret casa: €
-- Informatii: Intretinere x€ o data la 1 luna
+- Pret casa: 100 Bitcoins
+- Informatii: Intretinere 20 Bitcoins o data la 1 luna
 - Interior: https://imgur.com/a/gQccWA5
 
  #### 10. LOS SANTOS -> Vinewood
@@ -96,8 +96,8 @@ outline: deep
 
 - Zona: Vinewood 
 - Strada: Normandy Drive
-- Pret casa: €
-- Informatii: Intretinere x€ o data la 1 luna
+- Pret casa: 160 Bitcoins
+- Informatii: Intretinere 30 Bitcoins o data la 1 luna
 - Interior: https://imgur.com/a/xLnq6f5
 
  #### 11. LOS SANTOS -> Vinewood
@@ -105,8 +105,8 @@ outline: deep
 
 - Zona: Vinewood 
 - Strada: Ace Jones Drive
-- Pret casa: €
-- Informatii: Intretinere x€ o data la 1 luna
+- Pret casa: 250 Bitcoins
+- Informatii: Intretinere 50 Bitcoins o data la 1 luna
 - Interior: https://imgur.com/a/AfE2x45
 
  #### 12. LOS SANTOS -> Vinewood
@@ -114,15 +114,16 @@ outline: deep
 
 - Zona: Vinewood 
 - Strada: WhispyMound Drive
-- Pret casa: €
-- Informatii: Intretinere x€ o data la 1 luna
+- Pret casa: 175 Bitcoins
+- Informatii: Intretinere 35 Bitcoins o data la 1 luna
 - Interior: https://imgur.com/a/7RKEqVT
 
- #### 13. LOS SANTOS -> Americano Way
+ #### 13. LOS SANTOS -> Vinewood
 <img src="../public/case/americano.png" alt="motel" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona: North Rockford Drive 
 - Strada: Americano Way
-- Pret casa: €
-- Informatii: Intretinere x€ o data la 1 luna
+- Pret casa: 150 Bitcoins
+- Informatii: Intretinere 30 Bitcoins o data la 1 luna
 - Interior: https://imgur.com/a/dBseAbu
+
