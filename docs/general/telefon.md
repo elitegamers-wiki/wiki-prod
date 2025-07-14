@@ -1,91 +1,41 @@
 ---
 outline: deep
 ---
-<p align="center">
-    <img src="../public/elitegamers.png" alt="EliteGamers Logo" width="200">
-</p>
+<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
-# <center style="font-size: 2.6rem; color: #d72638; margin-top: 1rem;"> Utilizarea Telefonului pe EliteGamers RP</center>
-
-<div style="margin: 1.5rem 0; padding: 1.2rem; background: rgba(215,38,56,0.1); border-left: 6px solid #d72638; border-radius: 12px; box-shadow: 0 0 12px rgba(215,38,56,0.3);">
-  <strong style="color: #d72638;">💡 Sfat:</strong> Telefonul este o componentă esențială a roleplay-ului. Fii atent la apeluri, mesaje și folosește-l pentru a rămâne conectat cu lumea din joc!
-</div>
-
+#  <center>Utilizarea telefonului </center>
 ---
-## <span style="color: #d72638;"> Informatii</span>
+- Acest telefon virtual redefinește modul în care interacționezi cu lumea digitală, oferind un echilibru perfect între eleganță și funcționalitate. Cu un design modern, inspirat de tehnologiile de ultimă generație, dispozitivul îți pune la îndemână toate instrumentele necesare pentru comunicare, organizare și divertisment.
 
-<div style="background: #1a1a1a; padding: 1rem; border-radius: 12px; border: 1px solid #d72638; box-shadow: 0 0 15px rgba(215,38,56,0.3); margin-bottom: 1.5rem;">
-  <ul style="color: #fff; line-height: 1.7;">
-    <li>Acest telefon virtual redefinește modul în care interacționezi cu lumea digitală, oferind un echilibru perfect între eleganță și funcționalitate. Cu un design modern, inspirat de tehnologiile de ultimă generație, dispozitivul îți pune la îndemână toate instrumentele necesare pentru comunicare, organizare și divertisment.</li>
-    <li>Interfața sa intuitivă îți permite să navighezi fără efort între aplicații, fiecare fiind creată pentru a oferi o experiență fluidă și captivantă. Indiferent dacă îți gestionezi contactele, explorezi hărți sau accesezi servicii esențiale, fiecare detaliu este gândit pentru a-ți oferi eficiență și confort.</li>
-    <li>Acest telefon nu este doar un simplu dispozitiv digital, ci un companion inteligent, pregătit să îți simplifice viața și să îți ofere o conexiune rapidă și sigură oriunde te-ai afla.</li>
-  </ul>
-</div>
+- Interfața sa intuitivă îți permite să navighezi fără efort între aplicații, fiecare fiind creată pentru a oferi o experiență fluidă și captivantă. Indiferent dacă îți gestionezi contactele, explorezi hărți sau accesezi servicii esențiale, fiecare detaliu este gândit pentru a-ți oferi eficiență și confort.
 
-## <span style="color: #d72638;">🔍 Interfață și Navigare</span>
+- Acest telefon nu este doar un simplu dispozitiv digital, ci un companion inteligent, pregătit să îți simplifice viața și să îți ofere o conexiune rapidă și sigură oriunde te-ai afla.
 
-<div style="background: #1a1a1a; padding: 1rem; border-radius: 12px; border: 1px solid #d72638; box-shadow: 0 0 15px rgba(215,38,56,0.3); margin-bottom: 1.5rem;">
-  <ul style="color: #fff; line-height: 1.7;">
-    <li>📂 Acces rapid la aplicații precum: <strong>Mesaje</strong>, <strong>Apeluri</strong>, <strong>Twitter</strong>, <strong>Galerie</strong> și altele.</li>
-    <li>📳 Design curat, intuitiv, inspirat din iOS.</li>
-    <li>🎨 Posibilitate de personalizare: schimbă tema, imaginea de fundal și sunetul notificărilor.</li>
-  </ul>
-</div>
+### Interfata telefonului
 
----
+<img src="../public/telefon/image1.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
-## <span style="color: #d72638;">📱 Aplicații disponibile</span>
+### Functionalitati disponibile: 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem;">
+<img src="../public/telefon/image2.png" alt="pozaTelefon" width="300" height="600" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
-  <div style="background: #2a2a2a; padding: 1rem; border-left: 4px solid #d72638; border-radius: 10px; box-shadow: 0 0 10px rgba(215,38,56,0.2); color: white;">
-    <h3 style="margin-top: 0; color: #d72638;"> Apeluri, Mesaje & Contacte</h3>
-    <p>Sună alți jucători, trimite mesaje rapide și salvează contacte importante.</p>
-  </div>
 
-  <div style="background: #2a2a2a; padding: 1rem; border-left: 4px solid #d72638; border-radius: 10px; box-shadow: 0 0 10px rgba(215,38,56,0.2); color: white;">
-    <h3 style="margin-top: 0; color: #d72638;"> Loops & Emails</h3>
-    <p>Comunică public cu toți cetățenii prin rețeaua socială locală.</p>
-  </div>
+- Contacte  – Gestionarea listei de contacte, apeluri și mesaje.
+- Email  – Permite primirea e-mailurilor.
+- Anunțuri  – Acces la anunțuri publice și mesaje administrative.
+- Servicii  – Contact rapid pentru diverse servicii disponibile în joc.
+- Garaj  – Gestionarea vehiculelor personale.
+- Banking  – Vizualizare sold, transferuri bancare și plăți.
+- Loops  – O platforma inspirata de la "X", unde jucatorii pot posta diferite activitati, poze, masini.
+- Galerie  – Gestionarea capturilor de ecran și imaginilor.
+- InetMax (5G)  – Indică conexiunea la rețeaua de internet, permite achizitionarea pentru GB.
+- GPS  – Harta și sistem de navigație.
 
-  <div style="background: #2a2a2a; padding: 1rem; border-left: 4px solid #d72638; border-radius: 10px; box-shadow: 0 0 10px rgba(215,38,56,0.2); color: white;">
-    <h3 style="margin-top: 0; color: #d72638;"> GPS & Hartă</h3>
-    <p>Navighează rapid prin oraș folosind GPS-ul integrat din telefon.</p>
-  </div>
-
-  <div style="background: #2a2a2a; padding: 1rem; border-left: 4px solid #d72638; border-radius: 10px; box-shadow: 0 0 10px rgba(215,38,56,0.2); color: white;">
-    <h3 style="margin-top: 0; color: #d72638;"> Cameră & Galerie</h3>
-    <p>Fă poze memorabile și accesează-le ulterior în aplicația Galerie.</p>
-  </div>
-
-  <div style="background: #2a2a2a; padding: 1rem; border-left: 4px solid #d72638; border-radius: 10px; box-shadow: 0 0 10px rgba(215,38,56,0.2); color: white;">
-    <h3 style="margin-top: 0; color: #d72638;"> Garaj</h3>
-    <p>Vizualizeaza live pe server direct din telefon ce masini ai in garaj.</p>
-  </div>
-
-  <div style="background: #2a2a2a; padding: 1rem; border-left: 4px solid #d72638; border-radius: 10px; box-shadow: 0 0 10px rgba(215,38,56,0.2); color: white;">
-    <h3 style="margin-top: 0; color: #d72638;"> Servicii</h3>
-    <p>In caz de urgente, poti sa suni la politie, smir sau mecanici.</p>
-  </div>
-
-  <div style="background: #2a2a2a; padding: 1rem; border-left: 4px solid #d72638; border-radius: 10px; box-shadow: 0 0 10px rgba(215,38,56,0.2); color: white;">
-    <h3 style="margin-top: 0; color: #d72638;"> InetMax</h3>
-    <p>Fiecare aplicatie consuma un minim de GB, fapt pentru care trebuie sa verifici mereu cat internet ai.</p>
-  
-  </div>
-    <div style="background: #2a2a2a; padding: 1rem; border-left: 4px solid #d72638; border-radius: 10px; box-shadow: 0 0 10px rgba(215,38,56,0.2); color: white;">
-    <h3 style="margin-top: 0; color: #d72638;"> Setari</h3>
-    <p>Fiecare aplicatie consuma un minim de GB, fapt pentru care trebuie sa verifici mereu cat internet ai.</p>
-
-  </div>
-      <div style="background: #2a2a2a; padding: 1rem; border-left: 4px solid #d72638; border-radius: 10px; box-shadow: 0 0 10px rgba(215,38,56,0.2); color: white;">
-    <h3 style="margin-top: 0; color: #d72638;"> Youtube & ELITEBOX </h3>
-    <p>Ai posibilitatea de a asculta ce melodie vrei direct de pe telefon + pe boxa ELTIEBOX.</p>
-  </div>
-
-</div>
-
----
+În partea de jos, telefonul are și trei aplicații esențiale:
+- Apeluri – Inițiază și primește apeluri, gestionează agenda telefonică.
+- Mesagerie  – Trimiterea și primirea de SMS-uri.
+- Cameră foto – Capturarea de imagini și înregistrări video.
+- Setări  – Configurarea telefonului și personalizarea funcțiilor.
 
 ###  Contacte – Gestionarea listei de contacte, apeluri și mesaje
 Aplicația Contacte este centrul de gestionare a conexiunilor tale. Aceasta îți permite să îți organizezi lista de contacte într-un mod eficient, oferindu-ți acces rapid la persoanele cu care comunici frecvent.
@@ -298,52 +248,23 @@ Aplicația YouTube îți oferă posibilitatea de a asculta muzica preferată dir
     </div>
 </div>
 
-### ELITEBOX - Boxa
-Ai posibilitatea de a asculta cu prietenii tai cele mai top melodii de pe youtube pe boxa Elitebox
-- Boxa se gaseste la orice DigitalDen, se pune pe jos iar apoi se conecteaza din Setari -> Redtooth
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <div style="display: flex; gap: 10px;">
-        <img src="../public/telefon/boxa.png" alt="pozaTelefon" width="300" height="600" 
-            style="border-radius: 5%;">
-        <img src="../public/telefon/redtooth.png" alt="pozaTelefon" width="300" height="600" 
-            style="border-radius: 5%;">
-    </div>
-</div>
+Funcționalități principale:
 
-## <span style="color: #d72638;">⚙️ Setări & Personalizare</span>
+- Căutare rapidă a melodiilor
+Poți căuta orice melodie disponibilă pe YouTube și o poți adăuga direct în coada de redare.
 
-<div style="background: #1f1f1f; padding: 1.2rem; border-radius: 12px; box-shadow: 0 0 10px rgba(215,38,56,0.25); border-left: 5px solid #d72638; color: white;">
-  <ul style="line-height: 1.6;">
-    <li>🎵 Setează tonuri de apel personalizate.</li>
-    <li>🖼️ Schimbă fundalul telefonului după preferințe.</li>
-    <li>🌐 Alege tema: <span style="color: #d72638;">Dark</span> sau <span style="color: #d72638;">Light</span>.</li>
-  </ul>
-</div>
+- Redare continuă a muzicii
+Odată adăugată în coadă, melodia va fi redată automat, fără întreruperi, asigurând o experiență auditivă fluidă.
 
----
+- Gestionarea cozii de redare
+Poți adăuga mai multe melodii într-o listă de așteptare, astfel încât acestea să se redea una după alta.
+Posibilitatea de a elimina piese din coadă oricând dorești.
 
-## <span style="color: #d72638;">🛠️ Probleme si fix-uri</span>
+- Controale simple pentru redare
+Poți pune pauză, sări peste melodii sau opri redarea direct din interfața aplicației.
 
-<div style="background: #2a2a2a; padding: 1rem; border-radius: 10px; border: 1px solid #d72638; box-shadow: 0 0 8px rgba(215,38,56,0.2); color: white;">
-  <ul style="line-height: 1.6;">
-    <li> Dacă telefonul nu se deschide, apasă din nou <strong style="color: #d72638;">M</strong> și așteaptă câteva secunde.</li>
-    <li> Probleme cu semnalul? Verifică dacă ești într-o zonă aglomerată.</li>
-    <li> Recomandare: folosește versiunea <code>BETA</code> pe FiveM dacă telefonul se blochează.</li>
-  </ul>
-</div>
+- Notificări pentru adăugarea pieselor:
+Când adaugi o melodie în coadă, vei primi o notificare care confirmă acest lucru.
 
----
-
-## <span style="color: #d72638;">📌 Concluzie</span>
-
-<div style="background: #1a1a1a; padding: 1.2rem; border-radius: 12px; border: 2px dashed #d72638; box-shadow: 0 0 15px rgba(215,38,56,0.2); color: #fff;">
-  <p style="margin: 0;">
-    Telefonul este esențial pentru orice jucător activ din oraș. Asigură-te că-l folosești responsabil și că rămâi conectat cu tot ce se întâmplă în EliteGamers RP! 🔴📱
-  </p>
-</div>
-
-<style>
-h2, h3 {
-  color: #b22222; /* roșu tematic EliteGamers */
-}
-</style>
+-  Sunet de înaltă calitate:
+Redarea audio este optimizată pentru a oferi un sunet clar și fără întreruperi.

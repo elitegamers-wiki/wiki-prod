@@ -1,110 +1,114 @@
 ---
 outline: deep
 ---
+<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
-<img src="../public/elitegamers.png" alt="Logo EliteGamers" width="256" height="256" style="display: block; margin: 2rem auto 1rem; border-radius: 5%;">
+# <span class="title-font"><center>Comenzi utilizate</center></span>
 
-<div class="comenzi-container">
+#### <span class="header-font">Comenzi în chat</span>
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap');
+###### /premii
 
-.comenzi-container {
-  font-family: 'Poppins', sans-serif;
-  padding: 1rem;
-  color: #fff;
-}
+- Deschide meniul ce permite accesul la premii și misiuni.
 
-.comenzi-container h1 {
-  text-align: center;
-  color: #ff3c3c;
-  text-shadow: 1px 1px 3px rgba(255, 60, 60, 0.6);
-  margin-bottom: 1.5rem;
-  font-size: 2.5rem;
-}
+###### /wiki
+- Foloseste aceasta comanda pentru a putea deschide wiki.elitegamers.ro direct din joc.
 
-.comenzi-box {
-  background: linear-gradient(135deg, rgba(255, 60, 60, 0.08), rgba(255,255,255,0.02));
-  border-left: 5px solid #d72638;
-  padding: 1.5rem 2rem;
-  margin: 1.5rem auto;
-  max-width: 900px;
-  border-radius: 14px;
-  box-shadow: 0 8px 24px rgba(215, 38, 56, 0.25);
-  backdrop-filter: blur(3px);
-  transition: all 0.3s ease;
-}
+###### /map
+- Foloseste aceasta comanda pentru a deschide harta cu toate teritoriile de pe server, inclusiv cele rau famate.
 
-.comenzi-box:hover {
-  box-shadow: 0 12px 35px rgba(215, 38, 56, 0.4);
-  transform: translateY(-4px);
-}
+###### Tasta Y
 
-.comenzi-box ul {
-  list-style: none;
-  padding-left: 0;
-}
+- Permite accesul la meniul prin care poți scoate hainele.
 
-.comenzi-box li::before {
-  content: "🔻";
-  margin-right: 0.5rem;
-  color: #ff4a4a;
-}
-</style>
+###### Tasta Z
 
-# Comenzi utilizate
+- Permite să te așezi pe burtă.
 
-### 💬 Comenzi în chat
-<div class="comenzi-box">
-<ul>
-  <li><strong>/premii</strong> – Deschide meniul cu premii și misiuni.</li>
-  <li><strong>/wiki</strong> – Deschide wiki-ul direct din joc.</li>
-  <li><strong>/map</strong> – Harta teritoriilor.</li>
-  <li><strong>/givekeys [id]</strong> – Oferă cheile altui jucător.</li>
-  <li><strong>/report</strong> – Trimite întrebări sau bug-uri staffului.</li>
-  <li><strong>/carry</strong> – Ridică un jucător pe umăr.</li>
-  <li><strong>/e [nume]</strong> – Pornește o animație.</li>
-  <li><strong>/e cancel</strong> – Oprește animația curentă.</li>
-  <li><strong>/hud</strong> – Ascunde/afișează HUD-ul.</li>
-  <li><strong>/hudchat</strong> – Ascunde/afișează chat-ul.</li>
-  <li><strong>/ore [id]</strong> – Vezi orele jucate.</li>
-  <li><strong>/k</strong> – Te pune în genunchi.</li>
-  <li><strong>/fps</strong> – Setări FPS Boost.</li>
-</ul>
-</div>
+###### /givekeys id (în mașină)
 
-### 🎮 Butoane prestabilite
-<div class="comenzi-box">
-<ul>
-  <li><strong>K</strong> – Meniu principal</li>
-  <li><strong>B</strong> – Arată cu degetul</li>
-  <li><strong>X</strong> – Ridică mâinile (handsup)</li>
-  <li><strong>F4</strong> – Meniu animații și stiluri de mers</li>
-  <li><strong>L</strong> – Închide/deschide vehicul</li>
-  <li><strong>O</strong> (în mașină) – Control motor/geamuri</li>
-  <li><strong>Y</strong> (în mașină) – Cruise control</li>
-  <li><strong>TAB</strong> – Inventar</li>
-  <li><strong>M</strong> – Telefon</li>
-  <li><strong>ALT</strong> – Voice pe radio</li>
-  <li><strong>`</strong> – Proximitate voice chat</li>
-</ul>
-</div>
+- Oferă cheile unui alt jucător din mașină.
 
-### ⚙️ Schimbare taste (keybinds)
-<div class="comenzi-box">
-<p>Poți modifica orice tastă în setările jocului:</p>
-<ul>
-  <li><strong>ESC → Settings → Keybinds → FiveM</strong></li>
-  <li>Selectează și apasă Enter pentru a schimba tasta dorită.</li>
-</ul>
-</div>
+###### /report
 
-### 🎯 Binds în consolă
-<div class="comenzi-box">
-<p>Setează comenzi rapide folosind consola (F8):</p>
-<ul>
-  <li><code>bind keyboard O "e wait2"</code> – Apasă O ca să faci animația <em>wait2</em>.</li>
-</ul>
-</div>
+- Deschide un meniu pentru a trimite întrebări, ticheturi sau rapoarte de bug-uri către staff.
 
-</div>
+###### /carry
+
+- Permite ridicarea unui jucător pe umăr.
+
+###### /e [nume]
+
+- Realizează o animație, unde "nume" se înlocuiește cu numele animației dorite.
+
+###### /e cancel
+
+- Oprește animația curentă.
+
+###### /hud
+
+- Permite ascunderea sau activarea HUD-ului.
+
+###### /hudchat
+
+- Permite ascunderea chat-ului.
+
+###### /ore id
+
+- Afișează numărul de ore jucate de un utilizator.
+
+###### /k
+
+- Te pune în genunchi.
+
+###### /fps
+
+- Deschide meniul pentru opțiuni de FPS Boost.
+
+
+#### Butoane cu funcții prestabilite
+
+###### Tasta K
+- Deschide meniul principal.
+
+###### Tasta B
+- Permite să arăți cu degetul.
+
+###### Tasta X
+- Ridică mâinile în sus. (handsup)
+
+###### Tasta F4
+- Deschide meniul cu toate animațiile și stilurile de mers disponibile.
+
+###### Tasta l
+- Închide sau deschide mașina personală.
+
+###### Tasta O (în mașină)
+- Deschide meniul pentru controlul motorului, portbagajului, capotei, ușilor și geamurilor.
+
+###### Tasta Y (în mașină)
+- Activează cruise control-ul.
+
+###### Tasta TAB
+- Deschide inventarul.
+
+###### Tasta M
+- Deschide telefonul.
+
+###### Tasta ALT
+- Activează microfonul pe stațiile radio.
+
+###### Tasta `
+- Permite alegerea proximității voice chat-ului (vizibilă în colțul din dreapta jos al ecranului).
+
+#### <span class="header-font">Cum pot modifica un keybind?</span>
+
+- Ai posibilitatea de a schimba orice tastă din joc cu alta dorită accesând setările jocului.
+
+**ESC - Settings - Keybinds (apăsați enter pentru a edita o tastă) - FiveM**
+
+#### <span class="header-font">Cum îmi pot seta un bind pentru o anumită comanda/actiune?</span>
+
+- Poți seta un bind pentru orice comandă din joc folosind consola (F8).
+
+**Exemplu: bind keyboard O "e wait2"**
