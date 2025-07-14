@@ -25,6 +25,7 @@ outline: deep
 - Strada: Edwood Way
 - Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
+- Interior: https://imgur.com/a/SJfvFXN
 
  #### 3. LOS SANTOS -> GROVE STREET
 <img src="../public/case/grove.png" alt="motel" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
@@ -33,6 +34,7 @@ outline: deep
 - Strada: Forum Drive
 - Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
+- Informatii: https://imgur.com/a/GE2QO3O
 
  #### 4. LOS SANTOS -> Mirror Park
 <img src="../public/case/mirror1.png" alt="motel" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
@@ -41,6 +43,7 @@ outline: deep
 - Strada: Nikola
 - Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
+- Interior: https://imgur.com/a/LlIzwrC
 
  #### 5. LOS SANTOS -> Mirror Park
 <img src="../public/case/mirror2.png" alt="motel" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
@@ -49,6 +52,7 @@ outline: deep
 - Strada: Nikola
 - Pret casa: €
 - Informatii: Intretinere x€ o data la 1 luna
+- Interior: https://imgur.com/a/QNvIGYV
 
  #### 6. LOS SANTOS -> Mirror Park
 <img src="../public/case/mirror3.png" alt="motel" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
