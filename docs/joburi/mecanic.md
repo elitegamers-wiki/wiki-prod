@@ -1,10 +1,11 @@
 ---
 outline: deep
 ---
+
 <img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 5%;">
 
 <style>
-.guide-container {
+.eg-mecanic {
   font-family: 'Poppins', sans-serif;
   max-width: 900px;
   margin: 0 auto;
@@ -12,8 +13,30 @@ outline: deep
   color: white;
 }
 
-/* Box cu gradient exact conform cerintei */
-.guide-box-gradient {
+.eg-mecanic h1,
+.eg-mecanic h2,
+.eg-mecanic h3,
+.eg-mecanic h4 {
+  font-weight: 700;
+  color: #cc3333;
+  text-shadow: 1px 1px 4px rgba(204, 51, 51, 0.7);
+}
+
+.eg-mecanic p {
+  line-height: 1.5;
+  color: #eee;
+  font-weight: 400;
+}
+
+.eg-mecanic img {
+  border-radius: 5%;
+  display: block;
+  margin: 1rem auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.eg-mecanic .guide-box-gradient {
   background: linear-gradient(135deg, #1a1a1a 70%, #ff2323 100%);
   border-left: 5px solid #cc1a1a;
   padding: 1.5rem 2rem;
@@ -22,12 +45,11 @@ outline: deep
   box-shadow: 0 8px 20px rgba(255, 35, 35, 0.6);
   transition: box-shadow 0.3s ease;
 }
-.guide-box-gradient:hover {
+.eg-mecanic .guide-box-gradient:hover {
   box-shadow: 0 12px 35px rgba(255, 35, 35, 0.85);
 }
 
-/* Box cu fundal solid bordo inchis (mai soft) */
-.guide-box-solid {
+.eg-mecanic .guide-box-solid {
   background-color: #4b0000;
   border-left: 5px solid #cc3333;
   padding: 1.5rem 2rem;
@@ -36,32 +58,12 @@ outline: deep
   box-shadow: 0 6px 18px rgba(204, 51, 51, 0.3);
   transition: box-shadow 0.3s ease;
 }
-.guide-box-solid:hover {
+.eg-mecanic .guide-box-solid:hover {
   box-shadow: 0 10px 28px rgba(204, 51, 51, 0.55);
-}
-
-h1, h2, h3, h4 {
-  font-weight: 700;
-  color: #cc3333;
-  text-shadow: 1px 1px 4px rgba(204, 51, 51, 0.7);
-}
-
-p {
-  line-height: 1.5;
-  color: #eee;
-  font-weight: 400;
-}
-
-img {
-  border-radius: 5%;
-  display: block;
-  margin: 1rem auto;
-  max-width: 100%;
-  height: auto;
 }
 </style>
 
-<div class="guide-container">
+<div class="eg-mecanic">
 
 # <center>Informatii despre ce presupune a fi un Mecanic</center>
 
