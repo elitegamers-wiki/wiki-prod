@@ -73,7 +73,7 @@ ul {
   margin-left: 1.3rem;
 }
 
-</style> */
+</style>
 
 <div class="guide-container">
 
