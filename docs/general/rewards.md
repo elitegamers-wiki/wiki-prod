@@ -32,7 +32,7 @@
   height: auto;
 }
 
-.card-box {
+.eg-card-box {
   margin: 2rem auto;
   max-width: 900px;
   padding: 1.8rem 2.2rem;
@@ -45,28 +45,28 @@
   color: #ffffff;
 }
 
-.card-box:hover {
+.eg-card-box:hover {
   box-shadow: 0 15px 35px rgba(215, 38, 56, 0.4);
   transform: translateY(-4px);
 }
 
-.card-box ul {
+.eg-card-box ul {
   padding-left: 1.5rem;
 }
 
-.card-box li {
+.eg-card-box li {
   margin-bottom: 0.6rem;
   line-height: 1.6;
 }
 
-.card-box li ul {
+.eg-card-box li ul {
   margin-top: 0.3rem;
   list-style-type: disc;
   color: #ffd1d1;
   font-weight: 600;
 }
 
-.card-box strong {
+.eg-card-box strong {
   color: #ffffff;
 }
 </style>
@@ -78,7 +78,7 @@
 
 ## Premii zilnice prin activitate
 
-<div class="card-box">
+<div class="eg-card-box">
   <strong>🔥 Daily Rewards / Premii Zilnice</strong> este un sistem avansat de recompense bazat pe misiuni zilnice, săptămânale și lunare, conceput pentru a încuraja activitatea constantă a jucătorilor pe server.
 </div>
 
@@ -86,7 +86,7 @@
 
 ### ⚡ Caracteristici principale
 
-<div class="card-box">
+<div class="eg-card-box">
   <ul>
     <li>Misiuni zilnice, săptămânale și lunare – Jucătorii au obiective variate, de exemplu:
       <ul>
@@ -100,7 +100,7 @@
 
 ### 🎯 Alte caracteristici
 
-<div class="card-box">
+<div class="eg-card-box">
   <ul>
     <li> Recompense atractive – bani, iteme rare (whiskey, eg-coins, cadouri), șanse la premii mari.</li>
     <li> Status Premium/VIP – oferă acces la recompense exclusive și mai valoroase.</li>
@@ -111,7 +111,7 @@
 
 ### 📜 Comenzile disponibile
 
-<div class="card-box">
+<div class="eg-card-box">
   <ul>
     <li><strong>/premii</strong> – Afișează lista recompenselor și timpul rămas.</li>
     <li><strong>/misiuni</strong> – Vezi progresul misiunilor și recompensele aferente.</li>
