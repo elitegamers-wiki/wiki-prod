@@ -28,3 +28,4 @@ outline: deep
 Poliția este alertată imediat ce un ATM este compromis.
 Așteaptă-te la intervenții rapide, mai ales dacă ești prins în flagrant.
 Timpul de reacție e crucial – după hack, fugi imediat din zonă!
+
