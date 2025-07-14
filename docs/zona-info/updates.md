@@ -936,3 +936,215 @@ Mesterit de: **xSLOW** & **sNok3**
 - Rezolvate portbagajele/torpedourile masinilor spawnate de alte sisteme decat cele din garaj
 - Rezolvate diverse buguri la airsoft/alte sisteme
 ```
+
+### Update 2.1.9
+Mesterit de: **xSLOW**
+
+**Features**
+```javascript
+- Adaugate garaje noi/actualizate unele stricate
+- Actualizate descrierile de la nada/naluca
+- Textul la report feedback este acum optional
+- Inlocuit markerul de la mesele de crafting cu ceva mai subtil si elegant
+- Daca ai ghiozdan nu mai este fortat sa folosesti acel skin de geanta, iti poti pune ce vrei tu
+- Actualizat sistemul de referral cu mici modificari
+- Adaugate mai multe puncte de tuning la service-ul din Rockford
+- Crescuta zona de pescuit in inaltime/adancime
+- Adaugat inapoi mapping-ul lipsa de pe cayo, by @dey
+- Managerul SMIR acum are acces complet la panoul de management al institutiei
+- Comanda /toprich acum este doar pentru admini pentru a evita FRP
+```
+
+**Bug fixes**
+```javascript
+- Rezolvat un bug la safezone-uri care facea ca atunci cand dai/primesti TP sa ramai blocat in safezone
+- Rezolvat un mapping de hotel care avea un perete invizibil la garaj
+```
+
+### Update 2.2.0
+Mesterit de: **xSLOW**
+Cica nu se fac update-uri 🤔 
+**Features**
+```javascript
+- Implementat un update major la anticheat. Multumim Skuzzi si swiftlyac.net
+- Adaugat un nou sistem de case:
+* Este inca in lucru, nu se poate cumpara nimic, a fost adaugat doar ca "preview"
+* Fiecare casa va fi dotata cu: seif, garderoba, cheie la usa/garaj/poarta, panou de control iar unele si cu TV
+* Sunt marcate pe harta cu un blip specific
+* Mai multe detalii in zilele ce urmeaza
+- Creata posibilitatea de a adauga iteme in portbagaj/torpedou din server (pentru viitoarele sisteme)
+- De acum incolo daca nu iti platesti taxele ti se va interzice sa folosesti garajul/magazinele pana cand iti platesti taxele din K -> Jucator -> Plateste taxe
+- Adaugate mai multe loguri
+```
+
+**Bug fixes**
+```javascript
+- Rezolvat un exploit grav la zaruri
+- Rezolvat un bug care facea sa nu poti da afara membri ai factiunii daca sunt offline
+- Rezolvat un bug la referral care nu te lasa sa selectezi discord/master list
+- Rezolvat un bug la reporturi care facea sa nu te lase sa dai submit la feedback daca nu ai macar o litera scrisa
+```
+
+### Update 2.2.1
+Mesterit de: **xSLOW**
+Urmeaza multe luna asta ⏩ 
+**Features**
+```javascript
+- Imbunatatit sistemul de efecte accident
+- Acum ar trebui sa sara o roata daca faci accident
+- Warnul acum nu mai expira
+- Adaugata o masina high-speed la medici
+- Adaugate ghiozdane in toate magazinile de haine
+```
+
+**Bug fixes**
+```javascript
+- Rezolvata comanda /factiune
+- Rezolvat un bug la premiile zilnice care facea sa nu poti colecta anumite premii
+- Rezolvat un bug care facea ca sandking sa nu apara in garajul de autoutilitare
+- Rezolvat un bug care facea sa nu poti plati taxele din K -> jucator -> plateste taxe
+```
+
+### Update 2.2.2
+Mesterit de: **xSLOW**
+Quickfix
+**Features**
+```javascript
+- Actualizate sansele la miner in urma sugestiilor
+- Scazut numarul minim de politisti la 2 pentru a da jaf la magazin/atm
+- Scoasa ranga din magazinul de arme
+- Adaugata o animatie la crafting
+```
+
+**Bug fixes**
+```javascript
+- Rezolvata o problema la platirea cazierelor
+```
+
+### Update 2.2.3
+Mesterit de: **xSLOW**
+FORZA ELITEGAMERS!!!!!!!
+**Features**
+```javascript
+- Facut cel mai bomba sistem de jaf la case, de la 0:
+* Trebuie sa gasiti un NPC, mai 'hacker' asa care sa va dea ponturi
+* Se poate face in maxim 4 prieteni, prin noul sistem revolutionar de echipe
+* Tot jaful este sincron tuturor din echipa, unii pot sta de sapte, unii pot fura din casa, unu poate opri alarma, etc, voi stabiliti!
+* Jaful se va da la case reale, fara teleport, insa nu jucatorii care detin casa nu vor fi afectati
+* Daca nu reusiti sa dezactivati alarma la timp sau gresiti minigame-ul politia va fi alertata!
+
+- Adaugate 6 case noi in Mirrorpark
+- Redus damage-ul la revolver cu 50%
+- Dezactivat ragdoll (faci pe mortul) pentru ca nu luai damage
+- Politistii acum nu vor mai avea targa in masini (wtf?)
+- Puse codurile politistilor in partea stanga a ecranului
+
+- Creat un nou sistem de echipe inovativ care va fi folosit la jafuri, joburi pentru a promova interactiunea
+- Scazut consumul de combustibil la utilitare/dube/etc
+```
+
+**Bug fixes**
+```javascript
+-  Rezolvata armura
+```
+
+### Update 2.2.4
+Mesterit de: **xSLOW**
+
+**Features**
+```javascript
+- Crescuta sansa la masina la casino
+- Toate casele au acum garaj cu interior
+- Adaugate diverse lucruri pentru SOA
+- Scazut nr. minim de ore jucate pentru jafuri:
+* Jaf masini si magazine = 10h
+* Jaf bancomat = 20h
+* Jaf case obisnuite = 30h
+- Redus nr. de ore jucate pentru folosirea televizorului
+- Acum poti sterge masinile VIP la REMAT
+- Adaugat buton de oprire jaf la jaful de case
+```
+
+**Bug fixes**
+```javascript
+- Rezolvat un bug la echipe care facea sa iti dai singur kick din echipa
+```
+
+### Update 2.2.5
+Mesterit de: **xSLOW**
+
+**Features**
+```javascript
+- Adaugat un nou sistem genial facut de la 0 de jafuri de masini in 2 etape:
+* Etapa 1) Te duci la NPC de unde iti poti face echipa (maxim 2 persoane) si poti incepe jaful.
+Mai departe iti va aparea pe harta o zona aproximativa a masinii si vei primi o fotografie cu masina.
+Dupa ce ai gasit masina o poti descuia cu lockpick.
+* Etapa 2, optionala) Poti duce masina la dezmembrat, unde poti vinde rotile, usile, capota si portbagajul pe bani
+* Masina se poate folosi si la alte jafuri, nefiind gasita in baza de date a politiei
+
+- Actualizat timpul la crafting de arme/miner
+- Schimbat pretul la lockpick avansat
+
+- Jafurile la ATM acum necesita 10h iar cele de masini 20h
+```
+
+**Bug fixes**
+```javascript
+- Reparat bugul la jaful de case care facea ca punctele sa nu apara
+```
+
+### Update 2.2.6
+Mesterit de: **xSLOW**
+
+**Features**
+```javascript
+- Adaugata o sansa foarte mica ca atunci cand spargi usa unei masini sa alerteze politia
+- Crescuta dificultatea la hacking alarma la case, insa crescut timpul in care o poti dezactiva
+- Crescuta dificultatea la lockpick-uri case/masini
+- Scazuta putin sansa la lockpick avansat 
+* Toate aceste modificari au fost facute pentru a balansa gameplay-ul si pentru a fi fairplay
+```
+
+**Bug fixes**
+```javascript
+- Rezolvat un bug la hotul de masina care nu te lasa sa dezmembrezi masina pentru ca "masina nu exista"
+- Rezolvat un bug la masini care facea sa poti folosi masina fara sa legi firele
+- Rezolvat un alt bug la dezmembrari care facea ca masinile cu 2 usi sa aiba 4 usi
+```
+
+### Update 2.2.7
+Mesterit de: **xSLOW**
+
+**Features**
+```javascript
+- Actualizate imagini in garaje (si puse cele lipsa)
+- Adaugata o sansa mica sa alerteze politia cand legi firele
+- Facute masinile de la jaf persistente (nu se sterg atat timp cat sunt jucatori in zona)
+- Adaugat un cooldown la jafurile de magazine (sa nu poti da consecutiv la acelasi magazin)
+```
+
+**Bug fixes**
+```javascript
+- Reparat pontajul la mecanici (acum toate service-urile ar trebui sa aiba pontaj, comanda /raport)
+- Rezolvata o problema la garaje care te lasa sa spawnezi de 2 ori aceeasi masina iar portbagajul sa nu functioneze
+```
+
+# Update 2.2.9
+Mesterit de: **xSLOW** & **sNok3**
+
+**Features**
+```javascript
+- Actualizata lista hainelor de @dey
+- Crescute preturile la depozit in functie de zona pentru a favoriza detinerea unei case/org. neof. care are seif gratuit
+- Garajele si vehiculele acum sunt persistente. Daca scoti o masina din garaj aceasta va ramane pe server pana .cand aceasta va fi stearsa, indiferent daca dai relog sau nu. Rezolvat si un bug care facea sa nu iti poti localiza masina la relog
+- Adaugate mai multe verificari la ilegalitati pentru a evita fail rp-ul. Politistii/medicii nu vor putea interactiona cu aceste sisteme
+- Facute mici schimbari QOL
+```
+
+**Bug fixes**
+```javascript
+- Rezolvat un bug care facea sa iti dea alt VIP daca deja aveai unul la referral
+- Rezolvat un bug care facea sa sune alarma de mai multe ori la jaful de case daca spargeai incuietoarea mai multor usi
+- Rezolvat un bug la tuning care facea ca anumite culori sa nu fie salvate pe anumite masini
+- Rezolvate multiple buguri mici
+```
