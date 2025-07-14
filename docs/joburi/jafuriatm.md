@@ -5,7 +5,7 @@ outline: deep
 <img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0 auto; border-radius: 5%;">
 
 <style>
-  .box-table {
+  .eg-jaf-atm {
     background: linear-gradient(135deg, #1a1a1a 70%, #ff2323 100%);
     border: 2px solid #ff2323;
     border-radius: 10px;
@@ -16,32 +16,32 @@ outline: deep
     font-weight: 500;
     font-family: Arial, sans-serif;
   }
-  .box-table table {
+  .eg-jaf-atm table {
     width: 100%;
     border-collapse: separate;
     border-spacing: 0 10px;
   }
-  .box-table td {
+  .eg-jaf-atm td {
     background: rgba(255, 255, 255, 0.07);
     padding: 12px 18px;
     border-radius: 8px;
     vertical-align: top;
     color: #fff;
   }
-  .box-table td strong {
+  .eg-jaf-atm td strong {
     color: #ff5555;
   }
-  .box-table td ul {
+  .eg-jaf-atm td ul {
     margin: 0;
     padding-left: 20px;
   }
-  .box-table td ul li {
+  .eg-jaf-atm td ul li {
     margin-bottom: 6px;
   }
 </style>
 
 ### Ce presupune Jaful la ATM?
-<div class="box-table">
+<div class="eg-jaf-atm">
 <table>
 <tr><td>
 - <strong>Ce trebuie să știu la început?</strong><br>
@@ -56,7 +56,7 @@ outline: deep
 </div>
 
 ### Pregătirea
-<div class="box-table">
+<div class="eg-jaf-atm">
 <table>
 <tr><td>
 - Achiziționează bormașina.<br>
@@ -67,7 +67,7 @@ outline: deep
 </div>
 
 ### Spargerea ATM-ului
-<div class="box-table">
+<div class="eg-jaf-atm">
 <table>
 <tr><td>
 - Începe jaful și conectează-te la terminalul ATM.<br>
@@ -78,7 +78,7 @@ outline: deep
 </div>
 
 ### Alerte și Consecințe
-<div class="box-table">
+<div class="eg-jaf-atm">
 <table>
 <tr><td>
 - Poliția este alertată imediat ce un ATM este compromis.<br>
