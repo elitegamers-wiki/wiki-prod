@@ -23,8 +23,8 @@ outline: deep
 
 - Zona: West Eclipse Boulevard 
 - Strada: Edwood Way
-- Pret casa: 150 Bitcoins
-- Informatii: Intretinere 30 Bitcoins o data la 1 luna
+- Pret casa: 150 EG Coins
+- Informatii: Intretinere 30 EG Coins o data la 1 luna
 - Interior: https://imgur.com/a/SJfvFXN
 
  #### 3. LOS SANTOS -> GROVE STREET
@@ -32,8 +32,8 @@ outline: deep
 
 - Zona: Grove Street 
 - Strada: Forum Drive
-- Pret casa: 80 Bitcoins
-- Informatii: Intretinere 15 Bitcoins o data la 1 luna
+- Pret casa: 80 EG Coins
+- Informatii: Intretinere 15 EG Coins o data la 1 luna
 - Informatii: https://imgur.com/a/GE2QO3O
 
  #### 4. LOS SANTOS -> Mirror Park
@@ -59,8 +59,8 @@ outline: deep
 
 - Zona: Mirror Park 
 - Strada: Nikola
-- Pret casa: 100 Bitcoins
-- Informatii: Intretinere 20 Bitcoins o data la 1 luna
+- Pret casa: 100 EG Coins
+- Informatii: Intretinere 20 EG Coins o data la 1 luna
 - Interior: https://imgur.com/a/DUcaCbN
 
  #### 7. LOS SANTOS -> Mirror Park
@@ -68,8 +68,8 @@ outline: deep
 
 - Zona: Mirror Park 
 - Strada: Nikola
-- Pret casa: 100 Bitcoins
-- Informatii: Intretinere 20 Bitcoins o data la 1 luna
+- Pret casa: 100 EG Coins
+- Informatii: Intretinere 20 EG Coins o data la 1 luna
 - Interior: https://imgur.com/a/DUcaCbN
 
 
@@ -87,8 +87,8 @@ outline: deep
 
 - Zona: Mirror Park 
 - Strada: Nikola
-- Pret casa: 100 Bitcoins
-- Informatii: Intretinere 20 Bitcoins o data la 1 luna
+- Pret casa: 100 EG Coins
+- Informatii: Intretinere 20 EG Coins o data la 1 luna
 - Interior: https://imgur.com/a/gQccWA5
 
  #### 10. LOS SANTOS -> Vinewood
@@ -96,8 +96,8 @@ outline: deep
 
 - Zona: Vinewood 
 - Strada: Normandy Drive
-- Pret casa: 160 Bitcoins
-- Informatii: Intretinere 30 Bitcoins o data la 1 luna
+- Pret casa: 160 EG Coins
+- Informatii: Intretinere 30 EG Coins o data la 1 luna
 - Interior: https://imgur.com/a/xLnq6f5
 
  #### 11. LOS SANTOS -> Vinewood
@@ -105,8 +105,8 @@ outline: deep
 
 - Zona: Vinewood 
 - Strada: Ace Jones Drive
-- Pret casa: 250 Bitcoins
-- Informatii: Intretinere 50 Bitcoins o data la 1 luna
+- Pret casa: 250 EG Coins
+- Informatii: Intretinere 50 EG Coins o data la 1 luna
 - Interior: https://imgur.com/a/AfE2x45
 
  #### 12. LOS SANTOS -> Vinewood
@@ -114,8 +114,8 @@ outline: deep
 
 - Zona: Vinewood 
 - Strada: WhispyMound Drive
-- Pret casa: 175 Bitcoins
-- Informatii: Intretinere 35 Bitcoins o data la 1 luna
+- Pret casa: 175 EG Coins
+- Informatii: Intretinere 35 EG Coins o data la 1 luna
 - Interior: https://imgur.com/a/7RKEqVT
 
  #### 13. LOS SANTOS -> Vinewood
@@ -123,7 +123,6 @@ outline: deep
 
 - Zona: North Rockford Drive 
 - Strada: Americano Way
-- Pret casa: 150 Bitcoins
-- Informatii: Intretinere 30 Bitcoins o data la 1 luna
+- Pret casa: 150 EG Coins
+- Informatii: Intretinere 30 EG Coins o data la 1 luna
 - Interior: https://imgur.com/a/dBseAbu
-
