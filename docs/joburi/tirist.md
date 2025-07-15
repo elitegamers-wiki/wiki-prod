@@ -4,7 +4,7 @@ outline: deep
 
 <div class="eg-tirist">
 
-<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0 auto 30px auto; border-radius: 5%; border: 2px solid #ff2323; box-shadow: 0 0 15px rgba(255, 35, 35, 0.7);">
+<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0 auto 30px auto; border-radius: 5%;">
 
 <style>
 .eg-tirist {
