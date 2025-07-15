@@ -2,39 +2,148 @@
 outline: deep
 ---
 
-<img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
+<style>
+  /* Logo sus, centrat */
+  .eg-casino-logo {
+    display: block;
+    margin: 40px auto 20px auto;
+    width: 256px;
+    height: 256px;
+    border-radius: 5%;
+    user-select: none;
+  }
 
+  /* Titlu principal */
+  .eg-casino-main-title {
+    text-align: center;
+    font-size: 2.8rem;
+    font-weight: 900;
+    color: #e63946;
+    text-shadow:
+      0 0 4px #b22222;
+    margin-bottom: 50px;
+    user-select: none;
+  }
 
----
-### <center><span style="color: #e63946; font-size: 2.5rem;">Despre Casino</span></center>
+  /* Carduri principale */
+  .eg-casino-card {
+    background-color: #1c1c1c;
+    border-radius: 18px;
+    box-shadow:
+      0 4px 10px rgba(230, 57, 70, 0.25);
+    margin: 0 auto 40px auto;
+    max-width: 1000px;
+    padding: 25px 35px;
+    transition: box-shadow 0.3s ease;
+  }
+  .eg-casino-card:hover {
+    box-shadow:
+      0 6px 15px rgba(230, 57, 70, 0.4);
+  }
 
-Casino-ul este locul unde jucătorii pot încerca să-și mărească averea sau, din contră, să piardă totul. Este un spațiu dedicat celor pasionați de jocurile de noroc și distracție, aducând un plus de adrenalină în viața de zi cu zi a orașului.
-- Aici vei găsi jocuri de noroc variate, cum ar fi blackjack, poker, ruletă și slot machines. Atenție! Jocurile de noroc pot fi riscante, iar pierderile financiare pot fi semnificative. Casino-ul este locul ideal pentru cei care vor să socializeze, să facă alianțe sau să trăiască momente de suspans.
+  /* Subtitlu card */
+  .eg-casino-card-title {
+    font-size: 2rem;
+    font-weight: 800;
+    background: linear-gradient(90deg, #ff3333, #b22222);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 20px;
+    user-select: none;
+  }
 
-### <center><span style="color: #e63946; font-size: 1.5rem;">Interiorul din casino</span></center>
+  /* Text paragraf */
+  .eg-casino-text {
+    font-size: 1.15rem;
+    line-height: 1.7;
+    color: #ddd;
+    margin-bottom: 20px;
+  }
 
-<img src="../public/casino/casino_interior.webp" alt="Interior Casino" width="1290" height="1080" style="display: block; margin: 0 auto; border-radius: 5%; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.6);">
+  /* Listă personalizată */
+  .eg-casino-list {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 20px;
+  }
+  .eg-casino-list li {
+    position: relative;
+    padding-left: 1.8em;
+    margin-bottom: 12px;
+    color: #eee;
+  }
+  .eg-casino-list li::before {
+    content: "🎰";
+    position: absolute;
+    left: 0;
+    font-size: 1.3rem;
+  }
 
-### <center><span style="color: #e63946; font-size: 1.5rem;">Magazin de unde poti cumpara bauturi sau mancare</span></center>
+  /* Imagini în card */
+  .eg-casino-img {
+    width: 100%;
+    border-radius: 14px;
+    box-shadow: 0 3px 10px rgba(230, 57, 70, 0.3);
+    margin: 15px 0 0 0;
+    transition: transform 0.3s ease;
+  }
+  .eg-casino-img:hover {
+    transform: scale(1.03);
+    box-shadow: 0 6px 18px rgba(230, 57, 70, 0.45);
+  }
+</style>
 
-<img src="../public/casino/casier.webp" alt="Interior Casino" width="1290" height="1080" style="display: block; margin: 0 auto; border-radius: 5%; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.6);">
+<!-- Logo sus -->
+<img src="../public/elitegamers.png" alt="Logo EliteGamers" class="eg-casino-logo" />
 
-### <center><span style="color: #e63946; font-size: 1.5rem;">De unde cumperi chips-uri?</span></center>
+<h1 class="eg-casino-main-title">Despre Casino</h1>
 
+<!-- Card 1 -->
+<section class="eg-casino-card">
+  <h2 class="eg-casino-card-title">Ce este Casino-ul?</h2>
+  <p class="eg-casino-text">
+    Casino-ul este locul unde jucătorii pot încerca să-și mărească averea sau, din contră, să piardă totul. Este un spațiu dedicat celor pasionați de jocurile de noroc și distracție, aducând un plus de adrenalină în viața de zi cu zi a orașului.
+  </p>
+  <ul class="eg-casino-list">
+    <li>Jocuri de noroc variate: ruletă și slot machines.</li>
+    <li>Atenție la riscurile pierderilor financiare semnificative.</li>
+    <li>Loc ideal pentru socializare și momente pline de suspans.</li>
+  </ul>
+</section>
 
-- Chips-urile se cumpara de la cashier, asa cum reiese si din gif-ul de mai jos:
+<!-- Card 2 -->
+<section class="eg-casino-card">
+  <h2 class="eg-casino-card-title">Interiorul din casino</h2>
+  <img src="../public/casino/casino_interior.webp" alt="Interior Casino" class="eg-casino-img" />
+</section>
 
-<img src="../public/casino/chips.gif" alt="Interior Casino" width="1290" height="1080" style="display: block; margin: 0 auto; border-radius: 5%; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.6);">
+<!-- Card 3 -->
+<section class="eg-casino-card">
+  <h2 class="eg-casino-card-title">Magazin pentru băuturi și mâncare</h2>
+  <img src="../public/casino/casier.webp" alt="Magazin Casino" class="eg-casino-img" />
+</section>
 
-### <center><span style="color: #e63946; font-size: 1.5rem;">Lucky Wheel</span></center>
+<!-- Card 4 -->
+<section class="eg-casino-card">
+  <h2 class="eg-casino-card-title">De unde cumperi chips-uri?</h2>
+  <p class="eg-casino-text">Chips-urile se cumpără de la cashier, așa cum se vede și în gif-ul de mai jos:</p>
+  <img src="../public/casino/chips.gif" alt="Cumparare chips Casino" class="eg-casino-img" />
+</section>
 
-- Principala atractie din casino este cea prin care iti poti consuma banii la roata norocului pentru a castiga o masina exclusiva insa sansele sunt extrem de mici asa ca trebuie sa incerci de mai multe ori:
+<!-- Card 5 -->
+<section class="eg-casino-card">
+  <h2 class="eg-casino-card-title">Lucky Wheel</h2>
+  <p class="eg-casino-text">
+    Principala atracție este roata norocului, unde poți consuma bani pentru a câștiga o mașină exclusivă. Șansele sunt mici, dar merită încercat de mai multe ori!
+  </p>
+  <img src="../public/casino/roata_casino.gif" alt="Roata norocului Casino" class="eg-casino-img" />
+</section>
 
-<img src="../public/casino/roata_casino.gif" alt="Interior Casino" width="1290" height="1080" style="display: block; margin: 0 auto; border-radius: 5%; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.6);">
-
-### <center><span style="color: #e63946; font-size: 1.5rem;">Slot machines</span></center>
-
-- Ai posibilitatea de a juca la aparate pentru a dubla banii dar poti sa ii si pierzi:
-
-<img src="../public/casino/slots.gif" alt="Interior Casino" width="1290" height="1080" style="display: block; margin: 0 auto; border-radius: 5%; box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.6);">
-
+<!-- Card 6 -->
+<section class="eg-casino-card">
+  <h2 class="eg-casino-card-title">Slot Machines</h2>
+  <p class="eg-casino-text">
+    Poți juca la aparate pentru a dubla banii, dar există și riscul să-i pierzi.
+  </p>
+  <img src="../public/casino/slots.gif" alt="Slot machines Casino" class="eg-casino-img" />
+</section>
