@@ -4,7 +4,8 @@ outline: deep
 
 <div class="eg-tirist">
 
-<img src="../public/elitegamers.png" alt="logoEG" width="300" style="display:block; margin: 0 auto;">
+<!-- LOGO CLAR, FĂRĂ COLȚURI/MARGINI -->
+<img src="../public/elitegamers.png" alt="logoEG" width="300" class="eg-logo">
 
 <style>
 .eg-tirist {
@@ -13,6 +14,18 @@ outline: deep
   padding: 1rem;
 }
 
+/* Logo-ul să nu fie afectat de stilul pentru restul imaginilor */
+.eg-tirist .eg-logo {
+  display: block;
+  margin: 0 auto;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Stil pentru boxuri roșii tematice */
 .eg-tirist .eg-box {
   max-width: 700px;
   margin: 20px auto;
@@ -23,19 +36,20 @@ outline: deep
   color: #fff;
 }
 
-.eg-tirist .eg-box ul {
-  line-height: 1.6;
-  font-size: 1.1em;
-  padding-left: 1.3em;
-}
-
-.eg-tirist img {
+/* Stil doar pentru imaginile normale (nu logo-ul) */
+.eg-tirist img:not(.eg-logo) {
   border-radius: 8px;
   border: 2px solid #ff2323;
   max-width: 100%;
   height: auto;
   display: block;
   margin: 1rem auto;
+}
+
+.eg-tirist .eg-box ul {
+  line-height: 1.6;
+  font-size: 1.1em;
+  padding-left: 1.3em;
 }
 
 .eg-tirist ul {
