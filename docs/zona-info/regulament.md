@@ -428,7 +428,7 @@ Warn/Jail/Ban termporar
 :::
 
 ### 3.2 JAF/FURT AUTO
-- Jaful/furtul asupra autovehiculelor este permis doar după acumularea unui număr de 50
+- Jaful/furtul asupra autovehiculelor este permis doar după acumularea unui număr de 10
 de ore IC.
 - Jafurile/furturile asupra autovehiculelor sunt permise doar dacă în proximitatea
 mașinilor vizate nu se află și alte persoane.
@@ -439,7 +439,8 @@ Warn/Jail
 :::
  
 ### 3.3 JAF BANCOMATE/MAGAZINE
-- Jaful asupra bancomatelor și a magazinelor sunt permise doar după acumularea a 50 de
+- Jaful asupra magazinelor este permis doar după acumularea a 10 ore IC.
+- Jaful asupra bancomatelor sunt permis doar după acumularea a 20 de
 ore IC.
 - Nu aveți voie să jefuiți un bancomat sau un magazin atât timp cât la bancomat sau în
 magazin se află alte persoane.
