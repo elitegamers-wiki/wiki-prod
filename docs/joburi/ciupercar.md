@@ -56,8 +56,8 @@ Skill-uri disponibile:
   <li>Vei avea nevoie de 10 ore pentru a putea practica acest job.</li>
   <li>Nu există restricții în legătură cu transportul folosit.</li>
   <li>Plata este în funcție de tipul de ciupercă vândută.</li>
-  <li>Pentru a transforma ciupercile halucinogene vei trebui să ajungi la ferma din Grapesee.</li>
-  <li>Vei fi obligat să folosești uniforma specifică pe care o poți primi de la NPC-ul de la Bayview Lodge (poză mai jos).</li>
+  <li>Pentru a transforma ciupercile halucinogene trebuie să ajungi la ferma din Grapeseed.</li>
+  <li>Vei fi obligat să folosești uniforma specifică pe care o poți primi de la NPC-ul Sef.</li>
 </ul>
 
 :::details Uniforma Ciupercar
