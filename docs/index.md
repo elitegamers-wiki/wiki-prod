@@ -114,7 +114,7 @@ onMounted(() => {
 <div class="eg-cards-team">
 
   <div class="eg-card">
-    <img src="https://media.discordapp.net/attachments/836253183403753503/1394279829884375071/20171005_133659.jpg?ex=68763bc7&is=6874ea47&hm=44515bb1a2452e1cdf8db773f15a92404e0db9d54290a22ca4abad3d6702b967&=&format=webp&width=720&height=960" alt="Quo" />
+    <img src="/public/quo.jpg" alt="Quo" />
     <div class="eg-name">Quo</div>
     <div class="eg-role">Fondator</div>
     <span class="eg-badge red">Founder</span>
