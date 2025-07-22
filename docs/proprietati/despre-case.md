@@ -79,7 +79,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
   <ul>
     <li><strong>Zona:</strong> West Eclipse Boulevard</li>
     <li><strong>Preț:</strong> 150 EG Coins</li>
-    <li><strong>Întreținere:</strong> 30 EG Coins/lună</li>
+    <li><strong>Întreținere:</strong> 15 EG Coins/lună</li>
     <li><strong>Interior:</strong> <a href="https://imgur.com/a/SJfvFXN" target="_blank">Vezi</a></li>
   </ul>
 </div>
@@ -92,7 +92,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
   <ul>
     <li><strong>Zona:</strong> Forum Drive</li>
     <li><strong>Preț:</strong> 80 EG Coins</li>
-    <li><strong>Întreținere:</strong> 15 EG Coins/lună</li>
+    <li><strong>Întreținere:</strong> 10 EG Coins/lună</li>
     <li><strong>Interior:</strong> <a href="https://imgur.com/a/GE2QO3O" target="_blank">Vezi</a></li>
   </ul>
 </div>
@@ -131,7 +131,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
   <ul>
     <li><strong>Zona:</strong> Mirror Park - Nikola</li>
     <li><strong>Preț:</strong> 100 EG Coins</li>
-    <li><strong>Întreținere:</strong> 20 EG Coins/lună</li>
+    <li><strong>Întreținere:</strong> 10 EG Coins/lună</li>
     <li><strong>Interior:</strong> <a href="https://imgur.com/a/DUcaCbN" target="_blank">Vezi</a></li>
   </ul>
 </div>
@@ -144,7 +144,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
   <ul>
     <li><strong>Zona:</strong> Mirror Park - Nikola</li>
     <li><strong>Preț:</strong> 100 EG Coins</li>
-    <li><strong>Întreținere:</strong> 20 EG Coins/lună</li>
+    <li><strong>Întreținere:</strong> 10 EG Coins/lună</li>
     <li><strong>Interior:</strong> <a href="https://imgur.com/a/DUcaCbN" target="_blank">Vezi</a></li>
   </ul>
 </div>
@@ -170,7 +170,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
   <ul>
     <li><strong>Zona:</strong> Mirror Park - Nikola</li>
     <li><strong>Preț:</strong> 100 EG Coins</li>
-    <li><strong>Întreținere:</strong> 20 EG Coins/lună</li>
+    <li><strong>Întreținere:</strong> 10 EG Coins/lună</li>
     <li><strong>Interior:</strong> <a href="https://imgur.com/a/gQccWA5" target="_blank">Vezi</a></li>
   </ul>
 </div>
@@ -183,7 +183,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
   <ul>
     <li><strong>Zona:</strong> Vinewood - Normandy Drive</li>
     <li><strong>Preț:</strong> 160 EG Coins</li>
-    <li><strong>Întreținere:</strong> 30 EG Coins/lună</li>
+    <li><strong>Întreținere:</strong> 15 EG Coins/lună</li>
     <li><strong>Interior:</strong> <a href="https://imgur.com/a/xLnq6f5" target="_blank">Vezi</a></li>
   </ul>
 </div>
@@ -196,7 +196,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
   <ul>
     <li><strong>Zona:</strong> Vinewood - Ace Jones Drive</li>
     <li><strong>Preț:</strong> 250 EG Coins</li>
-    <li><strong>Întreținere:</strong> 50 EG Coins/lună</li>
+    <li><strong>Întreținere:</strong> 25 EG Coins/lună</li>
     <li><strong>Interior:</strong> <a href="https://imgur.com/a/AfE2x45" target="_blank">Vezi</a></li>
   </ul>
 </div>
@@ -209,7 +209,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
   <ul>
     <li><strong>Zona:</strong> Vinewood - WhispyMound Drive</li>
     <li><strong>Preț:</strong> 175 EG Coins</li>
-    <li><strong>Întreținere:</strong> 35 EG Coins/lună</li>
+    <li><strong>Întreținere:</strong> 20 EG Coins/lună</li>
     <li><strong>Interior:</strong> <a href="https://imgur.com/a/7RKEqVT" target="_blank">Vezi</a></li>
   </ul>
 </div>
@@ -222,7 +222,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
   <ul>
     <li><strong>Zona:</strong> North Rockford Drive - Americano Way</li>
     <li><strong>Preț:</strong> 150 EG Coins</li>
-    <li><strong>Întreținere:</strong> 30 EG Coins/lună</li>
+    <li><strong>Întreținere:</strong> 15 EG Coins/lună</li>
     <li><strong>Interior:</strong> <a href="https://imgur.com/a/dBseAbu" target="_blank">Vezi</a></li>
   </ul>
 </div>
