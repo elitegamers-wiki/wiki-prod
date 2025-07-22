@@ -50,6 +50,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
   <ul>
     <li>Telefon: 0713943854</li>
     <li>Aplicația Albastră: <strong>Crixus99</strong></li>
+    <li>INFO: Dacă plata întreținerii întârzie cu mai mult de 5 zile, proprietatea va fi pierdută.</li>
   </ul>
 </div>
 
