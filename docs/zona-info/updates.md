@@ -1275,3 +1275,23 @@ Mesterit de: **xSLOW**
 - Acum la politie nu ar mai trebuie sa fie probleme cu pusul/scosul din masina fortat
 
 ```
+
+# Update 2.3.6
+Mesterit de: **xSLOW**
+
+**Features**
+```javascript
+- Rescris sistemul de benzinarie pastrand aceleasi mecanici. Imbunatatita si interfata grafica. Optimizate diverse.
+- Admin jail acum ar trebui sa mearga si daca jucatorul este offline
+- Scoase yacht-urile si harta de airsoft de_yacht
+- Diverse imbunatatiri mici (mapping, scripturi, etc)
+```
+
+**Bug fixes**
+```javascript
+- Rescris sistemul de accidente pentru a rezolva multiple buguri
+- Rezolvat un bug la misiuni care facea sa nu ti se completeze misiunea daca mai aveai una la fel
+- Rezolvat un bug la portbagaje/torpedouri care facea sa iti dispara itemele daca puneai itemele in vehicul imediat cum era spawnat
+- Incercat a fi rezolvat un bug care facea ca la anumite livrari sa-ti spuna ca esti prea departe de livrare
+```
+||@everyone||
