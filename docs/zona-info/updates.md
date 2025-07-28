@@ -1129,7 +1129,7 @@ Mesterit de: **xSLOW**
 - Rezolvata o problema la garaje care te lasa sa spawnezi de 2 ori aceeasi masina iar portbagajul sa nu functioneze
 ```
 
-# Update 2.2.9
+### Update 2.2.9
 Mesterit de: **xSLOW** & **sNok3**
 
 **Features**
@@ -1147,4 +1147,131 @@ Mesterit de: **xSLOW** & **sNok3**
 - Rezolvat un bug care facea sa sune alarma de mai multe ori la jaful de case daca spargeai incuietoarea mai multor usi
 - Rezolvat un bug la tuning care facea ca anumite culori sa nu fie salvate pe anumite masini
 - Rezolvate multiple buguri mici
+```
+
+### Update 2.3.0
+Mesterit de: **xSLOW** & **sNok3**
+
+**Features**
+```javascript
+- SMIR si Politia acum nu se mai vad pe harta
+- Politia acum poate da coduri pentru SMIR prin /cod3 (si inlocuite codurile pe culoare cu coduri numerice)
+- Mafiile nu mai au acces la trusa si spitalul de mafioti din LS a fost dezactivat
+- Actualizate orele minime pentru jaful de masini
+- Adaugate haine staff pentru fete si o masca noua in tinuta
+- Adaugat un rifle nou la politie, supressor si un mic scope
+- 
+```
+
+**Bug fixes**
+```javascript
+- Rezolvat un bug la contracte de vanzare masini
+- Acum pe cayo se pot scoate doar vehicule pentru Cayo (bug)
+- Rezolvat un bug care facea ca atunci cand iti platesti taxele la reconectare sa tot ai poprire pe cont
+- Rezolvat un bug la garaje care nu te lasa sa faci diverse actiuni spunand ca masina nu este a ta
+- Rezolvata o eroare la kilometrajul masinii
+```
+
+### Update 2.3.1
+Mesterit de: **xSLOW**
+
+**Features**
+```javascript
+- Marite consistent salariile la toate joburile legale pentru a incuraja joburile legale
+- Adaugate loguri complexe pentru transferul de iteme
+- Actualizata lista de haine accesibile de Ana
+- Scazute orele minime pentru miner 2 la 300 de ore jucate
+```
+
+**Bug fixes**
+```javascript
+- No bugs, we call them features
+```
+
+### Update 2.3.2
+Mesterit de: **xSLOW**
+
+**Features**
+```javascript
+- Mutat ciupercarul din Paleto in LS (cu tot cu NPC, vanzare ciuperci ilegale, garaj, etc)
+- Adaugata comanda /warp la mod+
+- Scazut damage la revolver si scazut recoil la carabina politiei
+- Adaugat un skillcheck la crafting la fiecare 10 minute pentru anti AFK
+- Creat un sistem (inca in lucru) care va imbunatati handling masinilor pe viitor si va face tuningul sa merite cumparat la orice masina.
+```
+
+**Bug fixes**
+```javascript
+- No bugs, we call them features
+```
+
+### Update 2.3.3
+Mesterit de: **xSLOW** & **sNok3**
+
+**Features**
+```javascript
+- Marit seiful caselor foarte mult. Toate casele incep de la 1000kg si pot ajunge la 3000kg in functie de casa.
+- Actualizata zona ciupercar cu una mai aproape de LS (by Paul)
+- Adaugat defibrilator la SOA
+- Crescut damage la revolver
+- Adaugate kituri de reparatie motor & roti politistilor in armurarie
+- Politistii si medicii acum se pot vedea live pe harta si minimapa
+- Actualizat craftingul pentru bara de otel pentru ca ii lipsea carbunele ca material
+- Hudul de statistici este acum dezactivat by default (comanda /hudstats)
+- Amenzile acum nu se mai pun ca si cazier
+- Adaugat buton de ancora in meniul de pe O
+- De fiecare data cand mori arma nu iti va mai ramane in mana
+- Adaugate multiple loguri noi
+```
+
+**Bug fixes**
+```javascript
+- Reparat un bug la ciupercar care facea ca anumite ciuperci sa fie sub pamant
+- Rezolvat un bug la service-uri care facea ca raza sa fie mult prea mare
+- Rezolvata o eroare atunci cand primeai iteme cu inventarul full
+- Rezolvat un bug la contracte
+```
+
+### Update 2.3.4
+Mesterit de: **xSLOW**
+
+**Features**
+```javascript
+- Facut un update major la inventar care rezolva multiple buguri, aduce optimizari noi si securitate sporita. Daca apar probleme va rog sa faceti un bug report pe discord. Daca este grav va rog sa-mi scrieti in DM.
+- Actualizate sansele la miner.
+- Adaugat un pistol nou la politie, pistol50 (deagle) pentru a echilibra PVP-ul dintre ei si gruparile mafiote.
+- Dezactivate apelurile SMIR temporar deoarece SMIR-ul a fost fuzionat cu politia. Va rog sunati la politie daca aveti nevoie de asistenta medicala.
+- Modificate multiple lucruri la garaj pentru o mai buna persistenta a vehiculelor.
+```
+
+**Bug fixes**
+```javascript
+- Rezolvat un bug major la masini care facea ca uneori sa nu poti accesa portbagajul/torpedoul pana la relog.
+- Rezolvat un bug la codurile de politie care facea sa nu apara pe harta.
+```
+
+### Update 2.3.5
+Mesterit de: **xSLOW**
+
+**Features**
+```javascript
+- Redus pretul intretinerii caselor cu EG coins cu 50%
+- De acum nu se mai pot tuna masinile de job
+- Adaugat la airsoft harta de_dust2 (mersi iann)
+- Acum daca iti schimbi jobul se opreste automat cel vechi fara a fi nevoie sa-l opresti manual
+- Acum daca iti iei glont in masina nu mai primesti efectul de accident (trebuie testat)
+- Acum nu mai poti da hack alarmei de la jaf case daca este oprita/a fost activata
+```
+
+**Bug fixes**
+```javascript
+- Acum nu ar mai trebui sa iei ban de la artificiile date de admini
+- La livrari nu mai dispare ruta de la checkpoint de pe GPS
+- Rezolvat un bug la portbagaj/torpedou care facea ca nr. de kg sa fie gresit
+- Acum cand folosesti statia de pe burta nu se mai buguieste animatia
+- Rezolvat un bug la plantatii care facea ca uneori sa nu fie sincronizate plantele tuturor jucatorilor
+- Rezolvat un bug la parasuta care facea sa nu o poti folosi deloc
+- Rezolvat un bug care facea ca la kick/ban/warn mesajul sa fie trunchiat
+- Acum la politie nu ar mai trebuie sa fie probleme cu pusul/scosul din masina fortat
+
 ```
