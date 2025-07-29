@@ -30,8 +30,8 @@ outline: deep
 
 - Zona:  ROCKFORD HILLS
 - Strada: EASTBOURNE WAY
-- Pret afacere: 7.000.000€
-- Informatii: Intretinere 500.000€ o data la 2 saptamani
+- Pret afacere: 4.000.000€
+- Informatii: Intretinere 350.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/lTRmleL)
 
 #### SERVICE AUTO -> GRAND SENORA DESERT
@@ -75,6 +75,6 @@ outline: deep
 
 - Zona:  Voodoo Place
 - Strada: Signal Street
-- Pret afacere: 800.000€
+- Pret afacere: 1.500.000€
 - Informatii: Intretinere 200.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/WeWszY9)
