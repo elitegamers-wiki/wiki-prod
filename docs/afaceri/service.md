@@ -52,15 +52,6 @@ outline: deep
 - Informatii:  Intretinere 150.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/iptuEYN)
 
-#### SERVICE AUTO -> EAST LOS SANTOS
-<img src="../public/locatii/service/sv_eastls3.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
-
-- Zona:  EAST LOS SANTOS
-- Strada: EL RANCHO  BOULEVARD
-- Pret afacere: 9.000.000€
-- Informatii: Intretinere 700.000€ o data la 2 saptamani
-- Harta: [APASA AICI](https://imgur.com/gbvL0zv)
-
 #### SERVICE AUTO -> BENNY'S ORIGINAL - OCUPATA
 <img src="../public/locatii/service/sv_bennys.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
