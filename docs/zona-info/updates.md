@@ -1294,4 +1294,3 @@ Mesterit de: **xSLOW**
 - Rezolvat un bug la portbagaje/torpedouri care facea sa iti dispara itemele daca puneai itemele in vehicul imediat cum era spawnat
 - Incercat a fi rezolvat un bug care facea ca la anumite livrari sa-ti spuna ca esti prea departe de livrare
 ```
-||@everyone||
