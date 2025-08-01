@@ -83,9 +83,9 @@ Pe server avem 3 pachete VIP:
 
 | VIP Level     | 💰 Preț        | 🆘 Suport | 🚀 Boost Job | 🎖️ Grade Discord & FiveM | 💵 Bani în joc | 💼 Bonus Salariu | 🎫 BattlePass | 🚪 Prioritate Coada |
 | ------------- | :-----------: | :------: | :----------: | :-----------------------: | :-----------: | :--------------: | :-----------: | :-----------------: |
-| **Silver**    | 7 EG COINS    | ✅        | +5%          | ✅                        | $25.000       | $1.000           | ❌            | Tier 1              |
-| **Gold**      | 13 EG COINS   | ✅        | +7%          | ✅                        | $50.000       | $2.000           | ✅            | Tier 2              |
-| **Platinum**  | 20 EG COINS   | ✅        | +10%         | ✅                        | $100.000      | $3.000           | ✅            | Tier 3              |
+| **Silver**    | 7 EG COINS    | ✅        | +5%          | ✅                        | $75.000       | $2.000           | ❌            | Tier 1              |
+| **Gold**      | 13 EG COINS   | ✅        | +7%          | ✅                        | $150.000       | $3.500           | ✅            | Tier 2              |
+| **Platinum**  | 20 EG COINS   | ✅        | +10%         | ✅                        | $250.000      | $5.000           | ✅            | Tier 3              |
 
 ---
 
@@ -122,6 +122,8 @@ Pe server avem 3 pachete VIP:
       <li>Peptos 911 RS</li>
       <li>Elegy RH35</li>
       <li>Pegassi Zentorno VSJ</li>
+      <li>Barca Speeder</li>
+      <li>Elicopter Sparrow</li>
       <li><strong>+ toate mașinile de la Gold</strong></li>
     </ul>
   </div>
