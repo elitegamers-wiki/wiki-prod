@@ -57,6 +57,7 @@ Uneori, cel mai simplu mod de a face rost de bani rapid e să intri cu tupeu și
 <ul>
   <li><strong>Un pistol (cu gloanțe)</strong> – pentru a intimida casierul.</li>
   <li>Locațiile magazinelor sunt IC și trebuie descoperite prin explorare sau informații roleplay.</li>
+  <li>Ai nevoie de <strong>10 ore jucate pe server</strong>.</li>
 </ul>
 </td></tr>
 </table>

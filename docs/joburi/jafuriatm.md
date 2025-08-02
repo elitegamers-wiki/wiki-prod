@@ -47,9 +47,11 @@ outline: deep
 - <strong>Ce trebuie să știu la început?</strong><br>
 - Jaful la ATM este o activitate de mare risc, dar cu potențial profitabil.<br>
 - Nu ai nevoie de echipă – acest jaf se face <strong>individual</strong>.<br>
-- Ai nevoie doar de un singur obiect:<br>
+- Ai nevoie de:<br>
 <ul>
-  <li><strong>Bormașină</strong>, pe care o poți cumpăra de la Homedepot (locație IC).</li>
+  <li><strong>O bormașină</strong>, pe care o poți cumpăra de la Homedepot (locație IC).</li>
+  <li>Ai nevoie de <strong>10 ore jucate pe server</strong>.</li>
+
 </ul>
 </td></tr>
 </table>

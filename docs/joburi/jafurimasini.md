@@ -34,6 +34,7 @@ outline: deep
     <li><strong>NPC-ul Nelu</strong>: Dacă dai peste Nelu (undeva prin oraș), el te poate pune pe o pistă ilegală. Restul ține de tine.</li>
     <li><strong>Maximum 2 persoane</strong> pot participa la un jaf.</li>
     <li>Ai nevoie de câteva <strong>lockpick-uri</strong>.</li>
+    <li>Ai nevoie de <strong>10 ore jucate pe server</strong>.</li>
   </ul>
 </div>
 

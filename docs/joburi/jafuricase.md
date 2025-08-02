@@ -40,6 +40,28 @@ outline: deep
   }
 </style>
 
+<div align="center">
+
+# <span style="font-size:1.5em; color:#ff2323;">Jaful la casele normale</span>
+
+</div>
+
+<div class="eg-jaf-case" style="margin-bottom: 32px;">
+  <table>
+    <tr>
+      <td>
+        <span style="font-size:1.2em; color:#ff2323;"><strong>Tipuri de jafuri la case</strong></span><br>
+        Pe server există <strong>2 tipuri de jafuri la case</strong>:<br>
+        <ul>
+          <li><strong>Case normale</strong> – jafuri standard, accesibile cu unelte de bază.</li>
+          <li><strong>Case de lux</strong> – jafuri avansate, necesită echipament special și mai multă experiență.</li>
+        </ul>
+        Fiecare tip are reguli, cerințe și recompense diferite. Alege cu atenție și pregătește-te pentru provocări!
+      </td>
+    </tr>
+  </table>
+</div>
+
 ### Ce trebuie să știu la început?
 <div class="eg-jaf-case">
 <table>
@@ -51,6 +73,8 @@ outline: deep
   <li><strong>Telefon</strong> – pentru dezactivarea alarmei.</li>
   <li><strong>Rangă (crowbar)</strong></li>
   <li><strong>Advanced Lockpick</strong> – pentru intrarea în locuință. (Se găsește la Homedepot)</li>
+  <li>Ai nevoie de câteva <strong>lockpick-uri</strong>.</li>
+  <li>Ai nevoie de <strong>30 ore jucate pe server</strong>.</li>
 </ul>
 </td></tr>
 </table>
@@ -107,6 +131,23 @@ outline: deep
 <ul>
   <li>Bijuterii, bunuri de valoare, sau alte obiecte importante.</li>
   <li>Unele pot fi ascunse bine, așa că explorează cu atenție.</li>
+</ul>
+</td></tr>
+</table>
+</div>
+
+# <span style="font-size:1.5em; color:#ff2323;">Jaful la casele de lux</span>
+<div class="eg-jaf-case">
+<table>
+<tr><td>
+- Totul se face <strong>IC</strong>. NPC-ul principal este <strong>Lester</strong> – îl găsești doar în joc, prin interacțiune roleplay.<br>
+- Poți face jaful singur sau într-o echipă de maximum <strong>3 persoane</strong>.<br>
+- Ai nevoie de:<br>
+<ul>
+  <li><strong>Tableta Hacking</strong> – pentru dezactivarea alarmei.</li>
+  <li><strong>Advanced Lockpick</strong> – pentru intrarea în locuință. (Se găsește la Homedepot)</li>
+  <li>Ai nevoie de câteva <strong>lockpick-uri</strong>.</li>
+  <li>Ai nevoie de <strong>50 ore jucate pe server</strong>.</li>
 </ul>
 </td></tr>
 </table>
