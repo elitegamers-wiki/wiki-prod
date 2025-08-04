@@ -256,12 +256,26 @@ Amendă (180 € – 1800 €) + 5 Puncte de penalizare
 :::danger Atentie!
 - Amendă (500 € – 5000 €) + Închisoare (60 min)
 :::
+
 #### Art. 4.6 Distrugerea
 
 **(1) Degradarea, deteriorarea sau aducerea în stare de nefolosire a unui bun aparținând altuia.**
 :::danger Atentie!
 - Amendă (300 € – 3000 €) + Închisoare (15 min)
 :::
+
+#### Art 4.7 Jaf Case Normale / Lux
+(1) Tentativa de pătrundere prin efracție în case normale sau de lux cu scopul de a fura obiecte de valoare.
+:::danger Atentie!
+- Amendă (2000 € – 20000 €) + Închisoare (60 min)
+:::
+
+#### Art 4.8 Jaful asupra vehiculelor
+(1) Tentativa de acces neautorizat, spargere sau furt a autovehiculelor și altor mijloace de transport.
+:::danger Atentie!
+- Amendă (300 € – 3000 €) + Închisoare (30 min)
+:::
+
 # CAP. 5 INFRACȚIUNI CONTRA ORDINII ȘI LINIȘTII PUBLICE
 
 #### Art. 5.1 Deranjarea liniștii publice
