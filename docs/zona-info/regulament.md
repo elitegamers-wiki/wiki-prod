@@ -428,7 +428,7 @@ Warn/Jail/Ban termporar
 :::
 
 ### 3.2 JAF/FURT AUTO
-- Jaful/furtul asupra autovehiculelor este permis doar după acumularea unui număr de 20
+- Jaful/furtul asupra autovehiculelor este permis doar după acumularea unui număr de 10
 de ore IC.
 - Jafurile/furturile asupra autovehiculelor sunt permise doar dacă în proximitatea
 mașinilor vizate nu se află și alte persoane.
