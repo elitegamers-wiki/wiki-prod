@@ -194,12 +194,6 @@ onMounted(() => {
     <div class="eg-desc">Ajuta la dezvoltarea server-ului.</div>
   
   </div>  
-  <div class="eg-card">
-    <img src="https://cdn.discordapp.com/avatars/579464041693708317/010f1d1998c2b13a46cc5bbd2e61da15?size=1024" alt="toto" />
-    <div class="eg-name">Toto</div>
-    <div class="eg-role">Super-Moderator</div>
-    <span class="eg-badge orange">Super-Moderator</span>
-    <div class="eg-desc">Ajuta la dezvoltarea server-ului.</div>
 
  </div>
     <div class="eg-card">
@@ -208,20 +202,6 @@ onMounted(() => {
     <div class="eg-role">Super-Moderator</div>
     <span class="eg-badge orange">Super-Moderator</span>
     <div class="eg-desc">Ajuta la dezvoltarea server-ului.</div>
-  
-  </div> 
-    <div class="eg-card">
-    <img src="https://cdn.discordapp.com/avatars/826054530990211142/e1fcf318b375230995f533c764a06baf?size=1024" alt="pazmall" />
-    <div class="eg-name">PazMall</div>
-    <div class="eg-role">Moderator</div>
-    <span class="eg-badge orange">Moderator</span>
-    <div class="eg-desc">Ajuta la dezvoltarea server-ului.</div>
-  </div> 
-  
-  
-  
-  
-
 </div>
 
 
