@@ -459,6 +459,7 @@ Warn/Jail
 - Jaful asupra caselor de lux este permis **doar după acumularea a minim 50 de ore IC**.
 - Este <span style="color: red;">INTERZIS</span> să folosiți glitch-uri sau exploatarea mecanicilor pentru a forța accesul sau pentru a da bypass la doorlock/usa.
 
+<<<<<<< HEAD
 :::danger SANCTIUNE
 Warn / Jail
 :::
@@ -471,8 +472,10 @@ medicale aflate on-duty.
 ulterioare sau de altă natură de la poliție sau alte structuri guvernamentale.
 - Puteți sechestra o persoană doar cu acordul unui Administrator+ și doar dacă
 prezentați un scenariu roleplay bine întemeiat care să justifice sechestrarea.
+=======
+>>>>>>> 70d682486498efb08eda74568fb8421d6d419311
 :::danger SANCTIUNE
-Warn/Jail
+Warn / Jail
 :::
 
 ### 3.5 INTERVENTII IN TRANSPORTUL DETINUTILOR
