@@ -427,20 +427,22 @@ doar în cazul în care victima refuză să plătească taxa de protecție.
 Warn/Jail/Ban termporar
 :::
 
-### 3.2 JAF/FURT AUTO
-- Jaful/furtul asupra autovehiculelor este permis doar după acumularea unui număr de 10
-de ore IC.
-- Jafurile/furturile asupra autovehiculelor sunt permise doar dacă în proximitatea
-mașinilor vizate nu se află și alte persoane.
-- La un jaf asupra autovehiculelor pot participa cel mult 2 persoane.
-- Este strict  <span style="color: red;">INTERZIS</span> ca jucătorii să ia ostatici în cadrul jafurilor asupra autovehiculelor.
+### 3.2 JAF / FURT AUTO
+
+- Jaful sau furtul asupra autovehiculelor este permis **doar după acumularea a minim 10 ore IC**.
+- Aceste acțiuni sunt permise **doar dacă în proximitatea vehiculului nu se află alte persoane**
+- Este <span style="color: red;">INTERZIS</span> să furi sau să jefuiești vehicule aflate în zone aglomerate sau în apropierea unor instituții importante (ex: job legal, poliție, spital, primărie etc.).
+- La un jaf asupra autovehiculelor pot participa **cel mult 2 persoane**.
+- Este strict <span style="color: red;">INTERZIS</span> ca jucătorii să ia ostatici în cadrul jafurilor asupra autovehiculelor.
+
 :::danger SANCTIUNE
-Warn/Jail
+Warn / Jail
 :::
- 
+
+
 ### 3.3 JAF BANCOMATE/MAGAZINE
 - Jaful asupra magazinelor este permis doar după acumularea a 10 ore IC.
-- Jaful asupra bancomatelor sunt permis doar după acumularea a 10 de
+- Jaful asupra bancomatelor este permis doar după acumularea a 10 de
 ore IC.
 - Nu aveți voie să jefuiți un bancomat sau un magazin atât timp cât la bancomat sau în
 magazin se află alte persoane.
@@ -450,20 +452,15 @@ a magazinelor.
 Warn/Jail
 :::
 
-### 3.3.1 JAF CASE
-- Jaful asupra caselor este permis doar dupa acumularea a 30 de ore IC.
-- Jaful asupra caselor de lux este permis doar dupa acumularea a 50 de ore IC.
-  
-### 3.4 RĂPIRI/OSTATICI
-- Nu aveți voie să răpiți jucătorii din zonele publice.
-- Nu aveți voie să răpiți persoanele care practică un job legal, polițiști sau cadre
-medicale aflate on-duty.
-- Nu aveți voie să răpiți o persoană în scopul obținerii de recompense financiare
-ulterioare sau de altă natură de la poliție sau alte structuri guvernamentale.
-- Puteți sechestra o persoană doar cu acordul unui Administrator+ și doar dacă
-prezentați un scenariu roleplay bine întemeiat care să justifice sechestrarea.
+
+### 3.3.1 JAF CASE NORMALE SI DE LUX
+
+- Jaful asupra caselor normale este permis **doar după acumularea a minim 30 de ore IC**.
+- Jaful asupra caselor de lux este permis **doar după acumularea a minim 50 de ore IC**.
+- Este <span style="color: red;">INTERZIS</span> să folosiți glitch-uri sau exploatarea mecanicilor pentru a forța accesul sau pentru a da bypass la doorlock/usa.
+
 :::danger SANCTIUNE
-Warn/Jail
+Warn / Jail
 :::
 
 ### 3.5 INTERVENTII IN TRANSPORTUL DETINUTILOR
