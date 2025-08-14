@@ -140,3 +140,9 @@ outline: deep
     <img src="/bg/guide2.png" alt="setari fivem" width="750" height="400">
   </a>
 </div>
+
+<h3>4. EXTENDED TEXTURE BUDGET -> <span style="color:#d94a4a;">Depinde de resursele tale</span></h3>
+
+<div class="eg-guide-box" style="padding: 20px 30px; margin-top: 10px; border: 1.5px solid #d94a4a; background-color: #2a2a2a; color: #f1a1a1;">
+  Daca ai dificultati cu texturile din joc, poti creste acest parametru, dar va consuma mai mult VRAM.
+</div>
