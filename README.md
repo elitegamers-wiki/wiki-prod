@@ -1,3 +1,3 @@
 # EliteGamers RolePlay Wiki
 
-Acest wiki este destinat jucatorilor de pe serverul EliteGamers RolePlay.
+Acest Wiki este destinat jucatorilor de pe serverul EliteGamers RolePlay.
