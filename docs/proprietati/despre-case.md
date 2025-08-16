@@ -60,7 +60,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">1-14. 🏠 Los Santos - MOTEL</h4>
+    <h4 style="display: inline-block;">1-13. 🏠 Los Santos - MOTEL</h4>
   </div>
   <img src="../public/case/motel.png" alt="Motel">
   <ul>
@@ -74,7 +74,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
 
 <div class="eg-houses">
   <div style="text-align: center;">
-  <h4>2. 🏠 Los Santos - Edwood Way</h4>
+  <h4>15. 🏠 Los Santos - Edwood Way</h4>
   </div>
   <img src="../public/case/edwood.png" alt="Edwood">
   <ul>
@@ -87,7 +87,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
 
 <div class="eg-houses">
   <div style="text-align: center;">
-  <h4>3. 🏠 Los Santos - Grove Street</h4>
+  <h4>16. 🏠 Los Santos - Grove Street</h4>
   </div>
   <img src="../public/case/grove.png" alt="Grove Street">
   <ul>
@@ -100,7 +100,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
 
 <div class="eg-houses">
   <div style="text-align: center;">
-  <h4>4. 🏠 Los Santos - Mirror Park 1</h4>
+  <h4>17. 🏠 Los Santos - Mirror Park 1</h4>
   </div>
   <img src="../public/case/mirror1.png" alt="Mirror Park 1">
   <ul>
@@ -113,7 +113,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
 
 <div class="eg-houses">
   <div style="text-align: center;">
-  <h4>5. 🏠 Los Santos - Mirror Park 2</h4>
+  <h4>18. 🏠 Los Santos - Mirror Park 2</h4>
   </div>
   <img src="../public/case/mirror2.png" alt="Mirror Park 2">
   <ul>
@@ -126,7 +126,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
 
 <div class="eg-houses">
   <div style="text-align: center;">
-  <h4>6. 🏠 Los Santos - Mirror Park 3</h4>
+  <h4>19. 🏠 Los Santos - Mirror Park 3</h4>
   </div>
   <img src="../public/case/mirror3.png" alt="Mirror Park 3">
   <ul>
@@ -139,7 +139,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
 
 <div class="eg-houses">
   <div style="text-align: center;">
-  <h4>7. 🏠 Los Santos - Mirror Park 4</h4>
+  <h4>20. 🏠 Los Santos - Mirror Park 4</h4>
   </div>
   <img src="../public/case/mirror4.png" alt="Mirror Park 4">
   <ul>
@@ -152,7 +152,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
 
 <div class="eg-houses">
   <div style="text-align: center;">
-  <h4>8. 🏠 Los Santos - Mirror Park 5</h4>
+  <h4>21. 🏠 Los Santos - Mirror Park 5</h4>
   </div>
   <img src="../public/case/mirror5.png" alt="Mirror Park 5">
   <ul>
@@ -165,7 +165,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
 
 <div class="eg-houses">
   <div style="text-align: center;">
-  <h4>9. 🏠 Los Santos - Mirror Park 6</h4>
+  <h4>22. 🏠 Los Santos - Mirror Park 6</h4>
   </div>
   <img src="../public/case/mirror6.png" alt="Mirror Park 6">
   <ul>
@@ -178,7 +178,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
 
 <div class="eg-houses">
   <div style="text-align: center;">
-  <h4>10. 🏠 Los Santos - Vinewood (Normandy Drive)</h4>
+  <h4>23. 🏠 Los Santos - Vinewood (Normandy Drive)</h4>
   </div>
   <img src="../public/case/normandy.png" alt="Normandy">
   <ul>
@@ -191,7 +191,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
 
 <div class="eg-houses">
   <div style="text-align: center;">
-  <h4>11. 🏠 Los Santos - Vinewood (Ace Jones Drive)</h4>
+  <h4>24. 🏠 Los Santos - Vinewood (Ace Jones Drive)</h4>
   </div>
   <img src="../public/case/vinewood.png" alt="Vinewood Ace Jones">
   <ul>
@@ -204,7 +204,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
 
 <div class="eg-houses">
   <div style="text-align: center;">
-  <h4>12. 🏠 Los Santos - Vinewood (WhispyMound Drive)</h4>
+  <h4>25. 🏠 Los Santos - Vinewood (WhispyMound Drive)</h4>
   </div>
   <img src="../public/case/vinewood2.png" alt="Vinewood WhispyMound">
   <ul>
@@ -217,7 +217,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
 
 <div class="eg-houses">
   <div style="text-align: center;">
-  <h4>13. 🏠 Los Santos - North Rockford Drive (Americano Way)</h4>
+  <h4>26. 🏠 Los Santos - North Rockford Drive (Americano Way)</h4>
   </div>
   <img src="../public/case/americano.png" alt="Americano">
   <ul>
