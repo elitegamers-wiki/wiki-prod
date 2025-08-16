@@ -60,7 +60,7 @@ Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">1-13. 🏠 Los Santos - MOTEL</h4>
+    <h4 style="display: inline-block;">1-14. 🏠 Los Santos - MOTEL</h4>
   </div>
   <img src="../public/case/motel.png" alt="Motel">
   <ul>
