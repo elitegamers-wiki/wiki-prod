@@ -1276,7 +1276,7 @@ Mesterit de: **xSLOW**
 
 ```
 
-# Update 2.3.6
+### Update 2.3.6
 Mesterit de: **xSLOW**
 
 **Features**
@@ -1295,7 +1295,7 @@ Mesterit de: **xSLOW**
 - Incercat a fi rezolvat un bug care facea ca la anumite livrari sa-ti spuna ca esti prea departe de livrare
 ```
 
-# Update 2.3.6
+### Update 2.3.6
 Mesterit de: **xSLOW**
 
 **Features**
@@ -1314,7 +1314,7 @@ Mesterit de: **xSLOW**
 - Incercat a fi rezolvat un bug care facea ca la anumite livrari sa-ti spuna ca esti prea departe de livrare
 ```
 
-# Update 2.3.7 & 2.3.8
+### Update 2.3.7 & 2.3.8
 Mesterit de: **xSLOW**
 **Big update**
 **Features**
@@ -1341,7 +1341,7 @@ Mesterit de: **xSLOW**
 - Rezolvate diverse buguri minore.
 ```
 
-# Update 2.3.9
+### Update 2.3.9
 Mesterit de: **xSLOW**
 **More goodiesssss**
 **Features**
@@ -1369,7 +1369,7 @@ Mesterit de: **xSLOW**
 - Rezolvat un bug care facea la jaful de case ca atunci cand opreai alarma tot sa sune la politie
 ```
 
-# Update 2.4.0
+### Update 2.4.0
 Mesterit de: **xSLOW**
 **Update mare**
 **Features**
@@ -1395,7 +1395,7 @@ Mesterit de: **xSLOW**
 - Rezolvat un bug care facea sa ramai cu animatia de accident ca pasager permanent
 ```
 
-# Update 2.4.1
+### Update 2.4.1
 Mesterit de: **xSLOW**
 **More goodiesss for you** ❤️
 **Features**
@@ -1421,7 +1421,7 @@ Mesterit de: **xSLOW**
 - Rezolvat garajul de la casa 16
 ```
 
-# Update 2.4.2
+### Update 2.4.2
 Mesterit de: **Crixus & xSLOW**
 **CEL MAI MARE UPDATE LA MASINI!!!!!!** ❤️
 **Features**
@@ -1449,7 +1449,7 @@ Mesterit de: **Crixus & xSLOW**
 - Rezolvat un bug la jaful de atm-uri care spunea ca ai deja un jaf in progres
 ```
 
-# Update 2.4.3
+### Update 2.4.3
 Mesterit de: **xSLOW**
 **Serverele pe care ati mai jucat faceau update-uri asa de des?** 😄 
 **Features**
@@ -1468,7 +1468,7 @@ Mesterit de: **xSLOW**
 - Rezolvat un bug care facea sa cazi prin harta atunci cand intri intr-un garaj cu teleport. Daca cumva pici prin harta esti teleportat inapoi. Problema nu este de la noi, este de la faptul ca jucatorul nu are suficienta memorie la placa video. Recomand sa va faceti setarea cu "Extended texture budget" din GTA si sa aveti o placa video cu minim 8 GB VRAM
 ```
 
-# Update 2.4.4
+### Update 2.4.4
 Mesterit de: **xSLOW & sNok3**
 **Serverele pe care ati mai jucat faceau update-uri asa de des?** 😄 
 
