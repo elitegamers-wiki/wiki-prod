@@ -1,7 +1,3 @@
----
-outline: deep
----
-
 <img src="../public/elitegamers.png" alt="pozaEG" width="300" height="600" style="display: block; margin: 0 auto 25px; border-radius: 5%;">
 
 <style scoped>
@@ -69,20 +65,20 @@ outline: deep
   color: #ff7a7a;
 }
 
-.eg-guide-box .eg-youtube-wrapper {
+.eg-youtube-wrapper {
   text-align: center;
   margin: 40px 0 20px;
   position: relative;
   display: inline-block;
 }
 
-.eg-guide-box .eg-youtube-wrapper img {
+.eg-youtube-wrapper img {
   border-radius: 5%;
   box-shadow: 0 4px 18px rgba(0, 0, 0, 0.7);
   display: block;
 }
 
-.eg-guide-box .eg-youtube-wrapper span.play-button {
+.eg-youtube-wrapper span.play-button {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -93,7 +89,7 @@ outline: deep
   user-select: none;
 }
 
-.eg-guide-box .eg-youtube-button {
+.eg-youtube-button {
   display: inline-block;
   background-color: #d43131;
   color: white;
@@ -106,7 +102,7 @@ outline: deep
   user-select: none;
 }
 
-.eg-guide-box .eg-youtube-button:hover {
+.eg-youtube-button:hover {
   background-color: #ff4d4d;
   cursor: pointer;
 }
@@ -123,14 +119,12 @@ outline: deep
   </a>
 
   <h3>2. CUM SE FOLOSEȘTE INSTANT REPLAY OBS</h3>
-
   <p align="center">
-    <a href="https://www.youtube.com/watch?v=YsgIFKVQkFs" target="_blank" class="eg-youtube-wrapper" style="position: relative;">
+    <a href="https://www.youtube.com/watch?v=YsgIFKVQkFs" target="_blank" class="eg-youtube-wrapper">
       <img src="https://img.youtube.com/vi/YsgIFKVQkFs/maxresdefault.jpg" alt="TUTORIAL OBS REPLAY BUFFER BY IANNC" width="750" height="800">
       <span class="play-button">&#9654;</span>
     </a>
   </p>
-
   <p align="center">
     <a href="https://www.youtube.com/watch?v=YsgIFKVQkFs" target="_blank" class="eg-youtube-button">▶️ Vezi tutorialul video pe YouTube</a>
   </p>
@@ -139,10 +133,14 @@ outline: deep
   <a href="/bg/guide2.png" target="_blank">
     <img src="/bg/guide2.png" alt="setari fivem" width="750" height="400">
   </a>
-</div>
 
-<h3>4. SETTINGS -> GRAPHICS -> EXTENDED TEXTURE BUDGET -> <span style="color:#d94a4a;">Depinde de resursele tale</span></h3>
+  <h3>4. SETTINGS → GRAPHICS → EXTENDED TEXTURE BUDGET</h3>
+  <div style="padding: 20px 30px; margin-top: 10px; border: 1.5px solid #d94a4a; background-color: #2a2a2a; color: #f1a1a1; border-radius: 8px;">
+    Dacă ai dificultăți cu texturile din joc (dacă pici prin hartă, nu se încarcă un interior sau se vede tot jocul urât), poți crește acest parametru, dar va consuma mai mult VRAM.
+  </div>
 
-<div class="eg-guide-box" style="padding: 20px 30px; margin-top: 10px; border: 1.5px solid #d94a4a; background-color: #2a2a2a; color: #f1a1a1;">
-  Daca ai dificultati cu texturile din joc(daca pici prin harta, nu se incarca un interior sau se vede tot jocul urat), poti creste acest parametru, dar va consuma mai mult VRAM.
+  <h3>5. NUI FIVEM SETTINGS</h3>
+  <a href="/bg/nuifivem.png" target="_blank">
+    <img src="/bg/nuifivem.png" alt="setari fivem" width="750" height="400">
+  </a>
 </div>

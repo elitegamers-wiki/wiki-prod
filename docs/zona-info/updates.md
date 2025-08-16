@@ -1294,3 +1294,195 @@ Mesterit de: **xSLOW**
 - Rezolvat un bug la portbagaje/torpedouri care facea sa iti dispara itemele daca puneai itemele in vehicul imediat cum era spawnat
 - Incercat a fi rezolvat un bug care facea ca la anumite livrari sa-ti spuna ca esti prea departe de livrare
 ```
+
+# Update 2.3.6
+Mesterit de: **xSLOW**
+
+**Features**
+```javascript
+- Rescris sistemul de benzinarie pastrand aceleasi mecanici. Imbunatatita si interfata grafica. Optimizate diverse.
+- Admin jail acum ar trebui sa mearga si daca jucatorul este offline
+- Scoase yacht-urile si harta de airsoft de_yacht
+- Diverse imbunatatiri mici (mapping, scripturi, etc)
+```
+
+**Bug fixes**
+```javascript
+- Rescris sistemul de accidente pentru a rezolva multiple buguri
+- Rezolvat un bug la misiuni care facea sa nu ti se completeze misiunea daca mai aveai una la fel
+- Rezolvat un bug la portbagaje/torpedouri care facea sa iti dispara itemele daca puneai itemele in vehicul imediat cum era spawnat
+- Incercat a fi rezolvat un bug care facea ca la anumite livrari sa-ti spuna ca esti prea departe de livrare
+```
+
+# Update 2.3.7 & 2.3.8
+Mesterit de: **xSLOW**
+**Big update**
+**Features**
+```javascript
+- Redus costul la intretinere la casele cu bani in joc. La pinkcage va costa 300.000 pe luna, iar la mirror park 450.000 pe luna.
+- Acum se poate crafta bara de aur si se poate vinde la topitorie.
+- Vehiculele stricate (de exemplu un elicopter cazut in apa) ar trebui sa se intoarca in garaj. Trebuie testat.
+- Adaugat starter pack jucatorilor noi pentru a incerca sa ii mentinem pe server.
+- Adaugat jaful la case de lux. Similar cu jaful de case normale insa se vor face mai multi bani si ai de spart un seif. Jucatorul care detine seiful nu este afectat, se genereaza niste iteme random pe loc pentru jaf.
+- Redus recoil la SMG.
+- Scoasa transparenta masinilor atunci cand intri in zona fara coliziune.
+- Daca iesi din tir ai 10m pentru a te intoarce in loc de 5m.
+- Redus consumul de combustibil la dube.
+- Actualizat crafting arme pentru a fi mai balansat. De acum vor exista diferente intre un pistol slab si unul bun la crafting.
+- Redus nr. de ore minime pentru gunshop la 10h (arme albe).
+- Adaugat deagle/revolver la airsoft.
+- Adaugate diverse verificari/mici imbunatatiri.
+```
+
+**Bug fixes**
+```javascript
+- Rezolvat un exploit grav care facea sa iti poti multiplica banii. Cei ce au abuzat au fost pedepsiti.
+- Rezolvat un bug la jaful de masini care nu te lasa sa deschizi portbagajul/torpedoul masinii.
+- Rezolvate diverse buguri minore.
+```
+
+# Update 2.3.9
+Mesterit de: **xSLOW**
+**More goodiesssss**
+**Features**
+```javascript
+- Actualizate KG la pestii de la pescar nivel 3 (sugestie facuta de comunitate)
+- Puteti jefui masini si fara sa fie politisti online (sugestie facuta de comunitate)
+- Adaugat inapoi in HUD nr. de jucatori conectati
+- Scos sistemul ala care spunea "te-ai blocat?" si iti dadea TP la primarie deoarece uneori o facea aiurea
+- Adaugate diverse tuning-uri pentru barci/avioane in port LS/Cayo
+- Crescuta greutate si marit timpul de echipare pentru armura mica & mare (sugestie facuta de comunitate)
+- Adjustat recoil-ul la diverse arme, eg: SMG, Compact Rifle, etc
+- Dezactivat service rockford
+- Adaugate garaje personale/utilitare la home depot
+- Acum poti descuia mai multe usi la jaful de case, nu doar una
+```
+
+**Bug fixes**
+```javascript
+- Rezolvat un bug grav care facea sa nu mearga transferul bancar
+- Rezolvat un bug la anticheatul nostru care facea ca anumite sisteme sa nu functioneze cum ar trebui
+- Rezolvat sistemul de facturare (/bill)
+- Rezolvat sistemul de pontaj pentru service-uri
+- Rezolvat un bug la kiturile mecanicilor care facea sa iti ia kitul si sa nu functioneze
+- Rezolvat un bug la portbagaje/torpedou care facea sa dispara iteme. Acum sistemul ar trebui sa fie stabil si matur, functional fara probleme
+- Rezolvat un bug care facea la jaful de case ca atunci cand opreai alarma tot sa sune la politie
+```
+
+# Update 2.4.0
+Mesterit de: **xSLOW**
+**Update mare**
+**Features**
+```javascript
+- Scazute taxele (la propunerea comunitatii)
+- Refacut sistemul de radio. Acum este un meniu fara buguri, nu mai porneste aiurea radio-ul sau ramane blocat. Toate probleme au fost rezolvate
+- Facut sistemul de accidente mai stabil, sa nu apara animatia asa usor. Tineti minte, conteaza mult si armura masinii din tuning
+- Daca ramai blocat in anumite zone, de ex: sub harta, vei fi respawnat la primarie
+- Daca cumva te buguiesti cu un skin diferit de cel care trebuie acum ti se va deschide automat meniul de creare a caracterului din nou
+- Activat cover-ul de pe Q pentru a te ascunde dupa perete
+- Actualizat minimul de ore pentru folosirea unui lockpick de masini la 10 ore
+- Vehiculele SIAT sunt acum disponibile de la gradul de inspector politie
+- Mecanicul acum iti poate tuna masina
+- Actualizate coordonatele din GPS pentru ciupercar
+- Multe alte lucruri care se vor descoperi IC
+```
+
+**Bug fixes**
+```javascript
+- Rezolvate kit-urile pentru roata/motor/kit mare
+- Raza cercurului la jaful de masini acum este sincronizat si echipei
+- Rezolvate diverse buguri minore
+- Rezolvat un bug care facea sa ramai cu animatia de accident ca pasager permanent
+```
+
+# Update 2.4.1
+Mesterit de: **xSLOW**
+**More goodiesss for you** ❤️
+**Features**
+```javascript
+- Dezactivat temporar jucatorul care apare in inventar
+- Adaugata optiune de a lua iteme din inventarul unui jucator daca esti politist sau admin
+- Optimizat script-ul de radio
+- Marit nr. de lockpick-uri avansate la jaful de masini, acum poate pica intre 1 si 3 lockpick-uri per masina
+- Scazut timpul de echipat armura mica/mare
+- Scazut gradul minim pentru masina raiden de politie
+- Nu mai poti planta/culege cu arma in mana
+- Nu mai poti scoate vehiculul din garaj daca esti mort, mi se pare corect
+- Acum poti folosi /ancora si cu submarinul
+```
+
+**Bug fixes**
+```javascript
+- Rezolvat un vechi bug care facea sa afiseze gresit hrana/apa in HUD
+- Din anumite motiv se afisa gresit viata fetelor. Aveau 75hp in loc de 100hp. Rezolvat
+- Rezolvat un bug la tuning care facea sa poti tuna masina pe gratis
+- Rezolvat un bug care facea ca uneori sa dispara clientul de la livrari
+- Rezolvat bugul la usile spitalului de @dey, multumim!
+- Rezolvat garajul de la casa 16
+```
+
+# Update 2.4.2
+Mesterit de: **Crixus & xSLOW**
+**CEL MAI MARE UPDATE LA MASINI!!!!!!** ❤️
+**Features**
+```javascript
+- Refacute toate cele 250 de handling-uri de la 0 de Domn Inginer Crixus!
+* Ce implica asta? Masinile acum nu se mai distrug asa usor, in special de la gloante, pentru a crea niste urmariri mult mai de lunga durata si mai de calitate
+* Vitezele au fost recorectate si calculate la virgula in functie de fiecare masina
+* Tuningul acum joaca un rol foarte important, iti poate mari viteza masinii stock cu pana la 60km/h (motor si turbo momentan)
+* Viteza maxima este acum de ~420km/h
+* Masinile se conduc mult mai bine si au fost imbunatatite radical
+* Refacute cateva masini pentru "drift mode"
+* Actualizat stocul si pretul pentru unele vehicule
+* Modificata greutate/nr de sloturi pentru portbagaj/torpedou la unele vehicule
+* Multe altele pe care o sa le descoperiti in joc!
+
+- Scazut gradul minim pentru nemarcate la politie ca fiind inspector 
+- Scazuta raza la aratarea documentelor cu 50%
+- Actualizate zonele de tuning de la Bennys
+- Alte mici imbunatatiri
+```
+
+**Bug fixes**
+```javascript
+- Rezolvat un bug la duplicarea de talon sa dea eroare daca nu ai cheia veche in inventar
+- Rezolvat un bug la jaful de atm-uri care spunea ca ai deja un jaf in progres
+```
+
+# Update 2.4.3
+Mesterit de: **xSLOW**
+**Serverele pe care ati mai jucat faceau update-uri asa de des?** 😄 
+**Features**
+```javascript
+- Acum se pot repara barci, elicoptere, orice. Pe langa asta, cand folosesti un kit langa o masina iti pune un marker si un text in zona in care trebuie sa te duci pentru a repara masina.
+- Crescuta zona pentru cautat rangi de la jaful de case pentru a nu se anula din greseala daca iesi putin din zona
+- Cand suna telefonul acum ar trebui sa se auda la toata lumea din jur
+```
+
+**Bug fixes**
+```javascript
+- Suntem informati de bugul cu sunetul masinilor si lucram din greu pentru a remedia problema
+- Rezolvat un bug care facea sa nu actualizeze job-ul/factiunea jucatorului pentru sistemul de haine
+- Politistii nu ar mai trebui sa primeasca ban daca folosesc taser
+- Rezolvat un bug la punga pe cap care facea sa iti reseteze skinul, acum doar iti scoate masca
+- Rezolvat un bug care facea sa cazi prin harta atunci cand intri intr-un garaj cu teleport. Daca cumva pici prin harta esti teleportat inapoi. Problema nu este de la noi, este de la faptul ca jucatorul nu are suficienta memorie la placa video. Recomand sa va faceti setarea cu "Extended texture budget" din GTA si sa aveti o placa video cu minim 8 GB VRAM
+```
+
+# Update 2.4.4
+Mesterit de: **xSLOW & sNok3**
+**Serverele pe care ati mai jucat faceau update-uri asa de des?** 😄 
+
+**Features**
+```javascript
+- Scazut sunetul atunci cand faci pair cu redtooth la boxa
+- Adaugate mici texte informative in chat pentru jucatorii noi
+- Scoase lanturile cu "eg"/"quo" din meniul de haine
+- Adaugat un mapping nou uimitor pe care il veti vedea in curand, multumim @iann si @dey
+```
+
+**Bug fixes**
+```javascript
+- Rezolvat un bug care facea ca si cazierele sa apara de mai multe ori la NPC-ul de curatat cazierul
+- Rezolvat un bug care facea ca atunci cand iti suna telefonul si ceilalti din jur sa le ramanea sunetul chiar si dupa ce tu ai acceptat/respins apelul
+- Rezolvat un bug care facea sa nu te lase sa iti pui numere de Iasi/Olt la masina
+```
