@@ -192,17 +192,18 @@ onMounted(() => {
     <div class="eg-role">Administrator</div>
     <span class="eg-badge blue">Administrator</span>
     <div class="eg-desc">Ajuta la dezvoltarea server-ului.</div>
-  
   </div>  
 
- </div>
-    <div class="eg-card">
+  <div class="eg-card">
     <img src="https://cdn.discordapp.com/avatars/986769424524640347/fee223c807987d3bb6231c0038d0e505?size=1024" alt="paul" />
     <div class="eg-name">paul</div>
     <div class="eg-role">Super-Moderator</div>
     <span class="eg-badge orange">Super-Moderator</span>
     <div class="eg-desc">Ajuta la dezvoltarea server-ului.</div>
-</div>
+  </div> 
+
+ </div>
+
 
 
 

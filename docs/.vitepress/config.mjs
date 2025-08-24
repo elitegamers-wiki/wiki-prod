@@ -113,10 +113,7 @@ export default defineConfig({
         ],
       },
 
-      {
-        text: 'Updates',
-        items: [{ text: 'Lista cu update-uri', link: '/zona-info/updates' }],
-      },
+
     ],
 
     sidebar: [
@@ -147,7 +144,7 @@ export default defineConfig({
             text: ' Cum intru pe server?',
             link: '/zona-info/cum-intru-pe-server',
           },
-          { text: ' Updates', link: '/zona-info/updates' },
+          // { text: ' Updates', link: '/zona-info/updates' },
           { text: ' Codul Penal', link: '/zona-info/cod-penal' },
 
         ],
