@@ -13,7 +13,7 @@ outline: deep
 ::: danger 📍 Locație
 Mergi la **Cod Poștal: 745** pentru a intra în zona târgului auto.  
 
-[![Meniu vânzare](/public/parcauto/targauto.png)](/public/parcauto/targauto.png){target="_blank"}
+[![Meniu vânzare](/parcauto/targauto.png)](/parcauto/targauto.png){target="_blank"}
 :::
 ---
 
@@ -23,7 +23,7 @@ Mergi la **Cod Poștal: 745** pentru a intra în zona târgului auto.
 2. Ieși din mașină și apropie-te de ea.  
 3. Apasă **G** pe vehicul → se deschide meniul **„Pune vehicul la vanzare”**.  
 
-[![Meniu vânzare](/public/parcauto/meniug.png)](/public/parcauto/meniug.png){target="_blank"}
+[![Meniu vânzare](/parcauto/meniug.png)](/parcauto/meniug.png){target="_blank"}
 :::
 ---
 
@@ -33,7 +33,7 @@ Mergi la **Cod Poștal: 745** pentru a intra în zona târgului auto.
 - **Informatii aditionale:** 
 - **Nr. telefon:** 
 
-[![Meniu vânzare](/public/parcauto/meniuvanzare.png)](/public/parcauto/meniuvanzare.png){target="_blank"}
+[![Meniu vânzare](/parcauto/meniuvanzare.png)](/parcauto/meniuvanzare.png){target="_blank"}
 :::
 ---
 
@@ -51,7 +51,7 @@ Mergi la **Cod Poștal: 745** pentru a intra în zona târgului auto.
 - **Informații vânzător:**  
 - **Preț de vânzare:**  
 
-[![Meniu cumpărător](/public/parcauto/meniumasina.png)](/public/parcauto/meniumasina.png){target="_blank"}
+[![Meniu cumpărător](/parcauto/meniumasina.png)](/parcauto/meniumasina.png){target="_blank"}
 :::
 ---
 
