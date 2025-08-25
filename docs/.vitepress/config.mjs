@@ -154,6 +154,7 @@ export default defineConfig({
         activeMatch: '^/general/',
         items: [
           {text: 'Sistem Airsoft', link: '/general/airsoft'},
+          {text: 'Targul Auto', link: '/general/parcauto'},
           {text: 'Ghid de incepere', link: '/general/guide'},
           { text: ' Harta Los Santos', link: '/general/harta' },
           { text: ' Telefon', link: '/general/telefon' },
@@ -162,9 +163,6 @@ export default defineConfig({
           { text: ' ATM-uri', link: '/general/atm-uri' },
           { text: ' Daily rewards', link: '/general/rewards' },
           { text: ' Comenzi ', link: '/general/comenzi' },
-
-          
-
         ],
       },
       {
