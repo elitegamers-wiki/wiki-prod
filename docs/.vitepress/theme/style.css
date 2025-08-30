@@ -48,6 +48,19 @@
 /**
  * TEXT FONT
  * -------------------------------------------------------------------------- */
+/* Blochează selectarea textului pe întregul site */
+body {
+    user-select: none; /* Nu se poate selecta textul */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+/* Dacă vrei să fie doar pentru anumite secțiuni, folosește o clasă */
+.nocopy {
+    user-select: none;
+}
+
 
  @font-face {
   font-family: 'Orbitron';
@@ -70,7 +83,9 @@
 
   --vp-home-hero-image-background-image: linear-gradient(-45deg, #ab2e22 50%, #e82310 50%);
   --vp-home-hero-image-filter: blur(20px); */
-
+/* .VPSidebar {
+  background: linear-gradient(135deg, #000000 0%, #414141 100%) !important;
+} */
   --vp-c-default-1: var(--vp-c-gray-1);
   --vp-c-default-2: var(--vp-c-gray-2);
   --vp-c-default-3: var(--vp-c-gray-3);

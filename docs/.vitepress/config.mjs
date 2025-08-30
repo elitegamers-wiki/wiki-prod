@@ -58,10 +58,10 @@ export default defineConfig({
       copyright: 'Copyright © 2023-prezent EliteGamers Romania',
     },
 
-    editLink: {
-      pattern: 'https://github.com/elitegamers-wiki/wiki-prod/edit/main/docs/:path',
-      text: 'Modifica aceasta pagina pe GitHub',
-    },
+    // editLink: {
+    //   pattern: 'https://github.com/elitegamers-wiki/wiki-prod/edit/main/docs/:path',
+    //   text: 'Modifica aceasta pagina pe GitHub',
+    // },
 
     socialLinks: [
       {
