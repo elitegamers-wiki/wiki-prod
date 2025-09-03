@@ -81,5 +81,5 @@ outline: deep
 </div>
 
 
-<img src="../public/dmv/dmv2.png" alt="dmv preview" class="framed-photo" style="box-shadow: none; border: 3px solid #258807ff; max-width: 700px;">
+<!-- <img src="../public/dmv/dmv2.png" alt="dmv preview" class="framed-photo" style="box-shadow: none; border: 3px solid #258807ff; max-width: 700px;"> -->
 <img src="../public/dmv/dmv3.png" alt="dmv preview" class="framed-photo" style="box-shadow: none; border: 4px solid #258807ff; max-width: 370px; width: 100%;">
