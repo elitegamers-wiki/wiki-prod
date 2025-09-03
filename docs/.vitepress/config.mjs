@@ -227,6 +227,7 @@ export default defineConfig({
         text: 'Proprietati',
         activeMatch: '^/proprietati/',
         items: [
+          { text: 'Home Depot', link: '/proprietati/homedepot' },
           { text: 'DigitalDen', link: '/proprietati/digitalden' },
           { text: 'Case', link: '/proprietati/despre-case' },
           { text: 'Casino', link: '/casino/casino'},
