@@ -118,7 +118,7 @@ outline: deep
 
 ### <center><span class="title-font">3. Categoria unelte</span></center>
 <div class="eg-box">
-  <p>Substanțe chimice și compuși folosiți în crafting și combinații speciale pe server.</p>
+  <p>Iteme folosite pentru diverse activitati pe server.</p>
   <ul class="eg-list">
     <li><span class="eg-highlight">🔑 Lockpick simplu</span> – util pentru a descuia usi.</li>
     <li><span class="eg-highlight">🔓 Lockpick avansat</span> – secretele se afla pe joc :D .</li>
