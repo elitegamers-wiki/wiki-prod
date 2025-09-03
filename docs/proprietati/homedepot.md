@@ -122,7 +122,7 @@ outline: deep
   <ul class="eg-list">
     <li><span class="eg-highlight">🔑 Lockpick simplu</span> – util pentru a descuia usi.</li>
     <li><span class="eg-highlight">🔓 Lockpick avansat</span> – secretele se afla pe joc :D .</li>
-    <li><span class="eg-highlight">⚙️ Borsmasina</span> – Folosit pentru alte intentii.</li>
+    <li><span class="eg-highlight">⚙️ Bormasina</span> – Folosit pentru alte intentii.</li>
   </ul>
 </div>
 <img src="../public/homedepot/homedepot3.png" alt="substante produse" class="eg-photo" style="max-width: 900px; width: 100%;">
