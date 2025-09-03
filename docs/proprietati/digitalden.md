@@ -118,7 +118,7 @@ Radio portabil, ușor de folosit.
 Preț: 500 €
 :::
 
-::: details SmartWatch (GPS)
+::: details Statie Radio 
   <img src="../public/digitalden/radiodigital.png" alt="DigitalDen Telefon" width="500" height="800" style="border: 2px solid #8B0000; border-radius: 8px; box-shadow: 0 4px 16px rgba(139,0,0,0.5); display: block; margin: 20px auto;">
 :::
 </div>
