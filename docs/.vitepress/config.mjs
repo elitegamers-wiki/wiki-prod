@@ -118,7 +118,7 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: ' Zona Informativa',
+        text: 'Informatii Principale',
         activeMatch: '^/zona-info/',
         items: [
           { text: ' Informatii Importante', link: '/zona-info/informatii' },
@@ -150,9 +150,10 @@ export default defineConfig({
         ],
       },
       {
-        text: ' General',
+        text: 'Sisteme Generale',
         activeMatch: '^/general/',
         items: [
+          { text: 'Garaje', link: '/general/garaje' },
           {text: 'Sistem Airsoft', link: '/general/airsoft'},
           {text: 'Targul Auto', link: '/general/parcauto'},
           {text: 'Ghid de incepere', link: '/general/guide'},
@@ -166,7 +167,7 @@ export default defineConfig({
         ],
       },
       {
-        text: ' Activitati',
+        text: ' Activitati si Job-uri',
         activeMatch: `^/joburi/`,
         items: [
           { text: ' Despre job-uri', link: '/joburi/joburi' },
@@ -201,7 +202,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Afaceri',
+        text: 'Afaceri si Locatii',
         activeMatch: '^/afaceri/',
         items: [
           { text: 'Elite Business Center', link: '/afaceri/elite-business-center' },
@@ -225,13 +226,15 @@ export default defineConfig({
         activeMatch: '^/proprietati/',
         items: [
           { text: 'DigitalDen', link: '/proprietati/digitalden' },
-          { text: 'Case', link: '/proprietati/despre-case' }
+          { text: 'Case', link: '/proprietati/despre-case' },
+          { text: 'Casino', link: '/casino/casino'},
+          
         ],
         
         
       },
       {
-        text: 'Institutii',
+        text: 'Factiuni',
         activeMatch: '^/institutii/',
         items: [
           { text: 'Politie', link: '/institutii/politie' },
@@ -240,11 +243,7 @@ export default defineConfig({
 
         ],
       },
-      {
-        text: 'Casino',
-        activeMatch: '^/casino/',
-        items: [{ text: 'Unde se afla Casino-ul', link: '/casino/casino' }],
-      },
+
     ],
   },
   lastUpdated: true,
