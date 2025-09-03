@@ -223,7 +223,12 @@ export default defineConfig({
       {
         text: 'Proprietati',
         activeMatch: '^/proprietati/',
-        items: [{ text: 'Case', link: '/proprietati/despre-case' }],
+        items: [
+          { text: 'DigitalDen', link: '/proprietati/digitalden' },
+          { text: 'Case', link: '/proprietati/despre-case' }
+        ],
+        
+        
       },
       {
         text: 'Institutii',

@@ -7,7 +7,7 @@ outline: deep
 ---
 # <center><span class="title-font">1. Regulamentul In-Character</span></center>
 
-### 1.1 ROLEPLAY(RP)
+### <span class="title-font">1. Roleplay</span>
 - Reprezintă simularea unui personaj real prin intermediul caracterului creat in joc,
 folosind idei proprii, scenarii similare cu realitatea, decizii și acțiuni personale, realizând
 un joc de rol cât mai credibil și complex.
