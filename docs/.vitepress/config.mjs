@@ -164,7 +164,8 @@ export default defineConfig({
           { text: ' ATM-uri', link: '/general/atm-uri' },
           { text: ' Daily rewards', link: '/general/rewards' },
           { text: ' Comenzi ', link: '/general/comenzi' },
-          { text: ' Drving School ', link: '/general/dmv' },
+          { text: ' Driving School ', link: '/general/dmv' },
+          { text: ' Depozit ', link: '/general/depozit' },
 
         ],
       },
