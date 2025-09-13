@@ -411,6 +411,7 @@ efectua streaming pe serverul Elitegamers.
 - Jaful asupra persoanelor este permis doar după acumularea unui număr de 50 de ore IC.
 - Jafurile sunt permise doar în intervalul orar 20.00 – 08.00 în Los Santos.
 - Pe insula Cayo Perico jafurile pot avea loc în intervalul orar 18.00 – 09.00.
+- Este interzis sa jefuiti/rapiti persoane de la locatiile joburilor/activitatilor legale/ilegale.
 - Nu aveți voie să jefuiți persoanele aflate în timpul desfășurării unui job legal, polițiști
 sau cadre medicale aflate on-duty.
 - În timpul unui jaf puteți deposeda o persoană de toate bunurile aflate în inventar,
@@ -428,8 +429,9 @@ Warn/Jail/Ban termporar
 :::
 
 ### 3.2 JAF / FURT AUTO
-
 - Jaful sau furtul asupra autovehiculelor este permis **doar după acumularea a minim 10 ore IC**.
+- Se permite spargerea/furtul autovehiculelor in orice zona, cu <span style="color: red;">exceptia</span> zonelor publice, aglomerate, a locatiilor joburilor/activitatilor legale/ilegale.
+- Membrii mafiei pot jefui masini pe insula cayo perico, indiferent de ora, doar in cazul in care propietarii acestora nu au platit taxa impusa.
 - Aceste acțiuni sunt permise **doar dacă în proximitatea vehiculului nu se află alte persoane**
 - Este <span style="color: red;">INTERZIS</span> să furi sau să jefuiești vehicule aflate în zone aglomerate sau în apropierea unor instituții importante (ex: job legal, poliție, spital, primărie etc.).
 - La un jaf asupra autovehiculelor pot participa **cel mult 2 persoane**.
@@ -486,7 +488,7 @@ Warn/Jail/Ban temporar
 
 ### 3.6 ROLEPLAY-URI EXTRA/ACȚIUNI TERORISTE
 - În cazul ideilor speciale de roleplay care presupun actiuni teroriste sau interacțiuni
-deosebite aveți obligația să luați legătura cu un Super-Administrator+ care vă va
+deosebite aveți obligația să luați legătura cu un Administrator+ care vă va
 aproba sau nu scenariul.
 :::danger SANCTIUNE
 Warn/Jail/Ban temporar
