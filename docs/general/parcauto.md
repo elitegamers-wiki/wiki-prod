@@ -10,29 +10,28 @@ outline: deep
   <p style="text-align:center;">Tot ce trebuie să știi despre vânzarea și cumpărarea mașinilor pe server.</p>
 
   <h3>📍 Locația târgului</h3>
-  <p>Mergi la <b>Cod Poștal: 745</b> pentru a intra în zona târgului auto.</p>
+  <p>Mergi la <b>Cod Poștal: 686</b> pentru a intra în zona târgului auto.</p>
   <a href="/parcauto/targauto.png" target="_blank">
     <img src="/parcauto/targauto.png" alt="Locația târgului auto">
+  </a>
+  <a href="/parcauto/locatie.png" target="_blank">
+    <img src="/parcauto/locatie.png" alt="Locația târgului auto">
   </a>
 
   <h3>🚗 Pune mașina la vânzare</h3>
   <p>
-    1. Parchează mașina pe locul dorit.<br>
-    2. Ieși din mașină și apropie-te de ea.<br>
-    3. Apasă <b>G</b> → se deschide meniul <b>„Pune vehicul la vânzare”</b>.
+    1. Interactioneaza cu Nea Marian.<br>
+    2. Apasa pe <b>Vinde vehicul</b> si alege masina dorita.<br>
+    3. Configureaza anuntul si confirma actiunea.
   </p>
-  <a href="/parcauto/meniug.png" target="_blank">
-    <img src="/parcauto/meniug.png" alt="Meniu vânzare G">
+  <a href="/parcauto/neamarian.png" target="_blank">
+    <img src="/parcauto/neamarian.png" alt="Nea Marian">
   </a>
-
-  <h3>📝 Configurează anunțul</h3>
-  <p>
-    - <b>Preț de vânzare</b><br>
-    - <b>Informații adiționale</b><br>
-    - <b>Număr de telefon</b>
-  </p>
-  <a href="/parcauto/meniuvanzare.png" target="_blank">
-    <img src="/parcauto/meniuvanzare.png" alt="Meniu configurare vânzare">
+  <a href="/parcauto/neamarian2.png" target="_blank">
+    <img src="/parcauto/neamarian2.png" alt="Nea Marian">
+  </a>
+  <a href="/parcauto/neamarian3.png" target="_blank">
+    <img src="/parcauto/neamarian3.png" alt="Nea Marian">
   </a>
 
   <h3>👀 Interacțiunea cumpărătorilor</h3>
@@ -43,10 +42,12 @@ outline: deep
     - Viteză maximă (stock)<br>
     - Sloturi portbagaj<br>
     - Greutate portbagaj<br>
-    - Tuning motor / Turbo<br>
+    - Tuning motor<br>
+    - Turbo<br>
     - Număr de telefon<br>
-    - Informații vânzător<br>
-    - Preț de vânzare
+    - Preț de vânzare/listă<br>
+    - Intervalul parcării<br>
+    - Informații de la vânzator
   </p>
   <a href="/parcauto/meniumasina.png" target="_blank">
     <img src="/parcauto/meniumasina.png" alt="Meniu cumpărător">

@@ -7,13 +7,16 @@ outline: deep
 ### Ce presupune acest job de ciupercar?
 
 <eg-ciupercar-box>
-  Jobul de ciupercar implică culesul ciupercilor dintr-o zonă prestabilită din apropierea Muntelui Chilliad pe partea orașului Paleto. La început vei culege aceste ciuperci pentru a urma să le vinzi la un NPC din mijlocul orașului (poză mai jos), dar dacă dorești să faci profit mai mult, după ce capeți o anumită experiență vei putea încerca și partea ilegală a acestui job ce presupune culegerea ciupercilor halucinogene și transformarea acestora în substanțe interzise.
+  Jobul de ciupercar implică culesul ciupercilor dintr-o zonă prestabilită in afara orasului, marcata cu un cerc verde din apropierea eolienelor (poze mai jos). La început vei culege aceste ciuperci pentru a urma să le vinzi la un NPC din mijlocul orașului, dar dacă dorești să faci profit mai mult, după ce capeți o anumită experiență vei putea încerca și partea ilegală a acestui job ce presupune culegerea ciupercilor halucinogene și transformarea acestora în substanțe interzise.
 </eg-ciupercar-box>
 
 :::details Locatia Harta | Ciupercar
 ![](../public/joburi/ciupercar.png){.framed-photo}
 :::
 
+:::details Locatia Harta | Ciupercar Avansat
+![](../public/joburi/ciupercar2.png){.framed-photo}
+:::
 ### Cum mă angajez?
 
 <eg-ciupercar-box>

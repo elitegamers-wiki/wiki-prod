@@ -119,28 +119,28 @@ outline: deep
 ### Ce presupune Jobul de Pescar?
 
 <div class="eg-box-gradient">
-Ca pescar, vei naviga pe ape pentru a prinde diferite tipuri de pește. [...] Alegerea momelii potrivite influențează direct tipul și calitatea peștilor prinși, precum și veniturile obținute.
+Jobul de pescar îți oferă ocazia să descoperi liniștea apelor și satisfacția unei prăzi reușite. Este un parcurs bazat pe experiență și răbdare, unde fiecare nivel atins deschide noi orizonturi: de la pescuitul simplu pe ponton, la explorarea lacurilor cu barca și, în cele din urmă, la adevărata aventură pe ocean, unde doar cei mai experimentați pescari se pot încumeta.
 </div>
 
 ### Cum mă angajez?
 
 <div class="eg-box-solid">
-Pentru a începe acest job, trebuie să mergi la Primărie ([/gps - Primărie]) unde un NPC de la tejghea te va introduce în meniul interactiv.
+Pentru a începe acest job, trebuie să mergi la Primărie unde un NPC de la tejghea te va introduce în meniul interactiv sau te poți angaja dacă vorbești cu șeful pescar.
 </div>
 
-:::details Locatie Primarie
-![](../public/joburi/gps.png){.framed-photo}
+:::details NPC Primărie
+![](../public/joburi/primarie.png){.framed-photo}
 :::
 
-:::details NPC
-![](../public/joburi/primarie.png){.framed-photo}
+:::details Șeful Pescar
+![](../public/joburi/sefpescar.png){.framed-photo}
 :::
 
 ### Prezentare job - Youtube
 
 <iframe 
-  width="560" 
-  height="315" 
+  width="660" 
+  height="355" 
   src="https://www.youtube.com/embed/qPIeIlkk10Y"
   title="YouTube video player"
   frameborder="0"
@@ -148,59 +148,55 @@ Pentru a începe acest job, trebuie să mergi la Primărie ([/gps - Primărie]) 
   allowfullscreen>
 </iframe>
 
-<p>Dupa ce ai finalizat primul pas trebuie cumperi si echipamentul corespunzator. [...]</p>
-
-<p>(De scris despre zonele de pescuit)</p>
-
-### Opțiuni pentru momeală:
-
-1. Momeala cumpărată de la NPC:  
-[...] [/gps - Magazin pescar]
-
-:::details Momeala NPC
-![](../public/joburi/momealanpc.png){.framed-photo}
-:::
-
-:::details Rame Premium
-![](../public/joburi/ramepremium.png){.framed-photo}
-:::
-
-2. Ramele culese manual:  
-[...] [/gps]
-
-:::details Locatia Rame Premium
-![](../public/joburi/locatieramepremium.png){.framed-photo}
-:::
-
-3. Momeala craftată:  
-Pentru pescarii mai experimentați, craftingul momelii din pești este cea mai eficientă soluție.
-
 ### Informatii UTILE
 
 <div class="eg-box-gradient">
 <ul>
-<li>După ce ai umplut ghiozdanul sau barca cu pești, îi poți vinde în funcție de preferințele tale [...]</li>
-<li>Nivelurile jobului:</li>
+<li>Jobul de pescar se împarte pe 3 nivele, unde primul nivel este pescarul începător unde sunt necesare o undiță și râme normale sau râme premium.</li>
+<li>Următorul nivel reprezentând nivelul Avansat care necesită și el la rândul lui Nălucă Medie Cumpărată sau Nada Medie craftată.</li>
+<li>Ultimul nivel este Pescarul Expert care necesită Nălucă Mare sau Nălucă Mare craftată.</li>
+<br></br>
+<li>Începând cu pescarul avansat, este necesară achiziționarea unei bărci pentru a putea ajunge în zona prestabilită nivelului.</li>
+<li>La momentul potrivit, peștii se pot vinde la NPC sau se pot duce la procesare pentru Nada Medie și/sau Nada Mare pentru celelalte Nivele (poze mai jos).</li>
+<li>Râmele Premium, Nada Medie și Nada Mare îmbunătățesc șansă de a prinde pești rari.</li>
 </ul>
 </div>
 
-:::details Punct Vanzare Pesti
+:::details Punct Vânzare Pești
 ![](../public/joburi/vanzarepesti.png){.framed-photo}
 :::
 
+:::details Locație Procesare Momeală
+![](../public/joburi/craftmomeala.png){.framed-photo}
+:::
+
+### Nivelurile jobului
+<div class="eg-box-gradient">
 <ul>
-<li><strong>Nivel 1 (25 ore):</strong> [...]</li>
-<li><strong>Nivel 2 (200 ore):</strong> [...]</li>
-<li><strong>Zone de pescuit:</strong></li>
+<li>Pentru Pescar Începător sunt necesare <b>25</b> ore.</li>
+<li>Pentru Pescar Avansat sunt necesare <b>200</b> ore.</li>
+<br></br>
+<li><b>Locațiile de pescuit:</b></li>
 <ul>
-<li>Fiecare locație de pescuit are speciile sale specifice [...]</li>
-<li>Pretul unei undite este de 1000 de euro [...]</li>
-<li>Incepand de la Skill 2 vei avea nevoie de o barca [...]</li>
+<li>În fiecare locație de pescuit sunt găsiți pești de diferite feluri.</li>
+<li>Prețul unei Undițe este de 1.000 euro și se poate cumpăra de NPC pe care îl găsiți la locația pescarului începător.</li>
+<li>Începând cu nivelul Avansat este necesară achiziționarea unei bărci pentru a putea practică acest nivel dar și nivelul Expert al acestui job.</li>
 </ul>
 </ul>
+</div>
+
+:::details Locație Harta | Pescar Începător
+![](../public/joburi/locatiepescar1.png){.framed-photo}
+:::
+
+:::details Locație Harta | Pescar Avansat
+![](../public/joburi/locatiepescar2.png){.framed-photo}
+:::
+
+### Lista speciilor
 
 <div class="eg-box-solid">
-  <h3 style="color: #ff2323;">Lista cu pești - Skill 1</h3>
+  <h3 style="color: #ff2323;">Pescar Începător</h3>
   <ul>
     <li>Platica mică</li>
     <li>Morunaș mic</li>
@@ -213,7 +209,7 @@ Pentru pescarii mai experimentați, craftingul momelii din pești este cea mai e
 </div>
 
 <div class="eg-box-gradient">
-  <h3 style="color: #ff2323;">Lista cu pești - Skill 2</h3>
+  <h3 style="color: #ff2323;">Pescar Avansat</h3>
   <ul>
     <li>Șalău Mediu</li>
     <li>Somn Mediu</li>
@@ -225,10 +221,4 @@ Pentru pescarii mai experimentați, craftingul momelii din pești este cea mai e
     <li style="color: #ff2323;"><strong>Pește Mandarin</strong> <span style="color: #eee;">- Bonus</span></li>
   </ul>
 </div>
-
-### Despre momeala:
-
-Pentru skill 1 ai nevoie strict de rame [...]  
-Pentru skill 2 ai nevoie de Nada craftabilă sau Nalucă cumpărată.
-
 </div>
