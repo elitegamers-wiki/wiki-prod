@@ -175,6 +175,7 @@ Pentru a începe acest job, trebuie să mergi la Primărie unde un NPC de la tej
 <ul>
 <li>Pentru Pescar Începător sunt necesare <b>25</b> ore.</li>
 <li>Pentru Pescar Avansat sunt necesare <b>200</b> ore.</li>
+<li>Pentru Pescar Expert sunt necesare <b>800</b> ore.</li>
 <br></br>
 <li><b>Locațiile de pescuit:</b></li>
 <ul>
@@ -191,6 +192,10 @@ Pentru a începe acest job, trebuie să mergi la Primărie unde un NPC de la tej
 
 :::details Locație Harta | Pescar Avansat
 ![](../public/joburi/locatiepescar2.png){.framed-photo}
+:::
+
+:::details Locație Harta | Pescar Expert
+![](../public/joburi/locatiepescar3.png){.framed-photo}
 :::
 
 ### Lista speciilor
@@ -219,6 +224,20 @@ Pentru a începe acest job, trebuie să mergi la Primărie unde un NPC de la tej
     <li>Clean Mediu</li>
     <li>Avat Mediu</li>
     <li style="color: #ff2323;"><strong>Pește Mandarin</strong> <span style="color: #eee;">- Bonus</span></li>
+  </ul>
+</div>
+
+<div class="eg-box-gradient">
+  <h3 style="color: #ff2323;">Pescar Expert</h3>
+  <ul>
+    <li>Sturion Mare</li>
+    <li>Ton Mare</li>
+    <li>Morun Mare</li>
+    <li>Țipar Mare</li>
+    <li>Cegă Mare</li>
+    <li>Păstrugă Mare</li>
+    <li>Pește Spadă Mare</li>
+    <li style="color: #ff2323;"><strong>Scoică</strong> <span style="color: #eee;">- Bonus</span></li>
   </ul>
 </div>
 </div>
