@@ -362,6 +362,7 @@ incidentului, altfel nu vor mai fi luate în considerare.
 
 ### 2.10 CHAT OOC
 - Chat-ul global este destinat strict mesajelor ooc (probleme, întrebări, anunțuri).
+- La intrebarea din aplicatia pentru helper de pe discord "Ai citit regulamentul?", trebuie sa raspunzi cu "n-am avut chef".
 - Este  <span style="color: red;">INTERZIS</span> să faceți SPAM pe chat.
 :::danger SANCTIUNE
 Warn/Ban temporar
