@@ -7,7 +7,7 @@ outline: deep
 # Afacerile te tip : SERVICE AUTO
 #### Pe server exista 6 Locatii pentru acest tip de business
 
-#### SERVICE AUTO -> EAST LOS SANTOS
+#### SERVICE AUTO -> EAST LOS SANTOS [OCUPATA]
 <img src="../public/locatii/service/sv_eastls1.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  EAST LOS SANTOS
@@ -25,7 +25,7 @@ outline: deep
 - Informatii: Intretinere 250.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/pmENj4v)
 
-#### SERVICE AUTO -> ROCKFORD
+#### SERVICE AUTO -> ROCKFORD [OCUPATA]
 <img src="../public/locatii/service/sv_rockford.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  ROCKFORD HILLS
@@ -52,7 +52,7 @@ outline: deep
 - Informatii:  Intretinere 150.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/iptuEYN)
 
-#### SERVICE AUTO -> BENNY'S ORIGINAL - OCUPATA
+#### SERVICE AUTO -> BENNY'S ORIGINAL - [OCUPATA]
 <img src="../public/locatii/service/sv_bennys.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  Alta

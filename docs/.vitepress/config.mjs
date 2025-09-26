@@ -186,6 +186,7 @@ export default defineConfig({
               { text: 'Ciupercar', link: '/joburi/ciupercar' },
               { text: 'Miner', link: '/joburi/miner' },
               { text: 'Livrator Pizza', link: '/joburi/pizza' },
+              { text: 'Electrician', link: '/joburi/electrician' },
             ]
           },
           {

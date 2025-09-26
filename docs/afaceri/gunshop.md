@@ -4,7 +4,7 @@ outline: deep
 
 <img src="https://imgur.com/eBBAkE8.png" alt="pozabusiness" width="666" height="375" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
-# Afacerile te tip : GUNSHOP (MOMENTAN INDISPONIBILE)
+# Afacerile te tip : GUNSHOP
 #### Pe server exista 11 Locatii pentru acest tip de business
 
 #### GUNSHOP -> VINEWOOD
@@ -100,7 +100,7 @@ outline: deep
 - Informatii: Intretinere 100.000€ o data la 2 saptamani
 - Harta: [APASA AICI](https://imgur.com/QX4Z9fB)
 
-#### GUNSHOP -> FLECCA
+#### GUNSHOP -> FLECCA  [OCUPATA]
 <img src="../public/locatii/gunshop/gs_flecca.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
 - Zona:  DOWNTOWN
