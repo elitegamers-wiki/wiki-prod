@@ -150,9 +150,9 @@ Jobul de electrician este o meserie practica si dinamica, ce poate fi practicata
 </ul>
 </div>
 
-<img src="../public/joburi/electrician5.png" alt="electrician" width="800" height="421">
+<img src="../public/joburi/electrician5.png" alt="electrician" width="800" height="421" style="border: 3px solid #cc3333; border-radius: 10px; display: block; margin: 1rem auto;">
 <br></br>
-<img src="../public/joburi/electrician6.png" alt="electrician" width="800" height="421">
+<img src="../public/joburi/electrician6.png" alt="electrician" width="800" height="421" style="border: 3px solid #cc3333; border-radius: 10px; display: block; margin: 1rem auto;">
 
 <div class="eg-box-gradient">
 <ul>
