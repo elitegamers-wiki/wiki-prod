@@ -27,7 +27,19 @@ outline: deep
 
 - Înainte de a începe să joci, asigură-te că citești regulile serverului ELITEGAMERS ROMANIA HARD ROLEPLAY. Acestea sunt esențiale pentru a te bucura de o experiență de roleplay plăcută și corectă alături de ceilalți jucători.
 
-###  3. OBLIGATORIU SA AVETI VERSIUNEA BETA
+###  3. SOLUTIE IMPOTRIVA CRASH-URILOR
+
+- Recomandarea noastră este de a vă șterge cache-ul Fivem înainte de a intra pe server pentru o funcționalitate corectă și curată a fișierelor.
+- Pentru a șterge cache-ul jocului Fivem apăsăți clic dreapta pe iconița Fivem-ului și apăsați pe "Open File Location".
+- În destinația folderului apăsăți dublu clic pe "FiveM Application Data" și navigați în folderul numit "data".
+- În acest folder ștergeți următoarele fișiere: "cache", "server-cache" și "server-cache-priv".
+- Acum puteți să va bucurați de un gameplay curat pe server.
+
+<a href="/bg/cache2.gif" target="_blank">
+  <img src="/bg/cache2.gif" alt="altGIF" width="750" height="800" style="display: block; margin: 0px auto; border-radius: 2.5%; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3), 0 6px 6px rgba(0, 0, 0, 0.23);">
+</a>
+
+###  4. OBLIGATORIU SA AVETI VERSIUNEA BETA
 
 <a href="/bg/eg.gif" target="_blank">
   <img src="/bg/eg.gif" alt="altGIF" width="750" height="800" style="display: block; margin: 0px auto; border-radius: 2.5%; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3), 0 6px 6px rgba(0, 0, 0, 0.23);">
