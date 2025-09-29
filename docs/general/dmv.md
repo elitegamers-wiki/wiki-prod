@@ -76,7 +76,7 @@ outline: deep
   <ul>
     <li>📘 <strong>Proba teoretică:</strong> Test cu întrebări despre regulile de circulație.</li>
     <li>🚗 <strong>Proba practică:</strong> Conduci o mașină pe traseu pentru a demonstra abilitățile.</li>
-    <li>📝 <strong>Solicitare duplicat:</strong> Poți cere un duplicat al permisului de conducere.</li>
+    <li>📝 <strong>Solicitare permis duplicat:</strong> Poți cere un duplicat al permisului de conducere.</li>
   </ul>
 </div>
 
