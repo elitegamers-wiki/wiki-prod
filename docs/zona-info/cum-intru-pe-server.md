@@ -35,8 +35,8 @@ outline: deep
 - În acest folder ștergeți următoarele fișiere: "cache", "server-cache" și "server-cache-priv".
 - Acum puteți să va bucurați de un gameplay curat pe server.
 
-<a href="/bg/cache2.gif" target="_blank">
-  <img src="/bg/cache2.gif" alt="altGIF" width="750" height="800" style="display: block; margin: 0px auto; border-radius: 2.5%; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3), 0 6px 6px rgba(0, 0, 0, 0.23);">
+<a href="/bg/cache.gif" target="_blank">
+  <img src="/bg/cache.gif" alt="altGIF" width="750" height="800" style="display: block; margin: 0px auto; border-radius: 2.5%; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3), 0 6px 6px rgba(0, 0, 0, 0.23);">
 </a>
 
 ###  4. OBLIGATORIU SA AVETI VERSIUNEA BETA
