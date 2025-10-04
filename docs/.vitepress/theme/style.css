@@ -49,12 +49,6 @@
  * TEXT FONT
  * -------------------------------------------------------------------------- */
 /* Blochează selectarea textului pe întregul site */
-body {
-    user-select: none; /* Nu se poate selecta textul */
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-}
 
 /* Dacă vrei să fie doar pentru anumite secțiuni, folosește o clasă */
 .nocopy {
