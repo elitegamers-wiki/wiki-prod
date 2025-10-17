@@ -408,7 +408,7 @@ efectua streaming pe serverul Elitegamers.
 
 # 3. REGULAMENT JOBURI/ACTIVITĂȚI ILEGALE
 
-### 3.1 JAF ASUPRA PERSOANELOR
+### 3.1 JAF/RAPIRE/UCIDERE ASUPRA PERSOANELOR
 - Jaful asupra persoanelor este permis **doar după acumularea unui număr de 50 de ore IC**.
 - Jafurile sunt permise în Los Santos doar in interiorul zonelor rosii, exceptie facand roleplay-urile care presupun negociere cu ostatici sau fuga de politie cu ostatic.
 - Este <span style="color: red;">interzis</span> sa jefuiti/rapiti persoane la locatiile joburilor/activitatilor legale/ilegale.
