@@ -409,37 +409,39 @@ efectua streaming pe serverul Elitegamers.
 # 3. REGULAMENT JOBURI/ACTIVITĂȚI ILEGALE
 
 ### 3.1 JAF ASUPRA PERSOANELOR
-- Jaful asupra persoanelor este permis doar după acumularea unui număr de 50 de ore IC.
-- Jafurile sunt permise doar în intervalul orar 20.00 – 08.00 în Los Santos.
-- Pe insula Cayo Perico jafurile pot avea loc în intervalul orar 18.00 – 09.00.
-- Este interzis sa jefuiti/rapiti persoane de la locatiile joburilor/activitatilor legale/ilegale.
-- Nu aveți voie să jefuiți persoanele aflate în timpul desfășurării unui job legal, polițiști
-sau cadre medicale aflate on-duty.
-- În timpul unui jaf puteți deposeda o persoană de toate bunurile aflate în inventar,
-precum și din mașina pe care o conduce.
+- Jaful asupra persoanelor este permis **doar după acumularea unui număr de 50 de ore IC**.
+- Jafurile sunt permise în Los Santos doar in interiorul zonelor rosii, exceptie facand roleplay-urile care presupun negociere cu ostatici sau fuga de politie cu ostatic.
+- Este <span style="color: red;">interzis</span> sa jefuiti/rapiti persoane la locatiile joburilor/activitatilor legale/ilegale.
+- Nu aveți voie să jefuiți persoanele aflate în timpul desfășurării unui job legal, polițiști sau cadre medicale aflate on-duty.
+- Este permis sa luati ostatic un civil/politist/medic doar daca asta va ofera o ultima cale de scapare sau daca negocierile au esuat. Puteti rapi/tine ostatic o persoana maxim 15 minute.
+- Este <span style="color: red;">strict interzis</span> sa rapiti/luati ostatic o persoana si apoi sa o omorati.
+- Este permisa jefuirea ostaticului doar in cazul in care la roleplayul respectiv participa minim doi jefuitori.
+- În timpul unui jaf puteți deposeda o persoană de toate bunurile aflate în inventar, precum și din mașina pe care o conduce cu exceptia documentelor.
 - Nu aveți voie să obligați o persoană să scoată bani din bancă pentru a o jefui.
 - Nu aveți voie să obligați o persoană să scoată altă mașină din garaj pentru a o jefui.
-- Nu aveți voie să jefuiți aceeași persoană de două ori în decursul a 3 ore, excepție făcând
-insula Cayo Perico.
-- Nu aveți voie să jefuiți persoane în zonele publice centrale (Primărie, Bănci,
-Bancomate, Benzinării), zone considerate spații sigure.
-- Membrii mafiei pot jefui alte persoane, indiferent de oră, la locațiile activităților ilegale,
-doar în cazul în care victima refuză să plătească taxa de protecție.
+- Nu aveți voie să jefuiți aceeași persoană de două ori în decursul a 3 ore, excepție făcând insula Cayo Perico.
+- Pe insula Cayo Perico jafurile pot avea loc oricand.
+- Membrii mafiei pot jefui alte persoane, indiferent de oră, la locațiile activităților ilegale, doar în cazul în care victima refuză să plătească taxa de protecție.
+- Membrii mafiei pot jefui oameni pe insula cayo perico, indiferent de ora, doar in cazul in care acestia nu au platit taxa impusa sau au fost prinsi jefuind.
+- Pe insula Cayo nu se aplica regulile **Rob&Kill** si **Drop&Kill**.
+
 :::danger SANCTIUNE
 Warn/Jail/Ban termporar
 :::
 
 ### 3.2 JAF / FURT AUTO
+
 - Jaful sau furtul asupra autovehiculelor este permis **doar după acumularea a minim 10 ore IC**.
-- Se permite spargerea/furtul autovehiculelor in orice zona, cu <span style="color: red;">exceptia</span> zonelor publice, aglomerate, a locatiilor joburilor/activitatilor legale/ilegale.
-- Membrii mafiei pot jefui masini pe insula cayo perico, indiferent de ora, doar in cazul in care propietarii acestora nu au platit taxa impusa.
-- Aceste acțiuni sunt permise **doar dacă în proximitatea vehiculului nu se află alte persoane**
-- Este <span style="color: red;">INTERZIS</span> să furi sau să jefuiești vehicule aflate în zone aglomerate sau în apropierea unor instituții importante (ex: job legal, poliție, spital, primărie etc.).
-- La un jaf asupra autovehiculelor pot participa **cel mult 2 persoane**.
+- Se permite spargerea/furtul autovehiculelor in orice zona, cu exceptia zonelor publice (in fata/parcarea din fata magazinelor, in dreptul bancomatelor, benzinarii cu exceptia celor din zona rosie, parcarea din fata sediului politiei, a primariei, a spitalului, parcarea de la dealership, in fata casinoului, in parcarea din fata Homedepot), aglomerate, a locatiilor joburilor/activitatilor legale/ilegale.
+- Membrii mafiei pot jefui masini pe insula cayo perico, indiferent de ora, doar in cazul in care propietarii acestora nu au platit taxa impusa. 
+- Civilii care ajung pe Cayo pot jefui orice masina, indiferent de ora.
+- Aceste acțiuni sunt permise **doar dacă în proximitatea vehiculului nu se află alte persoane**.
+- Dupa ora **12 noaptea** este permis jaful asupra autovehiculelor in orice zona, fara nicio restrictie.
+- La un jaf asupra autovehiculelor pot participa cel mult 2 persoane.
 - Este strict <span style="color: red;">INTERZIS</span> ca jucătorii să ia ostatici în cadrul jafurilor asupra autovehiculelor.
 
 :::danger SANCTIUNE
-Warn / Jail
+Warn/Jail
 :::
 
 
