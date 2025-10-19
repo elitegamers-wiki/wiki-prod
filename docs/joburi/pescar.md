@@ -175,7 +175,7 @@ Pentru a începe acest job, trebuie să mergi la Primărie unde un NPC de la tej
 <ul>
 <li>Pentru Pescar Începător sunt necesare <b>25</b> ore.</li>
 <li>Pentru Pescar Avansat sunt necesare <b>200</b> ore.</li>
-<li>Pentru Pescar Expert sunt necesare <b>800</b> ore.</li>
+<li>Pentru Pescar Expert sunt necesare <b>500</b> ore.</li>
 <br></br>
 <li><b>Locațiile de pescuit:</b></li>
 <ul>
