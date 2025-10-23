@@ -410,38 +410,38 @@ efectua streaming pe serverul Elitegamers.
 
 ### 3.1 JAF/RAPIRE/UCIDERE ASUPRA PERSOANELOR
 - Jaful asupra persoanelor este permis doar **după acumularea unui număr de 50 de ore IC**.
-- Jafurile sunt permise în Los Santos doar în interiorul zonelor roșii, excepție făcând roleplay-urile care presupun negociere cu ostatici sau fugă de poliție cu ostatic.
-- Este <span style="color: red;">interzis</span> să jefuiți/răpiți persoane la locațiile joburilor/activităților legale/ilegale.
-- Nu aveți voie să jefuiți persoanele aflate în timpul desfășurării unui job legal, polițiști sau cadre medicale aflate on-duty.
-- Este permis să luați ostatic un civil/polițist/medic doar dacă asta vă oferă o ultimă cale de scăpare sau dacă negocierile au eșuat. Puteți răpi/ține ostatic o persoană maxim 15 minute.
-- Este <span style="color: red;">strict interzis</span> să răpiți/luați ostatic o persoană și apoi să o omorâți.
-- Este permisă jefuirea ostaticului doar în cazul în care la roleplayul respectiv participă minim doi jefuitori.
-- În timpul unui jaf puteți deposeda o persoană de toate bunurile aflate în inventar, precum și din mașina pe care o conduce cu excepția documentelor.
+- Se interzice jaful persoanelor care au mai puțin de **20 de ore** pe server. Ca să vedeți câte ore are cel pe care îl jefuiți aveți voie să apăsați tasta **Delete** să îi vedeți id-ul, apoi scrieți **/ore (id)** în chat.
+- În Los Santos jafurile pot avea loc în intervalul orar **20.00 - 08.00** și sunt permise doar în interiorul <span style="color: red;">zonelor roșii</span>.
+- Este <span style="color: red;">interzis</span> să jefuiți persoane la locațiile joburilor/activităților legale/ilegale.
+- Este <span style="color: red;">interzis</span> să inițiați jefuirea persoanelor aflate în timpul desfășurării unui job legal, polițiști sau cadre medicale aflate on-duty.
+- În timpul unui jaf puteți deposeda o persoană de toate bunurile aflate în inventar, precum și din vehiculul pe care il conduce cu excepția **documentelor**.
+- Este permisă jefuirea minimală a unui ostatic civil/polițist/medic (în mod roleplay se pot lua doar obiectele care pot incrimina răpitorul, telefon, camera de luat vederi, microfoane ascunse). Această acțiune poate avea loc doar în urma unui roleplay care presupune inițial o negociere eșuată/fuga de poliție.
 - Nu aveți voie să obligați o persoană să scoată bani din bancă pentru a o jefui.
 - Nu aveți voie să obligați o persoană să scoată altă mașină din garaj pentru a o jefui.
-- Nu aveți voie să jefuiți aceeași persoană de două ori în decursul a 3 ore, excepție făcând insula Cayo Perico.
-- Pe insula Cayo Perico jafurile pot avea loc oricând.
-- Membrii mafiei pot jefui alte persoane, indiferent de oră, la locațiile activităților ilegale, doar în cazul în care victima refuză să plătească taxa de protecție.
-- Membrii mafiei pot jefui oameni pe insula cayo perico, indiferent de ora, doar în cazul în care aceștia nu au plătit taxa impusă sau au fost prinși jefuind.
-- Pe insula Cayo nu se aplică regulile **Rob&Kill** și **Drop&Kill**.
+- Nu aveți voie să jefuiți aceeași persoană de două ori în decursul a **3 ore**, excepție făcând insula Cayo Perico.
+- Pe insula Cayo Perico jafurile pot avea loc în intervalul orar **18.00 - 09.00**.
+- Membrii mafiei pot jefui alte persoane în Los Santos, indiferent de oră, la locațiile activităților ilegale, doar în cazul în care victima refuză să plătească taxa de protecție sau au fost prinși jefuind.
+- Membrii mafiei pot jefui oameni pe insula Cayo Perico, indiferent de oră, doar în cazul în care aceștia nu au plătit taxa impusă sau au fost prinși jefuind.
+- Pe insula Cayo Perico **nu se aplică regulile Rob&Kill și Drop&Kill în intervalul orar destinat jafurilor**. Membrii mafiei sunt exceptați de la această regulă în cazul conflictelor cu alte ganguri/mafii/poliție.
+- Este permisă uciderea persoanelor (PK) doar în interiorul zonelor roșii și doar în cadrul unor situații roleplay bine definite care justifică uciderea altui jucător. În cazul anumitor contexte roleplay în care îți este amenințată viața, a urmaririlor cu poliția, a conflictelor armate între diferite grupuri, este permisă deschiderea focului și în zone limitrofe din Los Santos, altele decat zonele roșii, dacă acțiunea roleplay a început în zonă roșie, daca există o aprobare OOC din partea unui SuperMod+ sau IC din partea Sindicatului (doar în cazul mafiilor).
 
 :::danger SANCTIUNE
-Warn/Jail/Ban termporar
+Avertisment Verbal / Admin Jail / Warn / Ban termporar
 :::
 
 ### 3.2 JAF / FURT AUTO
 
-- Jaful sau furtul asupra autovehiculelor este permis **doar după acumularea a minim 10 ore IC**.
-- Se permite spargerea/furtul autovehiculelor în orice zonă, cu excepția zonelor publice (în fața/parcarea din față magazinelor, în dreptul bancomatelor, benzinării cu excepția celor din zona roșie, parcarea din față sediului poliției, a primăriei, a spitalului, parcarea de la dealership, în față cazinoului, în parcarea din fața Homedepot), zone aglomerate, a locațiilor joburilor/activităților legale/ilegale.
-- Membrii mafiei pot jefui mașini pe insula cayo perico, indiferent de oră, doar în cazul în care propietarii acestora nu au plătit taxa impusă. 
-- Civilii care ajung pe Cayo pot jefui orice mașina, indiferent de oră.
-- Aceste acțiuni sunt permise **doar dacă în proximitatea vehiculului nu se află alte persoane**.
-- După ora **12 noaptea** este permis jaful asupra autovehiculelor în orice zonă, fără nicio restricție.
-- La un jaf asupra autovehiculelor pot participa cel mult 2 persoane.
+- Jaful sau furtul asupra autovehiculelor este permis doar după acumularea a minim **10 ore IC**.
+- Se permite spargerea/furtul autovehiculelor în orice zonă, cu excepția zonelor publice (în fața/parcarea din fața magazinelor, în dreptul bancomatelor, benzinării, parcarea din fața sediului poliției, a primăriei, a spitalului, parcarea de la dealership, în fața cazinoului, în parcarea din fața Homedepot), zone aglomerate, a locațiilor joburilor/activităților legale/ilegale.
+- Membrii mafiei pot jefui mașini pe insula Cayo Perico, **indiferent de oră**, doar în cazul în care propietarii acestora **nu au plătit taxa impusă**.
+- Civilii care ajung pe insula Cayo Perico pot jefui **orice mașina, indiferent de oră**. 
+- Aceste acțiuni sunt permise doar dacă în proximitatea vehiculului nu se află alte persoane.
+- După ora **12 noaptea** este permis jaful asupra autovehiculelor aflate in aer liber în **orice zonă**, fără nicio restricție.
+- La un jaf asupra autovehiculelor pot participa cel mult **2** persoane.
 - Este strict <span style="color: red;">INTERZIS</span> ca jucătorii să ia ostatici în cadrul jafurilor asupra autovehiculelor.
 
 :::danger SANCTIUNE
-Warn/Jail
+Avertisment Verbal / Admin Jail / Warn / Ban termporar
 :::
 
 
@@ -453,8 +453,9 @@ ore IC.
 magazin se află alte persoane.
 - Este strict  <span style="color: red;">INTERZIS</span> ca jucătorii să ia ostatici în cadrul jafurilor asupra bancomatelor sau
 a magazinelor.
+
 :::danger SANCTIUNE
-Warn/Jail
+Avertisment Verbal / Admin Jail / Warn / Ban termporar
 :::
 
 
@@ -465,19 +466,21 @@ Warn/Jail
 - Este <span style="color: red;">INTERZIS</span> să folosiți glitch-uri sau exploatarea mecanicilor pentru a forța accesul sau pentru a da bypass la doorlock/usa.
 
 :::danger SANCTIUNE
-Warn / Jail
+Avertisment Verbal / Admin Jail / Warn / Ban termporar
 :::
 
 ### 3.4 RĂPIRI/OSTATICI
-- Nu aveți voie să răpiți jucătorii din zonele publice.
-- Nu aveți voie să răpiți persoanele care practică un job legal, polițiști sau cadre
-medicale aflate on-duty.
-- Nu aveți voie să răpiți o persoană în scopul obținerii de recompense financiare
-ulterioare sau de altă natură de la poliție sau alte structuri guvernamentale.
-- Puteți sechestra o persoană doar cu acordul unui Administrator+ și doar dacă
-prezentați un scenariu roleplay bine întemeiat care să justifice sechestrarea.
+- Este permis să luați ostatic/răpiți persoane doar după acumularea a **50 de ore IC**.
+- Este <span style="color: red;">interzis</span> să răpiți persoane la locațiile joburilor/activităților legale/ilegale.
+- Este permis să luați ostatic un civil/polițist/medic doar dacă asta vă oferă o ultimă cale de scăpare sau dacă negocierile au eșuat. Ca civil, în cadrul acestor acțiuni, puteți răpi/ține ostatic o persoană **maxim 30 minute**.
+- Este strict <span style="color: red;">INTERZIS</span> să răpiți/luați ostatic o persoană și apoi să o omorâți (această regulă nu se aplică în cazul mafiei).
+- Nu aveți voie să răpiți jucătorii din zonele publice (cu excepția mafiei în cadrul unor roleplay-uri complexe).
+- Nu aveți voie să răpiți persoanele care practică un **job legal, polițiști sau cadre medicale aflate on-duty** (cu excepția mafiei în cadrul unor roleplay-uri complexe).
+- Nu aveți voie să răpiți o persoană în scopul obținerii de recompense financiare ulterioare sau de altă natură de la poliție sau alte structuri guvernamentale.
+- Membrii mafiei pot sechestra/răpi o persoană și o pot ține ostatic între minim 1 ora (fără aprobare) și maxim 3 ore (cu aprobarea celui sechestrat) cu un scenariu roleplay bine întemeiat care să justifice sechestrarea. În cazul în care se dorește sechestrarea pe o perioadă mai lungă este nevoie de aprobarea OOC a unui Administrator+ sau IC a sindicatului.
+
 :::danger SANCTIUNE
-Warn / Jail
+Avertisment Verbal / Admin Jail / Warn / Ban termporar
 :::
 
 ### 3.5 INTERVENTII IN TRANSPORTUL DETINUTILOR
