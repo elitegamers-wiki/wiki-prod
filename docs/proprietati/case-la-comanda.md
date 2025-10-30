@@ -153,19 +153,6 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Villa 2</h4>
-  </div>
-  <br></br>
-  <img src="../public/case-la-comanda/villa02.png" alt="Villa" width="800" height="421" style="border: 5px solid #ffffff; display: block; margin: 1rem auto;">
-  <ul>
-    <li><strong>Zona:</strong> Vinewood Hills</li>
-    <li><strong>Interior:</strong> <a href="https://www.youtube.com/watch?v=MUXhj1tWuEg" target="_blank">Vezi</a></li>
-    <li><strong>Status:</strong> Casa nu mai este de vanzare.</li>
-  </ul>
-</div>
-
-<div class="eg-houses">
-  <div style="text-align: center;">
     <h4 style="display: inline-block;">🏠 Mansion 3</h4>
   </div>
   <br></br>
