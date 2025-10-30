@@ -232,6 +232,7 @@ export default defineConfig({
           { text: 'Home Depot', link: '/proprietati/homedepot' },
           { text: 'DigitalDen', link: '/proprietati/digitalden' },
           { text: 'Case', link: '/proprietati/despre-case' },
+          { text: 'Case la Comanda', link: '/proprietati/case-la-comanda' },
           { text: 'Casino', link: '/casino/casino'},
           
         ],

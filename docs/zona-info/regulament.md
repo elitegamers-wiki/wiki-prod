@@ -426,7 +426,7 @@ efectua streaming pe serverul Elitegamers.
 - Este permisă uciderea persoanelor (PK) doar în interiorul zonelor roșii și doar în cadrul unor situații roleplay bine definite care justifică uciderea altui jucător. În cazul anumitor contexte roleplay în care îți este amenințată viața, a urmaririlor cu poliția, a conflictelor armate între diferite grupuri, este permisă deschiderea focului și în zone limitrofe din Los Santos, altele decat zonele roșii, dacă acțiunea roleplay a început în zonă roșie, daca există o aprobare OOC din partea unui SuperMod+ sau IC din partea Sindicatului (doar în cazul mafiilor).
 
 :::danger SANCTIUNE
-Avertisment Verbal / Admin Jail / Warn / Ban termporar
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
 ### 3.2 JAF / FURT AUTO
@@ -441,7 +441,7 @@ Avertisment Verbal / Admin Jail / Warn / Ban termporar
 - Este strict <span style="color: red;">INTERZIS</span> ca jucătorii să ia ostatici în cadrul jafurilor asupra autovehiculelor.
 
 :::danger SANCTIUNE
-Avertisment Verbal / Admin Jail / Warn / Ban termporar
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
 
@@ -455,7 +455,7 @@ magazin se află alte persoane.
 a magazinelor.
 
 :::danger SANCTIUNE
-Avertisment Verbal / Admin Jail / Warn / Ban termporar
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
 
@@ -466,7 +466,7 @@ Avertisment Verbal / Admin Jail / Warn / Ban termporar
 - Este <span style="color: red;">INTERZIS</span> să folosiți glitch-uri sau exploatarea mecanicilor pentru a forța accesul sau pentru a da bypass la doorlock/usa.
 
 :::danger SANCTIUNE
-Avertisment Verbal / Admin Jail / Warn / Ban termporar
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
 ### 3.4 RĂPIRI/OSTATICI
@@ -480,7 +480,7 @@ Avertisment Verbal / Admin Jail / Warn / Ban termporar
 - Membrii mafiei pot sechestra/răpi o persoană și o pot ține ostatic între minim 1 ora (fără aprobare) și maxim 3 ore (cu aprobarea celui sechestrat) cu un scenariu roleplay bine întemeiat care să justifice sechestrarea. În cazul în care se dorește sechestrarea pe o perioadă mai lungă este nevoie de aprobarea OOC a unui Administrator+ sau IC a sindicatului.
 
 :::danger SANCTIUNE
-Avertisment Verbal / Admin Jail / Warn / Ban termporar
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
 ### 3.5 INTERVENTII IN TRANSPORTUL DETINUTILOR
@@ -488,16 +488,18 @@ Avertisment Verbal / Admin Jail / Warn / Ban termporar
 organizației din care face parte deținutul transportat.
 - Acțiunea de salvare a deținutului/deținuților este permisă doar în cazul în care
 transportul implică liderul organizației sau un minim de 2 membri ai organizației.
+
 :::danger SANCTIUNE
-Warn/Jail/Ban temporar
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
 ### 3.6 ROLEPLAY-URI EXTRA/ACȚIUNI TERORISTE
 - În cazul ideilor speciale de roleplay care presupun actiuni teroriste sau interacțiuni
 deosebite aveți obligația să luați legătura cu un Administrator+ care vă va
 aproba sau nu scenariul.
+
 :::danger SANCTIUNE
-Warn/Jail/Ban temporar
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
 ### 5. PRECIZĂRI SUPLIMENTARE
@@ -513,4 +515,3 @@ autoritate competentă să stabilească sensul exact și aplicabilitatea fiecăr
 ale regulamentului într-o singură scenă roleplay, adminul care va penaliza jucătorul va
 acorda sancțiunea cea mai severă.
 - 5.5 Pentru a avea acces pe insula Cayo Perico, este necesar să ai minim 100 de ore jucate pe server. Această regulă este impusă pentru a păstra echilibrul și calitatea roleplay-ului. Orice tentativă de a încălca această regulă poate duce la sancțiuni.
-
