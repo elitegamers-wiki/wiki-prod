@@ -410,7 +410,7 @@ efectua streaming pe serverul Elitegamers.
 
 ### 3.1 JAF/RAPIRE/UCIDERE ASUPRA PERSOANELOR
 - Jaful asupra persoanelor este permis doar **după acumularea unui număr de 50 de ore IC**.
-- Se interzice jaful persoanelor care au mai puțin de **20 de ore** pe server. Ca să vedeți câte ore are cel pe care îl jefuiți aveți voie să apăsați tasta **Delete** să îi vedeți id-ul, apoi scrieți **/ore (id)** în chat.
+- Se interzice jaful persoanelor care au mai puțin de **20 de ore** pe server.
 - În Los Santos jafurile pot avea loc în intervalul orar **20.00 - 08.00** și sunt permise doar în interiorul <span style="color: red;">zonelor roșii</span>.
 - Este <span style="color: red;">interzis</span> să jefuiți persoane la locațiile joburilor/activităților legale/ilegale.
 - Este <span style="color: red;">interzis</span> să inițiați jefuirea persoanelor aflate în timpul desfășurării unui job legal, polițiști sau cadre medicale aflate on-duty.
@@ -449,10 +449,7 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 - Jaful asupra magazinelor este permis doar după acumularea a 10 ore IC.
 - Jaful asupra bancomatelor este permis doar după acumularea a 10 de
 ore IC.
-- Nu aveți voie să jefuiți un bancomat sau un magazin atât timp cât la bancomat sau în
-magazin se află alte persoane.
-- Este strict  <span style="color: red;">INTERZIS</span> ca jucătorii să ia ostatici în cadrul jafurilor asupra bancomatelor sau
-a magazinelor.
+- Nu aveți voie să jefuiți un bancomat sau un magazin atât timp cât la bancomat sau în magazin se află alte persoane.
 
 :::danger SANCTIUNE
 Avertisment Verbal / Admin Jail / Warn / Ban temporar
