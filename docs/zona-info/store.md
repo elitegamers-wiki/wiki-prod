@@ -81,11 +81,11 @@ Pe server avem 3 pachete VIP:
 - 💎 **VIP Platinum**
 :::
 
-| VIP Level     | 💰 Preț        | 🆘 Suport | 🚀 Boost Job | 🎖️ Grade Discord & FiveM | 💵 Bani în joc | 💼 Bonus Salariu | 🎫 BattlePass | 🚪 Prioritate Coada |
-| ------------- | :-----------: | :------: | :----------: | :-----------------------: | :-----------: | :--------------: | :-----------: | :-----------------: |
-| **Silver**    | 7 EG COINS    | ✅        | +5%          | ✅                        | $75.000       | $2.000           | ❌            | Tier 1              |
-| **Gold**      | 13 EG COINS   | ✅        | +7%          | ✅                        | $150.000       | $3.500           | ✅            | Tier 2              |
-| **Platinum**  | 20 EG COINS   | ✅        | +10%         | ✅                        | $250.000      | $5.000           | ✅            | Tier 3              |
+| VIP Level     | 💰 Preț        | 🆘 Suport | 🚀 Boost Job | 🎖️ Grade Discord & FiveM | 💵 Bani în joc | 💼 Bonus Salariu | 🚪 Prioritate Coada |
+| ------------- | :-----------: | :------: | :----------: | :-----------------------: | :-----------: | :--------------:  | :-----------------: |
+| **Silver**    | 7 EG COINS    | ✅        | +5%          | ✅                        | $75.000       | $2.000          | Tier 1              |
+| **Gold**      | 13 EG COINS   | ✅        | +7%          | ✅                        | $150.000       | $3.500         | Tier 2              |
+| **Platinum**  | 20 EG COINS   | ✅        | +10%         | ✅                        | $250.000      | $5.000          | Tier 3              |
 
 ---
 
@@ -97,19 +97,19 @@ Pe server avem 3 pachete VIP:
   <div class="box">
     <h2>🥈 VIP Silver</h2>
     <ul>
-      <li>Ubermacht B8</li>
-      <li>Ubermacht B3</li>
-      <li>Obey R8</li>
+      <li>Ubermacht Oracle XS-LE</li>
+      <li>Ubermacht Sentinel 4CSL</li>
+      <li>Obey 9R</li>
     </ul>
   </div>
 
   <div class="box">
     <h2>🥇 VIP Gold</h2>
     <ul>
-      <li>Pegassi Zentorno</li>
-      <li>Grotti 488</li>
-      <li>Baller Bio</li>
-      <li>Pegassi Hyurus</li>
+      <li>Pegassi Reaper Custom</li>
+      <li>Grotti Turismo R</li>
+      <li>Baller ST-D Platinum</li>
+      <li>Pegassi Toros</li>
       <li><strong>+ toate mașinile de la Silver</strong></li>
     </ul>
   </div>
@@ -117,11 +117,11 @@ Pe server avem 3 pachete VIP:
   <div class="box">
     <h2>💎 VIP Platinum</h2>
     <ul>
-      <li>Progen Overflod</li>
-      <li>Benefactor One</li>
-      <li>Peptos 911 RS</li>
-      <li>Elegy RH35</li>
-      <li>Pegassi Zentorno VSJ</li>
+      <li>Progen Emerus GTR</li>
+      <li>Benefactor Krieger</li>
+      <li>Pfister Comet GTS2</li>
+      <li>Annis Elegy RH8 FR-Works</li>
+      <li>Pegassi Severo Widebody</li>
       <li>Barca Speeder</li>
       <li>Elicopter Sparrow</li>
       <li><strong>+ toate mașinile de la Gold</strong></li>
