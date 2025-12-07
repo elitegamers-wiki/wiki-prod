@@ -230,19 +230,13 @@ ceilalți participanți la roleplay în situații stânjenitoare sau nefavorabil
 - Nu aveți voie să ocoliți speedbump-urile, cu excepția situațiilor când sunteți urmăriți de
 poliție.
 - Se permite manevra de pit-stop în urmăriri de până la 150 km/h.
-- Nu aveți voie să circulați cu mai mult de 150 km/h pe drumurile publice aflate în Los
-Santos fără un motiv IC bine întemeiat.
-- Viteza maximă admisă pe drumuri neasfaltate (OFF-ROAD) este de 60 km/h. Excepție
-face cazul în care jucătorul este urmărit sau se află într-un pericol iminent, situație în
-care viteza maximă poate ajunge până la 100 km/h.
-- Pe drumuri de teren extrem viteza maximă admisă este de 60 km/h, indiferent de
-contextul acțiunii.
 - Aterizarea elicopterelor și avioanelor se face doar în zonele destinate (helipad-uri,
 aeroport) și în spații larg deschise (câmpuri), neavând voie să aterizați pe șosea, teren
 accidentat, drumuri sau zone publice, cu excepția aparatelor de zbor ale poliției și
 serviciilor medicale aflate on-duty.
 - În sezonul rece, în condiții de drum acoperit cu zăpadă aveți obligația de a vă echipa
 autovehiculele și motocicletele cu anvelope de iarnă.
+
 :::danger SANCTIUNE
 Warn/Jail/Ban temporar
 :::
