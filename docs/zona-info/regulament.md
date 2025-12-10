@@ -406,7 +406,7 @@ efectua streaming pe serverul Elitegamers.
 - Jaful asupra persoanelor este permis doar **după acumularea unui număr de 50 de ore IC**.
 - Se interzice jaful persoanelor care au mai puțin de **20 de ore** pe server.
 - În Los Santos jafurile pot avea loc în intervalul orar **20.00 - 08.00** și sunt permise doar în interiorul <span style="color: red;">zonelor roșii</span>.
-- Este <span style="color: red;">interzis</span> să jefuiți persoane la locațiile joburilor/activităților legale/ilegale.
+- Este <span style="color: red;">interzis</span> să jefuiți persoane la locațiile joburilor/activităților legale/ilegale excepție făcând zona de plantații de pe Cayo perico unde jaful asupra persoanelor este permis!
 - Este <span style="color: red;">interzis</span> să inițiați jefuirea persoanelor aflate în timpul desfășurării unui job legal, polițiști sau cadre medicale aflate on-duty.
 - În timpul unui jaf puteți deposeda o persoană de toate bunurile aflate în inventar, precum și din vehiculul pe care il conduce cu excepția **documentelor**.
 - Este permisă jefuirea minimală a unui ostatic civil/polițist/medic (în mod roleplay se pot lua doar obiectele care pot incrimina răpitorul, telefon, camera de luat vederi, microfoane ascunse). Această acțiune poate avea loc doar în urma unui roleplay care presupune inițial o negociere eșuată/fuga de poliție.
