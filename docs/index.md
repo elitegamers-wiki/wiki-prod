@@ -79,11 +79,20 @@ onMounted(() => {
 <div class="eg-cards-contributors">
 
   <div class="eg-card">
+    <img src="https://cdn.discordapp.com/avatars/262600228719427584/cb935ab9648fedf2747866af9256ea85.png" alt="xslow" />
+    <div class="eg-name">xSL0W</div>
+    <div class="eg-role"> Head Developer</div>
+    <span class="eg-badge red">Developer & FONDATOR</span>
+    <div class="eg-desc">Scripter-ul si fondatorul comunitatii</div>
+    <!-- <a class="eg-link" href="#">GitHub ↗</a> -->
+  </div>
+  
+  <div class="eg-card">
     <img src="https://cdn.discordapp.com/avatars/848867959219683360/afdd097081271465d4ea1e63fbe324cb.png" alt="iannC" />
     <div class="eg-name">dey</div>
     <div class="eg-role">Supervizor Wikipedia</div>
     <span class="eg-badge red">ADMINISTRATOR</span>
-    <div class="eg-desc">Supravegheaza, modifica si mentine la zi pagina de Wikipedia</div>
+    <div class="eg-desc">Supraveghează și întreține pagina de Wikipedia</div>
     <!-- <a class="eg-link" href="#">GitHub ↗</a> -->
   </div>
 
@@ -93,15 +102,6 @@ onMounted(() => {
     <div class="eg-role">Developer</div>
     <span class="eg-badge red">Developer</span>
     <div class="eg-desc">Crează interfețe moderne și minimaliste. Focus pe accesibilitate</div>
-    <!-- <a class="eg-link" href="#">GitHub ↗</a> -->
-  </div>
-
-  <div class="eg-card">
-    <img src="https://cdn.discordapp.com/avatars/262600228719427584/cb935ab9648fedf2747866af9256ea85.png" alt="xslow" />
-    <div class="eg-name">xSL0W</div>
-    <div class="eg-role"> Head Developer</div>
-    <span class="eg-badge red">Developer & FONDATOR</span>
-    <div class="eg-desc">Scripter-ul si fondatorul comunitatii</div>
     <!-- <a class="eg-link" href="#">GitHub ↗</a> -->
   </div>
 
@@ -149,7 +149,7 @@ onMounted(() => {
     <img src="https://cdn.discordapp.com/avatars/848867959219683360/afdd097081271465d4ea1e63fbe324cb.png" alt="dey" />
     <div class="eg-name">dey</div>
     <div class="eg-role">Administrator</div>
-    <span class="eg-badge red">Administrator</span>
+    <span class="eg-badge blue">Administrator</span>
     <div class="eg-desc">Asigura asset-urile necesare si ajuta la dezvoltarea server-ului</div>
   </div>
   
@@ -163,8 +163,7 @@ onMounted(() => {
 
  </div>
 
-
-
+<!-- "eg-badge orange" </a> -->
 
 
 <ClientOnly>
