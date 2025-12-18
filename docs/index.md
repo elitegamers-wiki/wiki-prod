@@ -79,11 +79,11 @@ onMounted(() => {
 <div class="eg-cards-contributors">
 
   <div class="eg-card">
-    <img src="https://cdn.discordapp.com/avatars/371621920162185216/a_54f12dbcb50de232d5b37c63abd8514d?size=1024" alt="iannC" />
-    <div class="eg-name">iannC</div>
-    <div class="eg-role">Developer Wikipedia</div>
-    <span class="eg-badge red">SERVER MANAGER</span>
-    <div class="eg-desc">Developer Wikipedia</div>
+    <img src="https://cdn.discordapp.com/avatars/848867959219683360/afdd097081271465d4ea1e63fbe324cb.png" alt="iannC" />
+    <div class="eg-name">dey</div>
+    <div class="eg-role">Supervizor Wikipedia</div>
+    <span class="eg-badge red">ADMINISTRATOR</span>
+    <div class="eg-desc">Supravegheaza, modifica si mentine la zi pagina de Wikipedia</div>
     <!-- <a class="eg-link" href="#">GitHub ↗</a> -->
   </div>
 
@@ -92,16 +92,16 @@ onMounted(() => {
     <div class="eg-name">sNok3</div>
     <div class="eg-role">Developer</div>
     <span class="eg-badge red">Developer</span>
-    <div class="eg-desc">Crează interfețe moderne și minimaliste. Focus pe accesibilitate.</div>
+    <div class="eg-desc">Crează interfețe moderne și minimaliste. Focus pe accesibilitate</div>
     <!-- <a class="eg-link" href="#">GitHub ↗</a> -->
   </div>
 
   <div class="eg-card">
-    <img src="https://cdn.discordapp.com/avatars/262600228719427584/6bbd35d58578cde62ac75422a45781c7?size=1024" alt="xslow" />
+    <img src="https://cdn.discordapp.com/avatars/262600228719427584/cb935ab9648fedf2747866af9256ea85.png" alt="xslow" />
     <div class="eg-name">xSL0W</div>
     <div class="eg-role"> Head Developer</div>
     <span class="eg-badge red">Developer & FONDATOR</span>
-    <div class="eg-desc">Scripter-ul si fondatorul comunitatii.</div>
+    <div class="eg-desc">Scripter-ul si fondatorul comunitatii</div>
     <!-- <a class="eg-link" href="#">GitHub ↗</a> -->
   </div>
 
@@ -118,15 +118,15 @@ onMounted(() => {
     <div class="eg-name">Quo</div>
     <div class="eg-role">Fondator</div>
     <span class="eg-badge red">Founder</span>
-    <div class="eg-desc">Conduce echipa staff și coordoneaza proiectele comunității.</div>
+    <div class="eg-desc">Conduce echipa staff și coordoneaza proiectele comunității</div>
   </div>
 
   <div class="eg-card">
-    <img src="https://cdn.discordapp.com/avatars/262600228719427584/6bbd35d58578cde62ac75422a45781c7?size=1024" alt="xslow" />
+    <img src="https://cdn.discordapp.com/avatars/262600228719427584/cb935ab9648fedf2747866af9256ea85.png" alt="xslow" />
     <div class="eg-name">xSL0W</div>
     <div class="eg-role">Developer & Fondator</div>
     <span class="eg-badge red">Founder</span>
-    <div class="eg-desc">Responsabil pe partea tehnică și tools management.</div>
+    <div class="eg-desc">Responsabil pe partea tehnică și tools management</div>
   </div>
 
   <div class="eg-card">
@@ -134,23 +134,7 @@ onMounted(() => {
     <div class="eg-name">sNok3</div>
     <div class="eg-role">Developer</div>
     <span class="eg-badge red">Developer</span>
-    <div class="eg-desc">Responsabil pe partea tehnică și tools management..</div>
-  </div>
-
-  <div class="eg-card">
-    <img src="https://cdn.discordapp.com/avatars/220330365267607552/17d2d94cab55eba50258ecf8bad9b90c?size=1024" alt="J.S.Green" />
-    <div class="eg-name">J.S.Green</div>
-    <div class="eg-role">Community Manager</div>
-    <span class="eg-badge purple">SUPPORT</span>
-    <div class="eg-desc"></div>
-  </div>
-
-  <div class="eg-card">
-    <img src="https://cdn.discordapp.com/avatars/371621920162185216/a_54f12dbcb50de232d5b37c63abd8514d?size=1024" alt="iannc" />
-    <div class="eg-name">iannC</div>
-    <div class="eg-role">Server Manager</div>
-    <span class="eg-badge red">Server Manager</span>
-    <div class="eg-desc">Ajută în gestionarea comunității și organizarea activităților.</div>
+    <div class="eg-desc">Responsabil pe partea tehnică și tools management</div>
   </div>
 
   <div class="eg-card">
@@ -162,44 +146,19 @@ onMounted(() => {
   </div>
 
   <div class="eg-card">
-    <img src="https://cdn.discordapp.com/avatars/848867959219683360/c4dd9648f6bbe51ee584401a01d06c83?size=1024" alt="dey" />
-    <div class="eg-name">Dey</div>
-    <div class="eg-role">Asset Developer</div>
-    <span class="eg-badge red">Asset Developer</span>
-    <div class="eg-desc">Asigura asset-urile necesare server-ului.</div>
+    <img src="https://cdn.discordapp.com/avatars/848867959219683360/afdd097081271465d4ea1e63fbe324cb.png" alt="dey" />
+    <div class="eg-name">dey</div>
+    <div class="eg-role">Administrator</div>
+    <span class="eg-badge red">Administrator</span>
+    <div class="eg-desc">Asigura asset-urile necesare si ajuta la dezvoltarea server-ului</div>
   </div>
-
-  <div class="eg-card">
-    <img src="https://cdn.discordapp.com/avatars/992353206506110986/5f21fbd7d8238b2dee46597d655d2111?size=1024" alt="ana.maria" />
-    <div class="eg-name">Ana.maria</div>
-    <div class="eg-role">Asset Developer</div>
-    <span class="eg-badge red">Asset Developer</span>
-    <div class="eg-desc">Asigura asset-urile necesare server-ului.</div>
-  
-  </div>
-    <div class="eg-card">
-    <img src="https://cdn.discordapp.com/avatars/278845054510956544/a_9a1f5e4796494606fe90370d57f427bd?size=1024" alt="robertus" />
-    <div class="eg-name">Robertus</div>
-    <div class="eg-role">Super-Administrator</div>
-    <span class="eg-badge blue">Super-Administrator</span>
-    <div class="eg-desc">Ajuta la dezvoltarea server-ului si conduce S.M.I.R-ul</div>
-  
-  </div>  
   
   <div class="eg-card">
     <img src="https://cdn.discordapp.com/avatars/284308015761326080/4a69773ed940b745942271a137257fed?size=1024" alt="88lucian" />
     <div class="eg-name">88lucian</div>
     <div class="eg-role">Administrator</div>
     <span class="eg-badge blue">Administrator</span>
-    <div class="eg-desc">Ajuta la dezvoltarea server-ului.</div>
-  </div>  
-
-  <div class="eg-card">
-    <img src="https://cdn.discordapp.com/avatars/986769424524640347/fee223c807987d3bb6231c0038d0e505?size=1024" alt="paul" />
-    <div class="eg-name">paul</div>
-    <div class="eg-role">Super-Moderator</div>
-    <span class="eg-badge orange">Super-Moderator</span>
-    <div class="eg-desc">Ajuta la dezvoltarea server-ului.</div>
+    <div class="eg-desc">Ajuta la dezvoltarea server-ului</div>
   </div> 
 
  </div>
