@@ -162,7 +162,7 @@ export default defineConfig({
           { text: ' Setari pentru performanta', link: '/general/setarigrafice' },
           { text: ' Inventar', link: '/general/inventar' },
           { text: ' ATM-uri', link: '/general/atm-uri' },
-          { text: ' Daily rewards', link: '/general/rewards' },
+          // { text: ' Daily rewards', link: '/general/rewards' },
           { text: ' Comenzi ', link: '/general/comenzi' },
           { text: ' Driving School ', link: '/general/dmv' },
           { text: ' Depozit ', link: '/general/depozit' },

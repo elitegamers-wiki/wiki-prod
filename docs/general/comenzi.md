@@ -59,8 +59,7 @@ outline: deep
 <ul>
   <li><strong>/premii</strong> – Deschide meniul cu premii și misiuni.</li>
   <li><strong>/wiki</strong> – Deschide wiki-ul direct din joc.</li>
-  <li><strong>/map</strong> – Harta teritoriilor.</li>
-  <li><strong>/givekeys [id]</strong> – Oferă cheile altui jucător.</li>
+  <li><strong>/mapeg</strong> – Harta teritoriilor.</li>
   <li><strong>/report</strong> – Trimite întrebări sau bug-uri staffului.</li>
   <li><strong>/carry</strong> – Ridică un jucător pe umăr.</li>
   <li><strong>/e [nume]</strong> – Pornește o animație.</li>
@@ -69,7 +68,6 @@ outline: deep
   <li><strong>/hudchat</strong> – Ascunde/afișează chat-ul.</li>
   <li><strong>/ore [id]</strong> – Vezi orele jucate.</li>
   <li><strong>/k</strong> – Te pune în genunchi.</li>
-  <li><strong>/fps</strong> – Setări FPS Boost.</li>
 </ul>
 </div>
 
