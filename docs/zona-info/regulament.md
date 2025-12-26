@@ -444,6 +444,7 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 - Jaful asupra bancomatelor este permis doar după acumularea a 10 de
 ore IC.
 - Nu aveți voie să jefuiți un bancomat sau un magazin atât timp cât la bancomat sau în magazin se află alte persoane.
+- Nu aveți voie să jefuiți magazinul de pe Cayo Perico.
 
 :::danger SANCTIUNE
 Avertisment Verbal / Admin Jail / Warn / Ban temporar
