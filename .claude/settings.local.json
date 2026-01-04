@@ -7,7 +7,9 @@
       "Bash(do if grep -q \"[🀀-🿿★👮‍]\" \"$file\")",
       "Bash(then echo \"$file\")",
       "Bash(fi)",
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "Bash(powershell:*)",
+      "Bash(npm uninstall:*)"
     ]
   }
 }
