@@ -43,15 +43,44 @@ h2, h3, h4 {
 
 ### <center>Despre Proprietăți</center>
 
-Pe **EliteGamers** poți deține propria locuință în Los Santos! Alege dintr-o varietate de case și apartamente. Sistemul este simplu, eficient și va fi extins pe viitor cu funcții precum chei, mobilare și partajare.
+Pe **EliteGamers** poti detine propria locuinta in Los Santos! Alege dintr-o varietate de case si apartamente.
 
 <div style="margin: 1.5rem 0; padding: 1.2rem; background: rgba(215,38,56,0.1); border-left: 6px solid #d72638; border-radius: 12px; box-shadow: 0 0 12px rgba(215,38,56,0.3);">
-  <strong style="color: #d72638;">Sfat:</strong> Pentru informații imobiliare, contactează-l pe Tony Corso (Agent Imobiliar):
+  <strong style="color: #d72638;">Sfat:</strong> Pentru informatii imobiliare, contacteaza-l pe Tony Corso (Agent Imobiliar):
   <ul>
     <li>Telefon: 0713943854</li>
-    <li>Aplicația Albastră: <strong>Crixus99</strong></li>
-    <li>INFO: În cazul în care plata întreținerii întârzie cu mai mult de 5 zile față de data scadentă, proprietatea va fi preluată de către stat.</li>
+    <li>Aplicatia Albastra: <strong>Crixus99</strong></li>
+    <li>INFO: In cazul in care plata intretinerii intarzie cu mai mult de 5 zile fata de data scadenta, proprietatea va fi preluata de catre stat.</li>
   </ul>
+</div>
+
+---
+
+### Sistem Chirii
+
+Proprietarii pot inchiria camera/casa altor jucatori:
+
+- **Numar Chiriasi** - Fiecare casa permite un numar maxim de chiriasi
+- **Pret Chirie** - Proprietarul stabileste pretul chiriei
+- **Administrare** - Proprietarul poate da afara chiriasul oricand
+- **Plata Automata** - Banii chiriei se platesc la fiecare payday si se duc automat in seiful casei
+- **Datorii** - Daca chiriasul nu are bani, proprietarul va vedea din meniul casei
+
+### Acces Casa
+
+- **Fara Cheie** - Proprietarul si chiriasii nu mai au nevoie de cheie pentru acces
+- **Seif** - Seiful casei este accesibil doar proprietarului
+
+### Sistem Somn
+
+Proprietarii si chiriasii pot dormi in case folosind comanda **/sleep** sau din K -> Jucator -> Casa -> Dormi.
+
+**Avantaje dormit:**
+- **Ore Jucate** - Acumulezi 50% din timpul petrecut dormind la numarul de ore
+- **Salariu VIP** - Daca esti VIP, primesti 30% din salariul VIP in timp ce dormi
+
+<div style="margin: 1.5rem 0; padding: 1.2rem; background: rgba(215,38,56,0.1); border-left: 6px solid #d72638; border-radius: 12px; box-shadow: 0 0 12px rgba(215,38,56,0.3);">
+  <strong style="color: #d72638;">Atentie:</strong> Comanda /e sleep este doar o animatie! Pentru a dormi efectiv si a primi beneficiile, foloseste <b>/sleep</b>.
 </div>
 
 ---

@@ -142,9 +142,29 @@ outline: deep
 
 <!-- Card 6 -->
 <section class="eg-casino-card">
-  <h2 class="eg-casino-card-title">Slot Machines</h2>
+  <h2 class="eg-casino-card-title">Pacanele (Slots)</h2>
   <p class="eg-casino-text">
-    Poți juca la aparate pentru a dubla banii, dar există și riscul să-i pierzi.
+    Sistemul de pacanele a fost refacut complet cu o interfata atractiva si moderna. Este bazat pe un joc clasic cu o singura linie unde trebuie sa nimeresti 3 obiecte de acelasi fel pentru a castiga.
   </p>
+  <ul class="eg-casino-list">
+    <li>Miza configurabila - alegi cat vrei sa pariezi</li>
+    <li>Auto-spin - poti juca automat pana la 500 de jocuri consecutive</li>
+    <li>Animatie de castig speciala pentru premiile mari</li>
+    <li>Apasa SPACE pentru a invarte sau activeaza auto-spin</li>
+  </ul>
   <img src="../public/casino/slots.gif" alt="Slot machines Casino" class="eg-casino-img" />
+</section>
+
+<!-- Card 7 -->
+<section class="eg-casino-card">
+  <h2 class="eg-casino-card-title">Coinflip</h2>
+  <p class="eg-casino-text">
+    Jocul Coinflip este simplu: alegi intre cap sau pajura cu o sansa de 50-50. Este un mod rapid de a-ti testa norocul!
+  </p>
+  <ul class="eg-casino-list">
+    <li>Pariuri intre 100 si 10.000 de euro</li>
+    <li>Sansa de 50-50 - alegi cap sau pajura</li>
+    <li>In stanga ecranului vezi statistica intregii sesiuni</li>
+    <li>In dreapta selectezi miza si apesi butonul de incepere</li>
+  </ul>
 </section>

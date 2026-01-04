@@ -96,9 +96,9 @@ outline: deep
       <img src="/airsoft/votes.png" alt="pozaEG" width="600" height="720">
   </a>
 
-  <h3>III. Ce primești în inventar în timpul arenei?</h3>
-  <a href="/airsoft/inventar.png" target="_blank">
-      <img src="/airsoft/inventar.png" alt="pozaEG" width="600" height="720">
-  </a>
+  <h3>III. Informatii Suplimentare</h3>
+  <p>
+    <strong>Arma in mana dupa moarte</strong> - Dupa ce mori in arena, ramai cu arma in mana pentru a putea continua rapid lupta dupa respawn.
+  </p>
 
 </div>

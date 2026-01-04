@@ -40,16 +40,38 @@ outline: deep
 
 <eg-miner-box>
 <pre style="white-space: pre-wrap; font-size: 1.05em; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6;">
-Pirită
+Pirita
 Staniu
 Plumb
 Fier
-Cărbune
+Carbune
 Cupru
-Bauxită
+Bauxita
 Sulf
 Aur
 </pre>
+</eg-miner-box>
+
+### Zone de Minare
+
+<eg-miner-box>
+  <ul style="line-height: 1.6; font-size: 1.05em; padding-left: 1.3em;">
+      <li><b>Zona 1</b> - Disponibila de la 10h, pentru crafting arme gunshop (minereuri "sarace" pentru bare inferioare)</li>
+    <li><b>Zona 2</b> - Mina principala cu minereuri standard</li>
+    <li><b>Zona 3</b> - Contine toate minereurile din Zona 1, plus minereuri rare</li>
+    <li><b>Mina Ilegala</b> - Carbune si fier sporit</li>
+
+  </ul>
+</eg-miner-box>
+
+### Sistem de Minare
+
+<eg-miner-box>
+  <ul style="line-height: 1.6; font-size: 1.05em; padding-left: 1.3em;">
+    <li><b>Aspect Minereuri</b> - Toate minereurile arata la fel, vei afla ce ai minat de abia la final</li>
+    <li><b>Cantitati</b> - 2-4 pentru minereuri normale, 1-3 pentru aur, 1-2 pentru cele rare</li>
+    <li><b>Timp Minare</b> - Maxim 20 secunde per minereu in Mina 1 si ~40 de secunde in celelalte mine</li>
+  </ul>
 </eg-miner-box>
 
 <style>

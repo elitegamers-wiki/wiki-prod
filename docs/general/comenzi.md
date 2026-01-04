@@ -54,19 +54,24 @@ outline: deep
 
 # Comenzi utilizate
 
-### Comenzi în chat
+### Comenzi in chat
 <div class="comenzi-box">
 <ul>
-  <li><strong>/premii</strong> – Deschide meniul cu premii și misiuni.</li>
-  <li><strong>/wiki</strong> – Deschide wiki-ul direct din joc.</li>
-  <li><strong>/report</strong> – Trimite întrebări sau bug-uri staffului.</li>
-  <li><strong>/carry</strong> – Ridică un jucător pe umăr.</li>
-  <li><strong>/e [nume]</strong> – Pornește o animație.</li>
-  <li><strong>/e cancel</strong> – Oprește animația curentă.</li>
-  <li><strong>/hud</strong> – Ascunde/afișează HUD-ul.</li>
-  <li><strong>/hudchat</strong> – Ascunde/afișează chat-ul.</li>
-  <li><strong>/ore [id]</strong> – Vezi orele jucate.</li>
-  <li><strong>/k</strong> – Te pune în genunchi.</li>
+  <li><strong>/premii</strong> - Deschide meniul cu premii si misiuni.</li>
+  <li><strong>/wiki</strong> - Deschide wiki-ul direct din joc.</li>
+  <li><strong>/report</strong> - Trimite intrebari sau bug-uri staffului.</li>
+  <li><strong>/carry</strong> - Ridica un jucator pe umar.</li>
+  <li><strong>/e [nume]</strong> - Porneste o animatie.</li>
+  <li><strong>/e cancel</strong> - Opreste animatia curenta.</li>
+  <li><strong>/hud</strong> - Ascunde/afiseaza HUD-ul.</li>
+  <li><strong>/hudchat</strong> - Ascunde/afiseaza chat-ul.</li>
+  <li><strong>/hudads</strong> - Ascunde/afiseaza anunturile de pe minimap.</li>
+  <li><strong>/hudcompass</strong> - Ascunde/afiseaza compasul.</li>
+  <li><strong>/ore [id]</strong> - Vezi orele jucate.</li>
+  <li><strong>/k</strong> - Te pune in genunchi.</li>
+  <li><strong>/sleep</strong> - Dormi in casa (acumulezi ore si salariu VIP).</li>
+  <li><strong>/quest</strong> - Porneste quest-urile disponibile.</li>
+  <li><strong>/th</strong> - Ia un jucator ostatic (sau tasta G pe jucator).</li>
 </ul>
 </div>
 

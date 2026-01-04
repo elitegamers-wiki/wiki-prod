@@ -79,36 +79,25 @@ outline: deep
     <img src="../public/elitegamers.png" alt="logo EliteGamers" width="256" height="256" class="no-style" style="margin-top: 2rem; border-radius: 12px;">
   </div>
 
-  ## Premii zilnice prin activitate
+
+  ### Sistem Streak Bonus
 
   <div class="eg-rewards-card">
-    <strong>Daily Rewards / Premii Zilnice</strong> este un sistem avansat de recompense bazat pe misiuni zilnice, săptămânale și lunare, conceput pentru a încuraja activitatea constantă a jucătorilor pe server.
-  </div>
-
-  <img src="../public/dailyrewards/dailyrewards.png" alt="sistem Daily Rewards">
-
-  ### Caracteristici principale
-
-  <div class="eg-rewards-card">
+    <p>Cu cat te loghezi mai multe zile consecutiv, cu atat primesti bonusuri mai mari:</p>
     <ul>
-      <li>Misiuni zilnice, săptămânale și lunare – Jucătorii au obiective variate, de exemplu:
-        <ul>
-          <li>Efectuarea unui număr de curse ca șofer</li>
-          <li>Realizarea livrărilor ca livrator de pizza</li>
-          <li>Acumularea de salarii (payday)</li>
-        </ul>
-      </li>
+      <li>Fiecare zi consecutiva creste bonusul primit</li>
+      <li>Pana la <strong>100% bonus</strong> la 15 zile consecutive</li>
+      <li>Streak-ul se reseteaza daca ratezi o zi</li>
     </ul>
   </div>
 
-  ### Alte caracteristici
+  ### Premii Bazate pe Timp Jucat
 
   <div class="eg-rewards-card">
+    <p>Pe langa misiunile zilnice, primesti recompense si in functie de timpul jucat:</p>
     <ul>
-      <li> Recompense atractive – bani, iteme rare (whiskey, eg-coins, cadouri), șanse la premii mari.</li>
-      <li> Status Premium/VIP – oferă acces la recompense exclusive și mai valoroase.</li>
-      <li> Timer zilnic – cronometru vizibil pentru următoarea recompensă.</li>
-      <li> Interfață intuitivă – UI modern și clar, organizat pe categorii.</li>
+      <li>Recompense automate la anumite praguri de ore jucate</li>
+      <li>Premii speciale pentru jucatorii activi</li>
     </ul>
   </div>
 
@@ -116,8 +105,7 @@ outline: deep
 
   <div class="eg-rewards-card">
     <ul>
-      <li><strong>/premii</strong> – Afișează lista recompenselor și timpul rămas.</li>
-      <li><strong>/misiuni</strong> – Vezi progresul misiunilor și recompensele aferente.</li>
+      <li><strong>/premii</strong> - Afiseaza lista recompenselor si timpul ramas.</li>
     </ul>
   </div>
 </div>

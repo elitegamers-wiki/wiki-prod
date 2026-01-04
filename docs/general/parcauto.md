@@ -9,8 +9,8 @@ outline: deep
   <h1>Târg Auto – ELITEGAMERS.RO</h1>
   <p style="text-align:center;">Tot ce trebuie să știi despre vânzarea și cumpărarea mașinilor pe server.</p>
 
-  <h3>Locația târgului</h3>
-  <p>Mergi la <b>Cod Poștal: 686</b> pentru a intra în zona târgului auto.</p>
+  <h3>Locatia targului</h3>
+  <p>Mergi la <b>plaja langa pescar</b> pentru a intra in zona targului auto.</p>
   <a href="/parcauto/targ_auto.png" target="_blank">
     <img src="/parcauto/targ_auto.png" alt="Locația târgului auto">
   </a>
@@ -53,11 +53,24 @@ outline: deep
     <img src="/parcauto/meniumasinav.png" alt="Meniu cumpărător">
   </a>
 
+  <h3>Sistem Persistent</h3>
+  <p>
+    Masina ta ramane la targ si dupa restart de server, timp de maxim <b>30 de zile</b>.<br>
+    Pentru fiecare zi se plateste o taxa de parcare.
+  </p>
+
+  <h3>Cumparare Directa</h3>
+  <p>
+    Cumparatorii pot achizitiona masina direct din targ, fara sa te contacteze.<br>
+    Pentru negociere, pot suna la numarul tau de telefon afisat.<br>
+    <b>Apasa E</b> langa o masina pentru a copia automat numarul proprietarului.
+  </p>
+
   <h3>Sfaturi rapide</h3>
   <div style="padding: 18px 25px; margin-top: 12px; border: 1.5px solid #d94a4a; background-color: #2a2a2a; color: #f1a1a1; border-radius: 8px;">
-    - <b>Siguranță:</b> nu bloca intrările/ieșirile târgului.<br>
-    - <b>Transparență:</b> scrie clar defectele/upgrade-urile.<br>
-    - <b>Preț corect:</b> verifică ofertele înainte de listare.
+    - <b>Siguranta:</b> nu bloca intrarile/iesirile targului.<br>
+    - <b>Pret corect:</b> verifica ofertele inainte de listare.<br>
+    - <b>Restrictii:</b> nu poti pune la vanzare vehicule VIP sau de job.
   </div>
 </div>
 

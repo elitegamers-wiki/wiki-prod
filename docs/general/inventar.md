@@ -120,7 +120,19 @@ outline: deep
     <li><strong>Pentru toți jucătorii:</strong> Mai puțin haos, mai multă organizare și un sistem care îți permite să joci mai realist.</li>
   </ul>
 
+  <h3>Obiecte Speciale</h3>
+  <ul style="list-style-type: disc;">
+    <li><strong>Hartie Goala</strong> - Scrie notite si poti da hartia altor jucatori</li>
+  </ul>
+
+  <h3>Arme si Genti</h3>
+  <ul style="list-style-type: disc;">
+    <li><strong>Arme de calibru mare</strong> - Necesita geanta echipata pentru a preveni PG</li>
+    <li><strong>Arme mici</strong> - Pot fi tinute fara geanta</li>
+    <li><strong>Catuse</strong> - Se scot din inventar cand sunt puse unui jucator</li>
+  </ul>
+
   <div class="eg-final-box">
-    Administrează-ți resursele, planifică-ți mișcările și domină orașul cu stil!
+    Administreaza-ti resursele, planifica-ti miscarile si domina orasul cu stil!
   </div>
 </div>

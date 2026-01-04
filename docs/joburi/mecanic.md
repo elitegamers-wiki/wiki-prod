@@ -103,4 +103,87 @@ Trebuie sa stai la service si sa ajuti jucatorii pentru o experienta cat mai pla
 
 <img src="../public/joburi/mecanic3.png" alt="pozaRegulament" width="800" height="421">
 
+## Sistemul de Diagnosticare
+
+<div class="guide-box-gradient">
+Mecanicii pot folosi un dispozitiv de diagnostic pentru a diagnostica vehiculele clientilor. Pentru a-l folosi:
+
+1. Aseaza-te in masina si foloseste kitul de diagnoza
+2. Meniul afiseaza statistici detaliate despre starea vehiculului
+</div>
+
+## Sistemul de Piese Vehicul
+
+<div class="guide-box-solid">
+Fiecare vehicul are doua categorii de piese care necesita mentenanta:
+
+**Piese Principale** (motor, alternator, frane, injector, etc.)
+- Se degradeaza conducand sau in timpul accidentelor
+- Afecteaza performanta vehiculului
+
+**Piese Consumabile** (ulei, bujii, curea distributie, etc.)
+- Se degradeaza la un anumit numar de kilometri
+- Trebuie schimbate periodic
+
+Daca nu sunt mecanici online, jucatorii isi pot repara singuri masina si piesele principale. Masinile de job/politie/SMIR/Cayo au imunitate la degradare.
+</div>
+
+## Comanda Piese si Depozit
+
+<div class="guide-box-gradient">
+**Pentru angajati:** Fiecare mecanic isi poate comanda singur piese cu banii proprii. Piesele vor fi trimise in depozitul firmei.
+
+**Pentru sefi de firma:** Pot comanda piese noi dintr-un meniu de furnizori, iar acestea vor fi puse automat in depozitul firmei, disponibil tuturor angajatilor.
+
+In urma schimbarii unei piese, primesti materiale inapoi in functie de starea piesei schimbate, care pot fi folosite in crafting pentru a "recicla" piese.
+</div>
+
+## Echipamente de Lucru
+
+<div class="guide-box-solid">
+
+**Elevator** - Ridica vehiculul pentru a lucra la componente de dedesubt
+
+**Cric** - Echipament portabil pentru ridicare partiala
+
+**Sistem de Tractare** - Tractare imbunatatita, usor de folosit
+
+**Caiet de Lucru** - Noteaza toate piesele care trebuie schimbate la un vehicul
+</div>
+
+## Servicii Oferite
+
+<div class="guide-box-gradient">
+
+**Reparatii Standard**
+- Reparare cu diverse kit-uri
+- Schimbare piese principale si consumabile
+- Diagnosticare cu kit de diagnosticare (orice masina)
+
+**Rasturna Vehicul**
+- Mecanicii pot rasturna vehiculele inapoi pe roti tinand apasat G pe masina
+
+**Impinge Vehicul**
+- Mecanicii pot impinge masinile oricand
+
+**Stancing Kit**
+- Achizitioneaza un Stancer kit din magazin
+- Monteaza-l pe masinile jucatorilor
+- Modifica valorile stancer-ului folosind interfata grafica
+
+**Engine Swap**
+- Schimba motorul vehiculului
+- Modifica sunetul si performanta vehiculului
+
+**Turbine**
+- Mai multe optiuni de turbina disponibile
+- Fiecare ofera un bonus de performanta diferit
+</div>
+
+## Istoric Service
+
+<div class="guide-box-solid">
+Toate masinile au un istoric de service exact, unde se pot vedea toate interventiile facute asupra vehiculului.
+</div>
+
 </div>

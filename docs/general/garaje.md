@@ -83,13 +83,36 @@ outline: deep
     </ul>
   </div>
 
-### <center><span class="title-font">3. Mentiuni </span></center>
+### <center><span class="title-font">3. Sistem Sloturi Garaj </span></center>
 
   <div class="job-box">
     <ul>
-      <li>Interfata moderna si responsive</li>
+      <li><b>Limita Default</b> - Toti jucatorii au 12 sloturi in garaj care includ toate vehiculele personale (masini, motociclete, avioane, barci, elicoptere)</li>
+      <li><b>Sloturi Aditionale</b> - Poti cumpara sloturi extra din /store</li>
+      <li><b>Vehicule VIP</b> - Vehiculele VIP NU se numara la sloturi, ai loc nelimitat pentru ele</li>
+      <li><b>Depasire Limita</b> - Daca ai mai multe vehicule decat sloturi, nu poti cumpara vehicule noi pana nu vinzi din cele existente</li>
+      <li><b>Sfat</b> - Vinde masinile nefolosite la remat sau targ auto pentru a elibera sloturi</li>
+    </ul>
+  </div>
+
+### <center><span class="title-font">4. Stare Piese Vehicul </span></center>
+
+  <div class="job-box">
+    <ul>
+      <li><b>Afisare Piese</b> - Interfata arata starea pieselor principale si consumabile ale fiecarui vehicul</li>
+      <li><b>Tuning Custom</b> - Vezi detalii despre engine swap, turbina si stancing aplicat</li>
+      <li><b>Istoric Service</b> - Poti vedea istoricul de interventii al vehiculului</li>
+    </ul>
+  </div>
+
+### <center><span class="title-font">5. Mentiuni </span></center>
+
+  <div class="job-box">
+    <ul>
+      <li>Interfata moderna si responsive cu tema noua</li>
       <li>Usor de configurat si integrat</li>
       <li>Experienta realista pentru jucatori</li>
+      <li>Acces si din aplicatia Garaj de pe telefon</li>
     </ul>
   </div>
 

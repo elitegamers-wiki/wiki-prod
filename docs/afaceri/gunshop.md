@@ -4,8 +4,35 @@ outline: deep
 
 <img src="https://imgur.com/eBBAkE8.png" alt="pozabusiness" width="666" height="375" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
-# Afacerile te tip : GUNSHOP
-#### Pe server exista 11 Locatii pentru acest tip de business
+# Afacerile de tip: GUNSHOP
+
+## Sistem Management Gunshop
+
+Proprietarii de gunshop au acces la un sistem complet de management:
+
+### Preturi Personalizate
+- Sefii pot seta preturi personalizate pentru fiecare item din magazin
+- Flexibilitate totala in stabilirea preturilor
+
+### Procurare Stock
+- Sistemul permite procurarea stock-ului propriu
+
+### Crafting Arme
+- In mina speciala (disponibila de la 10 ore) se pot crafta arme pentru gunshop
+- Se folosesc minereuri "sarace" pentru bare inferioare necesare craftingului
+
+### Pistol Auto-Aparare (SNS)
+- Se cumpara de la gunshop
+- Dupa instructaj de la personalul gunshop poate fi inregistrat la politie
+- Se asociaza cu licenta de port-arma
+- Gloante .45 ACP disponibile in magazin
+
+### Licenta Crafting
+- Obligatorie IC conform codului penal
+- Cost: 10.000 euro/saptamana
+- Permite craftarea armelor albe si pistolului SNS
+
+---
 
 #### GUNSHOP -> VINEWOOD
 <img src="../public/locatii/gunshop/gs_vinewood.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >

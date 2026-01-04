@@ -303,20 +303,73 @@ Ai posibilitatea de a asculta cu prietenii tai cele mai top melodii de pe youtub
 - Boxa se gaseste la orice DigitalDen, se pune pe jos iar apoi se conecteaza din Setari -> Redtooth
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
     <div style="display: flex; gap: 10px;">
-        <img src="../public/telefon/boxa.png" alt="pozaTelefon" width="300" height="600" 
+        <img src="../public/telefon/boxa.png" alt="pozaTelefon" width="300" height="600"
             style="border-radius: 5%;">
-        <img src="../public/telefon/redtooth.png" alt="pozaTelefon" width="300" height="600" 
+        <img src="../public/telefon/redtooth.png" alt="pozaTelefon" width="300" height="600"
             style="border-radius: 5%;">
     </div>
 </div>
 
-## <span style="color: #d72638;">Setări & Personalizare</span>
+### BlackMarket - Retea Anonima
+Aplicatia BlackMarket permite accesarea unei retele complet anonime pentru a comunica cu alti jucatori.
+
+- **Resetare zilnica** - BlackMarket-ul se reseteaza complet la fiecare 3 zile, iar toate mesajele sunt sterse la restart de server
+- **Sistem parole** - Pentru a obtine parola zilnica, jucatorii trebuie sa efectueze livrari ilegale si vor avea o sansa de a primi un bilet cu parola
+- **Anonimat** - Un jucator poate folosi parola altui jucator pentru a citi mesajele si posta anunturi in numele aceluia
+- **NPC acces** - Exista un NPC care ofera bilete pentru acces la BlackMarket
+
+### Case - Vizualizare Proprietati
+Aplicatia Case permite vizualizarea tuturor caselor pe care le detii, cu informatii despre chiriasi si starea proprietatii.
+
+### Rezervari - Rezervare Mese Club
+Aplicatia Rezervari permite rezervarea meselor in cluburile din oras pentru evenimente speciale.
+
+---
+
+## <span style="color: #d72638;">Functii Avansate</span>
+
+<div style="background: #2a2a2a; padding: 1rem; border-left: 4px solid #d72638; border-radius: 10px; box-shadow: 0 0 10px rgba(215,38,56,0.2); color: white; margin-bottom: 1rem;">
+  <h3 style="margin-top: 0; color: #d72638;">Grupuri in Mesagerie</h3>
+  <p>Poti crea grupuri in aplicatia de mesagerie pentru a comunica cu mai multe persoane simultan. Admin-ul grupului poate administra membrii si poza grupului.</p>
+</div>
+
+<div style="background: #2a2a2a; padding: 1rem; border-left: 4px solid #d72638; border-radius: 10px; box-shadow: 0 0 10px rgba(215,38,56,0.2); color: white; margin-bottom: 1rem;">
+  <h3 style="margin-top: 0; color: #d72638;">Share Contact si Poze</h3>
+  <ul>
+    <li>Tine apasat pe un contact in chat pentru a-l trimite altui jucator</li>
+    <li>Tine apasat pe o poza din mesaje pentru a o salva in galerie</li>
+    <li>Poti copia o poza din galerie in clipboard cand dai click pe ea</li>
+  </ul>
+</div>
+
+<div style="background: #2a2a2a; padding: 1rem; border-left: 4px solid #d72638; border-radius: 10px; box-shadow: 0 0 10px rgba(215,38,56,0.2); color: white; margin-bottom: 1rem;">
+  <h3 style="margin-top: 0; color: #d72638;">Sistem Semnal</h3>
+  <p>Telefonul are un sistem de semnal care afecteaza functionarea in anumite zone:</p>
+  <ul>
+    <li>In zone cu semnal slab, volumul apelurilor scade</li>
+    <li>In zone fara semnal, anumite aplicatii si apeluri sunt blocate</li>
+    <li>Exista jammere radio care pot bloca statiile si telefoanele din a functiona</li>
+  </ul>
+</div>
+
+<div style="background: #2a2a2a; padding: 1rem; border-left: 4px solid #d72638; border-radius: 10px; box-shadow: 0 0 10px rgba(215,38,56,0.2); color: white; margin-bottom: 1rem;">
+  <h3 style="margin-top: 0; color: #d72638;">Camera - Link Automat</h3>
+  <p>Cand faci o poza cu telefonul, link-ul ti se copiaza automat in clipboard pentru a-l putea trimite rapid.</p>
+</div>
+
+<div style="background: #2a2a2a; padding: 1rem; border-left: 4px solid #d72638; border-radius: 10px; box-shadow: 0 0 10px rgba(215,38,56,0.2); color: white; margin-bottom: 1rem;">
+  <h3 style="margin-top: 0; color: #d72638;">Mutare Aplicatii</h3>
+  <p>Poti muta aplicatiile pe ecranul principal dupa preferinte, pentru o organizare personalizata a telefonului.</p>
+</div>
+
+## <span style="color: #d72638;">Setari & Personalizare</span>
 
 <div style="background: #1f1f1f; padding: 1.2rem; border-radius: 12px; box-shadow: 0 0 10px rgba(215,38,56,0.25); border-left: 5px solid #d72638; color: white;">
   <ul style="line-height: 1.6;">
-    <li>Setează tonuri de apel personalizate.</li>
-    <li>Schimbă fundalul telefonului după preferințe.</li>
-    <li>Alege tema: <span style="color: #d72638;">Dark</span> sau <span style="color: #d72638;">Light</span>.</li>
+    <li>Seteaza tonuri de apel personalizate - poti adauga un sunet/melodie proprie ca ton de apel din setari</li>
+    <li>Schimba fundalul telefonului dupa preferinte (wallpaper si lockscreen)</li>
+    <li>Alege tema: <span style="color: #d72638;">Dark</span> sau <span style="color: #d72638;">Light</span></li>
+    <li>Notificarile apar si in lockscreen pentru a nu rata mesaje importante</li>
   </ul>
 </div>
 

@@ -79,12 +79,57 @@ outline: deep
 
   <h4>In Character (IC)</h4>
   <ul>
-    <li>Ca medic, trebuie să faci tot ce îți stă în putință pentru a salva pacientul.</li>
-    <li>Trebuie să fii un cetățean model, fără antecedente și probleme comportamentale.</li>
-    <li>Abilitatea de a lucra în echipă cu ceilalți colegi.</li>
-    <li>Păstrarea calmului în orice situație.</li>
-    <li>Tratarea pacienților cu seriozitate și respect.</li>
+    <li>Ca medic, trebuie sa faci tot ce iti sta in putinta pentru a salva pacientul.</li>
+    <li>Trebuie sa fii un cetatean model, fara antecedente si probleme comportamentale.</li>
+    <li>Abilitatea de a lucra in echipa cu ceilalti colegi.</li>
+    <li>Pastrarea calmului in orice situatie.</li>
+    <li>Tratarea pacientilor cu seriozitate si respect.</li>
     <li>Cazier curat.</li>
+  </ul>
+
+  <h4>Sistem Rani</h4>
+  <p>Jucatorii pot suferi rani in diferite zone ale corpului, fiecare cu efecte specifice:</p>
+  <ul>
+    <li><strong>Rana la cap</strong> - Nu poate fi resuscitat cu defibrilator, necesita operatie</li>
+    <li><strong>Rana la picior</strong> - Nu poate alerga sau sari, piciorul cedeaza periodic</li>
+    <li><strong>Rana la piept</strong> - Tuseste sau vomita, vedere neclara</li>
+    <li><strong>Rana la mana</strong> - Nu poate tine arma mult timp, scapa arma din mana</li>
+  </ul>
+  <p class="politie-note">Ranile persista si dupa reconectare pana sunt tratate!</p>
+
+  <h4>Tratament Rani</h4>
+  <ul>
+    <li><strong>Paturi spital</strong> - Pune pacientul in pat pentru tratament</li>
+    <li><strong>Mese de operatie</strong> - Pentru operatii complexe (rani la cap)</li>
+    <li><strong>Verificare pacient</strong> - Vezi ce substante sau alcool are pacientul in sistem</li>
+    <li><strong>Dezbracare pacient</strong> - Pentru examinare completa</li>
+    <li><strong>Cost tratament</strong> - 5.000 euro la spital</li>
+  </ul>
+
+  <h4>Echipamente</h4>
+  <ul>
+    <li><strong>Lanterna</strong> - Iluminare zone intunecate</li>
+    <li><strong>Megafon</strong> - Comunicare la distanta</li>
+    <li><strong>Defibrilator</strong> - Resuscitare pacient (nu functioneaza pe rani la cap)</li>
+    <li><strong>NARCAN</strong> - Tratament supradoza</li>
+  </ul>
+
+  <h4>Sistem Misiuni NPC</h4>
+  <p>Medicii pot primi apeluri de la NPC-uri pentru urgente medicale din oras. Aceste misiuni sporesc roleplay-ul si activitatea medicilor.</p>
+
+  <h4>Vehicule si Echipament</h4>
+  <ul>
+    <li>Masinile de SMIR au imunitate la degradarea pieselor</li>
+    <li>Medicii se spawneaza direct la sediu</li>
+    <li>Ca medic iti poti tuna masina pentru roti de offroad (iarna) si geamuri fumurii</li>
+    <li>Targi disponibile pentru transportul pacientilor</li>
+  </ul>
+
+  <h4>Informatii Suplimentare</h4>
+  <ul>
+    <li><strong>Bandaje</strong> - Se pot aplica din mers</li>
+    <li><strong>Armura</strong> - Previne ranile daca este purtata</li>
+    <li><strong>Actiuni /me</strong> - Medicii pot folosi /me pentru a descrie verificarile si tratamentele</li>
   </ul>
 
 </div>

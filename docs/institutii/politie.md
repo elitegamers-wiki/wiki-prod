@@ -110,7 +110,68 @@ Departamentul de Poliție Los Santos (LSPD) oferă un loc de muncă stabil, avan
 
 <p>De la fiecare aplicant se așteaptă seriozitate, dedicare, onoare, curaj, disciplină și un real interes pentru rolul de ofițer de poliție. Respectarea valorilor fundamentale ale instituției este obligatorie pentru menținerea ordinii și siguranței publice.</p>
 
-<p>Următorul regulament reprezintă fundația pe care Departamentul de Poliție Los Santos își construiește procesul de recrutare și formare, modelând fiecare ofițer încă de la primul pas în carieră. Acest cadru este menit să asigure profesionalismul, responsabilitatea și integritatea fiecărui membru al echipei LSPD.</p>
+<p>Urmatorul regulament reprezinta fundatia pe care Departamentul de Politie Los Santos isi construieste procesul de recrutare si formare, modeland fiecare ofiter inca de la primul pas in cariera. Acest cadru este menit sa asigure profesionalismul, responsabilitatea si integritatea fiecarui membru al echipei LSPD.</p>
+
+</div>
+
+<div class="politie-section">
+
+#### Echipamente si Sisteme
+
+**Echipamente disponibile:**
+- **Spike Strips** - Cuie pentru oprirea vehiculelor in urmarire
+- **Catuse** - Se scot din inventar cand sunt puse pe suspect
+- **Etilotest** - Verificare nivel alcolemie conducator
+- **Berbec** - Deschidere usi pentru o perioada limitata
+- **Verificare Amprente** - Identifica jucatorul dupa amprente
+- **Buton Panica** - Trimitere notificare urgenta catre colegi
+- **Lanterna** - Iluminare zone intunecate
+- **Megafon** - Comunicare la distanta
+
+**Sistem MDT:**
+- Impound vehicule - Marcheaza o masina pentru ridicare
+- Verificare antecedente
+- Cautare dupa numar inmatriculare
+
+**Keybinds:**
+- **[** - Toggle girofaruri
+- **]** - Toggle sirena
+
+**Escortare si Catusare:**
+- K -> Jucator -> Escorteaza jucator (inainte de a baga in masina)
+- Apoi foloseste meniul G pentru a pune jucatorul in masina
+
+</div>
+
+<div class="politie-section">
+
+#### Vehicule Politie
+
+- Masinile de politie au tuning full (armura, etc)
+- Vehiculele de politie au imunitate la degradarea pieselor
+- Ca politist iti poti tuna masina pentru roti de offroad (iarna) si geamuri fumurii
+- Daca nu ai GPS la tine, nu iti mai vezi colegii pe harta
+
+</div>
+
+<div class="politie-section">
+
+#### Drug Test
+
+Politistii pot testa jucatorii pentru substante ilegale:
+- Se poate folosi in timpul controalelor rutiere sau perchezitiilor
+
+</div>
+
+<div class="politie-section">
+
+#### Radare Fixe
+
+Pe strazi sunt amplasate radare fixe care inregistreaza depasirea vitezei.
+
+- **Limita** - 100 km/h in oras
+- **Cooldown** - 10 minute intre detectari pentru acelasi vehicul
+- **Amenda** - Automata, se trimite pe email
 
 </div>
 
