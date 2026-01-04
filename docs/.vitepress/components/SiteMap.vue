@@ -20,9 +20,16 @@ function flattenSidebarItems(section) {
   return flat
 }
 
+function stripSvg(text) {
+  return text?.replace(/<svg[^>]*>[\s\S]*?<\/svg>/gi, '').trim() || ''
+}
+
 const items = sidebar.map(section => ({
-  text: section.text,
-  items: flattenSidebarItems(section)
+  text: stripSvg(section.text),
+  items: flattenSidebarItems(section).map(item => ({
+    ...item,
+    text: stripSvg(item.text)
+  }))
 })).filter(section => section.items.length > 0) 
 </script>
 
