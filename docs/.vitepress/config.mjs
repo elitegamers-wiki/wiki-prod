@@ -157,7 +157,6 @@ export default defineConfig({
           { text: 'Sistem Airsoft', link: '/general/airsoft'},
           { text: 'Targul Auto', link: '/general/parcauto'},
           { text: 'Ghid de incepere', link: '/general/guide'},
-          { text: ' Harta Los Santos', link: '/general/harta' },
           { text: ' Telefon', link: '/general/telefon' },
           { text: ' Setari pentru performanta', link: '/general/setarigrafice' },
           { text: ' Inventar', link: '/general/inventar' },

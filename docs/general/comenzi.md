@@ -59,7 +59,6 @@ outline: deep
 <ul>
   <li><strong>/premii</strong> – Deschide meniul cu premii și misiuni.</li>
   <li><strong>/wiki</strong> – Deschide wiki-ul direct din joc.</li>
-  <li><strong>/mapeg</strong> – Harta teritoriilor.</li>
   <li><strong>/report</strong> – Trimite întrebări sau bug-uri staffului.</li>
   <li><strong>/carry</strong> – Ridică un jucător pe umăr.</li>
   <li><strong>/e [nume]</strong> – Pornește o animație.</li>
