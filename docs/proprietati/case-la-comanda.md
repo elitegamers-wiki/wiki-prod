@@ -142,7 +142,7 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Villa 1</h4>
+    <h4 style="display: inline-block;">Villa 1</h4>
   </div>
   <img src="../public/case-la-comanda/villa1.png" alt="Villa" width="800" height="421" style="border: 5px solid #ffffff; display: block; margin: 1rem auto;">
   <ul>
@@ -153,7 +153,7 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Mansion 3</h4>
+    <h4 style="display: inline-block;">Mansion 3</h4>
   </div>
   <br></br>
   <img src="../public/case-la-comanda/mansion03.png" alt="Mansion" width="800" height="421" style="border: 5px solid #ffffff; display: block; margin: 1rem auto;">
@@ -165,7 +165,7 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Villa 4</h4>
+    <h4 style="display: inline-block;">Villa 4</h4>
   </div>
   <br></br>
   <img src="../public/case-la-comanda/villa04.png" alt="Villa" width="800" height="421" style="border: 5px solid #ffffff; display: block; margin: 1rem auto;">
@@ -177,7 +177,7 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Villa 5</h4>
+    <h4 style="display: inline-block;">Villa 5</h4>
   </div>
   <br></br>
   <img src="../public/case-la-comanda/villa05.png" alt="Villa" width="800" height="421" style="border: 5px solid #ffffff; display: block; margin: 1rem auto;">
@@ -189,7 +189,7 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Mansion 6</h4>
+    <h4 style="display: inline-block;">Mansion 6</h4>
   </div>
   <br></br>
   <img src="../public/case-la-comanda/mansion06.png" alt="Villa" width="800" height="421" style="border: 5px solid #ffffff; display: block; margin: 1rem auto;">
@@ -201,7 +201,7 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Mansion 7</h4>
+    <h4 style="display: inline-block;">Mansion 7</h4>
   </div>
   <br></br>
   <img src="../public/case-la-comanda/mansion07.png" alt="Villa" width="800" height="421" style="border: 5px solid #ffffff; display: block; margin: 1rem auto;">
@@ -213,7 +213,7 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Mansion 9</h4>
+    <h4 style="display: inline-block;">Mansion 9</h4>
   </div>
   <br></br>
   <img src="../public/case-la-comanda/mansion09.png" alt="Villa" width="800" height="421" style="border: 5px solid #ffffff; display: block; margin: 1rem auto;">
@@ -225,7 +225,7 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Mansion 11</h4>
+    <h4 style="display: inline-block;">Mansion 11</h4>
   </div>
   <br></br>
   <img src="../public/case-la-comanda/mansion11.png" alt="Villa" width="800" height="421">
@@ -237,7 +237,7 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Mansion 12</h4>
+    <h4 style="display: inline-block;">Mansion 12</h4>
   </div>
   <br></br>
   <img src="../public/case-la-comanda/mansion12.png" alt="Villa" width="800" height="421">
@@ -249,7 +249,7 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Mansion 13</h4>
+    <h4 style="display: inline-block;">Mansion 13</h4>
   </div>
   <br></br>
   <img src="../public/case-la-comanda/mansion13.png" alt="Villa" width="800" height="421">
@@ -261,7 +261,7 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Mansion 15</h4>
+    <h4 style="display: inline-block;">Mansion 15</h4>
   </div>
   <br></br>
   <img src="../public/case-la-comanda/mansion15.png" alt="Mansion" width="800" height="421">
@@ -273,7 +273,7 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Mansion 16</h4>
+    <h4 style="display: inline-block;">Mansion 16</h4>
   </div>
   <br></br>
   <img src="../public/case-la-comanda/mansion16.png" alt="Mansion" width="800" height="421">
@@ -285,7 +285,7 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Mansion 17</h4>
+    <h4 style="display: inline-block;">Mansion 17</h4>
   </div>
   <br></br>
   <img src="../public/case-la-comanda/mansion17.png" alt="Mansion" width="800" height="421">
@@ -297,7 +297,7 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Mansion 19</h4>
+    <h4 style="display: inline-block;">Mansion 19</h4>
   </div>
   <br></br>
   <img src="../public/case-la-comanda/mansion19.png" alt="Mansion" width="800" height="421">
@@ -309,7 +309,7 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Mansion 20</h4>
+    <h4 style="display: inline-block;">Mansion 20</h4>
   </div>
   <br></br>
   <img src="../public/case-la-comanda/mansion20.png" alt="Mansion" width="800" height="421">
@@ -321,7 +321,7 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Villa 21</h4>
+    <h4 style="display: inline-block;">Villa 21</h4>
   </div>
   <br></br>
   <img src="../public/case-la-comanda/villa21.png" alt="Villa" width="800" height="421">
@@ -333,7 +333,7 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Mansion 22</h4>
+    <h4 style="display: inline-block;">Mansion 22</h4>
   </div>
   <br></br>
   <img src="../public/case-la-comanda/mansion22.png" alt="Mansion" width="800" height="421">
@@ -345,7 +345,7 @@ Pe EliteGamers, ai posibilitatea de a-ți alege propria locuință personalizat�
 
 <div class="eg-houses">
   <div style="text-align: center;">
-    <h4 style="display: inline-block;">🏠 Mansion 23</h4>
+    <h4 style="display: inline-block;">Mansion 23</h4>
   </div>
   <br></br>
   <img src="../public/case-la-comanda/mansion23.png" alt="Mansion" width="800" height="421">

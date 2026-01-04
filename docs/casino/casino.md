@@ -73,10 +73,11 @@ outline: deep
     color: #eee;
   }
   .eg-casino-list li::before {
-    content: "🎰";
+    content: "•";
     position: absolute;
     left: 0;
     font-size: 1.3rem;
+    color: #e63946;
   }
 
   /* Imagini în card */

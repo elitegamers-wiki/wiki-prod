@@ -46,7 +46,7 @@ outline: deep
 }
 
 .comenzi-box li::before {
-  content: "🔻";
+  content: "•";
   margin-right: 0.5rem;
   color: #ff4a4a;
 }
@@ -54,7 +54,7 @@ outline: deep
 
 # Comenzi utilizate
 
-### 💬 Comenzi în chat
+### Comenzi în chat
 <div class="comenzi-box">
 <ul>
   <li><strong>/premii</strong> – Deschide meniul cu premii și misiuni.</li>
@@ -70,7 +70,7 @@ outline: deep
 </ul>
 </div>
 
-### 🎮 Butoane prestabilite
+### Butoane prestabilite
 <div class="comenzi-box">
 <ul>
   <li><strong>K</strong> – Meniu principal</li>
@@ -87,7 +87,7 @@ outline: deep
 </ul>
 </div>
 
-### ⚙️ Schimbare taste (keybinds)
+### Schimbare taste (keybinds)
 <div class="comenzi-box">
 <p>Poți modifica orice tastă în setările jocului:</p>
 <ul>
@@ -96,7 +96,7 @@ outline: deep
 </ul>
 </div>
 
-### 🎯 Binds în consolă
+### Binds în consolă
 <div class="comenzi-box">
 <p>Setează comenzi rapide folosind consola (F8):</p>
 <ul>

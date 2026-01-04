@@ -9,7 +9,7 @@ outline: deep
   <h1>Târg Auto – ELITEGAMERS.RO</h1>
   <p style="text-align:center;">Tot ce trebuie să știi despre vânzarea și cumpărarea mașinilor pe server.</p>
 
-  <h3>📍 Locația târgului</h3>
+  <h3>Locația târgului</h3>
   <p>Mergi la <b>Cod Poștal: 686</b> pentru a intra în zona târgului auto.</p>
   <a href="/parcauto/targ_auto.png" target="_blank">
     <img src="/parcauto/targ_auto.png" alt="Locația târgului auto">
@@ -18,7 +18,7 @@ outline: deep
     <img src="/parcauto/locatie.png" alt="Locația târgului auto">
   </a>
 
-  <h3>🚗 Pune mașina la vânzare</h3>
+  <h3>Pune mașina la vânzare</h3>
   <p>
     1. Interactioneaza cu Nea Marian.<br>
     2. Apasa pe <b>Vinde vehicul</b> si alege masina dorita.<br>
@@ -34,7 +34,7 @@ outline: deep
     <img src="/parcauto/neamarian3.png" alt="Nea Marian">
   </a>
 
-  <h3>👀 Interacțiunea cumpărătorilor</h3>
+  <h3>Interacțiunea cumpărătorilor</h3>
   <p>
     Atunci când un alt jucător se apropie de mașina ta, îi apare meniul cu:<br>
     - Model și brand<br>
@@ -53,7 +53,7 @@ outline: deep
     <img src="/parcauto/meniumasinav.png" alt="Meniu cumpărător">
   </a>
 
-  <h3>🧩 Sfaturi rapide</h3>
+  <h3>Sfaturi rapide</h3>
   <div style="padding: 18px 25px; margin-top: 12px; border: 1.5px solid #d94a4a; background-color: #2a2a2a; color: #f1a1a1; border-radius: 8px;">
     - <b>Siguranță:</b> nu bloca intrările/ieșirile târgului.<br>
     - <b>Transparență:</b> scrie clar defectele/upgrade-urile.<br>

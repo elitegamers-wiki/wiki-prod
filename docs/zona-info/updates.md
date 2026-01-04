@@ -963,7 +963,7 @@ Mesterit de: **xSLOW**
 
 ### Update 2.2.0
 Mesterit de: **xSLOW**
-Cica nu se fac update-uri 🤔 
+Cica nu se fac update-uri 
 **Features**
 ```javascript
 - Implementat un update major la anticheat. Multumim Skuzzi si swiftlyac.net
@@ -987,7 +987,7 @@ Cica nu se fac update-uri 🤔
 
 ### Update 2.2.1
 Mesterit de: **xSLOW**
-Urmeaza multe luna asta ⏩ 
+Urmeaza multe luna asta 
 **Features**
 ```javascript
 - Imbunatatit sistemul de efecte accident
@@ -1397,7 +1397,7 @@ Mesterit de: **xSLOW**
 
 ### Update 2.4.1
 Mesterit de: **xSLOW**
-**More goodiesss for you** ❤️
+**More goodiesss for you**
 **Features**
 ```javascript
 - Dezactivat temporar jucatorul care apare in inventar
@@ -1423,7 +1423,7 @@ Mesterit de: **xSLOW**
 
 ### Update 2.4.2
 Mesterit de: **Crixus & xSLOW**
-**CEL MAI MARE UPDATE LA MASINI!!!!!!** ❤️
+**CEL MAI MARE UPDATE LA MASINI!!!!!!**
 **Features**
 ```javascript
 - Refacute toate cele 250 de handling-uri de la 0 de Domn Inginer Crixus!
@@ -1451,7 +1451,7 @@ Mesterit de: **Crixus & xSLOW**
 
 ### Update 2.4.3
 Mesterit de: **xSLOW**
-**Serverele pe care ati mai jucat faceau update-uri asa de des?** 😄 
+**Serverele pe care ati mai jucat faceau update-uri asa de des?** 
 **Features**
 ```javascript
 - Acum se pot repara barci, elicoptere, orice. Pe langa asta, cand folosesti un kit langa o masina iti pune un marker si un text in zona in care trebuie sa te duci pentru a repara masina.
@@ -1470,7 +1470,7 @@ Mesterit de: **xSLOW**
 
 ### Update 2.4.4
 Mesterit de: **xSLOW & sNok3**
-**Serverele pe care ati mai jucat faceau update-uri asa de des?** 😄 
+**Serverele pe care ati mai jucat faceau update-uri asa de des?** 
 
 **Features**
 ```javascript

@@ -82,26 +82,26 @@ outline: deep
   ## Premii zilnice prin activitate
 
   <div class="eg-rewards-card">
-    <strong>🔥 Daily Rewards / Premii Zilnice</strong> este un sistem avansat de recompense bazat pe misiuni zilnice, săptămânale și lunare, conceput pentru a încuraja activitatea constantă a jucătorilor pe server.
+    <strong>Daily Rewards / Premii Zilnice</strong> este un sistem avansat de recompense bazat pe misiuni zilnice, săptămânale și lunare, conceput pentru a încuraja activitatea constantă a jucătorilor pe server.
   </div>
 
   <img src="../public/dailyrewards/dailyrewards.png" alt="sistem Daily Rewards">
 
-  ### ⚡ Caracteristici principale
+  ### Caracteristici principale
 
   <div class="eg-rewards-card">
     <ul>
       <li>Misiuni zilnice, săptămânale și lunare – Jucătorii au obiective variate, de exemplu:
         <ul>
-          <li>🚗 Efectuarea unui număr de curse ca șofer</li>
-          <li>🍕 Realizarea livrărilor ca livrator de pizza</li>
-          <li>💰 Acumularea de salarii (payday)</li>
+          <li>Efectuarea unui număr de curse ca șofer</li>
+          <li>Realizarea livrărilor ca livrator de pizza</li>
+          <li>Acumularea de salarii (payday)</li>
         </ul>
       </li>
     </ul>
   </div>
 
-  ### 🎯 Alte caracteristici
+  ### Alte caracteristici
 
   <div class="eg-rewards-card">
     <ul>
@@ -112,7 +112,7 @@ outline: deep
     </ul>
   </div>
 
-  ### 📜 Comenzile disponibile
+  ### Comenzile disponibile
 
   <div class="eg-rewards-card">
     <ul>

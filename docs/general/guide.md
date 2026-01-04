@@ -126,7 +126,7 @@
     </a>
   </p>
   <p align="center">
-    <a href="https://www.youtube.com/watch?v=YsgIFKVQkFs" target="_blank" class="eg-youtube-button">▶️ Vezi tutorialul video pe YouTube</a>
+    <a href="https://www.youtube.com/watch?v=YsgIFKVQkFs" target="_blank" class="eg-youtube-button">Vezi tutorialul video pe YouTube</a>
   </p>
 
   <h3>3. FIVEM MENU SETTINGS</h3>

@@ -97,7 +97,7 @@ outline: deep
 </div>
 
 <p class="eg-atm-box-note">
-⚠️ Atenție! Retragerea unor sume mari poate atrage priviri nedorite. Asigură-te că ești într-un loc sigur înainte de a scoate banii!  
+Atenție! Retragerea unor sume mari poate atrage priviri nedorite. Asigură-te că ești într-un loc sigur înainte de a scoate banii!
 Găsește un ATM și gestionează-ți finanțele cu grijă!
 </p>
 
@@ -108,10 +108,10 @@ Găsește un ATM și gestionează-ți finanțele cu grijă!
 ### <span style="color: #ff4d4d;">Funcționalități</span>
 
 <ul class="eg-atm-box">
-  <li><strong>🔹 Retragere de numerar</strong> – Ai nevoie de bani lichizi? Introdu suma dorită și scoate rapid banii din cont. Dar ai grijă unde și când retragi!</li>
-  <li><strong>🔹 Depunere de bani</strong> – Ține-ți economiile în siguranță! Depune banii direct în contul tău bancar și protejează-te de hoți.</li>
-  <li><strong>🔹 Verificarea soldului</strong> – Vrei să știi câți bani mai ai în cont? Un simplu acces la ATM îți afișează instant soldul disponibil.</li>
-  <li><strong>🔹 Transfer de bani</strong> – Trimite rapid bani altor jucători folosind IBAN-ul lor. Perfect pentru afaceri, datorii sau ajutor între prieteni!</li>
+  <li><strong>Retragere de numerar</strong> – Ai nevoie de bani lichizi? Introdu suma dorită și scoate rapid banii din cont. Dar ai grijă unde și când retragi!</li>
+  <li><strong>Depunere de bani</strong> – Ține-ți economiile în siguranță! Depune banii direct în contul tău bancar și protejează-te de hoți.</li>
+  <li><strong>Verificarea soldului</strong> – Vrei să știi câți bani mai ai în cont? Un simplu acces la ATM îți afișează instant soldul disponibil.</li>
+  <li><strong>Transfer de bani</strong> – Trimite rapid bani altor jucători folosind IBAN-ul lor. Perfect pentru afaceri, datorii sau ajutor între prieteni!</li>
 </ul>
 
 <p class="eg-atm-box-bottom">

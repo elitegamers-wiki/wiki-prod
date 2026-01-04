@@ -53,7 +53,7 @@ outline: deep
 ### <center> DigitalDen by eliteGamers</center>
 
 <div style="margin: 1.5rem 0; padding: 1.2rem; background: rgba(215,38,56,0.1); border-left: 6px solid #d72638; border-radius: 12px; box-shadow: 0 0 12px rgba(215,38,56,0.3);">
-  <strong style="color: #d72638;">💡 Despre DigitalDen:</strong> Pe server avem mai multe locatii pentru DigitalDen, intra pe server si ai pe harta un blip de culoare albastra (cos de cumparaturi). <img src="../public/digitalden/blip.png" alt="DigitalDen BG" style="border: 2px; display: block; margin: 20px auto;">
+  <strong style="color: #d72638;">Despre DigitalDen:</strong> Pe server avem mai multe locatii pentru DigitalDen, intra pe server si ai pe harta un blip de culoare albastra (cos de cumparaturi). <img src="../public/digitalden/blip.png" alt="DigitalDen BG" style="border: 2px; display: block; margin: 20px auto;">
 
 </div>
   <img src="../public/digitalden/digitalden.png" alt="DigitalDen BG" style="border: 2px solid #8B0000; border-radius: 8px; box-shadow: 0 4px 16px rgba(139,0,0,0.5); display: block; margin: 20px auto;">

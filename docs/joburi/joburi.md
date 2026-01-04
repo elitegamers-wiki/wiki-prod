@@ -70,7 +70,7 @@ outline: deep
 
 
 
-:::details 🧍 NPC Primărie
+:::details NPC Primărie
 ![](../public/joburi/primarie.png){.framed-photo}
 :::
 

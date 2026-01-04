@@ -4,7 +4,7 @@ outline: deep
 
 <img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0 auto; border-radius: 5%;" />
 
-### <center><span style="color: #cc2b2b;">📌 AIRSOFT EliteGamers</span></center>
+### <center><span style="color: #cc2b2b;">AIRSOFT EliteGamers</span></center>
 
 <style scoped>
   .eg-airsoft-box {

@@ -67,11 +67,11 @@ outline: deep
 ### <center> Home Depot </center>
 
 <div style="margin: 1.5rem 0; padding: 1.2rem; background: rgba(255, 223, 0, 0.1); border-left: 6px solid #ffcc00ff; border-radius: 12px; box-shadow: 0 0 12px rgba(0, 0, 0, 0.96);">
-  <strong style="color: #ffcc00;">🏠 HomeDepot:</strong> Localizat la codul poștal <strong>313</strong>, marcat pe hartă cu un <strong>blip galben</strong>, situat în <strong>Sandy Shores</strong>.
+  <strong style="color: #ffcc00;">HomeDepot:</strong> Localizat la codul poștal <strong>313</strong>, marcat pe hartă cu un <strong>blip galben</strong>, situat în <strong>Sandy Shores</strong>.
   <ul>
     <li>Aici poți cumpăra orice materiale sau obiecte de care ai nevoie pentru construcții și îmbunătățiri.</li>
     <li>Produsele sunt diverse: unelte, materiale de construcție și accesorii.</li>
-    <li>📍 Punct de reper vizibil pe hartă, ușor de găsit pentru toți jucătorii care vizitează Sandy Shores.</li>
+    <li>Punct de reper vizibil pe hartă, ușor de găsit pentru toți jucătorii care vizitează Sandy Shores.</li>
   </ul>
 </div>
 
@@ -88,16 +88,16 @@ outline: deep
 <div class="eg-box">
   <p>Aici găsești obiecte diverse și esențiale pentru viața de zi cu zi pe server.</p>
   <ul class="eg-list">
-    <li><span class="eg-highlight">🔋 Baterie de mașină</span> – Se afla pe joc la ce se foloseste.</li>
-    <li><span class="eg-highlight">📦 Plic gol</span> – util pentru transportul discret al unor iteme/necesar la unele crafting-uri.</li>
-    <li><span class="eg-highlight">📄 Hârtie</span> – poate fi folosită în diverse combinații de crafting.</li>
-    <li><span class="eg-highlight">🌲 Lemn</span> – material de bază pentru construcții.</li>
-    <li><span class="eg-highlight">🧻 Staniol</span> – rolă de aluminiu pentru diferite utilizări.</li>
-    <li><span class="eg-highlight">📦 Carton</span> – element pentru ambalaje și crafting.</li>
-    <li><span class="eg-highlight">📏 Folie transparentă</span> – protecție și împachetare.</li>
-    <li><span class="eg-highlight">🩹 Bandă adezivă</span> – lipire rapidă și improvizații.</li>
-    <li><span class="eg-highlight">🚬 Foițe + Filtre</span> – consumabile pentru țigări.</li>
-    <li><span class="eg-highlight">🎒 Parașută</span> – posibilitatea de a cumpara parasuta pentru diverse activitati.</li>
+    <li><span class="eg-highlight">Baterie de mașină</span> – Se afla pe joc la ce se foloseste.</li>
+    <li><span class="eg-highlight">Plic gol</span> – util pentru transportul discret al unor iteme/necesar la unele crafting-uri.</li>
+    <li><span class="eg-highlight">Hârtie</span> – poate fi folosită în diverse combinații de crafting.</li>
+    <li><span class="eg-highlight">Lemn</span> – material de bază pentru construcții.</li>
+    <li><span class="eg-highlight">Staniol</span> – rolă de aluminiu pentru diferite utilizări.</li>
+    <li><span class="eg-highlight">Carton</span> – element pentru ambalaje și crafting.</li>
+    <li><span class="eg-highlight">Folie transparentă</span> – protecție și împachetare.</li>
+    <li><span class="eg-highlight">Bandă adezivă</span> – lipire rapidă și improvizații.</li>
+    <li><span class="eg-highlight">Foițe + Filtre</span> – consumabile pentru țigări.</li>
+    <li><span class="eg-highlight">Parașută</span> – posibilitatea de a cumpara parasuta pentru diverse activitati.</li>
   </ul>
 </div>
 <img src="../public/homedepot/homedepot2.png" alt="alte produse" class="eg-photo" style="max-width: 900px; width: 100%;">
@@ -108,9 +108,9 @@ outline: deep
 <div class="eg-box">
   <p>Substanțe chimice și compuși folosiți în crafting și combinații speciale pe server.</p>
   <ul class="eg-list">
-    <li><span class="eg-highlight">⚗️ Bicarbonat de sodiu</span> – substanță de bază pentru rețete simple.</li>
-    <li><span class="eg-highlight">💧 Propilen glicol</span> – lichid utilizat în procese avansate.</li>
-    <li><span class="eg-highlight">🧂 Benzoat de sodiu</span> – aditiv folosit ca conservant și în rețete chimice.</li>
+    <li><span class="eg-highlight">Bicarbonat de sodiu</span> – substanță de bază pentru rețete simple.</li>
+    <li><span class="eg-highlight">Propilen glicol</span> – lichid utilizat în procese avansate.</li>
+    <li><span class="eg-highlight">Benzoat de sodiu</span> – aditiv folosit ca conservant și în rețete chimice.</li>
   </ul>
 </div>
 <img src="../public/homedepot/homedepot3.png" alt="substante produse" class="eg-photo" style="max-width: 900px; width: 100%;">
@@ -120,9 +120,9 @@ outline: deep
 <div class="eg-box">
   <p>Iteme folosite pentru diverse activitati pe server.</p>
   <ul class="eg-list">
-    <li><span class="eg-highlight">🔑 Lockpick simplu</span> – util pentru a descuia usi.</li>
-    <li><span class="eg-highlight">🔓 Lockpick avansat</span> – secretele se afla pe joc :D .</li>
-    <li><span class="eg-highlight">⚙️ Bormasina</span> – Folosit pentru alte intentii.</li>
+    <li><span class="eg-highlight">Lockpick simplu</span> – util pentru a descuia usi.</li>
+    <li><span class="eg-highlight">Lockpick avansat</span> – secretele se afla pe joc :D .</li>
+    <li><span class="eg-highlight">Bormasina</span> – Folosit pentru alte intentii.</li>
   </ul>
 </div>
 <img src="../public/homedepot/homedepot3.png" alt="substante produse" class="eg-photo" style="max-width: 900px; width: 100%;">

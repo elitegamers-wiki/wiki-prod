@@ -9,52 +9,45 @@ hero:
   tagline: Bine ai venit pe Wiki-ul official al server-ului EliteGamers RolePlay!
   actions:
     - theme: brand
-      text: 🖱 Explorează wiki
+      text: Explorează wiki
       link: zona-info/informatii
     - theme: alt
-      text: ⚙️ FAQ
+      text: FAQ
       link: 'zona-info/cum-intru-pe-server'
     - theme: alt
-      text: 🔊 Alatura-te noua
+      text: Alatura-te noua
       link: https://discord.gg/elitegamers-ro-351058903271735306
   image:
     src: /elitegamers.webp
     alt: eliteGamers.ro
 
 features:
-  - icon: ⚡
-    title: Gameplay
+  - title: Gameplay
     details: Detalii despre gameplay
     link: 'zona-info/cum-intru-pe-server'
-  - icon: 🖥️
-    title: Sisteme
+  - title: Sisteme
     details: Prezentarea sistemelor noastre
     link: 'general/rewards'
 
-  - icon: 📖
-    title: FAQ
+  - title: FAQ
     details: Aici găsiți răspunsuri rapide la întrebările comune despre serverul nostru FiveM, pentru a vă ajuta să vă bucurați de experiența de joc
     link: 'zona-info/faq'
-  - icon: 🤝
-    title: Our Team
+  - title: Our Team
     details: O echipă talentată dedicată inovației și excelenței
     features:
   - title: Regulament
     details: "Pe acest Wiki o sa gasesti si regulamentele necesare dezvoltarii tale."
-    icon: 🎉
     link: 'zona-info/regulament'
 
   - title: Scripts
     details: "Ai posibilitatea de a vedea ce sisteme folosim pe EliteGamers RP Romania!"
-    icon: 🔌
 ---
 
 
 
 <script setup>
 import { onMounted } from 'vue'
-import StarRating from '.vitepress/components/StarRating.vue'
-import SiteMap from '.vitepress/components/SiteMap.vue'
+import SiteMap from './.vitepress/components/SiteMap.vue'
 
 
 onMounted(() => {
@@ -74,7 +67,7 @@ onMounted(() => {
 })
 </script>
 
-## ❤️ Contributors { .eg-section-title }
+## Contributors { .eg-section-title }
 
 <div class="eg-cards-contributors">
 
@@ -107,9 +100,7 @@ onMounted(() => {
 
 </div>
 
----
-
-## 🔵 Our Team (Staff) { .eg-section-title }
+## Our Team (Staff) { .eg-section-title }
 
 <div class="eg-cards-team">
 
@@ -163,12 +154,6 @@ onMounted(() => {
 
  </div>
 
-<!-- "eg-badge orange" </a> -->
-
-
-<ClientOnly>
-  <StarRating />
-</ClientOnly>
 
 ---
 

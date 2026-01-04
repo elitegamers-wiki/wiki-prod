@@ -35,7 +35,7 @@ direct la acea locație sa interactioneze cu el roleplay, fără alte informați
 - Ban temporar 7 zile
 :::
 
-### 1.5 MIXING 🔄 [MX]
+### 1.5 MIXING [MX]
 - Mixing-ul reprezintă transmiterea de informații IC către OOC sau invers.
 Exemplu: Când încurci chatul OOC cu cel IC sau invers.
 - Se interzice transmiterea informațiilor IC pe chatul global, discord, sau orice alt mijloc
@@ -192,7 +192,7 @@ omori. Dacă l-ați forțat sa arunce lucrurile trebuie sa îl lăsați în via�
 Warn/Jail/Ban temporar
 :::
 
-### 1.21 ROB & KILL 🔄 [R&K]
+### 1.21 ROB & KILL [R&K]
 - Este  <span style="color: red;">INTERZIS</span> sa jefuiești o persoana iar după aceea să o omori.
 :::danger SANCTIUNE
 Warn/Jail/Ban temporar

@@ -1,7 +1,25 @@
 import { defineConfig } from 'vitepress'
+import Icons from 'unplugin-icons/vite'
+import IconsResolver from 'unplugin-icons/resolver'
+import Components from 'unplugin-vue-components/vite'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  vite: {
+    plugins: [
+      Icons({
+        compiler: 'vue3',
+        autoInstall: true,
+      }),
+      Components({
+        resolvers: [
+          IconsResolver({
+            prefix: 'icon',
+          }),
+        ],
+      }),
+    ],
+  },
   title: 'EliteGamers RP - Wiki',
   description:
     'Wiki oficial al server-ului EliteGamers RolePlay. Aici vei putea gasi diferite informatii aferente server-ului nostru de joc. Informatiile sunt adaugate de catre staff, dar si cat de jucatori, deci simtiti-va liberi sa contribuiti la imbunatatirea acestui wiki!',
@@ -118,65 +136,58 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Informatii Principale',
+        text: '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/></svg>Informatii Principale',
         activeMatch: '^/zona-info/',
         items: [
-          { text: ' Informatii Importante', link: '/zona-info/informatii' },
-          { text: ' Store', link: '/zona-info/store' },
-          { text: ' Intrebari si Raspunsuri', link: '/zona-info/faq' },
-          { text: ' T&C', link: '/zona-info/tc' },
-
-
-
-            {
-              text: ' Regulamente',
-              activeMatch: '^/zona-info/regulamente/',
-              collapsed: true,
-              items: [
-                { text: ' Regulament General', link: '/zona-info/regulament' },
-                { text: ' Regulament Aditional', link: '/zona-info/regulament-aditional' },
-                { text: ' Regulament Politie', link: '/zona-info/regulament-politie' },
-                { text: ' Regulament SMIR', link: '/zona-info/regulament-smir' },
-                { text: ' Regulament Mafii', link: '/zona-info/regulament-mafii' },
-              ],
-            },
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"/><polyline points="14 2 14 8 20 8"/></svg>Informatii Importante', link: '/zona-info/informatii' },
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg>Store', link: '/zona-info/store' },
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg>Intrebari si Raspunsuri', link: '/zona-info/faq' },
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>T&C', link: '/zona-info/tc' },
           {
-            text: ' Cum intru pe server?',
+            text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>Regulamente',
+            activeMatch: '^/zona-info/regulamente/',
+            collapsed: true,
+            items: [
+              { text: 'Regulament General', link: '/zona-info/regulament' },
+              { text: 'Regulament Aditional', link: '/zona-info/regulament-aditional' },
+              { text: 'Regulament Politie', link: '/zona-info/regulament-politie' },
+              { text: 'Regulament SMIR', link: '/zona-info/regulament-smir' },
+              { text: 'Regulament Mafii', link: '/zona-info/regulament-mafii' },
+            ],
+          },
+          {
+            text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>Cum intru pe server?',
             link: '/zona-info/cum-intru-pe-server',
           },
-          // { text: ' Updates', link: '/zona-info/updates' },
-          { text: ' Codul Penal', link: '/zona-info/cod-penal' },
-
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>Codul Penal', link: '/zona-info/cod-penal' },
         ],
       },
       {
-        text: 'Sisteme Generale',
+        text: '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>Sisteme Generale',
         activeMatch: '^/general/',
         items: [
-          { text: 'Garaje', link: '/general/garaje' },
-          { text: 'Sistem Airsoft', link: '/general/airsoft'},
-          { text: 'Targul Auto', link: '/general/parcauto'},
-          { text: 'Ghid de incepere', link: '/general/guide'},
-          { text: ' Telefon', link: '/general/telefon' },
-          { text: ' Setari pentru performanta', link: '/general/setarigrafice' },
-          { text: ' Inventar', link: '/general/inventar' },
-          { text: ' ATM-uri', link: '/general/atm-uri' },
-          // { text: ' Daily rewards', link: '/general/rewards' },
-          { text: ' Comenzi ', link: '/general/comenzi' },
-          { text: ' Driving School ', link: '/general/dmv' },
-          { text: ' Depozit ', link: '/general/depozit' },
-
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>Garaje', link: '/general/garaje' },
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><circle cx="12" cy="12" r="10"/><line x1="22" y1="12" x2="18" y2="12"/><line x1="6" y1="12" x2="2" y2="12"/><line x1="12" y1="6" x2="12" y2="2"/><line x1="12" y1="22" x2="12" y2="18"/></svg>Sistem Airsoft', link: '/general/airsoft'},
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><rect x="1" y="3" width="15" height="13"/><polygon points="16 8 20 8 23 11 23 16 16 16 16 8"/><circle cx="5.5" cy="18.5" r="2.5"/><circle cx="18.5" cy="18.5" r="2.5"/></svg>Targul Auto', link: '/general/parcauto'},
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Ghid de incepere', link: '/general/guide'},
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><rect x="5" y="2" width="14" height="20" rx="2" ry="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg>Telefon', link: '/general/telefon' },
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><line x1="4" y1="21" x2="4" y2="14"/><line x1="4" y1="10" x2="4" y2="3"/><line x1="12" y1="21" x2="12" y2="12"/><line x1="12" y1="8" x2="12" y2="3"/><line x1="20" y1="21" x2="20" y2="16"/><line x1="20" y1="12" x2="20" y2="3"/><line x1="1" y1="14" x2="7" y2="14"/><line x1="9" y1="8" x2="15" y2="8"/><line x1="17" y1="16" x2="23" y2="16"/></svg>Setari pentru performanta', link: '/general/setarigrafice' },
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/></svg>Inventar', link: '/general/inventar' },
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M12 8v8"/><path d="M8 12h8"/></svg>ATM-uri', link: '/general/atm-uri' },
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><polyline points="4 17 10 11 4 5"/><line x1="12" y1="19" x2="20" y2="19"/></svg>Comenzi', link: '/general/comenzi' },
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>Driving School', link: '/general/dmv' },
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg>Depozit', link: '/general/depozit' },
         ],
       },
       {
-        text: ' Activitati si Job-uri',
+        text: '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>Activitati si Job-uri',
         activeMatch: `^/joburi/`,
         items: [
-          { text: ' Despre job-uri', link: '/joburi/joburi' },
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>Despre job-uri', link: '/joburi/joburi' },
           {
-            text: " Activitati legale",
+            text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><polyline points="20 6 9 17 4 12"/></svg>Activitati legale',
             collapsed: true,
-            items: [ 
+            items: [
               { text: 'Mecanic', link: '/joburi/mecanic' },
               { text: 'Taximetrist', link: '/joburi/taximetrist' },
               { text: 'Sofer de autobuz', link: '/joburi/sofer-de-autobuz' },
@@ -189,66 +200,55 @@ export default defineConfig({
             ]
           },
           {
-            text: "Activitati ilegale",
+            text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>Activitati ilegale',
             collapsed: true,
             items: [
-              {text: 'Jafuri la masini', link: '/joburi/jafurimasini'},
-              {text: 'Jafuri la case', link: '/joburi/jafuricase'},
-              {text: 'Jafuri la ATM', link: '/joburi/jafuriatm'},
-              {text: 'Jafuri la magazin', link: '/joburi/jafurimagazin'},
-
-              // {text: 'Insula Cayo Perico', link: '/joburi/cayo-perico'},
-              // {text: 'Crafting Arme', link: '/joburi/arme'},
-
+              { text: 'Jafuri la masini', link: '/joburi/jafurimasini' },
+              { text: 'Jafuri la case', link: '/joburi/jafuricase' },
+              { text: 'Jafuri la ATM', link: '/joburi/jafuriatm' },
+              { text: 'Jafuri la magazin', link: '/joburi/jafurimagazin' },
             ]
           }
         ]
       },
       {
-        text: 'Afaceri si Locatii',
+        text: '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>Afaceri si Locatii',
         activeMatch: '^/afaceri/',
         items: [
-          { text: 'Elite Business Center', link: '/afaceri/elite-business-center' },
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"/><line x1="3" y1="9" x2="21" y2="9"/><line x1="9" y1="21" x2="9" y2="9"/></svg>Elite Business Center', link: '/afaceri/elite-business-center' },
           {
-            text: "Locatii",
+            text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>Locatii',
             collapsed: true,
             items: [
-          { text: 'Gunshop', link: '/afaceri/gunshop' },
-          { text: 'Clothing', link: '/afaceri/clothing' },
-          { text: 'Tattoo', link: '/afaceri/tattoo' },
-          { text: 'Frizerie', link: '/afaceri/frizerie' },
-          { text: 'Washing', link: '/afaceri/washing' },
-          { text: 'Service', link: '/afaceri/service' },
-
+              { text: 'Gunshop', link: '/afaceri/gunshop' },
+              { text: 'Clothing', link: '/afaceri/clothing' },
+              { text: 'Tattoo', link: '/afaceri/tattoo' },
+              { text: 'Frizerie', link: '/afaceri/frizerie' },
+              { text: 'Washing', link: '/afaceri/washing' },
+              { text: 'Service', link: '/afaceri/service' },
             ]
           }
         ],
       },
       {
-        text: 'Proprietati',
+        text: '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>Proprietati',
         activeMatch: '^/proprietati/',
         items: [
-          { text: 'Home Depot', link: '/proprietati/homedepot' },
-          { text: 'DigitalDen', link: '/proprietati/digitalden' },
-          { text: 'Case', link: '/proprietati/despre-case' },
-          { text: 'Case la Comanda', link: '/proprietati/case-la-comanda' },
-          { text: 'Casino', link: '/casino/casino'},
-          
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="12" y1="18" x2="12" y2="12"/><line x1="9" y1="15" x2="15" y2="15"/></svg>Home Depot', link: '/proprietati/homedepot' },
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>DigitalDen', link: '/proprietati/digitalden' },
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>Case', link: '/proprietati/despre-case' },
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>Case la Comanda', link: '/proprietati/case-la-comanda' },
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><rect x="1" y="4" width="22" height="16" rx="2" ry="2"/><line x1="1" y1="10" x2="23" y2="10"/></svg>Casino', link: '/casino/casino'},
         ],
-        
-        
       },
       {
-        text: 'Factiuni',
+        text: '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>Factiuni',
         activeMatch: '^/institutii/',
         items: [
-          { text: 'Politie', link: '/institutii/politie' },
-          { text: 'SMIR', link: '/institutii/smir' },
-          // { text: 'Primarie', link: '/institutii/primarie' },
-
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>Politie', link: '/institutii/politie' },
+          { text: '<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:inline;vertical-align:middle;margin-right:6px;"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>SMIR', link: '/institutii/smir' },
         ],
       },
-
     ],
   },
   lastUpdated: true,

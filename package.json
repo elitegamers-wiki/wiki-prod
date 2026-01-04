@@ -1,6 +1,11 @@
 {
   "devDependencies": {
-    "vitepress": "^2.0.0-alpha.12"
+    "@iconify/json": "^2.2.424",
+    "@svgr/core": "^8.1.0",
+    "@svgr/plugin-jsx": "^8.1.0",
+    "unplugin-icons": "^22.5.0",
+    "unplugin-vue-components": "^30.0.0",
+    "vitepress": "^1.6.4"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",

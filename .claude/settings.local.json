@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(done)",
+      "Bash(while IFS= read -r -d '' file)",
+      "Bash(do if grep -q \"[🀀-🿿★👮‍]\" \"$file\")",
+      "Bash(then echo \"$file\")",
+      "Bash(fi)",
+      "Bash(npm install:*)"
+    ]
+  }
+}

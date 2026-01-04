@@ -2,7 +2,7 @@
 import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 import NotFound from './Custom/NotFound.vue'
-import './style.css' // 🟢 Asta e important pentru stiluri custom
+import './style.css'
 
 /** @type {import('vitepress').Theme} */
 export default {
@@ -13,8 +13,7 @@ export default {
     })
   },
   enhanceApp({ app, router, siteData }) {
-    // 🧠 Poți înregistra componente globale aici dacă ai nevoie
-    if (typeof window !== 'undefined' && 'navigation' in window) {
+        if (typeof window !== 'undefined' && 'navigation' in window) {
       window.navigation.addEventListener('navigate', (event) => {
         // Prevent bfcache issues by forcing reload on back/forward navigation
         if (event.navigationType === 'back_forward') {

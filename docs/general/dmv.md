@@ -53,11 +53,11 @@ outline: deep
 ### <center> Driving School by eliteGamers</center>
 
 <div style="margin: 1.5rem 0; padding: 1.2rem; background: rgba(0,128,0,0.1); border-left: 6px solid #008000; border-radius: 12px; box-shadow: 0 0 12px rgba(0,128,0,0.3);">
-  <strong style="color: #008000;">🚗 Școala de Șoferi:</strong> Localizată la codul poștal <strong>836</strong>, marcată pe hartă cu un <strong>blip verde (mașină)</strong>.
+  <strong style="color: #008000;">Școala de Șoferi:</strong> Localizată la codul poștal <strong>836</strong>, marcată pe hartă cu un <strong>blip verde (mașină)</strong>.
   <ul>
     <li>Aici poți obține permisul de conducere după susținerea probelor teoretice și practice.</li>
     <li>Instructorii sunt pregătiți să te ajute să înveți regulile și să conduci corect.</li>
-    <li>📍 Punct de reper ușor de găsit pe hartă, ideal pentru toți cetățenii noi.</li>
+    <li>Punct de reper ușor de găsit pe hartă, ideal pentru toți cetățenii noi.</li>
   </ul>
 </div>
 
@@ -71,12 +71,12 @@ outline: deep
 <img src="../public/dmv/dmv2.png" alt="dmv preview" class="framed-photo" style="box-shadow: none; border: 3px solid #258807ff; max-width: 700px;">
 
 <div style="margin: 1.5rem 0; padding: 1.2rem; background: rgba(0,128,0,0.1); border-left: 6px solid #008000; border-radius: 12px; box-shadow: 0 0 12px rgba(0,128,0,0.3);">
-  <strong style="color: #008000;">📋 DRPCIV - Școala de Șoferi:</strong> 
+  <strong style="color: #008000;">DRPCIV - Școala de Șoferi:</strong>
   La DRPCIV poți susține examenele necesare pentru obținerea permisului de conducere.
   <ul>
-    <li>📘 <strong>Proba teoretică:</strong> Test cu întrebări despre regulile de circulație.</li>
-    <li>🚗 <strong>Proba practică:</strong> Conduci o mașină pe traseu pentru a demonstra abilitățile.</li>
-    <li>📝 <strong>Solicitare permis duplicat:</strong> Poți cere un duplicat al permisului de conducere.</li>
+    <li><strong>Proba teoretică:</strong> Test cu întrebări despre regulile de circulație.</li>
+    <li><strong>Proba practică:</strong> Conduci o mașină pe traseu pentru a demonstra abilitățile.</li>
+    <li><strong>Solicitare permis duplicat:</strong> Poți cere un duplicat al permisului de conducere.</li>
   </ul>
 </div>
 

@@ -51,40 +51,50 @@ outline: deep
 23. Orice abatere de la regulament se pedepseste cu suspendare/demitere (in functie de gravitate)!
 
 #### Coduri de asistență:
-🔴 COD ROȘU - Situație de urgență majoră
+
+**COD ROȘU** - Situație de urgență majoră
 - Utilizare: Semnale acustice și luminoase activate
 - Exemple:
-- Ofițer atacat sau rănit
-- Suspecți înarmați și periculoși
-- Jaf bancar sau furt major în desfășurare
-________________________________________
-🟠 COD PORTOCALIU - Intervenție urgentă
--  Utilizare: Semnale acustice și luminoase activate
+  - Ofițer atacat sau rănit
+  - Suspecți înarmați și periculoși
+  - Jaf bancar sau furt major în desfășurare
+
+---
+
+**COD PORTOCALIU** - Intervenție urgentă
+- Utilizare: Semnale acustice și luminoase activate
 - Exemple:
-- Luptă între mai multe persoane
-- Urmărire în desfășurare
-- Incident cu posibil pericol iminent pentru viață
-________________________________________
-🟡 COD GALBEN - Asistență standard
+  - Luptă între mai multe persoane
+  - Urmărire în desfășurare
+  - Incident cu posibil pericol iminent pentru viață
+
+---
+
+**COD GALBEN** - Asistență standard
 - Utilizare: Doar semnale luminoase, fără semnale acustice
 - Exemple:
-- Control rutier care escaladează
-- Suspect fugar fără pericol imediat
-- Incident care necesită prezența forțelor de ordine, dar fără amenințare directă
-________________________________________
-🔵 COD ALBASTRU - Necesită îngrijiri medicale
+  - Control rutier care escaladează
+  - Suspect fugar fără pericol imediat
+  - Incident care necesită prezența forțelor de ordine, dar fără amenințare directă
+
+---
+
+**COD ALBASTRU** - Necesită îngrijiri medicale
 - Utilizare: Solicitare pentru unitățile medicale
 - Exemple:
-- Persoană rănită în urma unui accident
-- Suspect sau civil care necesită îngrijiri medicale
-- Ofițer rănit fără pericol iminent
-________________________________________
-🟢 COD VERDE - Zonă sigură
+  - Persoană rănită în urma unui accident
+  - Suspect sau civil care necesită îngrijiri medicale
+  - Ofițer rănit fără pericol iminent
+
+---
+
+**COD VERDE** - Zonă sigură
 - Utilizare: Nicio urgență, patrulare normală
 - Exemple:
-- Incident rezolvat, zona este sigură
-- Finalizare intervenție fără pericole rămase
-- Rutină obișnuită fără nevoia de sprijin
+  - Incident rezolvat, zona este sigură
+  - Finalizare intervenție fără pericole rămase
+  - Rutină obișnuită fără nevoia de sprijin
+
 La codurile portocaliu, galben și albastru, se specifică pe stație numărul de unități necesare, evitând suprasolicitarea forțelor.
 
 #### Traffic Stop

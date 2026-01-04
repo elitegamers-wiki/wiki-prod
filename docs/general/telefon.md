@@ -8,7 +8,7 @@ outline: deep
 # <center style="font-size: 2.6rem; color: #d72638; margin-top: 1rem;"> Utilizarea Telefonului pe EliteGamers RP</center>
 
 <div style="margin: 1.5rem 0; padding: 1.2rem; background: rgba(215,38,56,0.1); border-left: 6px solid #d72638; border-radius: 12px; box-shadow: 0 0 12px rgba(215,38,56,0.3);">
-  <strong style="color: #d72638;">💡 Sfat:</strong> Telefonul este o componentă esențială a roleplay-ului. Fii atent la apeluri, mesaje și folosește-l pentru a rămâne conectat cu lumea din joc!
+  <strong style="color: #d72638;">Sfat:</strong> Telefonul este o componentă esențială a roleplay-ului. Fii atent la apeluri, mesaje și folosește-l pentru a rămâne conectat cu lumea din joc!
 </div>
 
 ---
@@ -22,19 +22,19 @@ outline: deep
   </ul>
 </div>
 
-## <span style="color: #d72638;">🔍 Interfață și Navigare</span>
+## <span style="color: #d72638;">Interfață și Navigare</span>
 
 <div style="background: #1a1a1a; padding: 1rem; border-radius: 12px; border: 1px solid #d72638; box-shadow: 0 0 15px rgba(215,38,56,0.3); margin-bottom: 1.5rem;">
   <ul style="color: #fff; line-height: 1.7;">
-    <li>📂 Acces rapid la aplicații precum: <strong>Mesaje</strong>, <strong>Apeluri</strong>, <strong>Twitter</strong>, <strong>Galerie</strong> și altele.</li>
-    <li>📳 Design curat, intuitiv, inspirat din iOS.</li>
-    <li>🎨 Posibilitate de personalizare: schimbă tema, imaginea de fundal și sunetul notificărilor.</li>
+    <li>Acces rapid la aplicații precum: <strong>Mesaje</strong>, <strong>Apeluri</strong>, <strong>Twitter</strong>, <strong>Galerie</strong> și altele.</li>
+    <li>Design curat, intuitiv, inspirat din iOS.</li>
+    <li>Posibilitate de personalizare: schimbă tema, imaginea de fundal și sunetul notificărilor.</li>
   </ul>
 </div>
 
 ---
 
-## <span style="color: #d72638;">📱 Aplicații disponibile</span>
+## <span style="color: #d72638;">Aplicații disponibile</span>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem;">
 
@@ -310,19 +310,19 @@ Ai posibilitatea de a asculta cu prietenii tai cele mai top melodii de pe youtub
     </div>
 </div>
 
-## <span style="color: #d72638;">⚙️ Setări & Personalizare</span>
+## <span style="color: #d72638;">Setări & Personalizare</span>
 
 <div style="background: #1f1f1f; padding: 1.2rem; border-radius: 12px; box-shadow: 0 0 10px rgba(215,38,56,0.25); border-left: 5px solid #d72638; color: white;">
   <ul style="line-height: 1.6;">
-    <li>🎵 Setează tonuri de apel personalizate.</li>
-    <li>🖼️ Schimbă fundalul telefonului după preferințe.</li>
-    <li>🌐 Alege tema: <span style="color: #d72638;">Dark</span> sau <span style="color: #d72638;">Light</span>.</li>
+    <li>Setează tonuri de apel personalizate.</li>
+    <li>Schimbă fundalul telefonului după preferințe.</li>
+    <li>Alege tema: <span style="color: #d72638;">Dark</span> sau <span style="color: #d72638;">Light</span>.</li>
   </ul>
 </div>
 
 ---
 
-## <span style="color: #d72638;">🛠️ Probleme si fix-uri</span>
+## <span style="color: #d72638;">Probleme si fix-uri</span>
 
 <div style="background: #2a2a2a; padding: 1rem; border-radius: 10px; border: 1px solid #d72638; box-shadow: 0 0 8px rgba(215,38,56,0.2); color: white;">
   <ul style="line-height: 1.6;">
@@ -334,11 +334,11 @@ Ai posibilitatea de a asculta cu prietenii tai cele mai top melodii de pe youtub
 
 ---
 
-## <span style="color: #d72638;">📌 Concluzie</span>
+## <span style="color: #d72638;">Concluzie</span>
 
 <div style="background: #1a1a1a; padding: 1.2rem; border-radius: 12px; border: 2px dashed #d72638; box-shadow: 0 0 15px rgba(215,38,56,0.2); color: #fff;">
   <p style="margin: 0;">
-    Telefonul este esențial pentru orice jucător activ din oraș. Asigură-te că-l folosești responsabil și că rămâi conectat cu tot ce se întâmplă în EliteGamers RP! 🔴📱
+    Telefonul este esențial pentru orice jucător activ din oraș. Asigură-te că-l folosești responsabil și că rămâi conectat cu tot ce se întâmplă în EliteGamers RP!
   </p>
 </div>
 
