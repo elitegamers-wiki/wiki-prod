@@ -108,7 +108,7 @@ Proprietarii si chiriasii pot dormi in case folosind comanda **/sleep** sau din 
   <img src="../public/case/edwood.png" alt="Edwood">
   <ul>
     <li><strong>Zona:</strong> West Eclipse Boulevard</li>
-    <li><strong>Preț:</strong> 60 EG Coins</li>
+    <li><strong>Preț:</strong> 175 EG Coins</li>
     <li><strong>Întreținere:</strong> 20 EG Coins/lună</li>
     <li><strong>Interior:</strong> <a href="https://imgur.com/a/SJfvFXN" target="_blank">Vezi</a></li>
   </ul>
@@ -121,7 +121,7 @@ Proprietarii si chiriasii pot dormi in case folosind comanda **/sleep** sau din 
   <img src="../public/case/grove.png" alt="Grove Street">
   <ul>
     <li><strong>Zona:</strong> Forum Drive</li>
-    <li><strong>Preț:</strong> 40 EG Coins</li>
+    <li><strong>Preț:</strong> 60 EG Coins</li>
     <li><strong>Întreținere:</strong> 10 EG Coins/lună</li>
     <li><strong>Interior:</strong> <a href="https://imgur.com/a/GE2QO3O" target="_blank">Vezi</a></li>
   </ul>
@@ -160,7 +160,7 @@ Proprietarii si chiriasii pot dormi in case folosind comanda **/sleep** sau din 
   <img src="../public/case/mirror3.png" alt="Mirror Park 3">
   <ul>
     <li><strong>Zona:</strong> Mirror Park - Nikola</li>
-    <li><strong>Preț:</strong> 50 EG Coins</li>
+    <li><strong>Preț:</strong> 75 EG Coins</li>
     <li><strong>Întreținere:</strong> 15 EG Coins/lună</li>
     <li><strong>Interior:</strong> <a href="https://imgur.com/a/DUcaCbN" target="_blank">Vezi</a></li>
   </ul>
@@ -173,7 +173,7 @@ Proprietarii si chiriasii pot dormi in case folosind comanda **/sleep** sau din 
   <img src="../public/case/mirror4.png" alt="Mirror Park 4">
   <ul>
     <li><strong>Zona:</strong> Mirror Park - Nikola</li>
-    <li><strong>Preț:</strong> 50 EG Coins</li>
+    <li><strong>Preț:</strong> 75 EG Coins</li>
     <li><strong>Întreținere:</strong> 15 EG Coins/lună</li>
     <li><strong>Interior:</strong> <a href="https://imgur.com/a/DUcaCbN" target="_blank">Vezi</a></li>
   </ul>
@@ -199,7 +199,7 @@ Proprietarii si chiriasii pot dormi in case folosind comanda **/sleep** sau din 
   <img src="../public/case/mirror6.png" alt="Mirror Park 6">
   <ul>
     <li><strong>Zona:</strong> Mirror Park - Nikola</li>
-    <li><strong>Preț:</strong> 50 EG Coins</li>
+    <li><strong>Preț:</strong> 75 EG Coins</li>
     <li><strong>Întreținere:</strong> 15 EG Coins/lună</li>
     <li><strong>Interior:</strong> <a href="https://imgur.com/a/gQccWA5" target="_blank">Vezi</a></li>
   </ul>
@@ -212,8 +212,8 @@ Proprietarii si chiriasii pot dormi in case folosind comanda **/sleep** sau din 
   <img src="../public/case/normandy.png" alt="Normandy">
   <ul>
     <li><strong>Zona:</strong> Vinewood - Normandy Drive</li>
-    <li><strong>Preț:</strong> 60 EG Coins</li>
-    <li><strong>Întreținere:</strong> 20 EG Coins/lună</li>
+    <li><strong>Preț:</strong> 200 EG Coins</li>
+    <li><strong>Întreținere:</strong> 25 EG Coins/lună</li>
     <li><strong>Interior:</strong> <a href="https://imgur.com/a/xLnq6f5" target="_blank">Vezi</a></li>
   </ul>
 </div>
@@ -225,8 +225,8 @@ Proprietarii si chiriasii pot dormi in case folosind comanda **/sleep** sau din 
   <img src="../public/case/vinewood.png" alt="Vinewood Ace Jones">
   <ul>
     <li><strong>Zona:</strong> Vinewood - Ace Jones Drive</li>
-    <li><strong>Preț:</strong> 80 EG Coins</li>
-    <li><strong>Întreținere:</strong> 20 EG Coins/lună</li>
+    <li><strong>Preț:</strong> 300 EG Coins</li>
+    <li><strong>Întreținere:</strong> 30 EG Coins/lună</li>
     <li><strong>Interior:</strong> <a href="https://imgur.com/a/AfE2x45" target="_blank">Vezi</a></li>
   </ul>
 </div>
@@ -238,7 +238,7 @@ Proprietarii si chiriasii pot dormi in case folosind comanda **/sleep** sau din 
   <img src="../public/case/vinewood2.png" alt="Vinewood WhispyMound">
   <ul>
     <li><strong>Zona:</strong> Vinewood - WhispyMound Drive</li>
-    <li><strong>Preț:</strong> 60 EG Coins</li>
+    <li><strong>Preț:</strong> 175 EG Coins</li>
     <li><strong>Întreținere:</strong> 15 EG Coins/lună</li>
     <li><strong>Interior:</strong> <a href="https://imgur.com/a/7RKEqVT" target="_blank">Vezi</a></li>
   </ul>
@@ -251,8 +251,48 @@ Proprietarii si chiriasii pot dormi in case folosind comanda **/sleep** sau din 
   <img src="../public/case/americano.png" alt="Americano">
   <ul>
     <li><strong>Zona:</strong> North Rockford Drive - Americano Way</li>
-    <li><strong>Preț:</strong> 60 EG Coins</li>
+    <li><strong>Preț:</strong> 250 EG Coins</li>
     <li><strong>Întreținere:</strong> 20 EG Coins/lună</li>
     <li><strong>Interior:</strong> <a href="https://imgur.com/a/dBseAbu" target="_blank">Vezi</a></li>
+  </ul>
+</div>
+
+<div class="eg-houses">
+  <div style="text-align: center;">
+  <h4>27. Los Santos - Casa 27</h4>
+  </div>
+  <ul>
+    <li><strong>Preț:</strong> 300 EG Coins</li>
+    <li><strong>Întreținere:</strong> 20 EG Coins/lună</li>
+  </ul>
+</div>
+
+<div class="eg-houses">
+  <div style="text-align: center;">
+  <h4>28. Los Santos - Casa 28</h4>
+  </div>
+  <ul>
+    <li><strong>Preț:</strong> 350 EG Coins</li>
+    <li><strong>Întreținere:</strong> 20 EG Coins/lună</li>
+  </ul>
+</div>
+
+<div class="eg-houses">
+  <div style="text-align: center;">
+  <h4>29. Los Santos - Casa 29</h4>
+  </div>
+  <ul>
+    <li><strong>Preț:</strong> 350 EG Coins</li>
+    <li><strong>Întreținere:</strong> 25 EG Coins/lună</li>
+  </ul>
+</div>
+
+<div class="eg-houses">
+  <div style="text-align: center;">
+  <h4>30. Los Santos - Casa 30</h4>
+  </div>
+  <ul>
+    <li><strong>Preț:</strong> 350 EG Coins</li>
+    <li><strong>Întreținere:</strong> 35 EG Coins/lună</li>
   </ul>
 </div>
