@@ -9,7 +9,9 @@
       "Bash(fi)",
       "Bash(npm install:*)",
       "Bash(powershell:*)",
-      "Bash(npm uninstall:*)"
+      "Bash(npm uninstall:*)",
+      "Bash(dir:*)",
+      "Bash(del \"c:\\\\Users\\\\xSLOW\\\\Desktop\\\\wiki-prod\\\\docs\\\\viata-ilegala\\\\detronarea.md\")"
     ]
   }
 }
