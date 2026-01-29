@@ -46,7 +46,5 @@ O familie IC nu este doar un grup de jucători care fac activități ilegale îm
 ::: tip NAVIGARE
 - **[Familie IC](./familie-ic)** - Cum să înființezi și să dezvolți o familie
 - **[Mafie Neoficială & Oficială](./mafie-neoficiala)** - Tranziția și responsabilitățile
-- **[Detronarea](./detronarea)** - Provocarea pentru putere
 - **[Reguli & Operațiuni](./reguli-si-operatiuni)** - Codul familiei, sancțiuni, răpiri, Sindicat
-- **[Ghid Practic](./ghid-practic)** - Activități, relații, conflicte, glosar
 :::
