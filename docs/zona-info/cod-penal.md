@@ -82,7 +82,7 @@ Pedepse Secundare:
 :::danger Atentie!
 - Amendă (5000 €) + 3 Puncte de penalizare
 :::
-**(4) Toți participanții la trafic au obligația de a permite trecerea autovehiculelor cu regim de circulație prioritar atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență și au în funcțiune semnalele luminoase sau acustice (Poliție, Ambulanță, Coloană oficială)**
+**(4) Toți participanții la trafic au obligația de a permite trecerea autovehiculelor cu regim de circulație prioritar atunci când se deplasează în acțiuni de intervenție sau în misiuni care au caracter de urgență și au în funcțiune semnalele luminoase sau acustice (Poliție, medic, Coloană oficială)**
 :::danger Atentie!
 - Amendă (5000 €) + 2 Puncte de penalizare
 :::

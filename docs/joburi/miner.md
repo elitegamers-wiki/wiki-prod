@@ -13,7 +13,7 @@ outline: deep
 ### Cum mă angajez?
 
 <eg-miner-box>
-  Pentru a putea începe acest job trebuie să ai 100 ore jucate și să mergi la Primărie ([/gps - Primărie]), unde un NPC de la tejghea îți vă permite să selectezi jobul de miner.
+  Pentru a putea începe acest job trebuie să ai <b>10 ore jucate</b> și să mergi la Primărie ([/gps - Primărie]), unde un NPC de la tejghea îți va permite să selectezi jobul de miner. Pe măsură ce acumulezi experiență, deblochezi grade superioare: <b>Grad 2 (Miner)</b> la 100 ore și <b>Grad 3 (Miner Expert)</b> la 300 ore.
 </eg-miner-box>
 
 :::details Locatie Primarie

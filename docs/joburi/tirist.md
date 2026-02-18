@@ -99,7 +99,7 @@ outline: deep
 :::
 
 <div class="eg-box">
-  În cazul în care vrei să accesezi <b>Skill 2 - Șofer Avansat</b>, ai nevoie de o licență suplimentară pentru transportul de mărfuri periculoase și un anumit număr de ore jucate. Licența poate fi obținută de la patronul jobului (NPC-ul), care costă 30.000 de euro și este obligatorie pentru cursele de acest tip.
+  Pentru a începe jobul de trucker, ai nevoie de <b>50 ore jucate</b>. În cazul în care vrei să accesezi <b>Skill 2 - Șofer Avansat</b>, ai nevoie de <b>200 ore jucate</b> și o licență suplimentară pentru transportul de mărfuri periculoase. Licența poate fi obținută de la patronul jobului (NPC-ul), care costă 30.000 de euro și este obligatorie pentru cursele de acest tip.
 </div>
 
 ### Informații suplimentare:

@@ -44,7 +44,26 @@ outline: deep
 <div class="eg-jaf-magazin">
 <table>
 <tr><td>
-Uneori, cel mai simplu mod de a face rost de bani rapid e să intri cu tupeu și pistolul la vedere. Spargerea magazinelor este o activitate riscantă, dar directă – intri, ameninți, iei banii... și fugi înainte să apară cineva nedorit.
+Spargerea magazinelor 24/7 este o activitate ilegală solo în care ameninți vânzătorul cu arma pentru a-i fura banii. Este riscantă, dar directă – intri, ameninți, iei banii... și fugi înainte să apară cineva nedorit. Recompensa este exclusiv în <strong>bani murdari</strong> (dirty money).
+</td></tr>
+</table>
+</div>
+
+### Cerințe
+<div class="eg-jaf-magazin">
+<table>
+<tr><td>
+
+| Cerință | Detalii |
+|---------|---------|
+| <strong>Ore jucate</strong> | Minim 20 ore |
+| <strong>Polițiști on-duty</strong> | Minim 3 |
+| <strong>Job</strong> | Orice în afara de polițist și medic |
+| <strong>Item necesar</strong> | Armă (pistol, pușcă, shotgun, etc.) |
+| <strong>Cooldown jucător</strong> | 20 minute de la ultimul jaf |
+| <strong>Cooldown magazin</strong> | 30 minute per magazin |
+| <strong>Distanță maximă</strong> | Trebuie să fii la maxim 20 unități de magazin |
+
 </td></tr>
 </table>
 </div>
@@ -55,9 +74,10 @@ Uneori, cel mai simplu mod de a face rost de bani rapid e să intri cu tupeu și
 <tr><td>
 - Ai nevoie de:<br>
 <ul>
-  <li><strong>Un pistol (cu gloanțe)</strong> – pentru a intimida casierul.</li>
+  <li><strong>O armă</strong> (cu gloanțe) – orice tip de armă compatibilă: pistol, pușcă, shotgun, SMG, etc. (<strong>57 de arme</strong> sunt compatibile).</li>
   <li>Locațiile magazinelor sunt IC și trebuie descoperite prin explorare sau informații roleplay.</li>
-  <li>Ai nevoie de <strong>10 ore jucate pe server</strong>.</li>
+  <li>Ai nevoie de <strong>20 ore jucate pe server</strong>.</li>
+  <li>Nu poți fi polițist sau medic.</li>
 </ul>
 </td></tr>
 </table>
@@ -67,10 +87,34 @@ Uneori, cel mai simplu mod de a face rost de bani rapid e să intri cu tupeu și
 <div class="eg-jaf-magazin">
 <table>
 <tr><td>
-- Intră într-un magazin și scoate pistolul.<br>
-- Amenință casierul – dacă totul merge bine, el va începe să îți predea banii.<br>
-- Așteaptă câteva secunde până când casierul scoate banii din sertar.<br>
-- Ia banii și pleacă imediat – cu cât stai mai mult, cu atât riști mai mult.
+<ul>
+  <li>Intră într-un magazin 24/7 și scoate arma.</li>
+  <li>Ochește (aim) direct spre vânzător — serverul verifică automat toate cerințele.</li>
+  <li>Ține arma în mână timp de <strong>120 secunde</strong> (~2 minute) — vânzătorul ridică mâinile, scoate banii din casa de marcat și aruncă sacul cu bani.</li>
+  <li>Ia banii și pleacă imediat – cu cât stai mai mult, cu atât riști mai mult.</li>
+  <li>Dacă pui arma jos sau te îndepărtezi în timpul progress bar-ului, jaful se anulează.</li>
+</ul>
+</td></tr>
+</table>
+</div>
+
+### Arme Permise
+<div class="eg-jaf-magazin">
+<table>
+<tr><td>
+
+Orice armă din următoarele categorii:
+
+| Categorie | Exemple |
+|-----------|---------|
+| Pistoale | Pistol, AP Pistol, Combat Pistol, Heavy Pistol, Pistol .50, Revolver, etc. |
+| SMG-uri | Mini SMG, Machine Pistol, Assault SMG, Combat MG, etc. |
+| Puști | Carbine Rifle, Assault Rifle, Special Carbine, Compact Rifle, etc. |
+| Shotgun-uri | Pump Shotgun, Assault Shotgun, Heavy Shotgun, Auto Shotgun, etc. |
+| Sniper | Sniper Rifle, Heavy Sniper, Marksman Rifle |
+| Altele | Knife, Machete, Switchblade, Minigun, RPG |
+
+<strong>57 de arme</strong> sunt compatibile în total.
 </td></tr>
 </table>
 </div>
@@ -80,7 +124,36 @@ Uneori, cel mai simplu mod de a face rost de bani rapid e să intri cu tupeu și
 <table>
 <tr><td>
 - Poliția este alertată automat în momentul în care jaful începe.<br>
+- Blip-ul este vizibil polițiștilor timp de <strong>120 secunde</strong>.<br>
+- Vânzătorul se ascunde speriat timp de <strong>2 minute</strong> după jaf.<br>
 - Timpul de reacție e mic – așteaptă-te la o intervenție rapidă dacă nu pleci la timp.
+</td></tr>
+</table>
+</div>
+
+### Recompense
+<div class="eg-jaf-magazin">
+<table>
+<tr><td>
+
+Fiecare jaf reușit oferă o sumă aleatorie de dirty money:
+
+| Recompensă | Min | Max | Medie |
+|------------|:---:|:---:|:-----:|
+| <strong>Dirty money</strong> | €7.000 | €9.500 | €8.250 |
+
+Nu există VIP job boost pentru această activitate.
+</td></tr>
+</table>
+</div>
+
+
+### Costuri
+<div class="eg-jaf-magazin">
+<table>
+<tr><td>
+
+Nu există costuri directe — ai nevoie doar de o armă pe care probabil o ai deja.
 </td></tr>
 </table>
 </div>

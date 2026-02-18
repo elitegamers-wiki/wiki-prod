@@ -20,7 +20,7 @@ outline: deep
 ### Cum mă angajez?
 
 <eg-ciupercar-box>
-  Pentru a putea începe acest job trebuie să ai 10 ore jucate și să mergi la Primărie ([/gps - Primărie]), unde un NPC de la tejghea îți va permite să selectezi jobul de ciupercar. În cazul în care vrei să accesezi <b>Skill 2 - Culegător de Ciuperci Avansat</b>, ai nevoie de 50 ore.
+  Pentru a putea începe acest job trebuie să ai 10 ore jucate și să mergi la Primărie ([/gps - Primărie]), unde un NPC de la tejghea îți va permite să selectezi jobul de ciupercar. În cazul în care vrei să accesezi <b>Skill 2 - Culegător de Ciuperci Avansat</b>, ai nevoie de 40 ore.
 </eg-ciupercar-box>
 
 :::details Locatie Primarie

@@ -75,7 +75,7 @@ outline: deep
 ### Cum mă angajez?
 
 <div class="eg-box">
-  Pentru a începe, trebuie să deții un permis de conducere, pe care îl poți obține de la școala de șoferi, trecând mai întâi printr-un test teoretic, urmat de unul practic. După ce obții permisul, trebuie să mergi la Primărie, unde un NPC de la tejghea te va introduce în meniul interactiv, de unde poți selecta locul de muncă dorit. În cazul vrei să accesezi <b>Skill 2 - Livrator Pizza Avansat</b>, ai nevoie de 25 ore.
+  Pentru a începe, trebuie să deții un permis de conducere, pe care îl poți obține de la școala de șoferi, trecând mai întâi printr-un test teoretic, urmat de unul practic. După ce obții permisul, trebuie să mergi la Primărie, unde un NPC de la tejghea te va introduce în meniul interactiv, de unde poți selecta locul de muncă dorit. În cazul vrei să accesezi <b>Skill 2 - Livrator Pizza Avansat</b>, ai nevoie de 10 ore.
 </div>
 
 :::details Locatie Primarie
