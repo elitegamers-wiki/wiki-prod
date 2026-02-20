@@ -211,6 +211,7 @@ export default defineConfig({
               { text: 'Jafuri la case', link: '/joburi/jafuricase' },
               { text: 'Jafuri la ATM', link: '/joburi/jafuriatm' },
               { text: 'Jafuri la magazin', link: '/joburi/jafurimagazin' },
+              { text: 'Misiuni', link: '/joburi/misiuni' },
             ]
           }
         ]
