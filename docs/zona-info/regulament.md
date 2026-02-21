@@ -299,6 +299,12 @@ permanent.
 Ban permanent
 :::
 
+### 2.3.1 MODURI VIZUALE INTERZISE
+- Este <span style="color: red;">INTERZISĂ</span> utilizarea oricăror moduri sau modificări care oferă avantaje față de alți jucători, inclusiv, dar fără a se limita la: schimbarea orei, a luminozității, a vremii, scoaterea vegetației sau orice alte modificări vizuale/grafice care alterează experiența de joc în favoarea proprie.
+:::danger SANCTIUNE
+Ban temporar
+:::
+
 ### 2.4 TOXICITATE
 - Orice tip de comportament toxic (jigniri/înjurături/plâns isteric/ limbaj vulgar,
 denigrare/discriminare de rasă, naționalitate, etnie, religie sau sex) afișate pe canalele
