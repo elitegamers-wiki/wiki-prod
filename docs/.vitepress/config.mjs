@@ -5,17 +5,16 @@ import Components from 'unplugin-vue-components/vite'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  appearance: 'force-dark',
+  transformHtml(code) {
+    // Inject dark background inline style at very top of <head> to prevent white flash during SSG
+    return code.replace(
+      '<head>',
+      '<head><style>html,body{background:#1b1b1f!important;color-scheme:dark}</style>'
+    )
+  },
   vite: {
     plugins: [
-      {
-        name: 'force-dark-html',
-        transformIndexHtml(html) {
-          return html.replace(
-            '<head>',
-            `<head><style>html{background:#1b1b1f;color-scheme:dark}</style>`
-          )
-        },
-      },
       Icons({
         compiler: 'vue3',
         autoInstall: true,
@@ -278,7 +277,6 @@ export default defineConfig({
       },
     ],
   },
-  appearance: 'force-dark',
   lastUpdated: true,
 
   head: [
@@ -292,7 +290,7 @@ export default defineConfig({
     [
       'script',
       {},
-      `document.documentElement.classList.add('dark');`,
+      `document.documentElement.classList.add('dark');document.documentElement.style.background='#1b1b1f';`,
     ],
     [
       'meta',
