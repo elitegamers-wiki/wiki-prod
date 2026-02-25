@@ -26,6 +26,10 @@ outline: deep
 - **Toxicitatea** este interzisă și se sancționează sever
 - Respectați **toți jucătorii** - adversari, civili, autorități
 
+### Conflicte armate
+
+- În cazul conflictelor armate între mafii și poliție, familia își poate chema ca întăriri doar proprii membri sau membri ai unei familii aliate.
+
 ### Loialitatea și trădarea
 
 **Loialitatea:**

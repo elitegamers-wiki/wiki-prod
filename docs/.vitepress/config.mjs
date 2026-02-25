@@ -7,6 +7,15 @@ import Components from 'unplugin-vue-components/vite'
 export default defineConfig({
   vite: {
     plugins: [
+      {
+        name: 'force-dark-html',
+        transformIndexHtml(html) {
+          return html.replace(
+            '<head>',
+            `<head><style>html{background:#1b1b1f;color-scheme:dark}</style>`
+          )
+        },
+      },
       Icons({
         compiler: 'vue3',
         autoInstall: true,
@@ -269,9 +278,22 @@ export default defineConfig({
       },
     ],
   },
+  appearance: 'force-dark',
   lastUpdated: true,
 
   head: [
+    [
+      'meta',
+      {
+        name: 'color-scheme',
+        content: 'dark',
+      },
+    ],
+    [
+      'script',
+      {},
+      `document.documentElement.classList.add('dark');`,
+    ],
     [
       'meta',
       {

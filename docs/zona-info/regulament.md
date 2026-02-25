@@ -429,46 +429,72 @@ efectua streaming pe serverul Elitegamers.
 Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
-### 3.2 JAF / FURT AUTO
+### 3.2 JAFURI / FURTURI / MISIUNI
 
-- Jaful sau furtul asupra autovehiculelor este permis doar după acumularea a minim **10 ore IC**.
+- La prima alertă, poliția nu are voie să intervină cu elicopterul.
+- Este <span style="color: red;">INTERZIS</span> să folosiți glitch-uri sau exploatarea mecanicilor pentru a obține avantaje, a forța accesul sau a da bypass la mecanicile de securitate în cadrul oricărui jaf sau misiune.
+
+:::danger SANCTIUNE
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
+:::
+
+#### 3.2.1 JAF / FURT AUTO
+
+- Jaful sau furtul asupra autovehiculelor este permis doar după acumularea a minim **30 ore IC**.
 - Se permite spargerea/furtul autovehiculelor în orice zonă, cu excepția zonelor publice (în fața/parcarea din fața magazinelor, în dreptul bancomatelor, benzinării, parcarea din fața sediului poliției, a primăriei, a spitalului, parcarea de la dealership, în fața cazinoului, în parcarea din fața Homedepot), zone aglomerate, a locațiilor joburilor/activităților legale/ilegale.
 - Membrii mafiei pot jefui mașini pe insula Cayo Perico, **indiferent de oră**, doar în cazul în care propietarii acestora **nu au plătit taxa impusă**.
-- Civilii care ajung pe insula Cayo Perico pot jefui **orice mașina, indiferent de oră**. 
+- Civilii care ajung pe insula Cayo Perico pot jefui **orice mașina, indiferent de oră**.
 - Aceste acțiuni sunt permise doar dacă în proximitatea vehiculului nu se află alte persoane.
 - După ora **12 noaptea** este permis jaful asupra autovehiculelor aflate in aer liber în **orice zonă**, fără nicio restricție.
-- La un jaf asupra autovehiculelor pot participa cel mult **2** persoane.
+- La un jaf asupra autovehiculelor pot participa cel mult **2 jefuitori**, iar poliția poate interveni cu maximum **4 ofițeri**.
 - Este strict <span style="color: red;">INTERZIS</span> ca jucătorii să ia ostatici în cadrul jafurilor asupra autovehiculelor.
 
 :::danger SANCTIUNE
 Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
+#### 3.2.2 JAF BANCOMAT
 
-### 3.3 JAF BANCOMATE/MAGAZINE
-- Jaful asupra magazinelor este permis doar după acumularea a 10 ore IC.
-- Jaful asupra bancomatelor este permis doar după acumularea a 10 de
-ore IC.
-- Nu aveți voie să jefuiți un bancomat sau un magazin atât timp cât la bancomat sau în magazin se află alte persoane.
+- Jaful asupra bancomatelor este permis doar după acumularea a **10 ore IC**.
+- La un jaf asupra bancomatelor pot participa cel mult **3 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **4 ofițeri**.
+- Nu aveți voie să jefuiți un bancomat atât timp cât la bancomat se află alte persoane.
+
+:::danger SANCTIUNE
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
+:::
+
+#### 3.2.3 JAF MAGAZIN
+
+- Jaful asupra magazinelor este permis doar după acumularea a **20 ore IC**.
+- La un jaf asupra magazinelor pot participa cel mult **5 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **6 ofițeri**.
+- Nu aveți voie să jefuiți un magazin atât timp cât în magazin se află alte persoane.
 - Nu aveți voie să jefuiți magazinul de pe Cayo Perico.
 
 :::danger SANCTIUNE
 Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
+#### 3.2.4 JAF CASE NORMALE
 
-### 3.3.1 JAF CASE NORMALE SI DE LUX
+- Jaful asupra caselor normale este permis **doar după acumularea a minim 50 de ore IC**.
+- La un jaf asupra caselor normale pot participa cel mult **4 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **6 ofițeri**.
 
-- Jaful asupra caselor normale este permis **doar după acumularea a minim 30 de ore IC**.
-- Jaful asupra caselor de lux este permis **doar după acumularea a minim 50 de ore IC**.
-- Este <span style="color: red;">INTERZIS</span> să folosiți glitch-uri sau exploatarea mecanicilor pentru a forța accesul sau pentru a da bypass la doorlock/usa.
+#### 3.2.5 JAF CASE DE LUX
 
-:::danger SANCTIUNE
-Avertisment Verbal / Admin Jail / Warn / Ban temporar
-:::
+- Jaful asupra caselor de lux este permis **doar după acumularea a minim 100 de ore IC**.
+- La un jaf asupra caselor de lux pot participa minim **2** și cel mult **6 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **8 ofițeri**.
 
-### 3.4 RĂPIRI/OSTATICI
+#### 3.2.6 MISIUNI
+
+- Misiunile normale sunt permise doar după acumularea a minim **150 de ore IC**.
+- Misiunile grele sunt permise doar după acumularea a minim **200 de ore IC**.
+- La misiuni pot participa minim **2** și cel mult **6 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **8 ofițeri**.
+- Regulile specifice fiecărei misiuni trebuie respectate conform instrucțiunilor din joc.
+- Este <span style="color: red;">INTERZIS</span> să interferați cu misiunile altor jucători fără un motiv IC bine întemeiat.
+
+### 3.3 RĂPIRI/OSTATICI
 - Este permis să luați ostatic/răpiți persoane doar după acumularea a **50 de ore IC**.
+- Orice jucător care are peste **20 de ore** jucate și se află într-o <span style="color: red;">zonă roșie</span> poate fi luat ca ostatic.
 - Este <span style="color: red;">interzis</span> să răpiți persoane la locațiile joburilor/activităților legale/ilegale.
 - Este permis să luați ostatic un civil/polițist/medic doar dacă asta vă oferă o ultimă cale de scăpare sau dacă negocierile au eșuat. Ca civil, în cadrul acestor acțiuni, puteți răpi/ține ostatic o persoană **maxim 30 minute**.
 - Este strict <span style="color: red;">INTERZIS</span> să răpiți/luați ostatic o persoană și apoi să o omorâți (această regulă nu se aplică în cazul mafiei).
@@ -481,7 +507,7 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
-### 3.5 INTERVENTII IN TRANSPORTUL DETINUTILOR
+### 3.4 INTERVENTII IN TRANSPORTUL DETINUTILOR
 - Atacarea unui transport de deținuți poate fi organizat doar de către membrii
 organizației din care face parte deținutul transportat.
 - Acțiunea de salvare a deținutului/deținuților este permisă doar în cazul în care
@@ -491,7 +517,7 @@ transportul implică liderul organizației sau un minim de 2 membri ai organiza�
 Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
-### 3.6 ROLEPLAY-URI EXTRA/ACȚIUNI TERORISTE
+### 3.5 ROLEPLAY-URI EXTRA/ACȚIUNI TERORISTE
 - În cazul ideilor speciale de roleplay care presupun actiuni teroriste sau interacțiuni
 deosebite aveți obligația să luați legătura cu un Administrator+ care vă va
 aproba sau nu scenariul.
