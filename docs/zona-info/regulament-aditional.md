@@ -4,9 +4,8 @@ outline: deep
 
 <img src="../public/elitegamers.png" alt="pozaRegulament" width="256" height="256" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
-# <center><span style="font-family: Conthrax; background: -webkit-linear-gradient(red, darkred); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Reguli Aditionale</span></center>
+# <center><span style="font-family: Conthrax; background: -webkit-linear-gradient(red, darkred); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Regulament Out-of-Character (OOC)</span></center>
 
-# CAP.1 REGULI OOC
 #### 1.1 REVIVE
  - <span style="color: red;">NU</span> se da revive daca ati murit din missclick ( ati apasat F, v-ati aruncat de la inaltime, etc.)
  - <span style="color: red;">NU</span> se da revive daca ati incercat sa inotati cu rucsacul mare si ati ramas sub apa
@@ -30,7 +29,7 @@ outline: deep
 - După acceptarea într-o facțiune, membrii au obligația de a rămâne activi minimum 14 de zile.
 În cazul în care un membru este dat afară (OUT) sau primește ban înainte de împlinirea celor 14 de zile, din motive precum lipsă de activitate, lipsă pontaj, absența certificatelor sau comportament neadecvat, acesta va fi sancționat cu ban pentru numărul de zile rămase până la împlinirea celor 14 de zile obligatorii.
 
-# CAP.2 REGULI IC
+# <center><span style="font-family: Conthrax; background: -webkit-linear-gradient(red, darkred); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Regulament In-Character (Ic)</span></center>
 
 #### 2.1 ACȚIUNI CARE IMPLICĂ AUTOVEHICULELE 
 - Este <span style="color: green;">PERMIS</span> sa va urcati in autovehiculul unui player DOAR daca acesta va acorda permisiunea
