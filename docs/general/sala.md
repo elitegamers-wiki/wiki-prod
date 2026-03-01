@@ -55,90 +55,86 @@ outline: deep
 
 # Sala de Fitness
 
-Sala de fitness permite jucatorilor sa isi imbunatateasca capacitatea inventarului si rezistenta la alergare.
+Sala de fitness iti permite sa iti antrenezi corpul pentru a deveni mai puternic si mai rezistent. Prin exercitii regulate vei obtine **capacitate suplimentara in inventar** si **stamina mai buna la alergat**.
 
-## Locatie
+## 1. Locatie
 
-<div class="eg-box">
-Sala se gaseste in oras - cauta pe GPS "Sala" sau "Gym" pentru a gasi locatia exacta.
-</div>
+Sala de sport se afla la **Muscle Sands Gym**, pe plaja. Poti cauta pe GPS dupa "**Sala**" sau "**Gym**" pentru a gasi locatia exacta marcata pe harta.
 
-## Sisteme Disponibile
+## 2. Abonamente
 
-<div class="eg-box">
+Pentru a folosi echipamentele din sala ai nevoie de un abonament activ. Te poti adresa NPC-ului din fata salii si apasa **[E]** pentru a cumpara un abonament sau pentru a verifica statusul abonamentului tau curent.
 
-### Putere (Strength)
+Exista trei tipuri de abonamente disponibile:
 
-Antreneaza-ti forta pentru a mari capacitatea inventarului:
+| Abonament | Pret | Durata |
+|-----------|------|--------|
+| **Basic** | €5.000 | 7 zile |
+| **Premium** | €15.000 | 30 zile |
+| **VIP** | €40.000 | 90 zile |
 
-| Nivel | Bonus Inventar |
-|-------|----------------|
-| Nivel 1 | +4kg |
-| Nivel 2 | +8kg |
-| Nivel 3 | +12kg |
-| Nivel 4 | +16kg |
-| Nivel 5 | +20kg |
+Toate abonamentele ofera acces la **toate echipamentele** din sala. Diferenta este doar durata de valabilitate. Nu poti cumpara un abonament nou cat timp ai deja unul activ.
 
-</div>
+## 3. Statistici
 
-<div class="eg-box">
+Sala de fitness iti imbunatateste doua statistici principale:
 
-### Stamina
+- **Forta (Strength)** – Nivel maxim: **20kg**. Fiecare kilogram de forta adauga **1kg capacitate suplimentara** in inventarul tau. La nivelul maxim vei avea **+20kg** capacitate extra.
 
-Antreneaza-ti rezistenta pentru a alerga mai mult:
+- **Stamina** – Nivel maxim: **100**. Stamina iti afecteaza viteza de recuperare cand alergi. La nivelul 0 ai recuperare normala, iar la nivelul maxim (100) ai **recuperare de 2x mai rapida** dupa sprint.
 
-- Creste durata de alergare
-- La nivel maxim poti alerga de 2x mai mult
-- Afecteaza cat de repede te obosesti
+Ambele statistici incep de la **0** si cresc treptat pe masura ce te antrenezi.
+Poti verifica statisticile tale fizice oricand folosind comanda **/checkstats**.
 
-</div>
+## 4. Exercitii
 
-## Exercitii
+Apropiindu-te de un echipament din sala si apasand **[E]** vei incepe exercitiul corespunzator. Fiecare exercitiu consta dintr-o **bara de progres** urmata de un **minigame de tip skillcheck**.
 
-<div class="eg-box">
+#### Exercitii de Forta
 
-La sala sunt disponibile mai multe tipuri de exercitii:
+*   **Greutati (Dumbbells)** – Ridici greutati cu haltera. Creste **forta**.
+*   **Tractiuni (Pullups / Chinups)** – Exercitii de tractiuni la bara. Cresc **forta**.
+*   **Flotari (Pushups)** – Flotari pe saltea. Cresc **forta**.
 
-- **Greutati** - Pentru antrenament de forta
-- **Banda de alergare** - Pentru stamina
+#### Exercitii de Stamina
 
-Fiecare exercitiu are un minigame pe care trebuie sa il completezi corect pentru progres. Primesti progres chiar daca gresesti, in functie de cate skill check-uri faci corect.
+*   **Banda de alergat (Treadmill)** – Alergi pe banda. Creste **stamina**.
 
-</div>
+#### Exercitii Mixte
 
-## Suplimente
+*   **Abdomene (Situps)** – Cresc atat **stamina** cat si **forta**.
+*   **Yoga** – Creste atat **stamina** cat si **forta**.
 
-<div class="eg-box">
+#### Progresie
 
-Suplimentele accelereaza progresul la sala:
+Fiecare exercitiu contine mai multe etape de skillcheck. Daca reusesti **toate** etapele, primesti **progresul complet**. Daca reusesti doar o parte din ele, primesti **progres partial** proportional cu cate ai completat. Daca esuezi complet, nu primesti nimic.
+Ritmul de progresie este echilibrat astfel incat aproximativ **1 ora de antrenament** la sala aduce **+1kg forta**.
 
-- Se cumpara din magazinele din oras
-- Reduc timpul necesar pentru a avansa in nivel
-- Efect temporar
+## 5. Suplimente
 
-</div>
+Suplimentele alimentare pot fi cumparate si consumate pentru a imbunatati performanta la sala:
 
-## Steroizi
+*   **Proteina** – Incetineste pierderea statisticilor cu **25%**. In loc sa pierzi 1kg forta la fiecare 5 ore jucate, o vei pierde la fiecare 7.5 ore jucate.
+*   **Energizant** – Reduce durata exercitiilor cu **15%**, permitandu-ti sa faci mai multe exercitii in acelasi timp.
+*   **Supliment muscular** – Creste cantitatea de statistici castigate la fiecare exercitiu.
 
-<div class="eg-box">
+Suplimentele pot fi achizitionate de la magazinele din oras si au efect temporar.
 
-Steroizii ofera beneficii rapide dar cu riscuri:
+## 6. Pierderea Statisticilor (Decay)
 
-- Progres accelerat la sala
-- Pot avea efecte secundare
+Daca nu te antrenezi regulat, statisticile tale vor scadea in timp. Pierderea se calculeaza pe baza **timpului jucat** de la ultimul antrenament, nu pe baza timpului real. Asta inseamna ca statisticile nu se pierd cat esti offline.
 
-</div>
+*   **Fara proteina** – Pierzi **1kg forta** si **5 stamina** la fiecare **5 ore jucate** fara antrenament.
+*   **Cu proteina activa** – Pierzi **1kg forta** si **5 stamina** la fiecare **7.5 ore jucate** fara antrenament.
 
-## Afisare Progres
+Cand statisticile scad vei primi o notificare care te informeaza cat ai pierdut.
 
-<div class="eg-box">
+Orice exercitiu efectuat cu succes **reseteaza contorul de decay**, deci este suficient sa te antrenezi din cand in cand pentru a-ti mentine progresul.
 
-Progresul la sala se afiseaza in HUD:
+## 7. Comenzi
 
-- Vezi nivelul curent de putere si stamina
-- Bara de progres catre urmatorul nivel
-- Statistici detaliate despre performanta
-
-</div>
+| Comanda | Descriere |
+|---------|-----------|
+| **/checkstats** | Afiseaza statisticile tale fizice (stamina, forta, bonus inventar) |
 
 </div>

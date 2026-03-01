@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@iconify/json": "^2.2.424",
+    "@iconify/json": "^2.2.444",
     "@svgr/core": "^8.1.0",
     "@svgr/plugin-jsx": "^8.1.0",
     "sharp": "^0.34.5",
