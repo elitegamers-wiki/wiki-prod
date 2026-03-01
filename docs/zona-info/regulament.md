@@ -7,7 +7,7 @@ outline: deep
 ---
 # <center><span class="title-font">1. Regulamentul In-Character</span></center>
 
-### <span class="title-font">1. Roleplay</span>
+### 1. ROLEPLAY
 - Reprezintă simularea unui personaj real prin intermediul caracterului creat in joc,
 folosind idei proprii, scenarii similare cu realitatea, decizii și acțiuni personale, realizând
 un joc de rol cât mai credibil și complex.
@@ -29,10 +29,9 @@ roleplay-ul care vă definește caracterul și evoluția pe server.
 - Meta Gaming reprezintă folosirea informațiilor aflate OOC într-o situație IC.
 Exemplu: George se uita pe live la un youtuber si vede unde se află pe hartă, apoi se duce
 direct la acea locație sa interactioneze cu el roleplay, fără alte informații IC.
-::: danger SANCTIUNE
-- Jail la prima abatere (cont nou)
-- Warn
-- Ban temporar 7 zile
+
+:::danger SANCTIUNE
+Admin Jail / Warn / Ban temporar
 :::
 
 ### 1.5 MIXING [MX]
@@ -41,8 +40,9 @@ Exemplu: Când încurci chatul OOC cu cel IC sau invers.
 - Se interzice transmiterea informațiilor IC pe chatul global, discord, sau orice alt mijloc
 OOC.
 - Informațiile OOC se discuta pe chat-ul normal!
-::: danger SANCTIUNE
-Avertisment verbal / Warn /Ban Temporar
+
+:::danger SANCTIUNE
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
 ### 1.6 POWER GAMING [PG]
@@ -51,42 +51,48 @@ imposibilă și în viața reală.
 ::: info Exemplu
 Intri cu 200 km/h într-un copac, după care mergi mai departe ca și cum nimic nu s-a
 întâmplat.
-:::
-::: danger SANCTIUNE
-Avertisment verbal/Jail (max 120 min)/Warn/Ban temporar
+
+:::danger SANCTIUNE
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
 ### 1.7 DEATH MATCH [DM]
 - Death Match, reprezinta atacarea și/sau uciderea unui jucător fără a avea motive
 întemeiate și fără a face roleplay corespunzător în acest context.
-::: danger SANCTIUNE
-Avertisment verbal/Jail (max 120 min)/Warn/Ban temporar
+
+:::danger SANCTIUNE
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
 ### 1.8 VEHICLE DEATH MATCH [VDM]
 - Vehicle Death Match reprezintă lovirea intenționată a persoanelor cu un vehicul fără
 motive întemeiate și fără a face roleplay corespunzător în acest context.
-::: danger SANCTIUNE
-Avertisment verbal/Jail (max 120 min)/Warn/Ban temporar
+
+:::danger SANCTIUNE
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
 ### 1.9 CAR RAM [CR]
 - Car Ram reprezinta lovirea cu mașina ta a altei mașini sau a mai multora, fără motive
 întemeiate și fără a face roleplay corespunzător în acest context.
-::: danger SANCTIUNE
-Avertisment verbal/Jail (max 120 min)/Warn/Ban temporar
+
+:::danger SANCTIUNE
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
+
 ### 1.10 NO FEAR [NF]
 - No Fear reprezintă acțiunile unui jucător care alege sa nu simuleze frica atunci când, în
 mod normal, în viața reală, ar face-o. Un roleplay calitativ presupune și simularea cât
 mai detaliată a emoțiilor și sentimentelor produse de acest gen de situație, momentul
 când viața vă este amenințată / sunteți jefuiți / bătuți sau răniți.
+
 :::info EXEMPLU 
 Ești amenintat cu arma, iar tu îl iei la mișto pe atacator sau îl ameninți cu bătaia în
 ciuda faptului că are arma ațintită asupra ta.
 :::
+
 :::danger SANCTIUNE
- Warn/Ban temporar
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
 ### 1.11 COP FEAR [CF]
@@ -98,22 +104,29 @@ inainte.
 - Este STRICT  <span style="color: red;">INTERZIS</span> sa vă luați la împuscat / bătut cu S.I.A.T.-ul deoarece, în mod
 normal, ar trebui sa rolați frica cand îi vedeți și să fugiți fără să vă mai uitați în spate sau
 să vă predați. Această regulă nu se aplică în zonele retrase sau la locațiile ilegale.
+
 :::danger SANCTIUNE
-Avertisment verbal/Warn/Ban temporar
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
 ### 1.12 COP BAIT [CB]
 - Cop Bait reprezintă provocarea/instigarea polițiștilor în mod repetat și intenționat pentru a te
 urmări sau a-l atrage la roleplay fără niciun motiv întemeiat si doar pentru amuzamentul
 propriu. Este permis CB doar în contextul desfășurării unui roleplay care presupune jaf.
+
 :::danger SANCTIUNE
-Avertisment verbal/Warn/Ban temporar
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
-### 1.13 PLAYER KILL[PK]
+### 1.13 PLAYER KILL [PK]
 - Player Kill reprezintă momentul în care jucătorul este în comă și folosește opțiunea de
 respawn trezindu-se la spital (din acel moment memoria lui se resetează, uitând toate
-informațiile aflate în roleplay-ul anterior).
+informațiile aflate în roleplay-ul anterior). Incapacitatea de a simula aceasta situație
+se pedepseste cu sancțiuni.
+
+:::danger SANCTIUNE
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
+:::
 
 ### 1.14 REVENGE KILL [RK]
 - Revenge Kill reprezintă uciderea sau tentativa de a ucide o persoană care te-a ucis cu
@@ -123,9 +136,11 @@ roleplay-ul anterior, iar acest lucru înseamnă că nu mai poți ține minte pe
 respectiva sau locul unde ai murit.
 - Nu se consideră RK dacă primiți revive de la un medic, caz în care vă puteți răzbuna pe
 cel care a atentat la viata voastră.
+
 :::danger SANCTIUNE
-Avertisment verbal/Warn/Ban temporar
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
+
 ### 1.15 CHARACTER KILL [CK]
 - Character Kill reprezintă moartea definitivă a personajului creat de dumneavoastră.
 - Toată experiența de viață a personajului, averea, informațiile acumulate, orele jucate de
@@ -141,21 +156,29 @@ acelei organizații poliției sau altei organizații rivale și a fost descoperi
 - Când a comis infracțiuni extreme multiple și trebuie să facă închisoare pe viață
 sau a acumulat un număr de 5 caziere.
 - Transmiterea de informatii din interiorul factiunilor legale catre alte tipuri de factiuni(ilegale) se pedepseste cu inchisoare pe viata.
+- Incapacitatea de a simula o moarte reală și definitivă în situațiile contextuale care justifică un CK se pedepseste cu sancțiuni.
+
+:::danger SANCTIUNE
+Admin Jail / Warn / Ban temporar
+:::
 
 ### 1.16 OLYMPIC SWIM [OS]
 - Este  <span style="color: red;">INTERZISA</span> fuga prin apă, înotând la nesfarsit. Acest lucru este considerat olympic
 swim pentru că nu poți înota la nesfârșit, în mod normal obosești. Printr-o astfel de
 practică, polițiștilor le este imposibil să vă rețină în apă, neputând trage cu armele din
 dotare.
+
 :::danger SANCTIUNE
- Avertisment verbal/Jail/Warn
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
+
 ### 1.17 TROLLING [TROLL]
 - Reprezintă momentul în care un jucător nu are intenția de a face roleplay corespunzător
 pe server, deranjând/provocând intenționat alte persoane pentru a crea dezordine,
 conflicte, în scopul propriului amuzament.
+
 :::danger SANCTIUNE
-Warn/Jail/Ban temporar/Ban permanent
+Admin Jail / Warn / Ban temporar / Ban permanent
 :::
 
 ### 1.18 TOXICITATE [TOX]
@@ -170,9 +193,11 @@ denigrare/discriminare de rasă, naționalitate, etnie, religie sau sex duse la 
 vulgar afișat față de persoanele de sex feminin, atât timp cât nu există o relație de
 apropiere anterioară sau persoana feminină vizată nu și-a dat acordul pentru acest gen de
 roleplay.
+
 :::danger SANCTIUNE
-Warn/Jail/Ban temporar/Ban permanent
+Avertisment Verbal / Admin Jail / Warn / Ban temporar / Ban permanent
 :::
+
 ### 1.19 SCAM [ESCROCHERIE]
 - Reprezintă o formă de fraudă care exploatează încrederea și vulnerabilitățile oamenilor
 pentru a obține beneficii necuvenite.
@@ -181,29 +206,33 @@ să nu îi plătiți munca, conform întelegerii pe care ați avut-o.
 - Se consideră Scam orice înșelăciune mai mare de 5000 euro.
 - Nu se consideră Scam dacă împrumutați de bună voie pe cineva cu bani sau bunuri și nu
 le mai primiți înapoi.
+
 :::danger SANCTIUNE
-Warn/Jail/Ban temporar
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
 ### 1.20 DROP & KILL [D&K]
 - Este  <span style="color: red;">INTERZIS</span> sa forțezi o persoană să arunce bunuri din inventar, iar după aceea să îl
 omori. Dacă l-ați forțat sa arunce lucrurile trebuie sa îl lăsați în viață.
+
 :::danger SANCTIUNE
-Warn/Jail/Ban temporar
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
 ### 1.21 ROB & KILL [R&K]
 - Este  <span style="color: red;">INTERZIS</span> sa jefuiești o persoana iar după aceea să o omori.
+
 :::danger SANCTIUNE
-Warn/Jail/Ban temporar
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
 ### 1.22 ROLEPLAY DEZGUSTĂTOR [RD]
 - Abuzul sexual (violul), canibalismul, necrofilia, pedofilia și alte tipuri de roleplay
 dezgustător sunt permise pe server doar cu acordul OOC al ambelor părți implicate în
 RP
+
 :::danger SANCTIUNE
- Warn/Jail/Ban temporar/Ban permanent
+Avertisment Verbal / Admin Jail / Warn / Ban temporar / Ban permanent
 :::
 
 ### 1.23 COMĂ
@@ -216,14 +245,29 @@ cu excepția situației când sunteți vindecați de un medic.
 - Este permis să chemați medicul în timp ce sunteți în comă doar dacă nu mai este nimeni
 în jurul vostru și ați murit într-un mod roleplay. În timpul apelului vorbiți la persoana a
 3-a.
+- Incapacitatea de a simula o comă reală și credibilă în situațiile contextuale care justifică 
+această stare se pedepseste cu sancțiuni.
+
+:::danger SANCTIUNE
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
+:::
 
 ### 1.24 FAIL ROLEPLAY [FRP]
 - Reprezintă interpretarea greșită (în mod voit sau nu) a scenei de roleplay pe care o jucați,
 situație care atrage după sine deteriorarea unui roleplay calitativ sau natural și îi pune pe
 ceilalți participanți la roleplay în situații stânjenitoare sau nefavorabile.
 
+:::danger SANCTIUNE
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
+:::
+
 ### 1.25 PIT-STOP
 - Acțiunea de oprire a unui vehicul prin coliziune laterală sau prin impactul în partea din spate a vehiculului țintă cu scopul de a reduce viteza sau de a opri complet vehiculul respectiv.
+- Este  <span style="color: red;">INTERZIS</span> să folosiți această manevră în afara contextului de urmărire sau a conflictelor armate între diferite grupuri, în zonele aglomerate sau în zonele publice.
+
+:::danger SANCTIUNE
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
+:::
 
 ### 1.26 CONDUSUL NON ROLEPLAY
 - Nu aveți voie să circulați pe contrasens fără un motiv IC bine întemeiat.
@@ -238,7 +282,7 @@ serviciilor medicale aflate on-duty.
 autovehiculele și motocicletele cu anvelope de iarnă.
 
 :::danger SANCTIUNE
-Warn/Jail/Ban temporar
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
 ### 1.27 COMANDA /ME
@@ -246,9 +290,20 @@ Warn/Jail/Ban temporar
 ataca alte persoane. Comanda /me se folosește doar atunci când trebuie să rolați acțiuni
 pentru care nu există animații sau când vreți să accentuați o trăire sau o emoție în
 roleplay.
+- Abuzul comenzii /me pentru a rola acțiuni pentru a exagera trăirile și emoțiile personajului se pedepseste cu sancțiuni.
+- Folosirea comenzii /me pentru a rola acțiuni care nu au nicio legătură cu roleplay-ul sau pentru a face trolling se pedepseste cu sancțiuni.
+
+:::danger SANCTIUNE
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
+:::
+
 
 ### 1.28 ID CHECKING
 - Este  <span style="color: red;">INTERZIS</span> să vă uitați la id-urile altor jucători fără un motiv bine întemeiat.
+
+:::danger SANCTIUNE
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
+:::
 
 ### 1.29 JOBURI LEGALE
 - În situația în care există o uniformă dedicată pentru jobul pe care îl practicați, sunteți obligat
@@ -263,16 +318,18 @@ job, dacă acesta include folosirea unui autoturism dedicat.
 unui job legal.
 - Jucătorii trebuie să respecte conduita etică și profesională corespunzătoare jobului pe care îl
 practică, în concordanță cu normele și regulile specifice domeniului.
+
 :::danger SANCTIUNE
-Warn/Jail/Ban temporar
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
-# 2. REGULAMENT (OOC)
+# <center><span class="title-font">2. Regulament Out-of-Character (OOC)</span></center>
 
 ### 2.1 TIPURI DE SANCȚIUNI
+- AVERTISMENT VERBAL – prima sancțiune care se acordă pentru o abatere minoră de la regulament. Se acordă doar o singură dată pentru fiecare abatere și are rolul de a atrage atenția asupra greșelii comise, fără a afecta în mod direct experiența de joc.
+- JAIL – perioadă determinată de izolare ca urmare a nerespectării regulamentului.
 - WARN - cea mai ușoară sancțiune (sistem de pedeapsă bazat pe puncte). La acumularea
 a 3 warn-uri veți fi banat temporar.
-- JAIL – perioadă determinată de izolare ca urmare a nerespectării regulamentului.
 - BAN TEMPORAR - sancțiune de nivel mediu. Se acordă după acumularea a 3 warn-uri
 sau pentru greșeli stabilite in mod clar de prezentul regulament și poate fi acordat doar de
 adminii cu grad de la Moderator +.
@@ -283,6 +340,7 @@ repetate și doar de către adminii cu grad de la Super-Mod+.
 - Reprezintă încercarea de a intra pe server cu alt cont în condițiile în care ai ban
 temporar/ban permanent pe contul tau principal. Este  <span style="color: red;">INTERZIS</span> cu desăvârșire și se
 pedepsește cu ban permanent fără drept de plată.
+
 :::danger SANCTIUNE
 Ban permanent
 :::
@@ -295,14 +353,16 @@ care sunt prinși că folosesc bugurile descoperite în avantajul propriu sunt b
 permanent.
 - Folosirea codurilor/cheaturilor de orice tip este strict  <span style="color: red;">INTERZIS</span> și pedepsită cu ban
 permanent.
+
 :::danger SANCTIUNE
 Ban permanent
 :::
 
 ### 2.3.1 MODURI VIZUALE INTERZISE
 - Este <span style="color: red;">INTERZISĂ</span> utilizarea oricăror moduri sau modificări care oferă avantaje față de alți jucători, inclusiv, dar fără a se limita la: schimbarea orei, a luminozității, a vremii, scoaterea vegetației sau orice alte modificări vizuale/grafice care alterează experiența de joc în favoarea proprie.
+
 :::danger SANCTIUNE
-Ban temporar
+Ban temporar / Ban permanent
 :::
 
 ### 2.4 TOXICITATE
@@ -315,14 +375,16 @@ comunității sau a adminilor pe diferite canale OOC interne și externe
 permanent.
 - Tentativele de abuz sau influențare pe baza posibilelor relații privilegiate create în
 comunitate sau staff sunt strict  <span style="color: red;">INTERZISE</span> și vor fi sancționate corespunzător.
+
 :::danger SANCTIUNE
-Warn/Jail/Ban temporar/Ban permanent
+Avertisment Verbal / Admin Jail / Warn / Ban temporar / Ban permanent
 :::
 
 ### 2.5 RECLAMĂ
 - Reclama la alte comunități, indiferent de natura lor și de metoda prin care se face
 reclamă (mascată, prin nume, în mod direct), este strict  <span style="color: red;">INTERZISA</span> și se pedepsește cu ban
 permanent.
+
 :::danger SANCTIUNE
 Ban permanent
 :::
@@ -333,17 +395,23 @@ regulamentul Elitegamers sau care acționează împotriva intereselor comunită�
 pe propria răspundere. Ne rezervăm privilegiul de a sancționa fiecare membru al acelui
 grup, indiferent de gradul de vină avut.
 
+:::danger SANCTIUNE
+Admin Jail / Warn / Ban temporar / Ban permanent
+:::
+
 ### 2.7 NUME IC & OOC
 - Nu aveți voie să vă puneți nume IC care sunt cunoscute (nume de celebrități, orașe, țări,
 religii, doctrine, culturi), nume nerealiste (indescriptibile sau indescifrabile), nume prin
 care se face reclamă mascată sau nume puse pentru a stârni amuzamentul celor din jur.
+
 :::danger SANCTIUNE
-Warn/Ban temporar
+Avertisment Verbal / Warn / Ban temporar / Ban permanent
 :::
 
 ### 2.8 TRANZACȚII OOC
 - Nu aveți voie să cumpărați sau să vindeți bunuri sau bani IC pe sume de bani OOC ! Se
 pedepsește cu ban permanent.
+
 :::danger SANCTIUNE
 Ban permanent
 :::
@@ -364,8 +432,9 @@ incidentului, altfel nu vor mai fi luate în considerare.
 - Chat-ul global este destinat strict mesajelor ooc (probleme, întrebări, anunțuri).
 - La intrebarea din aplicatia pentru helper de pe discord "Ai citit regulamentul?", trebuie sa raspunzi cu "n-am avut chef".
 - Este  <span style="color: red;">INTERZIS</span> să faceți SPAM pe chat.
+
 :::danger SANCTIUNE
-Warn/Ban temporar
+Avertisment Verbal/Scris / Warn / Ban temporar
 :::
 
 ### 2.11 AFK/DISCONNECT ÎN RP
@@ -379,8 +448,9 @@ AFK înainte de a interacționa cu el.
 anunțați pe serverul de discord.
 - Este obligatoriu sa aveti urmatoarea setare in aplicatia FiveM! Settings --> Game -->
 Update Channel --> Latest (Unstable)
+
 :::danger SANCTIUNE
-Warn/Ban temporar
+Admin Jail / Warn / Ban temporar
 :::
 
 ### 2.12 EVENIMENTELE ORGANIZATE
