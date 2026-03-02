@@ -94,4 +94,28 @@ outline: deep
 
 #### 2.13 POLITIE
 - Este <span style="color: green;">PERMIS</span> ca politia sa perchezitioneze orice persoana atat timp cat pare suspecta.
-- In cazul actiunilor politie – mafie, politistii pot da revive colegilor cazuti la datorie daca nu sunt medici on-duty. 
+- In cazul actiunilor politie – mafie, politistii pot da revive colegilor cazuti la datorie daca nu sunt medici on-duty.
+
+# <center><span style="font-family: Conthrax; background: -webkit-linear-gradient(red, darkred); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Sistem Cooldown Facțiuni/Joburi</span></center>
+
+#### 3.1 REGULI GENERALE
+- La părăsirea unei facțiuni (fie ea mafie sau factiune pasnica), se aplică un **cooldown** înainte de a putea fi angajat într-un alt loc.
+- Durata cooldown-ului depinde de **timpul petrecut** în grupul anterior.
+
+#### 3.2 DURATE COOLDOWN
+
+| Timp petrecut în grupul anterior | Cooldown aplicat |
+|----------------------------------|------------------|
+| **≥ 14 zile** | **5 zile** cooldown |
+| **< 14 zile** | **14 zile** cooldown |
+| Prima angajare (fără istoric) | **Fără cooldown** |
+
+:::info EXPLICAȚIE
+Cu cât stai mai mult timp într-un grup, cu atât cooldown-ul este mai scurt. Dacă ai stat cel puțin 14 zile, vei avea un cooldown de doar 5 zile. Dacă ai stat mai puțin de 14 zile, cooldown-ul va fi de 14 zile.
+:::
+
+#### 3.3 PRECIZĂRI
+- Cooldown-ul începe din momentul în care părăsești grupul.
+- Pe durata cooldown-ului **nu poți fi angajat** în niciun alt loc.
+- Timpul rămas din cooldown este vizibil atât pentru jucător, cât și pentru liderul care încearcă să te angajeze.
+- Liderii de facțiuni pot vedea informațiile despre cooldown-ul fiecărui angajat, inclusiv zilele petrecute în grup și penalizarea care s-ar aplica în cazul concedierii.
