@@ -620,11 +620,17 @@ acorda sancțiunea cea mai severă.
   - **Hacker** - Jucătorul folosește programe externe (cheats/hacks).
   - **Bug Abuse** - Jucătorul abuzează intenționat de un bug al serverului.
   - **Troller** - Jucătorul trollează în mod intenționat și deranjează experiența celorlalți.
-  - **Multiple Fail-RP (minim 3)** - Jucătorul acumulează minim 3 încălcări de Fail-RP. Este necesară dovadă video-audio pentru fiecare încălcare.
+  - **Multiple Fail-RP (minim 3)** - Jucătorul acumulează minim 3 încălcări de Fail-RP (poate fi si acelasi tip de fail de mai multe ori). Este necesară dovadă video-audio pentru fiecare încălcare.
 
 :::danger SANCTIUNE
 Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
+
+### 6.3 PREZENȚA STAFF-ULUI ÎN ROLEPLAY
+- Când un membru staff este prezent, roleplay-ul care se desfășoară este obligatoriu să se oprească temporar cât timp acesta este prezent.
+
+### 6.4 AUTO-SESIZAREA STAFF-ULUI
+- Un membru staff are dreptul de a se auto-sesiza oricând regulamentul este încălcat, cu sau fără ticket.
 
 # <center><span class="title-font">7. No Man's Land</span></center>
 
