@@ -609,3 +609,37 @@ autoritate competentă să stabilească sensul exact și aplicabilitatea fiecăr
 ale regulamentului într-o singură scenă roleplay, adminul care va penaliza jucătorul va
 acorda sancțiunea cea mai severă.
 - 5.5 Pentru a avea acces pe insula Cayo Perico, este necesar să ai minim 100 de ore jucate pe server. Această regulă este impusă pentru a păstra echilibrul și calitatea roleplay-ului. Orice tentativă de a încălca această regulă poate duce la sancțiuni.
+
+# <center><span class="title-font">6. Ticketul în timpul roleplay-ului</span></center>
+
+### 6.1 INTERDICȚIE TICKETE ÎN ROLEPLAY
+- Ticketul în timpul roleplay-ului este <span style="color: red;">INTERZIS</span>.
+
+### 6.2 EXCEPȚII
+- Ticketul este permis doar în următoarele situații:
+  - **Hacker** - Jucătorul folosește programe externe (cheats/hacks).
+  - **Bug Abuse** - Jucătorul abuzează intenționat de un bug al serverului.
+  - **Troller** - Jucătorul trollează în mod intenționat și deranjează experiența celorlalți.
+  - **Multiple Fail-RP (minim 3)** - Jucătorul acumulează minim 3 încălcări de Fail-RP. Este necesară dovadă video-audio pentru fiecare încălcare.
+
+:::danger SANCTIUNE
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
+:::
+
+# <center><span class="title-font">7. No Man's Land</span></center>
+
+- No Man's Land este o zonă specială în care regulile standard de RP nu se aplică în totalitate. Această zonă este desemnată pentru conflict liber și PvP intens.
+
+### 7.1 CE ESTE PERMIS ÎN NO MAN'S LAND
+1. **No Fear** - Nu ești obligat să simulezi frica în această zonă.
+2. **Jefuitul** - Poți jefui alți jucători fără restricții suplimentare.
+3. **Drop and Kill / Rob and Kill** - Este permis să omori un jucător după ce l-ai jefuit sau după ce a lăsat itemele.
+4. **RDM (Random Deathmatch)** - Este permis să ataci/omori alți jucători fără un motiv RP prealabil.
+5. **Trasul / Omorâtul fără un minim de RP înainte** - Nu este necesar să inițiezi o interacțiune RP înainte de a trage sau omori pe cineva.
+
+### 7.2 PRECIZĂRI
+- Dacă o acțiune începe în No Man's Land și unii dintre jucători părăsesc zona, roleplay-ul se va putea continua și în afara zonei.
+
+### 7.3 RESTRICȚII
+- **Poliția** și **SMIR-ul** nu au voie să intre sau să opereze în această zonă.
+- Este <span style="color: red;">INTERZIS</span> să aduci pe cineva FORTAT în No Man's Land cu scopul de a-l jefui sau omori.
