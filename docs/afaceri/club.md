@@ -2,8 +2,6 @@
 outline: deep
 ---
 
-<img src="https://imgur.com/eBBAkE8.png" alt="pozabusiness" width="666" height="375" style="display: block; margin: 0px auto; border-radius: 5%;" >
-
 # Afacerile de tip: CLUB
 
 <style>
@@ -86,6 +84,17 @@ Proprietarii de club au acces la:
 - **Control Echipamente** - Pornire/oprire lumini, lasere, fum
 - **Setari Muzica** - Playlist si volum
 - **Statistici** - Venituri si activitate
+
+</div>
+
+## Locatii
+
+<div class="eg-box">
+
+#### CLUB -> CENTRU
+
+- Zona: CENTRU
+- Cod postal: 756
 
 </div>
 

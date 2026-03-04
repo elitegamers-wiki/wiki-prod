@@ -2,145 +2,40 @@
 outline: deep
 ---
 
-<img src="https://imgur.com/eBBAkE8.png" alt="pozabusiness" width="666" height="375" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+# Afacerile de tip: CLOTHING STORE
+#### Pe server exista 7 locatii pentru acest tip de business
 
-# Afacerile te tip : CLOTHING STORE
-#### Pe server exista 15 Locatii pentru acest tip de business
+#### CLOTHING -> PRIMARIE
 
-#### CLOTHING -> GRAPESEED
-<img src="../public/locatii/clothing/cl_highway.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+- Zona: DOWNTOWN
+- Strada: DOWNTOWN
 
-- Zona:  GRAPESEED
-- Strada: GREAT OCEAN HIGHWAY
-- Pret afacere: 100.000€
-- Informatii: Intretinere 70.000€ o data la 2 saptamani
-- Harta: [APASA AICI](https://imgur.com/0PfNg80)
+#### CLOTHING -> LSPD
 
-#### CLOTHING -> LEGION SQUARE
-<img src="../public/locatii/clothing/cl_lgsquare.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+- Zona: MISSION ROW
+- Strada: MISSION ROW
 
-- Zona:  LEGION SQUARE
-- Strada: ELGIN AVENUE
-- Pret afacere: 700.000€
-- Informatii: Intretinere 70.000€ o data la 2 saptamani 
-- Harta: [APASA AICI](https://imgur.com/S4oKpRV)
+#### CLOTHING -> LAS LAGUNAS
 
-#### CLOTHING -> ROCKFORD
-<img src="../public/locatii/clothing/cl_rockford.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
-
-- Zona:  ROCKFORD HILLS
-- Strada: PORTOLA DRIVE
-- Pret afacere: 600.000€
-- Informatii: Intretinere 70.000€ o data la 2 saptamani
-- Harta: [APASA AICI](https://imgur.com/Zo4ihTe)
-
-#### CLOTHING -> VESPUCCI
-<img src="../public/locatii/clothing/cl_vespucci.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
-
-- Zona:  VESPUCCI
-- Strada: PROSPERITY STREET PROMENADE
-- Pret afacere: 200.000€
-- Informatii: Intretinere 70.000€ o data la 2 saptamani 
-- Harta: [APASA AICI](https://imgur.com/6UffQH7)
-
-#### CLOTHING -> SINNER STREET
-<img src="../public/locatii/clothing/cl_snstreet.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
-
-- Zona:  SINNER STREET
-- Strada: SINNER STREET
-- Pret afacere: 500.000€
-- Informatii: Intretinere 70.000€ o data la 2 saptamani
-- Harta: [APASA AICI](https://imgur.com/GOjFNmG)
-
-#### CLOTHING -> SINNER STREET
-<img src="../public/locatii/clothing/cl_rockfordplaza.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
-
-- Zona:  ROCKFORD PLAZA
-- Strada: LAS  LAGUNASS BOULEVARD
-- Pret afacere: 300.000€
-- Informatii: Intretinere 70.000€ o data la 2 saptamani
-- Harta: [APASA AICI](https://imgur.com/Rz3JMoT)
+- Zona: ROCKFORD PLAZA
+- Strada: LAS LAGUNAS BOULEVARD
 
 #### CLOTHING -> GROOVE
-<img src="../public/locatii/clothing/cl_groove.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
-- Zona:  GROOVE STREET
-- Strada: STRAWBERRY AVENUE
-- Pret afacere: 500.000€
-- Informatii: Intretinere 70.000€ o data la 2 saptamani
-- Harta: [APASA AICI](https://imgur.com/9DCv4Mk)
+- Zona: GROOVE STREET
+- Strada: STRAWBERRY AVENUE
 
-#### CLOTHING -> PALOMINO  AVENUE
-<img src="../public/locatii/clothing/cl_palomino.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+#### CLOTHING -> VESPUCCI
 
-- Zona:  PALOMINO  AVENUE
-- Strada: PALOMINO  AVENUE
-- Pret afacere: 350.000€
-- Informatii: Intretinere 70.000€ o data la 2 saptamani
-- Harta: [APASA AICI](https://imgur.com/32t6WU3)
-
-#### CLOTHING -> MORNINGWOOD
-<img src="../public/locatii/clothing/cl_moringwood.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
-
-- Zona:  MORNINGWOOD
-- Strada: COUGAR AVENUE
-- Pret afacere: 250.000€
-- Informatii:  Intretinere 70.000€ o data la 2 saptamani
-- Harta: [APASA AICI](https://imgur.com/kv08Ja7)
+- Zona: VESPUCCI
+- Strada: PROSPERITY STREET PROMENADE
 
 #### CLOTHING -> PALETO
-<img src="../public/locatii/clothing/cl_paleto.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
 
-- Zona:  PALETO
-- Strada: PALETO BOULEVARD
-- Pret afacere: 150.000€
-- Informatii: Intretinere 70.000€ o data la 2 saptamani 
-- Harta: [APASA AICI](https://imgur.com/rV3V7Kp)
+- Zona: PALETO
+- Strada: PALETO BOULEVARD
 
-#### CLOTHING -> HARMONY
-<img src="../public/locatii/clothing/cl_harmony.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
+#### CLOTHING -> VINEWOOD
 
-- Zona:  HARMONY
-- Strada: ROUTE 68
-- Pret afacere: 200.000€
-- Informatii: Intretinere 70.000€ o data la 2 saptamani 
-- Harta: [APASA AICI](https://imgur.com/wMfjexV)
-
-#### CLOTHING -> HARMONY
-<img src="../public/locatii/clothing/cl_harmony2.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
-
-- Zona:  HARMONY
-- Strada: ROUTE 68
-- Pret afacere: 300.000€
-- Informatii: Intretinere 70.000€ o data la 2 saptamani
-- Harta: [APASA AICI](https://imgur.com/jsgTdMo)
-
-#### CLOTHING -> HIGHWAY
-<img src="../public/locatii/clothing/cl_route68.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
-
-- Zona:  HIGHWAY
-- Strada: GREAT OCEAN HIGHWAY
-- Pret afacere: 200.000€
-- Informatii: Intretinere 70.000€ o data la 2 saptamani 
-- Harta: [APASA AICI](https://imgur.com/U8r06Sg)
-
-#### CLOTHING -> ROUTE 68
-<img src="../public/locatii/clothing/cl_route68.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
-
-- Zona:  ROUTE 68
-- Strada: ROUTE 68
-- Pret afacere: 200.000€
-- Informatii: Intretinere 70.000€ o data la 2 saptamani
-- Harta: [APASA AICI](https://imgur.com/JMv7Bbd)
-
-#### CLOTHING -> HAWICK
-<img src="../public/locatii/clothing/cl_hawick.png" alt="gunshop" width="1005" height="578" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;" >
-
-- Zona:  HAWICK
-- Strada: HAWICK AVE
-- Pret afacere: 350.000€
-- Informatii: Intretinere 70.000€ o data la 2 saptamani
-- Harta: [APASA AICI](https://imgur.com/VmwjKun)
-
-
-
+- Zona: VINEWOOD
+- Strada: VINEWOOD BOULEVARD

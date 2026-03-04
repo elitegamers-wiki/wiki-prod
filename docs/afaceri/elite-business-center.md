@@ -93,8 +93,6 @@ outline: deep
   }
 </style>
 
-<img src="../public/businesscenter/businesscenter.png" alt="pozabusiness" class="eg-business-logo" />
-
 <h1 class="eg-business-title">ELITE BUSINESS CENTER</h1>
 
 <section class="eg-business-card">
@@ -135,7 +133,6 @@ outline: deep
     <li>Localitate: Los Santos</li>
     <li>Zona: Downtown</li>
     <li>Strada: San Andreas Avenue</li>
-    <li>Harta: <a href="https://imgur.com/CZIszrt" target="_blank">CLICK AICI</a></li>
   </ul>
 </section>
 

@@ -237,8 +237,8 @@ export default defineConfig({
               { text: 'Clothing', link: '/afaceri/clothing' },
               { text: 'Tattoo', link: '/afaceri/tattoo' },
               { text: 'Frizerie', link: '/afaceri/frizerie' },
-              { text: 'Washing', link: '/afaceri/washing' },
               { text: 'Service', link: '/afaceri/service' },
+              { text: 'Magazin 24/7', link: '/afaceri/shop' },
               { text: 'Club', link: '/afaceri/club' },
             ]
           }
