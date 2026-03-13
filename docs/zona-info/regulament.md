@@ -162,6 +162,13 @@ sau a acumulat un număr de 5 caziere.
 Admin Jail / Warn / Ban temporar
 :::
 
+#### 1.15.1 FRAUDAREA CK-ULUI
+- Transferarea bunurilor (bani, vehicule, proprietăți sau orice alte obiecte) către alte persoane înainte de un Character Kill, cu scopul de a le păstra după CK, este strict <span style="color: red;">INTERZISĂ</span> și se consideră fraudarea CK-ului.
+
+:::danger SANCTIUNE
+Ban permanent
+:::
+
 ### 1.16 OLYMPIC SWIM [OS]
 - Este  <span style="color: red;">INTERZISA</span> fuga prin apă, înotând la nesfarsit. Acest lucru este considerat olympic
 swim pentru că nu poți înota la nesfârșit, în mod normal obosești. Printr-o astfel de
@@ -221,6 +228,13 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 
 ### 1.21 ROB & KILL [R&K]
 - Este  <span style="color: red;">INTERZIS</span> sa jefuiești o persoana iar după aceea să o omori.
+
+:::danger SANCTIUNE
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
+:::
+
+#### 1.21.1 KILL & ROB [K&R]
+- Este <span style="color: red;">INTERZIS</span> sa omori o persoană urmând să o reinvii cu scopul de a o jefui.
 
 :::danger SANCTIUNE
 Avertisment Verbal / Admin Jail / Warn / Ban temporar
