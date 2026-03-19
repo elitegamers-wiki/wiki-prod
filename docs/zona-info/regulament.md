@@ -128,6 +128,14 @@ se pedepseste cu sancțiuni.
 Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
+#### 1.13.1 SEMI-PK (RANĂ FATALĂ ÎN CAP)
+- Dacă primiți o rană fatală în cap, aceasta se consideră Semi-PK. Acest lucru înseamnă că veți uita întregul roleplay desfășurat anterior (amnezie completă), indiferent dacă sunteți salvat de un medic sau prin spitalizare. Nu pierdeți itemele din inventar, însă memoria personajului se resetează complet.
+- Incapacitatea de a simula amnezi în urma unei rani fatale în cap va fi sanctionata.
+
+:::danger SANCTIUNE
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
+:::
+
 ### 1.14 REVENGE KILL [RK]
 - Revenge Kill reprezintă uciderea sau tentativa de a ucide o persoană care te-a ucis cu
 puțin timp în urmă, într-o manieră roleplay bineînțeles, doar pentru a te răzbuna. În
@@ -168,6 +176,9 @@ Admin Jail / Warn / Ban temporar
 :::danger SANCTIUNE
 Ban permanent
 :::
+
+#### 1.15.2 BUNURI ÎMPRUMUTATE CĂTRE PERSOANE CU CK
+- Bunurile pierdute în urma unui împrumut acordat unei persoane care a primit Character Kill vor rămâne pierdute definitiv, indiferent de tipul bunului (bani, vehicule, proprietăți sau orice alte obiecte). Odată ce persoana respectivă a primit CK, orice bun aflat în posesia sa este considerat pierdut pentru totdeauna.
 
 ### 1.16 OLYMPIC SWIM [OS]
 - Este  <span style="color: red;">INTERZISA</span> fuga prin apă, înotând la nesfarsit. Acest lucru este considerat olympic
