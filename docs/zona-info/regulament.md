@@ -177,8 +177,8 @@ Admin Jail / Warn / Ban temporar
 Ban permanent
 :::
 
-#### 1.15.2 BUNURI ÎMPRUMUTATE CĂTRE PERSOANE CU CK
-- Bunurile pierdute în urma unui împrumut acordat unei persoane care a primit Character Kill vor rămâne pierdute definitiv, indiferent de tipul bunului (bani, vehicule, proprietăți sau orice alte obiecte). Odată ce persoana respectivă a primit CK, orice bun aflat în posesia sa este considerat pierdut pentru totdeauna.
+#### 1.15.2 BUNURI ÎMPRUMUTATE CĂTRE PERSOANE CU CK/BAN
+- Bunurile pierdute în urma unui împrumut acordat unei persoane care a primit Character Kill/BAN vor rămâne pierdute definitiv, indiferent de tipul bunului (bani, vehicule, proprietăți sau orice alte obiecte). Odată ce persoana respectivă a primit CK/BAN, orice bun aflat în posesia sa este considerat pierdut pentru totdeauna.
 
 ### 1.16 OLYMPIC SWIM [OS]
 - Este  <span style="color: red;">INTERZISA</span> fuga prin apă, înotând la nesfarsit. Acest lucru este considerat olympic
