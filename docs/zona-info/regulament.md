@@ -588,6 +588,15 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 - Regulile specifice fiecărei misiuni trebuie respectate conform instrucțiunilor din joc.
 - Este <span style="color: red;">INTERZIS</span> să interferați cu misiunile altor jucători fără un motiv IC bine întemeiat.
 
+#### 3.2.7 JAF MAGAZIN DE BIJUTERII
+
+- Jaful asupra magazinului de bijuterii este permis doar după acumularea a minim **300 de ore IC**.
+- La un jaf asupra magazinului de bijuterii pot participa minim **2** și cel mult **6 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **8 ofițeri**.
+
+:::danger SANCTIUNE
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
+:::
+
 ### 3.3 RĂPIRI/OSTATICI
 - Este permis să luați ostatic/răpiți persoane doar după acumularea a **50 de ore IC**.
 - Orice jucător care are peste **20 de ore** jucate și se află într-o <span style="color: red;">zonă roșie</span> poate fi luat ca ostatic.
