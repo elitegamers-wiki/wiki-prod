@@ -123,7 +123,7 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 respawn trezindu-se la spital (din acel moment memoria lui se resetează, uitând toate
 informațiile aflate în roleplay-ul anterior). Incapacitatea de a simula aceasta situație
 se pedepseste cu sancțiuni.
-- Odată ce ai murit și ți-ai luat PK în timpul unui conflict armat, nu mai ai voie să te întorci la locul conflictului, chiar dacă se primesc coduri sau alerte pe stație. Această regulă nu se aplică medicilor.
+- Odată ce ai murit și ți-ai luat PK/esti in coma & transportat la spital în timpul unui conflict armat, nu mai ai voie să te întorci la locul conflictului, chiar dacă se primesc coduri sau alerte pe stație. Această regulă nu se aplică medicilor.
 
 :::danger SANCTIUNE
 Avertisment Verbal / Admin Jail / Warn / Ban temporar
