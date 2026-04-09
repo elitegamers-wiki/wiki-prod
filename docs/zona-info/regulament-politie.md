@@ -57,6 +57,7 @@ outline: deep
 29. Persoanelor care detin obiecte ilegale (arme, praf de pusca, gloante, etc.) si fac parte dintr-un departament legal AU VOIE sa pastreze aceste obiecte in casa/masina/deposit DOAR daca nu se ating de acestea pe perioada de activitate in departament.
 30. Este PERMIS ca politia sa perchezitioneze orice persoana atat timp cat pare suspecta. In cazul actiunilor politie – mafie, politistii pot folosi defibrilatorul din dotare pentru a ajuta colegii cazuti la datorie.
 31. Orice abatere de la regulament se pedepsește cu suspendare/sanctiuni interne/demitere (în funcție de gravitate)!
+32. Polițiștilor obișnuiți le este interzis să execute lovituri fatale asupra suspecților; această permisiune este rezervată exclusiv agenților SIAT.
 
 #### Traffic Stop
 - Reprezintă oprirea unui vehicul pentru un control de rutină sau ca urmare a constatării unor ilegalități în trafic.
