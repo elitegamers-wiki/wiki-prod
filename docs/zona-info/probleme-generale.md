@@ -86,7 +86,31 @@ FiveM rulează pe motorul RAGE, care este foarte sensibil la versiunea driverulu
 
 ---
 
-## 4. Șterge memoria cache a FiveM
+## 4. Activează Game Mode și setează preferințele grafice pentru FiveM
+
+::: tip
+**Pentru probleme grafice apărute în timpul jocului — precum înnegrirea ecranului, artefacte vizuale sau crash-uri repetate — o soluție eficientă este să te asiguri că ai activată funcția Game Mode din Windows și că FiveM este configurat să folosească placa video corectă (cea dedicată, nu cea integrată).**
+:::
+
+::: info
+**Cum activezi Game Mode:**
+1. Apasă **Start → Settings → Gaming → Game Mode**.
+2. Setează comutatorul pe **On**.
+
+**Cum setezi placa video pentru FiveM:**
+1. Apasă **Start → Settings → Gaming → Graphics**.
+2. Apasă pe **Add an app** (sau **Browse**, în versiunile mai noi de Windows) și selectează executabilul FiveM (`FiveM.exe`), dacă nu apare deja în listă.
+3. După ce FiveM apare în listă, apasă pe săgeata din dreapta lui (sau pe **Options**) și selectează **placa video dedicată** pe care vrei să o folosească (de exemplu, NVIDIA RTX/GTX sau AMD Radeon — NU cea integrată Intel HD / Iris / AMD Vega integrată).
+4. Salvează modificările și repornește FiveM.
+:::
+
+::: warning
+La laptopurile cu două plăci video (integrată + dedicată), FiveM rulează implicit pe cea integrată, ceea ce duce la FPS scăzut și instabilitate. Setarea de mai sus forțează folosirea plăcii video dedicate.
+:::
+
+---
+
+## 5. Șterge memoria cache a FiveM
 
 ::: tip
 **Memoria cache coruptă este cauza nr. 1 a crash-urilor la intrarea pe server, a texturilor lipsă și a erorilor de tip „failed to load resource”.**
@@ -111,12 +135,10 @@ FiveM rulează pe motorul RAGE, care este foarte sensibil la versiunea driverulu
 
 ---
 
-## 5. Optimizare a rețelei (script automat)
+## 6. Optimizare a rețelei (script automat)
 
 ::: tip
 **Punem la dispoziție un script `.bat` oficial care resetează configurația de rețea, șterge memoria cache DNS și aplică optimizări pentru jocurile online.**
-
-**Sursa scriptului:** [https://docs.illusioncloud.biz/books/faq/page/reset-your-windows-tcp-settings-recommended-for-illusioncloud-ddos-filtered-game-servers](https://docs.illusioncloud.biz/books/faq/page/reset-your-windows-tcp-settings-recommended-for-illusioncloud-ddos-filtered-game-servers)
 :::
 
 ::: info
@@ -131,9 +153,11 @@ FiveM rulează pe motorul RAGE, care este foarte sensibil la versiunea driverulu
 **Atenție!** Dacă Windows Defender sau alt program antivirus blochează scriptul, este vorba despre un fals pozitiv (scriptul folosește comenzi precum `netsh` și `ipconfig`, care sunt marcate automat ca fiind suspecte). Permite execuția doar dacă ești sigur că l-ai descărcat de pe linkul oficial de mai sus.
 :::
 
+<p style="font-size: 0.75rem; color: #888; margin-top: 0.5rem;"><em>Sursa scriptului: <a href="https://docs.illusioncloud.biz/books/faq/page/reset-your-windows-tcp-settings-recommended-for-illusioncloud-ddos-filtered-game-servers" target="_blank">docs.illusioncloud.biz</a></em></p>
+
 ---
 
-## 6. Verifică integritatea fișierelor GTA V (Steam)
+## 7. Verifică integritatea fișierelor GTA V (Steam)
 
 ::: tip
 **Dacă ai fișiere lipsă sau corupte în instalarea GTA V, FiveM va da crash sau va afișa erori de tip „Game Storage” la pornire.**
@@ -156,10 +180,10 @@ Pe **Rockstar Launcher** sau **Epic Games**, procesul este similar: caută opți
 
 ---
 
-## 7. Reinstalează FiveM
+## 8. Reinstalează FiveM
 
 ::: tip
-**Soluție de ultimă instanță, dacă pașii 1-6 nu au rezolvat problema.**
+**Soluție de ultimă instanță, dacă pașii 1-7 nu au rezolvat problema.**
 Reinstalarea elimină fișierele corupte ale aplicației FiveM, configurațiile invalide și actualizările eșuate.
 :::
 
@@ -179,7 +203,7 @@ Reinstalarea elimină fișierele corupte ale aplicației FiveM, configurațiile 
 
 ---
 
-## 8. Dezinstalează modurile grafice
+## 9. Dezinstalează modurile grafice
 
 ::: danger
 **Modurile grafice (ReShade, NaturalVision, QuantV etc.) sunt o cauză foarte frecventă a crash-urilor și a FPS-ului scăzut în FiveM.**
@@ -197,7 +221,7 @@ Multe dintre acestea modifică fișierele jocului și intră în conflict cu sis
    - `ReShade.ini`
    - Foldere precum `reshade-shaders`, `ReShade`, `NVE`, `QuantV`, `NaturalVision`.
 3. Dacă ai folosit un installer al modului, alege opțiunea **Uninstall** din acel installer.
-4. După ștergere, rulează din nou **Verify integrity of game files** (vezi Pasul 6), pentru a restaura fișierele originale.
+4. După ștergere, rulează din nou **Verify integrity of game files** (vezi Pasul 7), pentru a restaura fișierele originale.
 :::
 
 ::: warning
