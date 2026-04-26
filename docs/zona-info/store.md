@@ -81,11 +81,11 @@ Pe server avem 3 pachete VIP:
 - **VIP Platinum**
 :::
 
-| VIP Level     | Preț          | Suport | Boost Job | Grade Discord & FiveM | Bani în joc   | Bonus Salariu | Prioritate Coada |
-| ------------- | :-----------: | :----: | :-------: | :-------------------: | :-----------: | :-----------: | :--------------: |
-| **Silver**    | 7 EG COINS    | ✓      | +5%       | ✓                     | $75.000       | $2.000        | Tier 1           |
-| **Gold**      | 13 EG COINS   | ✓      | +7%       | ✓                     | $150.000      | $3.500        | Tier 2           |
-| **Platinum**  | 20 EG COINS   | ✓      | +10%      | ✓                     | $250.000      | $5.000        | Tier 3           |
+| VIP Level     | Suport | Boost Job | Grade Discord & FiveM | Bani în joc   | Bonus Salariu | Prioritate Coada |
+| ------------- | :----: | :-------: | :-------------------: | :-----------: | :-----------: | :--------------: |
+| **Silver**    | ✓      | +5%       | ✓                     | $75.000       | $2.000        | Tier 1           |
+| **Gold**      | ✓      | +7%       | ✓                     | $150.000      | $3.500        | Tier 2           |
+| **Platinum**  | ✓      | +10%      | ✓                     | $250.000      | $5.000        | Tier 3           |
 
 ---
 
