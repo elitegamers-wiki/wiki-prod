@@ -246,7 +246,7 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
 #### 1.21.1 KILL & ROB [K&R]
-- Este <span style="color: red;">INTERZIS</span> sa omori o persoană urmând să o reinvii cu scopul de a o jefui.
+- Este <span style="color: red;">INTERZIS</span> sa omori o persoană urmând să o reinvii cu scopul de a o jefui, cu excepția cazului în care există o confruntare armată inițială. După ce o reinvii și o jefuiești, nu mai ai voie să o omori.
 
 :::danger SANCTIUNE
 Avertisment Verbal / Admin Jail / Warn / Ban temporar
