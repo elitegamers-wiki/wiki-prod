@@ -542,7 +542,7 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 - Civilii care ajung pe insula Cayo Perico pot jefui **orice mașina, indiferent de oră**.
 - Aceste acțiuni sunt permise doar dacă în proximitatea vehiculului nu se află alte persoane.
 - După ora **12 noaptea** este permis jaful asupra autovehiculelor aflate in aer liber în **orice zonă**, fără nicio restricție.
-- La un jaf asupra autovehiculelor pot participa cel mult **2 jefuitori**, iar poliția poate interveni cu maximum **4 ofițeri**.
+- La un jaf asupra autovehiculelor pot participa cel mult **2 jefuitori**, iar poliția poate interveni cu maximum **2 ofițeri**.
 - Este strict <span style="color: red;">INTERZIS</span> ca jucătorii să ia ostatici în cadrul jafurilor asupra autovehiculelor.
 
 :::danger SANCTIUNE
@@ -552,7 +552,7 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 #### 3.2.2 JAF BANCOMAT
 
 - Jaful asupra bancomatelor este permis doar după acumularea a **10 ore IC**.
-- La un jaf asupra bancomatelor pot participa cel mult **3 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **4 ofițeri**.
+- La un jaf asupra bancomatelor pot participa cel mult **3 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **3 ofițeri**.
 - Nu aveți voie să jefuiți un bancomat atât timp cât la bancomat se află alte persoane.
 
 :::danger SANCTIUNE
@@ -562,7 +562,7 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 #### 3.2.3 JAF MAGAZIN
 
 - Jaful asupra magazinelor este permis doar după acumularea a **20 ore IC**.
-- La un jaf asupra magazinelor pot participa cel mult **5 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **6 ofițeri**.
+- La un jaf asupra magazinelor pot participa cel mult **5 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **5 ofițeri**.
 - Nu aveți voie să jefuiți un magazin atât timp cât în magazin se află alte persoane.
 - Nu aveți voie să jefuiți magazinul de pe Cayo Perico.
 
@@ -573,25 +573,25 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 #### 3.2.4 JAF CASE NORMALE
 
 - Jaful asupra caselor normale este permis **doar după acumularea a minim 50 de ore IC**.
-- La un jaf asupra caselor normale pot participa cel mult **4 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **6 ofițeri**.
+- La un jaf asupra caselor normale pot participa cel mult **4 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **4 ofițeri**.
 
 #### 3.2.5 JAF CASE DE LUX
 
 - Jaful asupra caselor de lux este permis **doar după acumularea a minim 100 de ore IC**.
-- La un jaf asupra caselor de lux pot participa minim **2** și cel mult **6 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **8 ofițeri**.
+- La un jaf asupra caselor de lux pot participa minim **2** și cel mult **6 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **6 ofițeri**.
 
 #### 3.2.6 MISIUNI
 
 - Misiunile normale sunt permise doar după acumularea a minim **150 de ore IC**.
 - Misiunile grele sunt permise doar după acumularea a minim **200 de ore IC**.
-- La misiuni pot participa minim **2** și cel mult **6 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **8 ofițeri**.
+- La misiuni pot participa minim **2** și cel mult **6 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **6 ofițeri**.
 - Regulile specifice fiecărei misiuni trebuie respectate conform instrucțiunilor din joc.
 - Este <span style="color: red;">INTERZIS</span> să interferați cu misiunile altor jucători fără un motiv IC bine întemeiat.
 
 #### 3.2.7 JAF MAGAZIN DE BIJUTERII
 
 - Jaful asupra magazinului de bijuterii este permis doar după acumularea a minim **300 de ore IC**.
-- La un jaf asupra magazinului de bijuterii pot participa minim **2** și cel mult **6 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **8 ofițeri**.
+- La un jaf asupra magazinului de bijuterii pot participa minim **2** și cel mult **6 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **6 ofițeri**.
 
 :::danger SANCTIUNE
 Avertisment Verbal / Admin Jail / Warn / Ban temporar
