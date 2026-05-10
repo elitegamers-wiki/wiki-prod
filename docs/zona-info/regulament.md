@@ -391,6 +391,18 @@ Ban permanent
 Ban temporar / Ban permanent
 :::
 
+### 2.3.2 EXPLOATAREA MECANICILOR JOCULUI
+- Este <span style="color: red;">INTERZISĂ</span> exploatarea, sub orice formă, a mecanicilor stricate ale jocului cu scopul de a obține un avantaj necinstit într-o confruntare cu alți jucători (a nu se limita doar la PVP). În această categorie intră, de exemplu:
+  - **Glitch Roll** — repetarea sau întreruperea animației de rostogolire pentru a anula recoil-ul, a reduce hitbox-ul sau a evita gloanțele într-un mod care nu poate fi reprodus printr-un control normal al personajului.
+  - **Teleport / Speed Boost** — folosirea bug-urilor de mișcare ori a desincronizării cu serverul (animații întrerupte, combinații de taste, abuz al unor mecanici de animație) pentru a parcurge instantaneu o distanță pe ecranul celorlalti.
+  - **Strafe Boost** — alternarea rapidă a tastelor de pas lateral (A/D) sau a altor combinații de mișcare pentru a accelera artificial personajul peste viteza naturală de deplasare.
+  - **Ghost Peek** — utilizarea unghiurilor de vedere la colțuri, geamuri sau obstacole astfel încât să vezi adversarul fără ca propriul personaj să fie vizibil pentru acesta, obținând un avantaj vizual unilateral.
+  - **Orice alt avantaj necinstit** obținut prin folosirea unor bug-uri, mecanici stricate sau interacțiuni neintenționate ale jocului.
+
+:::danger SANCTIUNE
+Ban temporar / Ban permanent
+:::
+
 ### 2.4 TOXICITATE
 - Orice tip de comportament toxic (jigniri/înjurături/plâns isteric/ limbaj vulgar,
 denigrare/discriminare de rasă, naționalitate, etnie, religie sau sex) afișate pe canalele
