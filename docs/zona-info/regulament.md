@@ -507,9 +507,6 @@ cu condiția păstrării unui climat virtual realist și armonios, fără denatu
 membrilor săi, indiferent de problemele întâmpinate în timpul sesiunilor de joc. În
 cazul apariției situațiilor contradictorii, a disputelor sau a altor probleme, acestea se
 rezolvă off-stream cu ajutorul echipei de suport, nu în mod public, pe live.
-- În timpul discuțiilor OOC sau a sesiunilor de suport cu echipa administrativă pe server
-sau pe discord, streamerii au obligația de a dezactiva sunetul pentru public, astfel încât
-aceste discuții să rămână confidențiale.
 - În cazul în care un creator de conținut nu respectă condițiile prezentului regulament, ne
 rezervăm dreptul de a revoca permisiunea acestuia de a crea conținut video sau de a
 efectua streaming pe serverul Elitegamers.
