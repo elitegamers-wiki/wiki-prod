@@ -529,6 +529,7 @@ efectua streaming pe serverul Elitegamers.
 - Membrii mafiei pot jefui oameni pe insula Cayo Perico, indiferent de oră, doar în cazul în care aceștia nu au plătit taxa impusă sau au fost prinși jefuind.
 - Pe insula Cayo Perico **nu se aplică regulile Rob&Kill și Drop&Kill în intervalul orar destinat jafurilor**. Membrii mafiei sunt exceptați de la această regulă în cazul conflictelor cu alte ganguri/mafii/poliție.
 - Este permisă uciderea persoanelor (PK) doar în interiorul zonelor roșii și doar în cadrul unor situații roleplay bine definite care justifică uciderea altui jucător. În cazul anumitor contexte roleplay în care îți este amenințată viața, a urmaririlor cu poliția, a conflictelor armate între diferite grupuri, este permisă deschiderea focului și în zone limitrofe din Los Santos, altele decat zonele roșii, dacă acțiunea roleplay a început în zonă roșie, daca există o aprobare OOC din partea unui SuperMod+ sau IC din partea Sindicatului (doar în cazul mafiilor).
+- Odată ce a fost inițiat un conflict armat (<span style="color: red;">zonă roșie</span>, NML) și unul dintre combatanți fuge din zona conflictului, acesta poate fi urmărit și răpit din orice zonă, dar nu poate fi ucis decât în afara safezone-urilor. Valabil doar pentru familiile înregistrate în sistemul **Sentinel**.
 
 :::danger SANCTIUNE
 Avertisment Verbal / Admin Jail / Warn / Ban temporar
@@ -688,7 +689,7 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 5. **Trasul / Omorâtul fără un minim de RP înainte** - Nu este necesar să inițiezi o interacțiune RP înainte de a trage sau omori pe cineva.
 
 ### 7.2 PRECIZĂRI
-- Dacă o acțiune începe în No Man's Land și unii dintre jucători părăsesc zona, roleplay-ul se va putea continua și în afara zonei.
+- Dacă o acțiune începe în No Man's Land și unii dintre jucători părăsesc zona, roleplay-ul se poate continua respectand regulamentul din afara zonei NML, ex: poti urmari, te poti lupta, jefui, etc in conditiile prevazute de regulament.
 
 ### 7.3 RESTRICȚII
 - **Poliția** și **SMIR-ul** nu au voie să intre sau să opereze în această zonă.
