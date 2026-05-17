@@ -694,3 +694,18 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 ### 7.3 RESTRICȚII
 - **Poliția** și **SMIR-ul** nu au voie să intre sau să opereze în această zonă.
 - Este <span style="color: red;">INTERZIS</span> să aduci pe cineva FORTAT în No Man's Land cu scopul de a-l jefui sau omori.
+
+# <center><span class="title-font">8. Airdrop</span></center>
+
+- În cazul unui airdrop, indiferent de zona în care aterizează (<span style="color: red;">zonă roșie</span> sau zonă normală), regulile aplicabile sunt dictate exclusiv de **culoarea drop-ului**, nu de zona în care a căzut.
+
+### 8.1 DROP GALBEN
+- În perimetrul unui drop de culoare <span style="color: #FFD700;">**galbenă**</span> este <span style="color: red;">INTERZIS</span> să jefuiți alți jucători.
+- Este <span style="color: red;">INTERZIS</span> să forțați mutarea/deplasarea altor jucători.
+
+### 8.2 DROP ROȘU
+- În perimetrul unui drop de culoare <span style="color: red;">**roșie**</span> este permisă jefuirea altor jucători, indiferent de zona în care a aterizat drop-ul.
+
+:::danger SANCTIUNE
+Avertisment Verbal / Admin Jail / Warn / Ban temporar
+:::
