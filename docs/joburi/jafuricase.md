@@ -71,7 +71,7 @@ outline: deep
 |---------|:------------:|:-----------:|
 | <strong>Ore jucate</strong> | 50 ore | 100 ore |
 | <strong>Polițiști on-duty</strong> | 3 | 3 |
-| <strong>Max jucători</strong> | 3 (echipă) | 3 (echipă) |
+| <strong>Max jucători</strong> | 4 (echipă) | 6 (echipă) |
 | <strong>Job</strong> | Orice (nu polițist/medic) | Orice (nu polițist/medic) |
 | <strong>Lockpick avansat</strong> | Da | Da |
 | <strong>Rangă (crowbar)</strong> | Da | Da |
@@ -94,7 +94,7 @@ outline: deep
 <table>
 <tr><td>
 - Totul se face <strong>IC</strong>. NPC-ul principal este <strong>Lester</strong> – îl găsești doar în joc, prin interacțiune roleplay.<br>
-- Poți face jaful singur sau într-o echipă de maximum <strong>3 persoane</strong>.<br>
+- Poți face jaful singur sau într-o echipă de maximum <strong>4 persoane</strong>.<br>
 - Ai nevoie de:<br>
 <ul>
   <li><strong>telefon_hacking</strong> – pentru dezactivarea alarmei (se craftează din telefon + sim_hacking).</li>
@@ -131,7 +131,7 @@ Rangile se găsesc la <strong>2 șantiere</strong> din Los Santos:
 <div class="eg-jaf-case">
 <table>
 <tr><td>
-- După ce ai uneltele necesare, accesează <strong>Meniul Echipă</strong> și creează-ți echipa (<strong>maxim 3 persoane</strong>).<br>
+- După ce ai uneltele necesare, accesează <strong>Meniul Echipă</strong> și creează-ți echipa (<strong>maxim 4 la case normale, 6 la case de lux</strong>).<br>
 - Toți membrii trebuie să fie pregătiți înainte de începerea jafului.
 </td></tr>
 </table>
@@ -202,7 +202,7 @@ Rangile se găsesc la <strong>2 șantiere</strong> din Los Santos:
 <table>
 <tr><td>
 - Totul se face <strong>IC</strong>. NPC-ul principal este <strong>Lester</strong> – îl găsești doar în joc, prin interacțiune roleplay.<br>
-- Poți face jaful singur sau într-o echipă de maximum <strong>3 persoane</strong>.<br>
+- Poți face jaful singur sau într-o echipă de maximum <strong>6 persoane</strong>.<br>
 - Ai nevoie de:<br>
 <ul>
   <li><strong>tableta_hacking</strong> – pentru dezactivarea alarmei (se craftează din tabletă + sim_hacking).</li>
@@ -245,7 +245,7 @@ Rangile se găsesc la <strong>2 șantiere</strong> din Los Santos:
 
 ---
 
-### Echipă (2-3 jucători)
+### Echipă (până la 4/6 jucători)
 <div class="eg-jaf-case">
 <table>
 <tr><td>
@@ -257,7 +257,7 @@ Numărul total de puncte per casă <strong>nu crește</strong> cu echipa.
   <li><strong>Dezavantaj:</strong> profitul se împarte între membrii echipei (fiecare lootează puncte individual).</li>
 </ul>
 
-Cu 3 jucători, fiecare primește ~1/3 din loot. Câștigul per persoană scade proporțional.
+Cu cât echipa e mai mare, cu atât câștigul per persoană scade proporțional (loot-ul total e fix).
 </td></tr>
 </table>
 </div>

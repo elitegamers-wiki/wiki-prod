@@ -39,7 +39,7 @@ outline: deep
   <li><strong>Ore jucate:</strong> Minim 300 ore</li>
   <li><strong>Polițiști on-duty:</strong> Minim 4</li>
   <li><strong>Job:</strong> Orice în afara de polițist și medic</li>
-  <li><strong>Echipă:</strong> Minim 2, maxim 6 jucători</li>
+  <li><strong>Echipă:</strong> Minim 2, maxim 8 jucători</li>
   <li><strong>Rucsac vizibil:</strong> Toți membrii echipei trebuie să aibă rucsac echipat și vizibil</li>
   <li><strong>Cooldown jucător:</strong> 45 minute de la ultimul jaf</li>
   <li><strong>Cooldown magazin:</strong> 30 minute per magazin</li>
