@@ -12,15 +12,6 @@ outline: deep
 Orașul este împărțit în **teritorii** (zone de influență), fiecare controlat de o Mafie Neoficială sau Oficială. Aceste zone reprezintă sursa principală de venit și putere pentru organizații.
 :::
 
-## Alocarea inițială a zonelor
-
-La înființare sau la primirea statutului de Mafie Neoficială, **Sindicatul alocă zonele inițiale**:
-- Fiecare mafie nouă primește cel puțin o zonă de bază
-- Zonele sunt atribuite în funcție de:
-  - Locația unde familia a activat ca IC
-  - Disponibilitatea zonelor
-  - Echilibrul de putere dorit de Sindicat
-- Unele zone pot rămâne **neutre** sau **disputate**
 
 ## Cum poți obține zone adiționale
 
@@ -43,6 +34,48 @@ La înființare sau la primirea statutului de Mafie Neoficială, **Sindicatul al
 
 Zonele de influență și stăpânii lor actuali sunt publice și pot fi consultate. Schimbările de stăpânire sunt anunțate oficial de Sindicat.
 
+## Sistemul în joc — Tableta Sentinel
+
+Teritoriile nu sunt doar o convenție de RP - ele sunt un **sistem real, funcțional în joc**, gestionat prin **Tableta Sentinel**.
+
+::: tip TABLETA SENTINEL
+Tableta este un obiect din inventar. Cu ea, șefii de facțiune văd harta teritoriilor, statutul fiecărei zone și pot **declara războaie**. Sindicatul folosește tot tableta pentru a administra întregul sistem.
+:::
+
+### Teritoriile disponibile
+
+Orașul are **6 teritorii** care pot fi controlate. Fiecare aduce stăpânului **puncte de reputație** și un **bonus** specific.
+
+| Teritoriu | Puncte reputație | Bonus pentru stăpân |
+|-----------|:---------------:|---------------------|
+| **Spălătorie** | 750 | Taxă redusă la spălarea banilor (10% în loc de 20%) |
+| **Grove Street** | 500 | +15% la livrările ilegale de cocaină |
+| **Sandy Shores** | 450 | +15% la livrările ilegale de heroină |
+| **Vespucci** | 400 | +15% la livrările ilegale de metamfetamină |
+| **Vinewood** | 300 | +15% la livrările ilegale de iarbă |
+| **Mirror Park & Amarillo** | 200 | +15% la livrările ilegale de LSD și țigări |
+
+### Puncte de reputație
+
+Cât timp o facțiune **deține** un teritoriu, punctele acestuia se adaugă automat la scorul ei total din clasamentul Sindicatului. Cu cât controlezi mai multe zone (și mai valoroase), cu atât urci în ierarhia criminală a orașului.
+
+::: info BONUSUL DE CONTROL
+Bonusul se aplică **doar membrilor facțiunii** care stăpânește teritoriul. La livrările ilegale, bonusul de +15% se cumulează cu bonusul de noapte.
+:::
+
+### Culorile facțiunilor
+
+Sindicatul atribuie fiecărei facțiuni o **culoare** dintr-o paletă largă. Aceasta este culoarea cu care apar pe **harta mare** teritoriile stăpânite de facțiune. Zonele fără stăpân sunt afișate cu **gri/argintiu**.
+
+### Cum se schimbă stăpânul unui teritoriu
+
+- **Atribuire directă** - Sindicatul poate da un teritoriu liber unei facțiuni, fără război.
+- **Război teritorial** - o facțiune declară război pentru a cuceri zona. Detalii complete pe pagina **[Războaie](/viata-ilegala/razboaie#razboi-teritorial)**.
+
+::: warning PROTECȚIE DUPĂ RĂZBOI
+După încheierea unui război, teritoriul intră într-o perioadă de **protecție de 5 zile**. În acest timp, nicio facțiune nu poate declara un nou război pentru acea zonă.
+:::
+
 ::: info CONFLICTE TERITORIALE
-Pentru detalii despre procedura de război pentru zone, consultați pagina **[Războaie](/viata-ilegala/razboaie#razboi-teritorial)**.
+Pentru procedura completă de război pentru zone, consultați pagina **[Războaie](/viata-ilegala/razboaie#razboi-teritorial)**.
 :::

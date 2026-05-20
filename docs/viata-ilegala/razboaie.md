@@ -11,13 +11,12 @@ outline: deep
 ## Reguli comune - Sistemul Best of 3
 
 ::: tip FORMATUL BĂTĂLIILOR
-Toate războaiele se decid prin **3 bătălii** programate în **3 zile diferite**. Cine câștigă **2 din 3** bătălii este declarat **învingător**.
+Toate războaiele se decid prin **bătălii** programate. Cine câștigă  este declarat **învingător**.
 :::
 
 **Programarea bătăliilor:**
-- Zilele și orele sunt alese **de comun acord** de ambele părți
+- Zilele și orele sunt alese de ambele părți
 - Bătăliile au loc **seara, la ore de vârf** (pentru maximă audiență și participare)
-- Între bătălii trebuie să existe minim **24 de ore**
 - Locațiile sunt stabilite de Sindicat (zone neutre, fără avantaj pentru nimeni)
 
 **Regula eliminării:**
@@ -28,11 +27,8 @@ Odată ce un participant este eliminat (PK) și face respawn, **NU se mai poate 
 
 **Cum se câștigă o bătălie:**
 
-Echipa care **elimină toți adversarii** câștigă bătălia. Nu există altă metodă de victorie.
+Echipa care **elimină toți adversarii** sau cei care au mai multi oameni in viata la sfarsitul timpului câștigă bătălia. Nu există alte metode de victorie.
 
-::: warning NOTĂ
-Dacă după primele două bătălii scorul este 2-0, a treia bătălie **nu mai are loc** - războiul este deja decis.
-:::
 
 ::: info INTERVENȚIA SINDICATULUI
 În cazul în care Sindicatul identifică anumite **nereguli**, o bătălie poate fi **anulată și reprogramată**.
@@ -76,9 +72,8 @@ Războaiele între familii IC sau gang-uri sunt cele mai frecvente conflicte din
 ### Procedura
 
 1. **Declarația** - Ambele familii trebuie să comunice motivul conflictului
-2. **Aprobarea Sindicatului** - Sindicatul trebuie să aprobe războiul
-3. **Stabilirea regulilor** - Se stabilesc limitele (zone interzise, intervale orare)
-4. **Bătăliile** - Se desfășoară conform **Sistemului Best of 3**
+2. **Stabilirea regulilor** - Se stabilesc detaliile
+3. **Bătăliile** - Se desfășoară
 
 ### Consecințe
 
@@ -86,13 +81,11 @@ Războaiele între familii IC sau gang-uri sunt cele mai frecvente conflicte din
 - Dreptul de a impune condiții (renunțarea la culoare, plăți, restricții)
 - Prestigiu în fața celorlalte familii și a mafiilor neoficiale
 - Demonstrarea forței și coeziunii
-- Cooldown de **14 de zile** pentru orice alt război
 
 
 **Pentru învins:**
 - Trebuie să respecte condițiile impuse de câștigător
 - Pierdere de reputație
-- Cooldown de **21 de zile** pentru orice alt război
 
 ---
 
@@ -299,50 +292,79 @@ Sindicatul poate interveni oricând pentru a:
 
 ### Contextul
 
-Războiul teritorial este un conflict armat pentru controlul unei **zone de influență** specifice. Spre deosebire de alte tipuri de războaie, miza este concretă: **cine controlează zona**.
+Războiul teritorial este un conflict armat pentru controlul unei **zone de influență** specifice. Spre deosebire de celelalte războaie (care se decid prin Sistemul Best of 3), războiul teritorial este un **sistem funcțional în joc**, gestionat prin **Tableta Sentinel**. Vezi și pagina **[Sistemul Teritorial](/viata-ilegala/sistem-teritorial)**.
 
-### Motive valide
-
-- **Zonă disputată** - două mafii revendică aceeași zonă neutră sau de graniță
-- **Expansiune** - o mafie dorește să preia controlul unei zone vecine
-- **Negocieri eșuate** - toate căile diplomatice au fost epuizate fără rezultat
-
-### Procedura
-
-::: warning ÎNAINTE DE RĂZBOI - OBLIGATORIU
-Dacă două mafii neoficiale nu se înțeleg asupra unei zone, **trebuie să consulte Sindicatul** pentru a găsi o soluție pașnică. Războiul este ultima opțiune, nu prima.
+::: tip CINE POATE DECLARA RĂZBOI
+Doar **șeful** unei facțiuni poate declara un război teritorial, din Tableta Sentinel. Se poate ataca orice teritoriu pe care facțiunea nu îl deține și care nu se află sub protecție.
 :::
 
-**Etapele obligatorii înainte de război:**
+### 1. Declararea războiului
 
-| Etapă | Descriere | Durată |
-|-------|-----------|--------|
-| **1. Negociere directă** | Liderii se întâlnesc și încearcă să ajungă la un acord | Minim 2 zile |
-| **2. Mediere Sindicat** | Dacă negocierea eșuează, Sindicatul mediază | - |
-| **3. Declarație de război** | Dacă toate căile pașnice eșuează, se poate declara război | - |
+Atacatorul alege din tabletă teritoriul dorit. La declarare:
 
-**Declarația de război:**
-- Trebuie făcută public, cu motiv clar
-- Trebuie aprobată de Sindicat
-- Se stabilesc de la început:
-  - Zona/zonele disputate
-  - Zonele neutre (spitale, zone safe)
+- Se reține o **garanție de 2.500.000€** (bani murdari) de la șeful facțiunii atacatoare.
+- Nu se poate ataca un teritoriu aflat în **protecție** (5 zile după un război anterior).
+- O facțiune **nu poate fi** implicată în două războaie în același timp.
 
-**Bătăliile se desfășoară conform Sistemului Best of 3.**
+### 2. Programarea bătăliei
 
-### Consecințe
+::: info FEREASTRA DE ORE
+Bătăliile se pot programa doar **între orele 19:00 și 23:00**.
+:::
 
-**Pentru câștigător:**
-- Preia controlul zonei disputate
-- Câștigă prestigiu în fața Sindicatului
+- Atacatorul propune **3 date** posibile.
+- **Apărătorul** (șeful facțiunii care deține zona) are **12 ore** să aleagă una dintre cele 3 date și ora bătăliei.
+- Dacă apărătorul nu alege la timp, sistemul **alege automat** prima dată propusă, la ora **21:00**.
 
-**Pentru învins:**
-- Pierde zona disputată
-- Intră într-o perioadă de **cooldown** (nu poate declara alt război pentru o perioadă stabilită de Sindicat)
+### 3. Faza de pregătire (15 minute)
 
-**Intervenția Sindicatului:**
+Înainte de luptă, cele două tabere se adună în **zone de așteptare** separate (Echipa A - atacatorii, Echipa B - apărătorii).
 
-Sindicatul poate interveni oricând pentru a:
-- Opri un război care a scăpat de sub control
-- Impune un armistițiu forțat
-- Sancționa încălcările regulilor de război
+::: warning BLOCAREA LOTULUI
+La finalul pregătirii, doar jucătorii **aflați efectiv în zona de așteptare** sunt înscriși ca luptători. Dacă o tabără nu are niciun jucător prezent, pierde automat războiul.
+:::
+
+### 4. Lupta (maxim 60 de minute)
+
+Toți luptătorii sunt mutați în **cercul de război** (zona de luptă din jurul teritoriului).
+
+**Cum se câștigă:**
+- Tabăra care **elimină toți adversarii** câștigă imediat.
+- Dacă timpul de 60 de minute se scurge, câștigă tabăra cu **cei mai mulți jucători încă în viață**.
+- La egalitate, **apărătorul păstrează** teritoriul.
+
+::: danger REGULI ÎN CERCUL DE RĂZBOI
+- Dacă ești participant și ieși din cerc, ai **10 secunde** să te întorci, altfel ești **eliminat** din război.
+- Jucătorii **neimplicați** care intră în cerc primesc doar o **avertizare** să părăsească zona - nu sunt uciși.
+- **Furtul devine legal** între participanți în interiorul cercului, pe toată durata luptei.
+:::
+
+Pe ecran ai un **HUD** cu numele echipelor, câți luptători mai sunt în viață de fiecare parte și cronometrul rămas.
+
+### 5. Consecințe
+
+**Dacă atacatorul câștigă:**
+- Preia controlul teritoriului (și punctele de reputație + bonusul aferent).
+- Șeful facțiunii primește înapoi cei **2.500.000€** ca premiu.
+
+**Dacă apărătorul câștigă:**
+- Își păstrează teritoriul.
+- Primește garanția de **2.500.000€** drept despăgubire.
+
+::: warning PROTECȚIE DUPĂ RĂZBOI
+După încheiere, teritoriul intră în **protecție 5 zile** - nimeni nu poate declara un nou război pentru acea zonă.
+:::
+
+### Războaie de alianță
+
+Pe lângă atacul normal, **Sindicatul** poate organiza un **război de alianță**: mai multe facțiuni se aliază împotriva celui care deține un teritoriu.
+
+- Nu se plătește garanție.
+- Dacă alianța câștigă, teritoriul **devine liber** (fără stăpân) - nu este preluat de o singură facțiune.
+
+### Intervenția Sindicatului
+
+Sindicatul gestionează întregul sistem și poate:
+- **Anula** un război în orice moment (garanția se returnează atacatorului).
+- Atribui sau retrage teritorii direct, fără război.
+- Stabili culorile facțiunilor pe hartă.
