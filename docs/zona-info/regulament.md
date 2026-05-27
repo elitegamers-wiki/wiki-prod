@@ -552,7 +552,7 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 - Membrii mafiei pot jefui mașini pe insula Cayo Perico, **indiferent de oră**, doar în cazul în care propietarii acestora **nu au plătit taxa impusă**.
 - Civilii care ajung pe insula Cayo Perico pot jefui **orice mașina, indiferent de oră**.
 - Aceste acțiuni sunt permise doar dacă în proximitatea vehiculului nu se află alte persoane.
-- După ora **12 noaptea** este permis jaful asupra autovehiculelor aflate in aer liber în **orice zonă**, fără nicio restricție.
+- În intervalul orar **00:00 - 08:00** este permis jaful asupra autovehiculelor aflate în aer liber în **orice zonă**, cu excepția safezone-urilor.
 - La un jaf asupra autovehiculelor pot participa cel mult **2 jefuitori**, iar poliția poate interveni cu maximum **2 polițisti**.
 - Este strict <span style="color: red;">INTERZIS</span> ca jucătorii să ia ostatici în cadrul jafurilor asupra autovehiculelor.
 
