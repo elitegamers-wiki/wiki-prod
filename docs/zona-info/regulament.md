@@ -548,11 +548,10 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 #### 3.2.1 JAF / FURT AUTO
 
 - Jaful sau furtul asupra autovehiculelor este permis doar după acumularea a minim **30 ore IC**.
-- Se permite spargerea/furtul autovehiculelor în orice zonă, cu excepția zonelor publice (în fața/parcarea din fața magazinelor, în dreptul bancomatelor, benzinării, parcarea din fața sediului poliției, a primăriei, a spitalului, parcarea de la dealership, în fața cazinoului, în parcarea din fața Homedepot), zone aglomerate, a locațiilor joburilor/activităților legale/ilegale.
 - Membrii mafiei pot jefui mașini pe insula Cayo Perico, **indiferent de oră**, doar în cazul în care propietarii acestora **nu au plătit taxa impusă**.
 - Civilii care ajung pe insula Cayo Perico pot jefui **orice mașina, indiferent de oră**.
 - Aceste acțiuni sunt permise doar dacă în proximitatea vehiculului nu se află alte persoane.
-- În intervalul orar **00:00 - 08:00** este permis jaful asupra autovehiculelor aflate în aer liber în **orice zonă**, cu excepția safezone-urilor.
+- Oricand este permis jaful asupra autovehiculelor aflate în aer liber în **orice zonă**, cu excepția safezone-urilor.
 - La un jaf asupra autovehiculelor pot participa cel mult **2 jefuitori**, iar poliția poate interveni cu maximum **2 polițisti**.
 - Este strict <span style="color: red;">INTERZIS</span> ca jucătorii să ia ostatici în cadrul jafurilor asupra autovehiculelor.
 
