@@ -205,6 +205,7 @@ export default defineConfig({
               { text: 'Mecanic', link: '/joburi/mecanic' },
               { text: 'Taximetrist', link: '/joburi/taximetrist' },
               { text: 'Sofer de autobuz', link: '/joburi/sofer-de-autobuz' },
+              { text: 'Mecanic metrou', link: '/joburi/mecanic-metrou' },
               { text: 'Pescar', link: '/joburi/pescar' },
               { text: 'Tirist', link: '/joburi/tirist' },
               { text: 'Ciupercar', link: '/joburi/ciupercar' },
