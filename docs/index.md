@@ -67,38 +67,6 @@ onMounted(() => {
 })
 </script>
 
-## Contributors { .eg-section-title }
-
-<div class="eg-cards-contributors">
-
-  <div class="eg-card">
-    <img src="https://cdn.discordapp.com/avatars/848867959219683360/afdd097081271465d4ea1e63fbe324cb.png" alt="iannC" />
-    <div class="eg-name">dey</div>
-    <div class="eg-role">Supervizor Wikipedia</div>
-    <span class="eg-badge red">ADMINISTRATOR</span>
-    <div class="eg-desc">Supraveghează și întreține pagina de Wikipedia</div>
-    <!-- <a class="eg-link" href="#">GitHub ↗</a> -->
-  </div>
-
-  <div class="eg-card">
-    <img src="https://cdn.discordapp.com/avatars/262600228719427584/cb935ab9648fedf2747866af9256ea85.png" alt="xslow" />
-    <div class="eg-name">xSL0W</div>
-    <div class="eg-role"> Head Developer</div>
-    <span class="eg-badge red">Developer & FONDATOR</span>
-    <div class="eg-desc">Scripter-ul si fondatorul comunitatii</div>
-    <!-- <a class="eg-link" href="#">GitHub ↗</a> -->
-  </div>
-
-  <div class="eg-card">
-    <img src="https://cdn.discordapp.com/avatars/295581149986553857/14ab973e2e0ad5cf4ecf5f55c0d8a94b?size=1024" alt="snoke" />
-    <div class="eg-name">sNok3</div>
-    <div class="eg-role">Developer</div>
-    <span class="eg-badge red">Developer</span>
-    <div class="eg-desc">Crează interfețe moderne și minimaliste. Focus pe accesibilitate</div>
-    <!-- <a class="eg-link" href="#">GitHub ↗</a> -->
-  </div>
-
-</div>
 
 ## Our Team (Staff) { .eg-section-title }
 
@@ -117,15 +85,7 @@ onMounted(() => {
     <div class="eg-name">xSL0W</div>
     <div class="eg-role">Developer & Fondator</div>
     <span class="eg-badge red">Founder</span>
-    <div class="eg-desc">Responsabil pe partea tehnică și tools management</div>
-  </div>
-
-  <div class="eg-card">
-    <img src="https://cdn.discordapp.com/avatars/295581149986553857/14ab973e2e0ad5cf4ecf5f55c0d8a94b?size=1024" alt="snoke" />
-    <div class="eg-name">sNok3</div>
-    <div class="eg-role">Developer</div>
-    <span class="eg-badge red">Developer</span>
-    <div class="eg-desc">Responsabil pe partea tehnică și tools management</div>
+    <div class="eg-desc">Responsabil pe partea tehnică</div>
   </div>
 
   <div class="eg-card">
@@ -139,19 +99,10 @@ onMounted(() => {
   <div class="eg-card">
     <img src="https://cdn.discordapp.com/avatars/848867959219683360/afdd097081271465d4ea1e63fbe324cb.png" alt="dey" />
     <div class="eg-name">dey</div>
-    <div class="eg-role">Administrator</div>
-    <span class="eg-badge blue">Administrator</span>
+    <div class="eg-role">Official Assets Creator</div>
+    <span class="eg-badge red">Official Assets Creator</span>
     <div class="eg-desc">Asigura asset-urile necesare si ajuta la dezvoltarea server-ului</div>
   </div>
-  
-  <div class="eg-card">
-    <img src="https://cdn.discordapp.com/avatars/284308015761326080/4a69773ed940b745942271a137257fed?size=1024" alt="88lucian" />
-    <div class="eg-name">88lucian</div>
-    <div class="eg-role">Administrator</div>
-    <span class="eg-badge blue">Administrator</span>
-    <div class="eg-desc">Ajuta la dezvoltarea server-ului</div>
-  </div> 
-
  </div>
 
 
