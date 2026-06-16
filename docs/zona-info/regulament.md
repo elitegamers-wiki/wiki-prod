@@ -349,6 +349,13 @@ practică, în concordanță cu normele și regulile specifice domeniului.
 Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
 
+#### 1.29.1 MECANICI
+- În intervalul orelor de vârf **18:00 - 23:00** este obligatoriu să existe minim **2 mecanici** activi și pontați la fiecare service auto.
+
+:::danger SANCTIUNE
+Amendă / Sechestru IC de sindicat / Avertismente firmă
+:::
+
 # <center><span class="title-font">2. Regulament Out-of-Character (OOC)</span></center>
 
 ### 2.1 TIPURI DE SANCȚIUNI
@@ -386,6 +393,7 @@ Ban permanent
 
 ### 2.3.1 MODURI VIZUALE INTERZISE
 - Este <span style="color: red;">INTERZISĂ</span> utilizarea oricăror moduri sau modificări care oferă avantaje față de alți jucători, inclusiv, dar fără a se limita la: schimbarea orei, a luminozității, a vremii, scoaterea vegetației sau orice alte modificări vizuale/grafice care alterează experiența de joc în favoarea proprie.
+- Limita maximă permisă pentru `profile_gamma` este **40**. Orice creștere a luminozității peste această valoare se încadrează în categoria modurilor vizuale interzise.
 
 :::danger SANCTIUNE
 Ban temporar / Ban permanent
@@ -465,6 +473,21 @@ sancționării lor se pedepsesc drastic.
 raportarea periodică a acestora se consideră PostHunt.
 - Orice reclamație trebuie să fie formulată în maxim 24 de ore de la ora producerii
 incidentului, altfel nu vor mai fi luate în considerare.
+
+#### 2.9.1 ÎNREGISTRAREA CONFLICTELOR
+- La orice conflict armat aveți obligația să dețineți o înregistrare video-audio de minim **720p/30fps**. Este o regulă extrem de utilă, care permite rezolvarea ticketelor mult mai rapid și înlătură orice suspiciune.
+- În cazul bătăilor organizate de sindicat și al războaielor pentru teritorii **Sentinel**, este obligatoriu ca toți membrii familiilor participante să dețină filmare. Dacă ulterior se constată că un jucător nu a avut filmare, acesta va fi sancționat, iar familia respectivă va pierde teritoriul chiar dacă a câștigat.
+
+:::danger SANCTIUNE
+Ban temporar / Ban permanent
+:::
+
+#### 2.9.2 DOVEZI
+- Refuzul prezentării, ascunderea sau alterarea dovezilor este strict <span style="color: red;">INTERZISĂ</span>.
+
+:::danger SANCTIUNE
+Ban temporar / Ban permanent
+:::
 
 ### 2.10 CHAT OOC
 - Chat-ul global este destinat strict mesajelor ooc (probleme, întrebări, anunțuri).
@@ -602,6 +625,7 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 
 - Jaful asupra magazinului de bijuterii este permis doar după acumularea a minim **300 de ore IC**.
 - La un jaf asupra magazinului de bijuterii pot participa minim **2** și cel mult **8 jefuitori**, iar poliția poate interveni cu minim **2** și maximum **8 polițisti**.
+- Este permis să luați minim **1** și maxim **2 ostatici**, doar din <span style="color: red;">zonele roșii (inclusiv NML)</span>. Filmarea este obligatorie și trebuie să conțină momentul răpirii ostaticului.
 
 :::danger SANCTIUNE
 Avertisment Verbal / Admin Jail / Warn / Ban temporar
@@ -708,4 +732,13 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 
 :::danger SANCTIUNE
 Avertisment Verbal / Admin Jail / Warn / Ban temporar
+:::
+
+# <center><span class="title-font">9. Firme / Afaceri</span></center>
+
+### 9.1 ÎNCHIDEREA AFACERII
+- O afacere poate fi închisă dacă firma nu își îndeplinește atribuțiile și responsabilitățile, dacă se constată o lipsă de activitate prelungită sau dacă proprietarul părăsește serverul ori este banat.
+
+:::danger SANCTIUNE
+Închiderea afacerii
 :::
