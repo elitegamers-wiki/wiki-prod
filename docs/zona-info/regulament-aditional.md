@@ -27,21 +27,19 @@ outline: deep
 - ORICE missclick se roleaza, indiferent de cauza acestuia ( ati dat un pumn, ati apasat F din greseala, etc)
  #### 1.5 Activitate minima in factiuni
 - După acceptarea într-o facțiune, membrii au obligația de a rămâne activi minimum 14 de zile.
-În cazul în care un membru este dat afară (OUT) sau primește ban înainte de împlinirea celor 14 de zile, din motive precum lipsă de activitate, lipsă pontaj, absența certificatelor sau comportament neadecvat, acesta va fi sancționat cu ban pentru numărul de zile rămase până la împlinirea celor 14 de zile obligatorii.
+În cazul în care un membru este dat afară (OUT) sau primește ban înainte de împlinirea celor 14 de zile, din motive precum lipsă de activitate, lipsă pontaj, absența certificatelor sau comportament neadecvat, acesta va primi un cooldown de 14 zile la intrarea într-o altă facțiune.
 
 # <center><span style="font-family: Conthrax; background: -webkit-linear-gradient(red, darkred); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Regulament In-Character (Ic)</span></center>
 
 #### 2.1 ACȚIUNI CARE IMPLICĂ AUTOVEHICULELE 
 - Este <span style="color: green;">PERMIS</span> sa va urcati in autovehiculul unui player DOAR daca acesta va acorda permisiunea
-- Este <span style="color: green;">PERMIS</span> sa puneti arma la cap, stomac, etc. unui player, IN ORICE zona, cand sunteti intr-un autovehicul, pe scaunul din dreapta/bancheta din spate
+- Este <span style="color: green;">PERMIS</span> sa puneti arma la cap, stomac, etc. unui player, IN ORICE zona cu excepția safezone-urilor, cand sunteti intr-un autovehicul, pe scaunul din dreapta/bancheta din spate
 - Este <span style="color: red;">INTERZIS</span> sa va aruncati cu masina in apa
-- Este <span style="color: green;">PERMIS</span> sa ocoliti limitatoarele de viteza în Sandy.
 - Este <span style="color: red;">INTERZIS</span> sa mergeti cu mai mult de 150 km/h in oras.
 - Este <span style="color: green;">PERMIS</span> sa mergeti DOAR cu mașini off-road in mlastina de la momeala
 - Este <span style="color: green;">PERMIS</span> cu mașini si motociclete off-road  pe nisip
 - Este <span style="color: green;">PERMIS</span> sa furati masini de politie/medici DOAR in cazuri extreme, ca o ultima cale de scapare
 - Este <span style="color: red;">INTERZIS</span> sa scoateti un alt autovehicul cat timp sunteti intr-o urmarire
-- Este <span style="color: red;">INTERZIS</span> sa modificati jantele pe TIR
 
 #### 2.2 ACȚIUNI PE AUTOSTRADĂ
 - Este <span style="color: red;">INTERZIS</span> sa rapiti persoane de pe autostrada
@@ -53,11 +51,9 @@ outline: deep
 
 #### 2.4 PENITENCIAR
 - In penitenciar nu se aplică regula de DM / Toxicitate. Se rolează că acolo ajung toți infractorii și criminalii. Ca atare, orice este permis.
- - <span style="color: red;">NU</span> aveți voie să evadați în primele 30 de minute după restart.
 - Dacă ești băgat la carceră ai obligația de a sta pe "șoptește"
 
 #### 2.5 SPITAL
-- Este <span style="color: red;">INTERZIS</span> sa apasati SPACE odata ce ati trecut de usile spitalelor
 - Este <span style="color: red;">INTERZIS</span> sa va internati direct, atat timp cat exista medici la ghiseul spitalului central ( Pillbox ). Sunteti OBLIGATI sa faceti Roleplay cu acestia
 - Este <span style="color: red;">INTERZIS</span> sa omorati un player fara un motiv intemeiat si dupa sa-l duceti la spital ca sa-l jefuiti. Aceasta regula nu se aplica pe insula CAYO
 - Este INTERZIS sa duceți un om pe care l-ați găsit random lesinat la spitalul de mafioți și să îl jefuiți.
@@ -77,13 +73,11 @@ outline: deep
 
 #### 2.9 SCHIMBAREA ARMEI PE MOTOR
 
-- Este <span style="color: red;">INTERZIS</span> sa schimbati arma instant (fara animatie) atat timp cat sunteti pe motocicleta. Pentru a schimba arma este nevoie sa coborati de pe motocicleta.
 - Este <span style="color: red;">INTERZIS</span> sa va urcati pe motocicleta cu arma mare.
 
 #### 2.10 /carry IN ROLEPLAY
 - Este <span style="color: red;">INTERZIS</span> sa luati oameni in /carry cand sariti, ca sa-i treceti anumite obstacole
 - Este <span style="color: red;">INTERZIS</span> sa bagati oameni prin /carry in apartamente/garsoniere/case
-- Este <span style="color: green;">Permis</span> sa folositi /walk quick cand aveti pe cineva in /carry
 - Este <span style="color: red;">INTERZIS</span> sa bagati oamenii din /carry in masini fara a face un minim de roleplay ( EX: /me il pune pe bancheta/scaun)
 
 #### 2.11 ITEME ILEGALE

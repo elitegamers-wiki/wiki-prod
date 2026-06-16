@@ -503,6 +503,7 @@ Avertisment Verbal/Scris / Warn / Ban temporar
 bătăilor, în timpul interacțiunilor RP sau în timpul unui ticket).
 - Este  interzis să stați AFK mai mult de 5 minute în timp ce sunteți ON DUTY ca
 Polițist/Medic/Mecanic.
+- Este <span style="color: red;">INTERZIS</span> să vă puneți AFK în timpul unei acțiuni care presupune prezența voastră acolo (ex: la crafting).
 - Dacă un jucător este AFK nu aveți voie să interacționați cu el deloc, dacă jucătorul a fost
 AFK înainte de a interacționa cu el.
 - În cazul în care sunteți în roleplay și vă pică curentul sau internetul, sunteti obligat să
