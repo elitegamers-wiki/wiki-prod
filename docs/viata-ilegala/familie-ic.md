@@ -11,7 +11,7 @@ outline: deep
 ## Momentul zero - Nașterea
 
 ### Cerințe de înființare
-- **Minimum 5 membri activi** care împărtășesc aceeași viziune
+- **Minimum 10 membri activi** care împărtășesc aceeași viziune (maxim 25)
 - **Lider(i) cu experiență** - minim 16 ani, fără sancțiuni grave, reputație bună
 - **Nume ales cu grijă** - odată stabilit, nu se mai poate schimba; numele trebuie să fie **fictiv**, nu poate coincide cu nume reale de organizații criminale
 - **Ore jucate** - toți membrii recrutați în familie trebuie să aibă **minim 50 de ore jucate**
@@ -20,7 +20,7 @@ outline: deep
 ### Pașii concreți
 1. Formați nucleul - găsiți 3-4 persoane de încredere absolută
 2. Stabiliți identitatea - nume, culori orientative, stil
-3. Recrutați până la 5+ membri activi
+3. Recrutați până la 10+ membri activi
 4. Faceți-vă remarcați în oraș prin activitate și roleplay de calitate
 5. Dovediți-vă valoarea prin acțiuni, nu vorbe
 

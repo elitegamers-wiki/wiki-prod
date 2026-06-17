@@ -20,10 +20,6 @@ Acest ghid reprezintă cartea de căpătâi pentru orice grup de jucători care 
 
 ## Anatomia unei organizații criminale
 
-### Cele trei stadii ale evoluției
-
-<img src="../public/regulamente/piramida_puterii.png" alt="Piramida Puterii" style="display: block; margin: 20px auto; max-width: 100%; border-radius: 8px;">
-
 ### Filosofia organizației
 
 O familie IC nu este doar un grup de jucători care fac activități ilegale împreună. Este o **entitate vie** cu:
@@ -39,9 +35,9 @@ O familie IC nu este doar un grup de jucători care fac activități ilegale îm
 
 | Stadiu | Membri | Descriere |
 |--------|--------|-----------|
-| **Familie IC** | Min 5 activi | Grupare de stradă care își dovedește valoarea |
-| **Mafie Neoficială** | 10 - 25 | Organizație recunoscută cu teritorii și responsabilități |
-| **Mafie Oficială** | 20 - 40 | Elita lumii criminale, cu influență maximă |
+| **Familie IC** | Min 10 - Max 25 | Grupare de stradă care își dovedește valoarea |
+| **Mafie Neoficială** | 15 - 35 | Organizație recunoscută cu teritorii și responsabilități |
+| **Mafie Oficială** | 20 - 45 | Elita lumii criminale, cu influență maximă |
 
 ::: tip NAVIGARE
 - **[Familie IC](./familie-ic)** - Cum să înființezi și să dezvolți o familie

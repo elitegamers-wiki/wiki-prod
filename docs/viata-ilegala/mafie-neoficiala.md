@@ -26,7 +26,7 @@ Taxa de înființare a Mafiei Neoficiale este de **20.000.000 € bani curați**
 
 | Aspect | Familie IC | Mafie Neoficială |
 |--------|-----------|------------------|
-| **Membri** | Min 5 activi | Min 10 - Max 25 |
+| **Membri** | Min 10 - Max 25 | Min 15 - Max 35 |
 | **Culoare** | Neoficială | Atribuită de Sindicat |
 | **Taxe** | Nu pot colecta | Pot colecta în zone desemnate |
 | **Recunoaștere** | Limitată | Recunoscuți de alte mafii |
@@ -67,7 +67,7 @@ Mafie Oficială reprezintă **recunoașterea supremă** în lumea criminală. Es
 
 ### Privilegii
 
-- **Minimum 20 - Maximum 40 membri**
+- **Minimum 20 - Maximum 45 membri**
 - **Sediu Oficial** - teritoriu propriu, inviolabil
 - **Vehicule exclusive** - accesibile doar membrilor
 - **Influență maximă** în deciziile Sindicatului
