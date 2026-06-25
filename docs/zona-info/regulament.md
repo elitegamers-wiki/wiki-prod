@@ -729,6 +729,9 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 ### 8.2 DROP ROȘU
 - În perimetrul unui drop de culoare <span style="color: red;">**roșie**</span> este permisă jefuirea altor jucători, indiferent de zona în care a aterizat drop-ul.
 
+### 8.3 POLIȚIE
+- Poliția are dreptul să confiste itemele ilegale ale altor jucători în perimetrul unui airdrop **în orice moment**, indiferent de culoarea drop-ului (<span style="color: #FFD700;">**galben**</span> sau <span style="color: red;">**roșu**</span>).
+
 :::danger SANCTIUNE
 Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::
