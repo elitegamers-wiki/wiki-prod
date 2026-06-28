@@ -172,7 +172,7 @@ Admin Jail / Warn / Ban temporar
 :::
 
 #### 1.15.1 FRAUDAREA CK-ULUI/BAN-ULUI
-- Transferarea bunurilor (bani, vehicule, proprietăți sau orice alte obiecte) către alte persoane înainte de un Character Kill/BAN, cu scopul de a le păstra după CK/BAN, este strict <span style="color: red;">INTERZISĂ</span> și se consideră fraudare.
+- Transferarea bunurilor (bani, vehicule, proprietăți sau orice alte obiecte) către alte persoane înainte de un Character Kill/BAN, cu scopul de a le păstra după CK/BAN, este strict <span style="color: red;">INTERZISĂ</span> și se consideră fraudare. Este interzisă/sancționată și primirea bunurilor, ascunzând neregula.
 
 :::danger SANCTIUNE
 Ban permanent
