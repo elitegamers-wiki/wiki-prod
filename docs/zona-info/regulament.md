@@ -171,8 +171,8 @@ sau a acumulat un număr de 5 caziere.
 Admin Jail / Warn / Ban temporar
 :::
 
-#### 1.15.1 FRAUDAREA CK-ULUI
-- Transferarea bunurilor (bani, vehicule, proprietăți sau orice alte obiecte) către alte persoane înainte de un Character Kill, cu scopul de a le păstra după CK, este strict <span style="color: red;">INTERZISĂ</span> și se consideră fraudarea CK-ului.
+#### 1.15.1 FRAUDAREA CK-ULUI/BAN-ULUI
+- Transferarea bunurilor (bani, vehicule, proprietăți sau orice alte obiecte) către alte persoane înainte de un Character Kill/BAN, cu scopul de a le păstra după CK/BAN, este strict <span style="color: red;">INTERZISĂ</span> și se consideră fraudare.
 
 :::danger SANCTIUNE
 Ban permanent
