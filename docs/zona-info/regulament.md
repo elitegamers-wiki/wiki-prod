@@ -356,6 +356,21 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 Amendă / Sechestru IC de sindicat / Avertismente firmă
 :::
 
+### 1.30 FACȚIUNI — COOLDOWN ȘI CERINȚE DE ANGAJARE
+
+Facțiunile fac parte dintr-un **sistem comun de cooldown**, aplicat automat de server.
+
+**Cooldown la schimbarea grupării:**
+- Ai stat **30 de zile sau mai mult** în gruparea anterioară → cooldown de **7 zile**
+- Ai stat **sub 30 de zile** → cooldown de **14 zile**
+- Regulile se aplică indiferent dacă ți-ai dat demisia sau ai fost concediat
+- Nu poți fi simultan membru într-o facțiune și angajat la Poliție — trebuie să părăsești gruparea actuală înainte de a te alătura alteia
+
+**Ore minime jucate pentru angajarea într-o facțiune:**
+- **Familie IC** — minim **150 de ore**
+- **Mafie Neoficială** — minim **250 de ore**
+- **Mafie Oficială** — minim **500 de ore**
+
 # <center><span class="title-font">2. Regulament Out-of-Character (OOC)</span></center>
 
 ### 2.1 TIPURI DE SANCȚIUNI
