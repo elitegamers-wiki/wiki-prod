@@ -371,6 +371,11 @@ Facțiunile fac parte dintr-un **sistem comun de cooldown**, aplicat automat de 
 - **Mafie Neoficială** — minim **250 de ore**
 - **Mafie Oficială** — minim **500 de ore**
 
+**Limită de caziere pentru angajarea în Poliție și SMIR:**
+- Nu poți fi angajat în **Poliție** sau **SMIR** dacă ai mai mult de **25 de caziere** în ultimele **3 luni**.
+- În limită se numără și cazierele șterse contra cost — plata îți curăță cazierul vizibil, dar nu și istoricul.
+- Verificarea este aplicată automat de server la angajare; îți poți vedea oricând propria situație (caziere active, șterse și totalul) la NPC-ul de ștergere a cazierului.
+
 # <center><span class="title-font">2. Regulament Out-of-Character (OOC)</span></center>
 
 ### 2.1 TIPURI DE SANCȚIUNI
