@@ -768,7 +768,20 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 
 # <center><span class="title-font">9. Firme / Afaceri</span></center>
 
-### 9.1 ÎNCHIDEREA AFACERII
+### 9.1 DEȚINEREA AFACERILOR
+- Fiecare persoană poate deține maximum **două (2)** afaceri înregistrate pe numele său.
+
+### 9.2 LICITAȚII ȘI TRANSFER
+- Persoana care câștigă o afacere în urma unei licitații devine deținătorul de drept al acesteia.
+- Afacerea câștigată nu poate fi atribuită, transferată sau oferită unei alte persoane, în special în situația în care persoana care a participat la licitație deține deja maximum **două (2)** afaceri.
+- Afacerile dobândite în urma licitațiilor <span style="color: red;">NU</span> pot fi vândute sau transferate către alte persoane.
+- În cazul în care proprietarul dorește să renunțe la afacere, acesta este obligat să cedeze drepturile asupra afacerii către **Business Center**, fără a avea dreptul la restituirea sumei achitate pentru aceasta.
+
+### 9.3 STOC ȘI ADMINISTRARE
+- Proprietarul unei afaceri are obligația de a asigura un stoc constant și suficient pentru desfășurarea activității acesteia.
+- În cazul în care proprietarul nu asigură un stoc constant, **Business Center** își rezervă dreptul de a confisca/prelua afacerea și de a o scoate ulterior la licitație, fără obligația de a despăgubi fostul proprietar.
+
+### 9.4 ÎNCHIDEREA AFACERII
 - O afacere poate fi închisă dacă firma nu își îndeplinește atribuțiile și responsabilitățile, dacă se constată o lipsă de activitate prelungită sau dacă proprietarul părăsește serverul ori este banat.
 
 :::danger SANCTIUNE
