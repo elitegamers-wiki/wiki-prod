@@ -754,7 +754,7 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 
 ### 8.1 DROP GALBEN
 - În perimetrul unui drop de culoare <span style="color: #FFD700;">**galbenă**</span> este <span style="color: red;">INTERZIS</span> să jefuiți alți jucători.
-- Este <span style="color: red;">INTERZIS</span> să forțați mutarea/deplasarea altor jucători.
+- Este <span style="color: red;">INTERZIS</span> să forțați mutarea/deplasarea altor jucători. Cu exceptia celor care au luat iteme din airdrop, ei pot fi dusi la spitalul ilegal si jefuiti, insa nu mai pot fi omorati dupa.
 
 ### 8.2 DROP ROȘU
 - În perimetrul unui drop de culoare <span style="color: red;">**roșie**</span> este permisă jefuirea altor jucători, indiferent de zona în care a aterizat drop-ul.
