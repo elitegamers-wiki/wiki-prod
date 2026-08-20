@@ -787,3 +787,8 @@ Avertisment Verbal / Admin Jail / Warn / Ban temporar
 :::danger SANCTIUNE
 Închiderea afacerii
 :::
+
+# <center><span class="title-font">10. Sentinel</span></center>
+
+### 10.1 CERINȚE
+- De la momentul intrării în Sentinel, toate familiile trebuie să ne acorde temporar ownership-ul discordului mafiei unuia dintre fondatori, până la momentul desființării sau ieșirii din Sentinel.
