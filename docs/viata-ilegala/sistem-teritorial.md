@@ -39,33 +39,77 @@ Zonele de influență și stăpânii lor actuali sunt publice și pot fi consult
 Teritoriile nu sunt doar o convenție de RP - ele sunt un **sistem real, funcțional în joc**, gestionat prin **Tableta Sentinel**.
 
 ::: tip TABLETA SENTINEL
-Tableta este un obiect din inventar. Cu ea, șefii de facțiune văd harta teritoriilor, statutul fiecărei zone și pot **declara războaie**. Sindicatul folosește tot tableta pentru a administra întregul sistem.
+Tableta este un obiect din inventar. Cu ea, șefii de facțiune văd harta teritoriilor, statutul fiecărei zone, bonusurile active și pot **declara războaie**. Membrii facțiunii care deține o zonă își țin tot din tabletă **registrul taxelor de protecție**. Sindicatul folosește tot tableta pentru a administra întregul sistem.
 :::
 
 ### Teritoriile disponibile
 
-Orașul are **6 teritorii** care pot fi controlate. Fiecare aduce stăpânului **puncte de reputație** și un **bonus** specific.
+Orașul (și insula Cayo) are **8 teritorii** care pot fi controlate. Fiecare aduce stăpânului **puncte de reputație** și un **bonus (perk)** specific.
 
 | Teritoriu | Puncte reputație | Bonus pentru stăpân |
 |-----------|:---------------:|---------------------|
 | **Spălătorie** | 750 | Taxă redusă la spălarea banilor (10% în loc de 20%) |
-| **Grove Street** | 500 | +15% la livrările ilegale de cocaină |
-| **Sandy Shores** | 450 | +15% la livrările ilegale de heroină |
-| **Vespucci** | 400 | +15% la livrările ilegale de metamfetamină |
-| **Vinewood** | 300 | +15% la livrările ilegale de iarbă |
-| **Mirror Park & Amarillo** | 200 | +15% la livrările ilegale de LSD și țigări |
+| **Grove Street** | 500 | +10% la livrările ilegale de cocaină |
+| **Cayo Plantații** | 500 | 10% șansă de recoltă dublă (tutun, frunze de coca, muguri de iarbă) |
+| **Cayo Crafting** | 500 | 10% șansă de producție dublă (cocaină, iarbă, metamfetamină, țigări) |
+| **Sandy Shores** | 450 | +10% la livrările ilegale de heroină |
+| **Vespucci** | 400 | +10% la livrările ilegale de metamfetamină |
+| **Vinewood** | 300 | +10% la livrările ilegale de iarbă |
+| **Mirror Park & Amarillo** | 200 | +10% la livrările ilegale de LSD și țigări |
+
+### Tipurile de bonusuri
+
+**1. Bonus la livrări ilegale** *(Grove Street, Sandy Shores, Vespucci, Vinewood, Mirror Park & Amarillo)*
+- Recompensa livrării crește cu **+10%** pentru drogul aferent zonei.
+- Se **cumulează** cu bonusul de noapte.
+
+**2. Șansă de recoltă dublă** *(Cayo Plantații)*
+- La fiecare recoltare de tutun, frunze de coca sau muguri de iarbă ai **10% șansă** să primești **cantitate dublă**.
+
+**3. Șansă de producție dublă** *(Cayo Crafting)*
+- La fiecare craft de cocaină, iarbă, metamfetamină sau țigări ai **10% șansă** să primești **cantitate dublă**.
+
+**4. Taxă redusă la spălarea banilor** *(Spălătorie)*
+- Stăpânul zonei pierde doar **10%** din banii murdari spălați, în loc de **20%** cât plătesc toți ceilalți.
+
+::: info CUM SE APLICĂ BONUSURILE
+Bonusul se aplică **doar membrilor facțiunii** care stăpânește teritoriul, oriunde s-ar afla (nu trebuie să fii fizic în zonă). Dacă o facțiune deține mai multe teritorii cu bonus pe același produs, procentele **se adună**.
+:::
 
 ### Puncte de reputație
 
 Cât timp o facțiune **deține** un teritoriu, punctele acestuia se adaugă automat la scorul ei total din clasamentul Sindicatului. Cu cât controlezi mai multe zone (și mai valoroase), cu atât urci în ierarhia criminală a orașului.
 
-::: info BONUSUL DE CONTROL
-Bonusul se aplică **doar membrilor facțiunii** care stăpânește teritoriul. La livrările ilegale, bonusul de +15% se cumulează cu bonusul de noapte.
+### Taxa de protecție
+
+::: tip REGISTRUL TAXELOR
+Fiecare teritoriu (mai puțin Spălătoria) are un **preț de protecție pe zi**, stabilit de sistem. Banii se dau **în RP**, între jucători - tableta doar ține **evidența** cine a plătit, cât și pentru câte zile.
 :::
+
+| Teritoriu | Taxă pe zi |
+|-----------|:----------:|
+| **Grove Street** | 25.000 € |
+| **Sandy Shores** | 20.000 € |
+| **Vespucci** | 15.000 € |
+| **Vinewood** | 10.000 € |
+| **Cayo Plantații** | 10.000 € |
+| **Cayo Crafting** | 10.000 € |
+| **Mirror Park & Amarillo** | 5.000 € |
+
+- Perioadele care se pot înregistra: **1, 2, 3, 5 sau 7 zile**. Suma e calculată automat (taxă/zi × zile).
+- Orice membru al facțiunii care deține zona poate înregistra o plată - nu doar șeful.
+- Fiecare facțiune vede **doar** înregistrările proprii; Sindicatul le vede pe toate și este singurul care poate **șterge** înregistrări.
+- Tableta afișează statistici și clasamente pe perioade (1, 3, 7, 14, 21, 30 de zile).
 
 ### Culorile facțiunilor
 
-Sindicatul atribuie fiecărei facțiuni o **culoare** dintr-o paletă largă. Aceasta este culoarea cu care apar pe **harta mare** teritoriile stăpânite de facțiune. Zonele fără stăpân sunt afișate cu **gri/argintiu**.
+Sindicatul atribuie fiecărei facțiuni o **culoare** dintr-o paletă largă. Aceasta este culoarea cu care apar pe **harta mare** teritoriile stăpânite de facțiune. Zonele fără stăpân sunt afișate cu **argintiu**.
+
+### Regula echilibrului - Suzeranul hărții
+
+::: warning CINE DEȚINE PREA MULT
+Facțiunea care ajunge să dețină **cel puțin jumătate** din teritorii devine **suzeranul hărții**. La orice război normal în care este implicată (ca atacator sau ca apărător), facțiunea adversă are dreptul să cheme **o facțiune aliată**, aleasă de șeful ei, și să lupte **2 contra 1**. Suzeranul nu primește niciodată aliat.
+:::
 
 ### Cum se schimbă stăpânul unui teritoriu
 

@@ -212,6 +212,7 @@ export default defineConfig({
               { text: 'Miner', link: '/joburi/miner' },
               { text: 'Livrator Pizza', link: '/joburi/pizza' },
               { text: 'Electrician', link: '/joburi/electrician' },
+              { text: 'Vanator', link: '/joburi/vanator' },
             ]
           },
           {
