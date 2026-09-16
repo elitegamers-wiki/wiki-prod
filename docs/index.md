@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: 'EliteGamers Romania
-  Hard Roleplay'
+  IMERSIV Roleplay'
   text:  'Official Wikipedia'
   tagline: Bine ai venit pe Wiki-ul official al server-ului EliteGamers RolePlay!
   actions:

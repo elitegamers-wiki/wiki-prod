@@ -5,7 +5,7 @@ outline: deep
 
 # <center><span style="color: #cc2b2b;">Cum intru pe EliteGamers</span></center>
 
-### Pașii pentru a te conecta pe server-ul de FiveM ELITEGAMERS ROMANIA HARD ROLEPLAY:
+### Pașii pentru a te conecta pe server-ul de FiveM ELITEGAMERS ROMANIA IMERSIV Roleplay:
 
 ### 1. Instalează FiveM
 
@@ -17,15 +17,15 @@ outline: deep
 
 ### 2. În aplicația FiveM, accesează meniul „Play” din partea de sus.
 
-- În fereastra de căutare, scrie "ELITEGAMERS ROMANIA HARD ROLEPLAY".
+- În fereastra de căutare, scrie "ELITEGAMERS ROMANIA IMERSIV Roleplay".
 - Apasă pe butonul de căutare și așteaptă ca serverul să apară în lista de servere disponibile.
 - Selectează serverul și conectează-te
-- Odată ce serverul FiveM ELITEGAMERS ROMANIA HARD ROLEPLAY apare în listă, apasă pe el pentru a-l selecta.
+- Odată ce serverul FiveM ELITEGAMERS ROMANIA IMERSIV Roleplay apare în listă, apasă pe el pentru a-l selecta.
 - Apasă butonul „Connect” pentru a începe procesul de conectare la server.
 
 <img src="../public/important/cumintrupeserver.png" alt="pozaCumIntruPeServer" width="1920" height="1080" style="display: block; margin: 0px auto; border-radius: 1%; border-radius: 5%;">
 
-- Înainte de a începe să joci, asigură-te că citești regulile serverului ELITEGAMERS ROMANIA HARD ROLEPLAY. Acestea sunt esențiale pentru a te bucura de o experiență de roleplay plăcută și corectă alături de ceilalți jucători.
+- Înainte de a începe să joci, asigură-te că citești regulile serverului ELITEGAMERS ROMANIA IMERSIV Roleplay. Acestea sunt esențiale pentru a te bucura de o experiență de roleplay plăcută și corectă alături de ceilalți jucători.
 
 ###  3. SOLUTIE IMPOTRIVA CRASH-URILOR
 

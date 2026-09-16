@@ -6,7 +6,7 @@ outline: deep
 # <center>FAQ – Întrebări frecvente</center>
 
 ::: info
-**Această secțiune este dedicată întrebărilor frecvente adresate staff-ului sau curiozităților pe care jucătorii le au înainte de a începe experiența pe ELITEGAMERS ROMANIA HARD ROLEPLAY.**
+**Această secțiune este dedicată întrebărilor frecvente adresate staff-ului sau curiozităților pe care jucătorii le au înainte de a începe experiența pe ELITEGAMERS ROMANIA IMERSIV Roleplay.**
 :::
 
 ---
@@ -39,7 +39,7 @@ Roleplay-ul presupune respectarea unui set strict de [reguli](/zona-info/regulam
 ## Ce tip de roleplay promovează serverul?
 
 ::: danger
-Serverul funcționează pe un sistem de **<span style="color:red">Hard Roleplay</span>**, ceea ce înseamnă că toate acțiunile trebuie să fie **realiste și respectate la cel mai înalt nivel de seriozitate**.
+Serverul funcționează pe un sistem de **<span style="color:red">IMERSIV Roleplay</span>**, ceea ce înseamnă că toate acțiunile trebuie să fie **realiste și respectate la cel mai înalt nivel de seriozitate**.
 :::
 
 ---

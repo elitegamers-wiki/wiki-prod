@@ -21,7 +21,7 @@ Moneda **"EG Coins"** este utilizată pentru a achiziționa articole din:
 
 ## Ce poți achiziționa cu EG Coins?
 
-Pe **ELITEGAMERS.RO HARD ROLEPLAY** ai acces la:
+Pe **ELITEGAMERS.RO IMERSIV Roleplay** ai acces la:
 
 - Mașini premium din Dealership → [Vezi locația](../public/store/dealership.png)
 - VIP (Silver, Gold, Platinum)
