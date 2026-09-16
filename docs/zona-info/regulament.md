@@ -366,11 +366,6 @@ Facțiunile fac parte dintr-un **sistem comun de cooldown**, aplicat automat de 
 - Regulile se aplică indiferent dacă ți-ai dat demisia sau ai fost concediat
 - Nu poți fi simultan membru într-o facțiune și angajat la Poliție — trebuie să părăsești gruparea actuală înainte de a te alătura alteia
 
-**Ore minime jucate pentru angajarea într-o facțiune:**
-- **Familie IC** — minim **150 de ore**
-- **Mafie Neoficială** — minim **250 de ore**
-- **Mafie Oficială** — minim **500 de ore**
-
 **Limită de caziere pentru angajarea în Poliție și SMIR:**
 - Nu poți fi angajat în **Poliție** sau **SMIR** dacă ai mai mult de **25 de caziere** în ultimele **3 luni**.
 - În limită se numără și cazierele șterse contra cost — plata îți curăță cazierul vizibil, dar nu și istoricul.

@@ -2,44 +2,41 @@
 outline: deep
 ---
 
-# <center><span style="font-family: Conthrax; background: -webkit-linear-gradient(#8B0000, #2C0000); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">SISTEMUL TERITORIAL</span></center>
+# <center><span style="font-family: Conthrax; background: -webkit-linear-gradient(#8B0000, #2C0000); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">TERITORII & RĂZBOAIE</span></center>
 
-<center><i>Zonele de influență - Harta puterii</i></center>
+<center><i>Harta puterii și războaiele pentru controlul teritoriilor</i></center>
 
 ---
 
 ::: tip HARTA PUTERII
-Orașul este împărțit în **teritorii** (zone de influență), fiecare controlat de o Mafie Neoficială sau Oficială. Aceste zone reprezintă sursa principală de venit și putere pentru organizații.
+Orașul este împărțit în **teritorii**, fiecare controlat de o facțiune. Teritoriile reprezintă sursa principală de venit și putere pentru organizații.
 :::
 
-
-## Cum poți obține zone adiționale
+## Cum poți obține teritorii
 
 **1. Negociere și comerț**
-- Două mafii pot negocia **schimbul** de zone
-- Se pot cumpăra zone cu bani sau alte avantaje
-- Acordurile trebuie **raportate Sindicatului** pentru a fi recunoscute
-- Sindicatul poate refuza schimburi care dezechilibrează prea mult harta
+- Două mafii pot negocia **schimbul** de teritorii
+- Se pot cumpăra teritorii cu bani sau alte avantaje
 
-**2. Cumpărarea unei zone neutre**
-- Zonele neutre pot fi solicitate de la Sindicat
+**2. Cumpărarea unui teritoriu liber**
+- Teritoriile libere pot fi solicitate de la Sindicat
 - Se plătește o sumă stabilită de Sindicat
-- Dacă mai multe mafii vor aceeași zonă, se licitează sau se negociază
+- Dacă mai multe mafii vor același teritoriu, se licitează sau se negociază
 
 **3. Preluarea prin război teritorial**
 - Ultima opțiune când negocierile eșuează
-- Necesită aprobare și urmează un protocol strict
+- Șeful facțiunii declară războiul din **Tableta Sentinel** - vezi secțiunea **[Războiul teritorial](#razboiul-teritorial)**
 
 ## Harta teritoriilor
 
-Zonele de influență și stăpânii lor actuali sunt publice și pot fi consultate. Schimbările de stăpânire sunt anunțate oficial de Sindicat.
+Teritoriile și stăpânii lor actuali sunt publice și pot fi consultate. Schimbările de stăpânire sunt anunțate oficial de Sindicat.
 
 ## Sistemul în joc — Tableta Sentinel
 
 Teritoriile nu sunt doar o convenție de RP - ele sunt un **sistem real, funcțional în joc**, gestionat prin **Tableta Sentinel**.
 
 ::: tip TABLETA SENTINEL
-Tableta este un obiect din inventar. Cu ea, șefii de facțiune văd harta teritoriilor, statutul fiecărei zone, bonusurile active și pot **declara războaie**. Membrii facțiunii care deține o zonă își țin tot din tabletă **registrul taxelor de protecție**. Sindicatul folosește tot tableta pentru a administra întregul sistem.
+Tableta este un obiect din inventar. Cu ea, șefii de facțiune văd harta teritoriilor, statutul fiecărui teritoriu, bonusurile active și pot **declara războaie**. Membrii facțiunii care deține un teritoriu își țin tot din tabletă **registrul taxelor de protecție**. Sindicatul folosește tot tableta pentru a administra întregul sistem.
 :::
 
 ### Teritoriile disponibile
@@ -60,7 +57,7 @@ Orașul (și insula Cayo) are **8 teritorii** care pot fi controlate. Fiecare ad
 ### Tipurile de bonusuri
 
 **1. Bonus la livrări ilegale** *(Grove Street, Sandy Shores, Vespucci, Vinewood, Mirror Park & Amarillo)*
-- Recompensa livrării crește cu **+10%** pentru drogul aferent zonei.
+- Recompensa livrării crește cu **+10%** pentru drogul aferent teritoriului.
 - Se **cumulează** cu bonusul de noapte.
 
 **2. Șansă de recoltă dublă** *(Cayo Plantații)*
@@ -70,15 +67,15 @@ Orașul (și insula Cayo) are **8 teritorii** care pot fi controlate. Fiecare ad
 - La fiecare craft de cocaină, iarbă, metamfetamină sau țigări ai **10% șansă** să primești **cantitate dublă**.
 
 **4. Taxă redusă la spălarea banilor** *(Spălătorie)*
-- Stăpânul zonei pierde doar **10%** din banii murdari spălați, în loc de **20%** cât plătesc toți ceilalți.
+- Stăpânul teritoriului pierde doar **10%** din banii murdari spălați, în loc de **20%** cât plătesc toți ceilalți.
 
 ::: info CUM SE APLICĂ BONUSURILE
-Bonusul se aplică **doar membrilor facțiunii** care stăpânește teritoriul, oriunde s-ar afla (nu trebuie să fii fizic în zonă). Dacă o facțiune deține mai multe teritorii cu bonus pe același produs, procentele **se adună**.
+Bonusul se aplică **doar membrilor facțiunii** care stăpânește teritoriul, oriunde s-ar afla (nu trebuie să fii fizic pe teritoriu). Dacă o facțiune deține mai multe teritorii cu bonus pe același produs, procentele **se adună**.
 :::
 
 ### Puncte de reputație
 
-Cât timp o facțiune **deține** un teritoriu, punctele acestuia se adaugă automat la scorul ei total din clasamentul Sindicatului. Cu cât controlezi mai multe zone (și mai valoroase), cu atât urci în ierarhia criminală a orașului.
+Cât timp o facțiune **deține** un teritoriu, punctele acestuia se adaugă automat la scorul ei total din clasamentul Sindicatului. Cu cât controlezi mai multe teritorii (și mai valoroase), cu atât urci în ierarhia criminală a orașului.
 
 ### Taxa de protecție
 
@@ -97,29 +94,71 @@ Fiecare teritoriu (mai puțin Spălătoria) are un **preț de protecție pe zi**
 | **Mirror Park & Amarillo** | 5.000 € |
 
 - Perioadele care se pot înregistra: **1, 2, 3, 5 sau 7 zile**. Suma e calculată automat (taxă/zi × zile).
-- Orice membru al facțiunii care deține zona poate înregistra o plată - nu doar șeful.
+- Orice membru al facțiunii care deține teritoriul poate înregistra o plată - nu doar șeful.
 - Fiecare facțiune vede **doar** înregistrările proprii; Sindicatul le vede pe toate și este singurul care poate **șterge** înregistrări.
 - Tableta afișează statistici și clasamente pe perioade (1, 3, 7, 14, 21, 30 de zile).
 
 ### Culorile facțiunilor
 
-Sindicatul atribuie fiecărei facțiuni o **culoare** dintr-o paletă largă. Aceasta este culoarea cu care apar pe **harta mare** teritoriile stăpânite de facțiune. Zonele fără stăpân sunt afișate cu **argintiu**.
-
-### Regula echilibrului - Suzeranul hărții
-
-::: warning CINE DEȚINE PREA MULT
-Facțiunea care ajunge să dețină **cel puțin jumătate** din teritorii devine **suzeranul hărții**. La orice război normal în care este implicată (ca atacator sau ca apărător), facțiunea adversă are dreptul să cheme **o facțiune aliată**, aleasă de șeful ei, și să lupte **2 contra 1**. Suzeranul nu primește niciodată aliat.
-:::
+Sindicatul atribuie fiecărei facțiuni o **culoare** dintr-o paletă largă. Aceasta este culoarea cu care apar pe **harta mare** teritoriile stăpânite de facțiune. Teritoriile fără stăpân sunt afișate cu **argintiu**.
 
 ### Cum se schimbă stăpânul unui teritoriu
 
 - **Atribuire directă** - Sindicatul poate da un teritoriu liber unei facțiuni, fără război.
-- **Război teritorial** - o facțiune declară război pentru a cuceri zona. Detalii complete pe pagina **[Războaie](/viata-ilegala/razboaie#razboi-teritorial)**.
+- **Război teritorial** - o facțiune declară război pentru a cuceri teritoriul.
 
-::: warning PROTECȚIE DUPĂ RĂZBOI
-După încheierea unui război, teritoriul intră într-o perioadă de **protecție de 5 zile**. În acest timp, nicio facțiune nu poate declara un nou război pentru acea zonă.
+---
+
+## Războiul teritorial
+
+Războiul teritorial este un conflict armat pentru controlul unui **teritoriu**. Este un **sistem complet automat**, gestionat prin **Tableta Sentinel**: serverul se ocupă de programare, lotul de luptători, eliminări, stabilirea câștigătorului și plăți.
+
+::: info REGULAMENT
+Regulile complete (declarare, programare, pregătire, eliminare, suzeranul hărții, războaie de alianță, schimbul de teritorii, intervenția Sindicatului) se găsesc în **[Regulamentul Mafiilor](/zona-info/regulament-mafii)**, secțiunea 4.
 :::
 
-::: info CONFLICTE TERITORIALE
-Pentru procedura completă de război pentru zone, consultați pagina **[Războaie](/viata-ilegala/razboaie#razboi-teritorial)**.
+### 1. Declararea și programarea
+
+Șeful facțiunii atacatoare declară războiul din tabletă, iar garanția de **2.500.000€** (bani murdari) se reține din seiful familiei sau, dacă nu ajunge, din inventarul șefului. Sistemul propune **3 zile**, iar șeful apărătorului alege ziua și ora bătăliei.
+
+### 2. Faza de pregătire (10 minute)
+
+Înainte de luptă, cele două tabere se adună în **zone de așteptare** separate (Echipa A - atacatorii, Echipa B - apărătorii). La final, doar cei aflați în zonă intră în luptă.
+
+### 3. Lupta (maxim 60 de minute)
+
+Toți luptătorii sunt mutați în **cercul de război** (zona de luptă din jurul teritoriului).
+
+**Cum ești eliminat:**
+- Primești o **lovitură fatală** (cap/gât). Dacă doar cazi, poți primi revive și te poți întoarce în luptă.
+- Te **deconectezi**.
+- Ieși din cerc și nu te întorci în **10 secunde**.
+
+**Cum se câștigă:**
+- Tabăra care **elimină toți adversarii** câștigă imediat.
+- Dacă timpul de 60 de minute se scurge, câștigă tabăra cu **cei mai mulți jucători încă în viață**.
+- La egalitate, **apărătorul păstrează** teritoriul.
+
+Pe ecran ai un **HUD** cu numele echipelor, câți luptători mai sunt în viață de fiecare parte și cronometrul rămas.
+
+### 4. Consecințe
+
+**Dacă atacatorul câștigă:**
+- Preia controlul teritoriului (și punctele de reputație + bonusul aferent).
+- Primește garanția de **2.500.000€** ca premiu.
+
+**Dacă apărătorul câștigă:**
+- Își păstrează teritoriul.
+- Primește garanția de **2.500.000€** drept despăgubire.
+
+::: warning ATENȚIE LA PLATĂ
+Premiul se plătește automat membrului **cu cel mai mare grad aflat online** din facțiunea câștigătoare. Asigurați-vă că cineva din familie este online la finalul războiului.
 :::
+
+### Intervenția Sindicatului în războaie
+
+Sindicatul gestionează întregul sistem și poate:
+- **Anula** un război în orice moment (garanția se returnează atacatorului).
+- Declara **războaie de alianță** împotriva celui care deține un teritoriu.
+- Atribui sau retrage teritorii direct, fără război.
+- Stabili culorile facțiunilor pe hartă.

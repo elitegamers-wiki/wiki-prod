@@ -12,14 +12,10 @@ outline: deep
 
 ### Tranziția
 
-Trecerea de la Familie IC la Mafie Neoficială se face la decizia **Membrilor Sindicat**, bazată pe recomandările mafiilor neoficiale existente și prin **îndeplinirea unor taskuri speciale**. Nu este un drept, ci un **privilegiu câștigat**.
+Trecerea de la Familie IC la Mafie Neoficială nu este un drept, ci un **privilegiu câștigat**.
 
-::: tip CERINȚĂ PENTRU LIDER
-Liderul trebuie să dețină o **casă mare plătită cu EG Coins**. Aceasta demonstrează angajamentul și seriozitatea organizației.
-:::
-
-::: danger TAXA DE ÎNFIINȚARE
-Taxa de înființare a Mafiei Neoficiale este de **20.000.000 € bani curați**, care vor fi predați Sindicatului **înainte de ceremonia oficială de investire**.
+::: info REGULAMENT
+Condițiile de tranziție, cerințele pentru lider și taxa de înființare se găsesc în **[Regulamentul Mafiilor](/zona-info/regulament-mafii)**, secțiunea 1.
 :::
 
 ### Ce se schimbă
@@ -30,7 +26,7 @@ Taxa de înființare a Mafiei Neoficiale este de **20.000.000 € bani curați**
 | **Culoare** | Neoficială | Atribuită de Sindicat |
 | **Taxe** | Nu pot colecta | Pot colecta în zone desemnate |
 | **Recunoaștere** | Limitată | Recunoscuți de alte mafii |
-| **Responsabilitate** | Personală | Colectivă (amenzi, MW) |
+| **Responsabilitate** | Personală | Colectivă (amenzi<!--, MW-->) |
 | **Monitorizare** | Sunt monitorizați | Monitorizează familiile IC |
 | **Armament** | Nu pot fabrica | Fabricare de armament și muniție |
 | **Pachet medical** | Nu au acces | Acces la pachet medical |
@@ -40,7 +36,7 @@ Taxa de înființare a Mafiei Neoficiale este de **20.000.000 € bani curați**
 ### Responsabilitatea față de familiile IC
 
 Mafiile Neoficiale au obligația de a:
-- **Monitoriza** familiile IC din zona lor de influență
+- **Monitoriza** familiile IC de pe teritoriile lor
 - **Evalua** calitatea roleplay-ului și potențialul acestora
 - **Mentora** grupările promițătoare
 - **Raporta** Sindicatului despre evoluția familiilor
@@ -48,14 +44,7 @@ Mafiile Neoficiale au obligația de a:
 
 ### Conducerea și succesiunea
 
-::: warning REGULA SUCCESIUNII
-Dacă liderul unei mafii părăsește familia, organizația **nu se închide automat**. Cu **aprobarea Sindicatului**, un succesor poate prelua conducerea și familia poate continua să existe.
-:::
-
-Condiții pentru continuare:
-- Succesorul trebuie să îndeplinească cerințele de lider
-- Sindicatul trebuie să aprobe tranziția
-- Familia trebuie să mențină numărul minim de membri activi
+Regulile de succesiune în cazul plecării liderului se găsesc în **[Regulamentul Mafiilor](/zona-info/regulament-mafii)**, secțiunea 1.5.
 
 ---
 
@@ -67,7 +56,6 @@ Mafie Oficială reprezintă **recunoașterea supremă** în lumea criminală. Es
 
 ### Privilegii
 
-- **Minimum 20 - Maximum 45 membri**
 - **Sediu Oficial** - teritoriu propriu, inviolabil
 - **Vehicule exclusive** - accesibile doar membrilor
 - **Influență maximă** în deciziile Sindicatului
@@ -82,34 +70,37 @@ Cu puterea mare vin și responsabilități pe măsură:
 
 ---
 
-## Sistemul de sancțiuni
+## Operațiuni speciale - Răpirea membrilor de rang înalt
 
-### Mafia Warn (MW)
-
-Un sistem de avertismente colective care responsabilizează întreaga organizație:
-
-| Situație | Sancțiune |
-|----------|-----------|
-| Va urma| 1 MW |
-
-
-::: danger CONSECINȚE
-- **3 MW acumulate** = Închiderea facțiunii
-- MW expiră la **X de zile**
+::: warning MISIUNE DE ELITĂ: CAPTURAREA PROTEJATULUI
+Această operațiune reprezintă una dintre cele mai riscante și profitabile acțiuni pe care o familie le poate întreprinde. Generează roleplay intens, cu tensiune, strategie și consecințe reale.
 :::
 
-### Sistemul de amenzi colective - Cazierele
-
-::: tip REGULA CAZIERELOR
-Când membrii unei familii însumează **10 caziere**, familia respectivă trebuie să plătească o **amendă către Sindicat**.
+::: info REGULAMENT
+Țintele valide, intervalul orar, numărul de participanți, condițiile de reușită, răscumpărarea și Codul Roșu se găsesc în **[Regulamentul Mafiilor](/zona-info/regulament-mafii)**, secțiunea 5.
 :::
 
-Această regulă încurajează:
-- **Auto-disciplina** - membrii se supraveghează reciproc
-- **Selectivitatea** - recrutarea atentă a membrilor
-- **Responsabilitatea colectivă** - greșelile individuale afectează pe toți
+### Pregătirea
+1. Planificați operațiunea cu atenție - fără improvizații
+2. Asigurați-vă că aveți un loc sigur pentru reținere
+3. Pregătiți echipa conform limitelor de participanți
 
-**Calculul amenzii:**
-- Amenda se calculează în funcție de stadiul familiei și de gravitatea cazierelor
-- Sindicatul stabilește suma exactă
-- Neplata duce la sancțiuni adiționale
+### Execuția
+1. Capturați ținta folosind tactici de roleplay elaborate
+2. Transportați-o la locația sigură
+3. Anunțați capturarea prin canalele potrivite
+4. Începe cronometrul de **1 oră**
+
+### Negocierile cu familia unui lider răpit
+- Negocierile se poartă cu familia țintei
+- Suma poate fi mai mare sau mai mică, în funcție de relațiile existente
+- Se pot negocia și alte avantaje pe lângă bani
+
+### Codul Roșu - Protocolul de urgență
+
+Când un membru de rang înalt este răpit:
+
+1. **Alertă imediată** - se anunță toate forțele disponibile
+2. **Mobilizare totală** - toți membrii disponibili trebuie să răspundă
+3. **Coordonare rapidă** - se stabilește planul de salvare
+4. **Execuție precisă** - timpul este esențial

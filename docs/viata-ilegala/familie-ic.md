@@ -11,11 +11,11 @@ outline: deep
 ## Momentul zero - Nașterea
 
 ### Cerințe de înființare
-- **Minimum 10 membri activi** care împărtășesc aceeași viziune (maxim 25)
-- **Lider(i) cu experiență** - minim 16 ani, fără sancțiuni grave, reputație bună
-- **Nume ales cu grijă** - odată stabilit, nu se mai poate schimba; numele trebuie să fie **fictiv**, nu poate coincide cu nume reale de organizații criminale
-- **Ore jucate** - toți membrii recrutați în familie trebuie să aibă **minim 50 de ore jucate**
 - **Poveste de fundal** - de unde vin membrii, ce îi unește, care e scopul
+
+::: info REGULAMENT
+Cerințele obligatorii (număr de membri, lider, nume, ore jucate) se găsesc în **[Regulamentul Mafiilor](/zona-info/regulament-mafii)**, secțiunea 1.
+:::
 
 ### Pașii concreți
 1. Formați nucleul - găsiți 3-4 persoane de încredere absolută
@@ -42,7 +42,7 @@ outline: deep
 - **Reputația** - cum sunt percepuți de ceilalți jucători
 
 ### Monitorizarea de către mafiile neoficiale
-Familiile IC sunt observate și evaluate de **Mafiile Neoficiale** din zona lor de influență. Acestea au responsabilitatea de a:
+Familiile IC sunt observate și evaluate de **Mafiile Neoficiale** de pe teritoriile lor. Acestea au responsabilitatea de a:
 - Identifica familiile IC promițătoare
 - Evalua potențialul și calitatea roleplay-ului
 - Raporta Sindicatului despre progresul familiilor
@@ -58,7 +58,7 @@ O familie IC poate achiziționa o **afacere legală** prin **Elite Business Cent
 
 ### Cum funcționează
 
-O familie IC nu poate cumpăra singură o afacere legală. Pentru aceasta, are nevoie de o **recomandare oficială** din partea unei **Mafii Neoficiale** care deține sferă de influență în zona în care familia IC activează.
+O familie IC nu poate cumpăra singură o afacere legală - are nevoie de o recomandare din partea unei Mafii Neoficiale. Regulile complete se găsesc în **[Regulamentul Mafiilor](/zona-info/regulament-mafii)**, secțiunea 6.
 
 <img src="../public/regulamente/procesul_de_sponsorizare.png" alt="Procesul de Sponsorizare" style="display: block; margin: 20px auto; max-width: 100%; border-radius: 8px;">
 
@@ -69,7 +69,7 @@ O familie IC nu poate cumpăra singură o afacere legală. Pentru aceasta, are n
 | **Reputație** | Familia IC trebuie să aibă o imagine curată, fără scandaluri majore |
 | **Activitate** | Prezență constantă și roleplay de calitate demonstrat |
 | **Relație cu mafia sponsor** | Trebuie să fi colaborat anterior cu mafia neoficială |
-| **Zonă de activitate** | Afacerea trebuie să fie în zona de influență a mafiei sponsor |
+| **Zonă de activitate** | Afacerea trebuie să fie pe un teritoriu al mafiei sponsor |
 | **Plan de afaceri** | Trebuie prezentată o viziune clară a modului în care va fi folosită afacerea |
 
 ### Tipuri de afaceri potrivite ca paravan
@@ -97,69 +97,6 @@ O familie IC nu poate cumpăra singură o afacere legală. Pentru aceasta, are n
 - **Ochi și urechi** - informații despre ce se întâmplă în zonă
 - **Rețea de contacte** - acces la potențiali recruți și aliați
 
-### Obligații după obținerea afacerii
+### Obligații și pierderea privilegiului
 
-::: warning RESPONSABILITĂȚI
-1. **Menținerea aparențelor** - afacerea trebuie să funcționeze legitim
-2. **Raportare** - mafia sponsor trebuie informată despre activități
-3. **Loialitate** - nu poți sponsoriza sau ajuta rivali ai mafiei sponsor
-4. **Discreție** - recrutarea se face subtil, nu agresiv
-5. **Taxa de protecție** - opțională cu consecințe, plătită la fiecare 2 săptămâni mafiei teritoriale
-:::
-
-
-### Pierderea privilegiului
-
-Sponsorizarea poate fi retrasă dacă:
-- Familia IC trădează încrederea mafiei sponsor
-- Afacerea este folosită împotriva intereselor sponsorului
-- Scandaluri majore care atrag atenția nedorită
-- Familia IC primește sancțiuni grave (MW sau ban membri)
-
-În acest caz, afacerea poate fi **confiscată** sau **vândută forțat**, iar familia IC pierde dreptul de a solicita o nouă sponsorizare pentru o perioadă determinată de Sindicat.
-
-
-### Taxa de protecție teritorială
-
-::: danger OBLIGAȚIE FINANCIARĂ
-Orice familie IC care deține o afacere legală trebuie să plătească o **taxă de protecție la fiecare 2 săptămâni** către **Mafia Neoficială care controlează zona fizică** în care se află afacerea.
-:::
-
-**Important de înțeles:**
-- Taxa se plătește **exclusiv** mafiei care **controlează teritoriul**
-- Suma taxei se stabileste cu sindicatul de catre mafia neoficiala, dar trebuie să fie rezonabilă
-- Neplata taxei = consecințe severe (sicanari, violenta, ostilitate din partea mafiei teritoriale, etc)
-
-**Ce se întâmplă când zona își schimbă detinatorul:**
-- Dacă o altă mafie preia controlul zonei, familia IC trebuie să plătească noului detinator
-- Dacă familia IC a plătit deja taxă de protectie fostei mafii este scutită pană la următorul termen de achitare a taxei.
-
-### Relația de asociere prin taxa de protecție
-
-::: tip MAI MULT DECÂT O TAXĂ
-Plata taxei de protecție nu este o simplă tranzacție financiară. Ea marchează începutul unei **relații de asociere/alianță** între familia IC și mafia neoficială/oficială care controlează zona. Această relație este construită pe **respect, colaborare și înțelegere reciprocă**.
-:::
-
-**Ce presupune această asociere:**
-
-- **Respect reciproc** - familia IC respectă autoritatea mafiei teritoriale, iar mafia tratează familia IC ca pe un partener, nu ca pe un subordonat
-- **Colaborare activă** - cele două părți pot coopera în operațiuni, schimburi de informații și acțiuni comune atunci când interesele converg
-- **Înțelegere mutuală** - ambele părți recunosc beneficiile relației și își asumă obligațiile ce decurg din ea
-- **Protecție reală** - mafia teritorială oferă protecție efectivă familiei IC în zona sa, nu doar pe hârtie
-- **Canal de comunicare deschis** - problemele se discută înainte să escaladeze, într-un spirit de parteneriat
-
-**Beneficiile asocierii pentru familia IC:**
-- **Siguranță în zonă** - mafia teritorială intervine dacă cineva vă deranjează operațiunile
-- **Acces la resurse** - posibilitatea de a solicita sprijin logistic sau uman în situații dificile
-- **Reputație prin asociere** - a fi aliatul unei mafii puternice vă oferă credibilitate
-- **Informații valoroase** - mafia teritorială poate oferi informații despre mișcările din zonă
-
-**Beneficiile asocierii pentru mafia teritorială:**
-- **Venit constant** - taxa de protecție aduce un flux financiar stabil
-- **Prezență extinsă** - familia IC acționează ca ochi și urechi în zonă
-- **Forță suplimentară** - un aliat de încredere în caz de conflict
-- **Stabilitate** - o zonă cu afaceri prospere și familii loiale este o zonă puternică
-
-::: warning RELAȚIE, NU SUPUNERE
-Această asociere nu transformă familia IC în subordonați sau slugi ale mafiei teritoriale. Este un **parteneriat bazat pe interese comune**, în care fiecare parte aduce ceva la masă. Mafia oferă protecție și stabilitate, familia IC oferă loialitate și resurse. Abuzul din partea oricărei părți poate deteriora relația și poate atrage atenția Sindicatului.
-:::
+Obligațiile familiei după obținerea afacerii și situațiile în care sponsorizarea poate fi retrasă se găsesc în **[Regulamentul Mafiilor](/zona-info/regulament-mafii)**, secțiunea 6.
