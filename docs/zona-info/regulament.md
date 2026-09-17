@@ -557,6 +557,7 @@ efectua streaming pe serverul Elitegamers.
 - Este <span style="color: red;">interzis</span> să jefuiți/campați persoane la locațiile joburilor/activităților legale/ilegale excepție făcând zona de plantații de pe Cayo perico unde jaful/camp-ul asupra persoanelor este permis!
 - Este <span style="color: red;">interzis</span> să inițiați jefuirea persoanelor aflate în timpul desfășurării unui job legal, polițiști sau cadre medicale aflate on-duty.
 - În timpul unui jaf puteți deposeda o persoană de toate bunurile aflate în inventar, precum și din vehiculul pe care il conduce cu excepția **documentelor** și a **cheilor de la vehicul**.
+- Jefuitorii au voie să fure doar **jumătate** din bunurile victimei, excepție făcând **armele** care pot fi luate în totalitate.
 - Este permisă jefuirea minimală a unui ostatic civil/polițist/medic (în mod roleplay se pot lua doar obiectele care pot incrimina răpitorul, telefon, camera de luat vederi, microfoane ascunse). Această acțiune poate avea loc doar în urma unui roleplay care presupune inițial o negociere eșuată/fuga de poliție.
 - Nu aveți voie să obligați o persoană să scoată bani din bancă pentru a o jefui.
 - Nu aveți voie să obligați o persoană să scoată altă mașină din garaj pentru a o jefui.

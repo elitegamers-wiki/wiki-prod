@@ -171,6 +171,10 @@ Amendă către Sindicat
 - Acordurile de schimb sau cumpărare de zone între mafii trebuie **raportate Sindicatului** pentru a fi recunoscute.
 - Sindicatul poate refuza schimburile care dezechilibrează prea mult harta.
 
+### 4.11 OBLIGAȚIILE DEȚINĂTORILOR DE TERITORII
+- Familiile care dețin teritorii ilegale au datoria de a **proteja oamenii care livrează** și de a **colecta taxele de livrare**.
+- Obligația de a păzi teritoriile ilegale și de a proteja oamenii care livrează se menține în intervalul orar **20:00 - 02:00** în Los Santos și **18:00 - 00:00** pe insula Cayo Perico.
+
 # <center><span class="title-font">5. Rapirea membrilor de rang inalt</span></center>
 
 ### 5.1 ȚINTE VALIDE
