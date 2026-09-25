@@ -50,7 +50,7 @@ outline: deep
 - Recompensa este exclusiv în <strong>bani murdari</strong> (dirty money).<br>
 - Ai nevoie de:<br>
 <ul>
-  <li><strong>O bormașină</strong>, pe care o poți cumpăra de la Homedepot (<strong>€800</strong>, reutilizabilă).</li>
+  <li><strong>O bormașină</strong>, pe care o poți cumpăra de la Homedepot (<strong>€800</strong>).</li>
   <li>Ai nevoie de <strong>10 ore jucate pe server</strong>.</li>
   <li>Nu poți fi polițist sau medic.</li>
 </ul>
@@ -80,7 +80,7 @@ outline: deep
 <div class="eg-jaf-atm">
 <table>
 <tr><td>
-- Achiziționează bormașina de la Homedepot (<strong>€800</strong>). Este reutilizabilă, nu se consumă.<br>
+- Achiziționează bormașina de la Homedepot (<strong>€800</strong>).<br>
 - Caută un ATM <strong>izolat</strong> – locațiile pot fi variate, așa că alege cu cap.<br>
 - Asigură-te că ești pregătit să acționezi rapid – odată ce începi, nu mai e cale de întoarcere.
 </td></tr>
@@ -154,11 +154,10 @@ Nu există VIP job boost pentru această activitate.
 <table>
 <tr><td>
 
-| Item | Preț | Magazin | Note |
-|------|:----:|---------|------|
-| Bormașină | €800 | Homedepot | Reutilizabilă, nu se consumă |
+| Item | Preț | Magazin |
+|------|:----:|---------|
+| Bormașină | €800 | Homedepot |
 
-Bormașina se amortizează după primul jaf reușit (€5.250 medie vs €800 cost).
 </td></tr>
 </table>
 </div>
