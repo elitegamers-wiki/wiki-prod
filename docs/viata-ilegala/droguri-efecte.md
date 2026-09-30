@@ -77,9 +77,9 @@ Heroina este drogul preferat al luptătorilor - cine pune mâna pe armă imediat
 
 Adrenalina nu este un drog recreativ, ci un **boost de luptă/recuperare**:
 
-- **Vindecare:** **+50 HP** recuperați progresiv pe parcursul a 30 de secunde.
-- **Sprint:** viteză de sprint mărită timp de 30 de secunde.
-- **Anti-rănire:** suprimă efectele rănilor (picior rupt, tuse) timp de **50 de secunde**.
+- **Vindecare:** **+75 HP** recuperați progresiv pe parcursul a **10 minute**.
+- **Sprint:** viteză de sprint mărită timp de **10 minute**.
+- **Anti-rănire:** suprimă efectele rănilor (picior rupt, tuse) timp de **10 minute**.
 
 Foarte utilă în mijlocul unei confruntări sau imediat după.
 
