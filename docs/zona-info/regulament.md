@@ -491,7 +491,7 @@ incidentului, altfel nu vor mai fi luate în considerare.
 
 #### 2.9.1 ÎNREGISTRAREA CONFLICTELOR
 - La orice conflict armat aveți obligația să dețineți o înregistrare video-audio de minim **720p/30fps**. Este o regulă extrem de utilă, care permite rezolvarea ticketelor mult mai rapid și înlătură orice suspiciune.
-- În cazul bătăilor organizate de sindicat și al războaielor pentru teritorii **Sentinel**, este obligatoriu ca toți membrii familiilor participante să dețină filmare. Dacă ulterior se constată că un jucător nu a avut filmare, acesta va fi sancționat, iar familia respectivă va pierde teritoriul chiar dacă a câștigat.
+- În cazul bătăilor organizate de sindicat și al războaielor pentru teritorii **Sentinel**, este obligatoriu ca toți membrii familiilor participante să dețină filmare. Dacă ulterior se constată că un jucător nu a avut filmare, acesta va fi sancționat.
 
 :::danger SANCTIUNE
 Ban temporar / Ban permanent
